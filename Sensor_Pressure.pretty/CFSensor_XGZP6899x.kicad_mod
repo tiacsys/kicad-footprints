@@ -1,4 +1,4 @@
-(footprint "CFSensor_XGZP6899D" (version 20221018) (generator pcbnew)
+(footprint "CFSensor_XGZP6899x" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "Port External Dia 3mm, Port Internal Dia 1mm, 8 Pin (https://cfsensor.com/wp-content/uploads/2022/11/XGZP6899D-Pressure-Sensor-V2.8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py, hand modified")
   (tags "sop sensor")
@@ -7,7 +7,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp fb1d97cb-01ed-4dc1-8368-d6262505ec5c)
   )
-  (fp_text value "CFSensor_XGZP6899D" (at 0 9) (layer "F.Fab")
+  (fp_text value "CFSensor_XGZP6899x" (at 0 9) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 967f42a1-25d2-42eb-92a4-5e15eb09f062)
   )
@@ -87,7 +87,7 @@
   (pad "6" smd roundrect (at 8.2 1.27) (size 2.4 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.185185) (tstamp bf8dd5dd-8ade-4511-a4db-f070052c7a27))
   (pad "7" smd roundrect (at 8.2 -1.27) (size 2.4 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.185185) (tstamp 4c502a2a-8c64-4076-962e-93298571e1b3))
   (pad "8" smd roundrect (at 8.2 -3.81) (size 2.4 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.185185) (tstamp 02141078-35a2-4392-8848-d7d2e91bc6de))
-  (model "${KICAD7_3DMODEL_DIR}/Sensor_Pressure.3dshapes/CFSensor_XGZP6899D.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Sensor_Pressure.3dshapes/CFSensor_XGZP6899x.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
