@@ -1,35 +1,241 @@
-(module L_Changjiang_FNR5030S (layer F.Cu) (tedit 63E7CCCC)
-  (descr "Inductor, Changjiang, FNR5030S, 5.0x5.0x3.0mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf")
-  (tags "Inductor wirewound power shielded")
-  (attr smd)
-  (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value L_Changjiang_FNR5030S (at 0 3.5) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_line (start -2.76 -2.76) (end 2.76 -2.76) (layer F.SilkS) (width 0.12))
-  (fp_line (start -2.76 2.76) (end 2.76 2.76) (layer F.SilkS) (width 0.12))
-  (fp_line (start -2.76 -2.76) (end -2.76 -2.36) (layer F.SilkS) (width 0.12))
-  (fp_line (start 2.76 -2.76) (end 2.76 -2.36) (layer F.SilkS) (width 0.12))
-  (fp_line (start -2.76 2.76) (end -2.76 2.36) (layer F.SilkS) (width 0.12))
-  (fp_line (start 2.76 2.76) (end 2.76 2.36) (layer F.SilkS) (width 0.12))
-  (fp_line (start -2.5 -2.5) (end -2.5 2.5) (layer F.Fab) (width 0.1))
-  (fp_line (start -2.5 2.5) (end 2.5 2.5) (layer F.Fab) (width 0.1))
-  (fp_line (start 2.5 2.5) (end 2.5 -2.5) (layer F.Fab) (width 0.1))
-  (fp_line (start 2.5 -2.5) (end -2.5 -2.5) (layer F.Fab) (width 0.1))
-  (fp_line (start -2.8 -2.75) (end -2.8 2.75) (layer F.CrtYd) (width 0.05))
-  (fp_line (start -2.8 2.75) (end 2.8 2.75) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 2.8 2.75) (end 2.8 -2.75) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 2.8 -2.75) (end -2.8 -2.75) (layer F.CrtYd) (width 0.05))
-  (pad 1 smd rect (at -1.85 0) (size 1.4 4.2) (layers F.Cu F.Mask F.Paste))
-  (pad 2 smd rect (at 1.85 0) (size 1.4 4.2) (layers F.Cu F.Mask F.Paste))
-  (fp_text user ${REFERENCE} (at 0 0) (layer F.Fab)
-    (effects (font (size 0.5 0.5) (thickness 0.075)))
-  )
-  (model ${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Changjiang_FNR5030S.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
+(footprint "L_Changjiang_FNR5030S"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Inductor, Changjiang, FNR5030S, 5.0x5.0x3.0mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf")
+	(tags "Inductor wirewound power shielded")
+	(property "Reference" "REF**"
+		(at 0 -3.5 0)
+		(layer "F.SilkS")
+		(uuid "741a08df-6237-4f26-8ca4-dfa4baae16e7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_Changjiang_FNR5030S"
+		(at 0 3.5 0)
+		(layer "F.Fab")
+		(uuid "4e0ffebc-97c7-4d37-9447-50b350b55a98")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c697cfab-9112-4850-b662-a4d03ab02a72")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "89790a6f-be2d-40ac-9992-2c696d3dc437")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a8192eeb-3609-438a-9d2d-4430f72b2684")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.76 -2.76)
+		(end -2.76 -2.36)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0c526553-0a1d-4f3a-8d32-43776f47120e")
+	)
+	(fp_line
+		(start -2.76 -2.76)
+		(end 2.76 -2.76)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ed6f05cc-9712-4687-add4-66bd27b4cf14")
+	)
+	(fp_line
+		(start -2.76 2.76)
+		(end -2.76 2.36)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d2929ddc-9ccc-4eca-a577-27d80aa1c462")
+	)
+	(fp_line
+		(start -2.76 2.76)
+		(end 2.76 2.76)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3fbb16f2-d397-4096-9a2f-539dadffcada")
+	)
+	(fp_line
+		(start 2.76 -2.76)
+		(end 2.76 -2.36)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f509c102-1caf-46a4-83ab-9365f96aac76")
+	)
+	(fp_line
+		(start 2.76 2.76)
+		(end 2.76 2.36)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8e03ec45-c630-4668-b6be-957ba65b4e5a")
+	)
+	(fp_line
+		(start -2.8 -2.75)
+		(end -2.8 2.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6341900b-2408-4b46-82a0-501bdf68f4e1")
+	)
+	(fp_line
+		(start -2.8 2.75)
+		(end 2.8 2.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4e7563d9-15d8-429e-87f9-cecb266a3589")
+	)
+	(fp_line
+		(start 2.8 -2.75)
+		(end -2.8 -2.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "55a7b9d1-8553-49ea-99e2-a64f65ebe6d5")
+	)
+	(fp_line
+		(start 2.8 2.75)
+		(end 2.8 -2.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1a623182-cc65-468d-be1d-b267b9cd658f")
+	)
+	(fp_line
+		(start -2.5 -2.5)
+		(end -2.5 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d0ccdfdb-6700-4f22-bf1e-8095500e4966")
+	)
+	(fp_line
+		(start -2.5 2.5)
+		(end 2.5 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fc462b46-02be-4073-9b99-2de11a197af3")
+	)
+	(fp_line
+		(start 2.5 -2.5)
+		(end -2.5 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7d296c4a-e5b1-4798-b0f9-b28203a777be")
+	)
+	(fp_line
+		(start 2.5 2.5)
+		(end 2.5 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2d3f2c38-4e58-4b46-b7f5-91bfc61a845d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "fb5eeef2-8c0e-4d33-a434-8a6e080b7f34")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.85 0)
+		(size 1.4 4.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "aa8ea6df-f84f-4b5a-9913-c1436d353355")
+	)
+	(pad "2" smd rect
+		(at 1.85 0)
+		(size 1.4 4.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "8bd75c13-885b-443f-a303-d0bbd7d5b9e9")
+	)
+	(model "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Changjiang_FNR5030S.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

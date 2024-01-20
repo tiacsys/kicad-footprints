@@ -1,35 +1,241 @@
-(module L_Chilisin_BMRB00050518-B (layer F.Cu) (tedit 63E7CCCC)
-  (descr "Inductor, Chilisin, BMRB00050518-B, 5.4x5.2x1.6mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf")
-  (tags "Inductor bmrx mchi")
-  (attr smd)
-  (fp_text reference REF** (at 0 -3.6) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value L_Chilisin_BMRB00050518-B (at 0 3.6) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_line (start -2.96 -2.86) (end 2.96 -2.86) (layer F.SilkS) (width 0.12))
-  (fp_line (start -2.96 2.86) (end 2.96 2.86) (layer F.SilkS) (width 0.12))
-  (fp_line (start -2.96 -2.86) (end -2.96 -1.51) (layer F.SilkS) (width 0.12))
-  (fp_line (start 2.96 -2.86) (end 2.96 -1.51) (layer F.SilkS) (width 0.12))
-  (fp_line (start -2.96 2.86) (end -2.96 1.51) (layer F.SilkS) (width 0.12))
-  (fp_line (start 2.96 2.86) (end 2.96 1.51) (layer F.SilkS) (width 0.12))
-  (fp_line (start -2.7 -2.6) (end -2.7 2.6) (layer F.Fab) (width 0.1))
-  (fp_line (start -2.7 2.6) (end 2.7 2.6) (layer F.Fab) (width 0.1))
-  (fp_line (start 2.7 2.6) (end 2.7 -2.6) (layer F.Fab) (width 0.1))
-  (fp_line (start 2.7 -2.6) (end -2.7 -2.6) (layer F.Fab) (width 0.1))
-  (fp_line (start -3.25 -2.85) (end -3.25 2.85) (layer F.CrtYd) (width 0.05))
-  (fp_line (start -3.25 2.85) (end 3.25 2.85) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 3.25 2.85) (end 3.25 -2.85) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 3.25 -2.85) (end -3.25 -2.85) (layer F.CrtYd) (width 0.05))
-  (pad 1 smd rect (at -2.05 0) (size 1.9 2.5) (layers F.Cu F.Mask F.Paste))
-  (pad 2 smd rect (at 2.05 0) (size 1.9 2.5) (layers F.Cu F.Mask F.Paste))
-  (fp_text user ${REFERENCE} (at 0 0) (layer F.Fab)
-    (effects (font (size 0.633333 0.633333) (thickness 0.095)))
-  )
-  (model ${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Chilisin_BMRB00050518-B.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
+(footprint "L_Chilisin_BMRB00050518-B"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Inductor, Chilisin, BMRB00050518-B, 5.4x5.2x1.6mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf")
+	(tags "Inductor bmrx mchi")
+	(property "Reference" "REF**"
+		(at 0 -3.6 0)
+		(layer "F.SilkS")
+		(uuid "fbd59b3b-a7bc-43bc-a19e-405c9ce8c4dc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_Chilisin_BMRB00050518-B"
+		(at 0 3.6 0)
+		(layer "F.Fab")
+		(uuid "5f2984c6-92b4-4589-adef-f2331cf50e05")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ccfb953d-686e-41d8-bb21-99323388b6e0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3fd8d119-16e1-4ebd-98bb-746e36d2283f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ec5f8ead-e579-48d3-a786-df3098f06f3e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.96 -2.86)
+		(end -2.96 -1.51)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "522f0e7f-85d3-4df3-93fa-93220aa1bad7")
+	)
+	(fp_line
+		(start -2.96 -2.86)
+		(end 2.96 -2.86)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "69680cf6-3c67-4b85-bb3e-dac48ad21074")
+	)
+	(fp_line
+		(start -2.96 2.86)
+		(end -2.96 1.51)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f0ad76e6-ffc6-467a-ba68-603ee08c8380")
+	)
+	(fp_line
+		(start -2.96 2.86)
+		(end 2.96 2.86)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cabb60f5-706a-46ca-b36d-2dcf30a39b57")
+	)
+	(fp_line
+		(start 2.96 -2.86)
+		(end 2.96 -1.51)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "da49305a-f405-49d1-82fc-8ced85360b5a")
+	)
+	(fp_line
+		(start 2.96 2.86)
+		(end 2.96 1.51)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "13ce78ff-a583-4cca-ba75-433bc4796a43")
+	)
+	(fp_line
+		(start -3.25 -2.85)
+		(end -3.25 2.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e344c0d7-3de1-49ca-bded-7a091d9404e5")
+	)
+	(fp_line
+		(start -3.25 2.85)
+		(end 3.25 2.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "29900a9c-e9dc-4027-9bf9-e8833c29f5cd")
+	)
+	(fp_line
+		(start 3.25 -2.85)
+		(end -3.25 -2.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a9d2bac1-7701-429e-8530-dbae5c8805fc")
+	)
+	(fp_line
+		(start 3.25 2.85)
+		(end 3.25 -2.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "382501c5-ca27-47a9-9a9b-bb77be2d330e")
+	)
+	(fp_line
+		(start -2.7 -2.6)
+		(end -2.7 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "79916c1e-be5b-433f-9929-54d4dad8560f")
+	)
+	(fp_line
+		(start -2.7 2.6)
+		(end 2.7 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "75fc2579-655b-4373-8a98-d392f43c3a33")
+	)
+	(fp_line
+		(start 2.7 -2.6)
+		(end -2.7 -2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8cd4e697-ee04-4744-b945-27862626d4e5")
+	)
+	(fp_line
+		(start 2.7 2.6)
+		(end 2.7 -2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cca85f26-0a2b-465f-82d7-f730cd7b596c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "dd6d7592-2b3d-4dd6-9abc-5671d9c8951d")
+		(effects
+			(font
+				(size 0.633333 0.633333)
+				(thickness 0.095)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.05 0)
+		(size 1.9 2.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "c13cac5f-35fb-472f-96d2-0a2bb436f17e")
+	)
+	(pad "2" smd rect
+		(at 2.05 0)
+		(size 1.9 2.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "8a666171-dfab-4f9b-a697-df02cb4226e3")
+	)
+	(model "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Chilisin_BMRB00050518-B.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

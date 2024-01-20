@@ -1,35 +1,241 @@
-(module L_Coilcraft_XAL7020-102 (layer F.Cu) (tedit 63E7CCCC)
-  (descr "Inductor, Coilcraft, XAL7020-102, 8.0x8.0x2.0mm, https://www.coilcraft.com/getmedia/0197e98c-67f7-4375-9e38-14d7376a46f3/xal7020.pdf")
-  (tags "Inductor xal")
-  (attr smd)
-  (fp_text reference REF** (at 0 -5) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value L_Coilcraft_XAL7020-102 (at 0 5) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_line (start -4.26 -4.26) (end 4.26 -4.26) (layer F.SilkS) (width 0.12))
-  (fp_line (start -4.26 4.26) (end 4.26 4.26) (layer F.SilkS) (width 0.12))
-  (fp_line (start -4.26 -4.26) (end -4.26 -3.51) (layer F.SilkS) (width 0.12))
-  (fp_line (start 4.26 -4.26) (end 4.26 -3.51) (layer F.SilkS) (width 0.12))
-  (fp_line (start -4.26 4.26) (end -4.26 3.51) (layer F.SilkS) (width 0.12))
-  (fp_line (start 4.26 4.26) (end 4.26 3.51) (layer F.SilkS) (width 0.12))
-  (fp_line (start -4 -4) (end -4 4) (layer F.Fab) (width 0.1))
-  (fp_line (start -4 4) (end 4 4) (layer F.Fab) (width 0.1))
-  (fp_line (start 4 4) (end 4 -4) (layer F.Fab) (width 0.1))
-  (fp_line (start 4 -4) (end -4 -4) (layer F.Fab) (width 0.1))
-  (fp_line (start -4.25 -4.25) (end -4.25 4.25) (layer F.CrtYd) (width 0.05))
-  (fp_line (start -4.25 4.25) (end 4.25 4.25) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 4.25 4.25) (end 4.25 -4.25) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 4.25 -4.25) (end -4.25 -4.25) (layer F.CrtYd) (width 0.05))
-  (pad 1 smd rect (at -2.36 0) (size 1.78 6.5) (layers F.Cu F.Mask F.Paste))
-  (pad 2 smd rect (at 2.36 0) (size 1.78 6.5) (layers F.Cu F.Mask F.Paste))
-  (fp_text user ${REFERENCE} (at 0 0) (layer F.Fab)
-    (effects (font (size 0.593333 0.593333) (thickness 0.089)))
-  )
-  (model ${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Coilcraft_XAL7020-102.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
+(footprint "L_Coilcraft_XAL7020-102"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Inductor, Coilcraft, XAL7020-102, 8.0x8.0x2.0mm, https://www.coilcraft.com/getmedia/0197e98c-67f7-4375-9e38-14d7376a46f3/xal7020.pdf")
+	(tags "Inductor xal")
+	(property "Reference" "REF**"
+		(at 0 -5 0)
+		(layer "F.SilkS")
+		(uuid "2a7bb895-912f-4f26-81ff-945c22bd6d77")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_Coilcraft_XAL7020-102"
+		(at 0 5 0)
+		(layer "F.Fab")
+		(uuid "ccd6cc1e-043a-4851-ad51-95edda9934a8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8a14145c-2de2-4bb6-b421-acd8bd31111a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "27269156-04ac-4f0d-b46f-c8cedb3c5150")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "27cba8f4-8e16-4530-8d01-573abcfd2a58")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -4.26 -4.26)
+		(end -4.26 -3.51)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d0294bd8-65aa-432a-b62a-028cfb3eae5b")
+	)
+	(fp_line
+		(start -4.26 -4.26)
+		(end 4.26 -4.26)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1f3acc83-ea69-4e3b-ba0f-5e0ced30fd90")
+	)
+	(fp_line
+		(start -4.26 4.26)
+		(end -4.26 3.51)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "113396a1-99f6-4580-8ade-d8db0c165cd5")
+	)
+	(fp_line
+		(start -4.26 4.26)
+		(end 4.26 4.26)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "adbc1fda-580f-49ed-9429-18717c4cedd4")
+	)
+	(fp_line
+		(start 4.26 -4.26)
+		(end 4.26 -3.51)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dd0f7ab5-5af8-4a78-a28b-d98754a9f379")
+	)
+	(fp_line
+		(start 4.26 4.26)
+		(end 4.26 3.51)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ff12b51a-4e5c-4439-8412-d8397d8389a4")
+	)
+	(fp_line
+		(start -4.25 -4.25)
+		(end -4.25 4.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "37a49536-f9e4-4a5c-a37e-6db87e2bb0f9")
+	)
+	(fp_line
+		(start -4.25 4.25)
+		(end 4.25 4.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4a75f31e-b36d-4786-9089-e52bd72cd8dd")
+	)
+	(fp_line
+		(start 4.25 -4.25)
+		(end -4.25 -4.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e5ba0cc3-7f3d-4741-aa15-5872df657aab")
+	)
+	(fp_line
+		(start 4.25 4.25)
+		(end 4.25 -4.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "254d6018-cc33-4b87-a89e-08c7180a9642")
+	)
+	(fp_line
+		(start -4 -4)
+		(end -4 4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "880c9c2f-c048-4601-b91e-a93500da5bef")
+	)
+	(fp_line
+		(start -4 4)
+		(end 4 4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c2c4c9ca-cd1f-4b38-a48e-ebf5c7d1074c")
+	)
+	(fp_line
+		(start 4 -4)
+		(end -4 -4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b020cf62-38d9-4dad-b7ef-d09234b67d09")
+	)
+	(fp_line
+		(start 4 4)
+		(end 4 -4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "324448dc-ea2a-4004-a3f7-25a66054ba97")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "69500b5d-bddd-400d-baf6-edfdad529d05")
+		(effects
+			(font
+				(size 0.593333 0.593333)
+				(thickness 0.089)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.36 0)
+		(size 1.78 6.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "390330a3-d2a8-47fc-87b8-4f8d4bd145af")
+	)
+	(pad "2" smd rect
+		(at 2.36 0)
+		(size 1.78 6.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "fcd5c552-2896-4cef-a72d-6283ab65f070")
+	)
+	(model "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Coilcraft_XAL7020-102.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

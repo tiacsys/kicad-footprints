@@ -1,35 +1,241 @@
-(module L_Sunlord_SWPA6020S (layer F.Cu) (tedit 63E7CCCC)
-  (descr "Inductor, Sunlord, SWPA6020S, 6.0x6.0x2.0mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf")
-  (tags "Inductor swpa")
-  (attr smd)
-  (fp_text reference REF** (at 0 -4) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value L_Sunlord_SWPA6020S (at 0 4) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_line (start -3.26 -3.26) (end 3.26 -3.26) (layer F.SilkS) (width 0.12))
-  (fp_line (start -3.26 3.26) (end 3.26 3.26) (layer F.SilkS) (width 0.12))
-  (fp_line (start -3.26 -3.26) (end -3.26 -3.11) (layer F.SilkS) (width 0.12))
-  (fp_line (start 3.26 -3.26) (end 3.26 -3.11) (layer F.SilkS) (width 0.12))
-  (fp_line (start -3.26 3.26) (end -3.26 3.11) (layer F.SilkS) (width 0.12))
-  (fp_line (start 3.26 3.26) (end 3.26 3.11) (layer F.SilkS) (width 0.12))
-  (fp_line (start -3 -3) (end -3 3) (layer F.Fab) (width 0.1))
-  (fp_line (start -3 3) (end 3 3) (layer F.Fab) (width 0.1))
-  (fp_line (start 3 3) (end 3 -3) (layer F.Fab) (width 0.1))
-  (fp_line (start 3 -3) (end -3 -3) (layer F.Fab) (width 0.1))
-  (fp_line (start -3.35 -3.25) (end -3.35 3.25) (layer F.CrtYd) (width 0.05))
-  (fp_line (start -3.35 3.25) (end 3.35 3.25) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 3.35 3.25) (end 3.35 -3.25) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 3.35 -3.25) (end -3.35 -3.25) (layer F.CrtYd) (width 0.05))
-  (pad 1 smd rect (at -2.25 0) (size 1.7 5.7) (layers F.Cu F.Mask F.Paste))
-  (pad 2 smd rect (at 2.25 0) (size 1.7 5.7) (layers F.Cu F.Mask F.Paste))
-  (fp_text user ${REFERENCE} (at 0 0) (layer F.Fab)
-    (effects (font (size 0.566667 0.566667) (thickness 0.085)))
-  )
-  (model ${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sunlord_SWPA6020S.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
+(footprint "L_Sunlord_SWPA6020S"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Inductor, Sunlord, SWPA6020S, 6.0x6.0x2.0mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf")
+	(tags "Inductor swpa")
+	(property "Reference" "REF**"
+		(at 0 -4 0)
+		(layer "F.SilkS")
+		(uuid "e19138c8-e6e4-4a49-bae9-27a4f1c8c27d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_Sunlord_SWPA6020S"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "666e74ec-de22-4c8b-aeae-ea31dcaac32b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1f4eec7c-208a-45ca-8444-ee26c03cf5e8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3d42d307-8e44-4753-985f-f4de2dc3727c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "24eeb328-1005-4c4e-a15f-b59868dadc0f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.26 -3.26)
+		(end -3.26 -3.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e1b529ff-7436-4d28-a9c3-657d87523bca")
+	)
+	(fp_line
+		(start -3.26 -3.26)
+		(end 3.26 -3.26)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3268cdf9-d78f-4e29-8c72-da80bb372084")
+	)
+	(fp_line
+		(start -3.26 3.26)
+		(end -3.26 3.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "372bb3de-7524-4929-8571-2b7c20f40782")
+	)
+	(fp_line
+		(start -3.26 3.26)
+		(end 3.26 3.26)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c8afec02-952f-48a1-a82d-d724068821b3")
+	)
+	(fp_line
+		(start 3.26 -3.26)
+		(end 3.26 -3.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f5700c86-7cac-4c91-a17a-8b516e589f9a")
+	)
+	(fp_line
+		(start 3.26 3.26)
+		(end 3.26 3.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fc385615-f381-4375-ad7e-8f53bfe36d23")
+	)
+	(fp_line
+		(start -3.35 -3.25)
+		(end -3.35 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5217647c-c26e-4492-8502-54820b9b394a")
+	)
+	(fp_line
+		(start -3.35 3.25)
+		(end 3.35 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7588ca01-0281-4a19-9571-f129cfc416f4")
+	)
+	(fp_line
+		(start 3.35 -3.25)
+		(end -3.35 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b63f3acd-5a07-41e1-9968-c0d42a244e56")
+	)
+	(fp_line
+		(start 3.35 3.25)
+		(end 3.35 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b2a475e0-3fde-484d-b7dd-9750e51f137d")
+	)
+	(fp_line
+		(start -3 -3)
+		(end -3 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3e535479-810f-45be-84a6-864585e3af27")
+	)
+	(fp_line
+		(start -3 3)
+		(end 3 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f65ac25a-b15c-4990-9e84-09361dba8d97")
+	)
+	(fp_line
+		(start 3 -3)
+		(end -3 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9ad91829-40ce-4660-a5d3-30b41d72a8ac")
+	)
+	(fp_line
+		(start 3 3)
+		(end 3 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4fd79f66-e6e2-4df3-b794-9438f236fc09")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "b769aa0e-4576-41f9-bfcc-ee2c097a053d")
+		(effects
+			(font
+				(size 0.566667 0.566667)
+				(thickness 0.085)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.25 0)
+		(size 1.7 5.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "41806591-5a79-4b44-b135-2dcbcec28b8b")
+	)
+	(pad "2" smd rect
+		(at 2.25 0)
+		(size 1.7 5.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "9d19dfae-6c07-46c8-bb41-e64a4abfda19")
+	)
+	(model "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sunlord_SWPA6020S.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

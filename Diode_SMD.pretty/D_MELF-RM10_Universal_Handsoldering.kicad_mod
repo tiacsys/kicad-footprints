@@ -1,38 +1,281 @@
-(footprint D_MELF-RM10_Universal_Handsoldering (version 20210108) (generator KicadMod) (layer F.Cu) (tedit 63CB70A4)
-  (descr "Diode, Universal, MELF, RM10, Handsoldering, SMD, Thruhole,")
-  (tags "Diode Universal MELF RM10 Handsoldering SMD Thruhole ")
-  (attr through_hole)
-  (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value D_MELF-RM10_Universal_Handsoldering (at 0 2.5) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text user ${REFERENCE} (at 0 -2.5) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_line (start -6.41 -1.61) (end -6.41 1.61) (layer F.SilkS) (width 0.12))
-  (fp_line (start 3.9 -1.61) (end -6.41 -1.61) (layer F.SilkS) (width 0.12))
-  (fp_line (start -6.41 1.61) (end 3.9 1.61) (layer F.SilkS) (width 0.12))
-  (fp_line (start 6.4 1.6) (end -6.4 1.6) (layer F.CrtYd) (width 0.05))
-  (fp_line (start -6.4 1.6) (end -6.4 -1.6) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 6.4 -1.6) (end 6.4 1.6) (layer F.CrtYd) (width 0.05))
-  (fp_line (start -6.4 -1.6) (end 6.4 -1.6) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 2.6 1.3) (end 2.6 -1.3) (layer F.Fab) (width 0.1))
-  (fp_line (start 0.50118 0.75032) (end 0.50118 -0.79908) (layer F.Fab) (width 0.1))
-  (fp_line (start -2.6 1.3) (end 2.6 1.3) (layer F.Fab) (width 0.1))
-  (fp_line (start 2.6 -1.3) (end -2.6 -1.3) (layer F.Fab) (width 0.1))
-  (fp_line (start -2.6 -1.3) (end -2.6 1.3) (layer F.Fab) (width 0.1))
-  (fp_line (start -0.64944 0.00102) (end 0.50118 -0.79908) (layer F.Fab) (width 0.1))
-  (fp_line (start -0.64944 0.00102) (end -1.55114 0.00102) (layer F.Fab) (width 0.1))
-  (fp_line (start -0.64944 0.00102) (end 0.50118 0.75032) (layer F.Fab) (width 0.1))
-  (fp_line (start 0.50118 0.00102) (end 1.4994 0.00102) (layer F.Fab) (width 0.1))
-  (fp_line (start -0.64944 -0.79908) (end -0.64944 0.80112) (layer F.Fab) (width 0.1))
-  (pad 1 thru_hole roundrect (at -5 0) (size 4.5 2.7) (drill 1.19888 (offset 1.1 0)) (layers *.Cu *.Mask) (roundrect_rratio 0.0925925926))
-  (pad 2 thru_hole roundrect (at 5 0 180) (size 4.5 2.7) (drill 1.19888 (offset 1.1 0)) (layers *.Cu *.Mask) (roundrect_rratio 0.0925925926))
-  (model ${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_MELF.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
+(footprint "D_MELF-RM10_Universal_Handsoldering"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Diode, Universal, MELF, RM10, Handsoldering, SMD, Thruhole,")
+	(tags "Diode Universal MELF RM10 Handsoldering SMD Thruhole ")
+	(property "Reference" "REF**"
+		(at 0 -2.5 0)
+		(layer "F.SilkS")
+		(uuid "8af9a222-a02a-4172-872c-89a1294695f8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "D_MELF-RM10_Universal_Handsoldering"
+		(at 0 2.5 0)
+		(layer "F.Fab")
+		(uuid "6446883d-1d4d-4fd0-8791-bd22ecd6e3da")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "097d737f-1224-452f-8e47-d3b2763ddd8b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bfd82acb-bc50-44f3-a415-0ef2d6745473")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7bd655ee-756f-4933-ad28-790e74c79145")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -6.41 -1.61)
+		(end -6.41 1.61)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "11ce79c5-9699-406a-9bcf-513f318e245d")
+	)
+	(fp_line
+		(start -6.41 1.61)
+		(end 3.9 1.61)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "02db48e3-3c41-4c9a-8cd0-dacc3319cb70")
+	)
+	(fp_line
+		(start 3.9 -1.61)
+		(end -6.41 -1.61)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1832f5f3-99c3-4846-8370-5016685f482f")
+	)
+	(fp_line
+		(start -6.4 -1.6)
+		(end 6.4 -1.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a63163bc-00ce-492f-aa1f-4b899dae08c6")
+	)
+	(fp_line
+		(start -6.4 1.6)
+		(end -6.4 -1.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "75b734af-8699-45d3-8129-8e10cf9ff9eb")
+	)
+	(fp_line
+		(start 6.4 -1.6)
+		(end 6.4 1.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0fe167f7-0453-46e8-86d1-27b6bf9cf806")
+	)
+	(fp_line
+		(start 6.4 1.6)
+		(end -6.4 1.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4d2c83e7-f8f9-4353-ad9d-88d508fe0d10")
+	)
+	(fp_line
+		(start -2.6 -1.3)
+		(end -2.6 1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ededbd46-9f5f-44ee-8314-7936beedcbee")
+	)
+	(fp_line
+		(start -2.6 1.3)
+		(end 2.6 1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f6225801-88ae-433b-bd9b-74aa3fa7cd1e")
+	)
+	(fp_line
+		(start -0.64944 -0.79908)
+		(end -0.64944 0.80112)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "94176bec-224f-45e6-b76a-b97872a23bf2")
+	)
+	(fp_line
+		(start -0.64944 0.00102)
+		(end -1.55114 0.00102)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cf1573ec-be5b-4258-a1e9-f538698ca9e6")
+	)
+	(fp_line
+		(start -0.64944 0.00102)
+		(end 0.50118 -0.79908)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f8e1dcf5-d8cc-442e-8278-70ddf67ab2e1")
+	)
+	(fp_line
+		(start -0.64944 0.00102)
+		(end 0.50118 0.75032)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6a9e7901-1752-4cb8-ae9c-349a739679d1")
+	)
+	(fp_line
+		(start 0.50118 0.00102)
+		(end 1.4994 0.00102)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0c01311d-9a78-418c-ab54-5a04fcb28eba")
+	)
+	(fp_line
+		(start 0.50118 0.75032)
+		(end 0.50118 -0.79908)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "79f27777-e72a-4d9f-84d3-6b546ff0ee0f")
+	)
+	(fp_line
+		(start 2.6 -1.3)
+		(end -2.6 -1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2137cde1-60eb-4a85-85d8-398813a9a036")
+	)
+	(fp_line
+		(start 2.6 1.3)
+		(end 2.6 -1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3fb27343-466d-4f70-a282-832565d5c041")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -2.5 0)
+		(layer "F.Fab")
+		(uuid "a350c104-0dcb-4b2b-ba58-1e933c209efd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at -5 0)
+		(size 4.5 2.7)
+		(drill 1.19888
+			(offset 1.1 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.0925925926)
+		(uuid "471332cc-af98-4613-b448-693113d7b79e")
+	)
+	(pad "2" thru_hole roundrect
+		(at 5 0 180)
+		(size 4.5 2.7)
+		(drill 1.19888
+			(offset 1.1 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.0925925926)
+		(uuid "40ab95df-539e-49b9-a3ef-c6f862612a8a")
+	)
+	(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_MELF.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

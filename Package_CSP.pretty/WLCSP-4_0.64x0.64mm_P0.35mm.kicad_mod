@@ -1,36 +1,243 @@
-(module WLCSP-4_0.64x0.64mm_P0.35mm (layer F.Cu) (tedit 62999ED4)
-  (descr "WLCSP-4, 0.64x0.64mm, 4 Ball, 2x2 Layout, 0.35mm Pitch, https://www.onsemi.com/pdf/datasheet/ncp163-d.pdf#page=23")
-  (tags "CSP 4 0.35")
-  (attr smd)
-  (fp_text reference REF** (at 0 -1.32) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value WLCSP-4_0.64x0.64mm_P0.35mm (at 0 1.32) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_line (start 0.32 0.32) (end -0.32 0.32) (layer F.Fab) (width 0.1))
-  (fp_line (start -0.32 0.32) (end -0.32 -0.16) (layer F.Fab) (width 0.1))
-  (fp_line (start -0.32 -0.16) (end -0.16 -0.32) (layer F.Fab) (width 0.1))
-  (fp_line (start -0.16 -0.32) (end 0.32 -0.32) (layer F.Fab) (width 0.1))
-  (fp_line (start 0.32 -0.32) (end 0.32 0.32) (layer F.Fab) (width 0.1))
-  (fp_line (start -1.32 -1.32) (end -1.32 1.32) (layer F.CrtYd) (width 0.05))
-  (fp_line (start -1.32 1.32) (end 1.32 1.32) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 1.32 1.32) (end 1.32 -1.32) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 1.32 -1.32) (end -1.32 -1.32) (layer F.CrtYd) (width 0.05))
-  (fp_line (start -0.27 -0.43) (end 0.43 -0.43) (layer F.SilkS) (width 0.12))
-  (fp_line (start 0.43 -0.43) (end 0.43 0.43) (layer F.SilkS) (width 0.12))
-  (fp_line (start 0.43 0.43) (end -0.43 0.43) (layer F.SilkS) (width 0.12))
-  (fp_line (start -0.43 0.43) (end -0.43 -0.27) (layer F.SilkS) (width 0.12))
-  (pad A1 smd circle (at -0.175 -0.175) (size 0.21 0.21) (layers F.Cu F.Mask F.Paste))
-  (pad A2 smd circle (at 0.175 -0.175) (size 0.21 0.21) (layers F.Cu F.Mask F.Paste))
-  (pad B1 smd circle (at -0.175 0.175) (size 0.21 0.21) (layers F.Cu F.Mask F.Paste))
-  (pad B2 smd circle (at 0.175 0.175) (size 0.21 0.21) (layers F.Cu F.Mask F.Paste))
-  (fp_text user ${REFERENCE} (at 0 0) (layer F.Fab)
-    (effects (font (size 0.15 0.15) (thickness 0.0225)))
-  )
-  (model ${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-4_0.64x0.64mm_P0.35mm.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
+(footprint "WLCSP-4_0.64x0.64mm_P0.35mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "WLCSP-4, 0.64x0.64mm, 4 Ball, 2x2 Layout, 0.35mm Pitch, https://www.onsemi.com/pdf/datasheet/ncp163-d.pdf#page=23")
+	(tags "CSP 4 0.35")
+	(property "Reference" "REF**"
+		(at 0 -1.32 0)
+		(layer "F.SilkS")
+		(uuid "8a06717e-b95f-4505-83a3-b4db9df92986")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "WLCSP-4_0.64x0.64mm_P0.35mm"
+		(at 0 1.32 0)
+		(layer "F.Fab")
+		(uuid "f8e74047-b7e5-4348-b6cf-aa89d28fd0c9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "40d1b526-d1f3-4f5f-8a36-a66ebd635fdf")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e32aa3c6-49d3-4643-b9da-69ecfd8f3a07")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c71712d4-e0be-44e2-8855-e753be97a3c2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.43 0.43)
+		(end -0.43 -0.27)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c86088c9-50c0-4b19-a0a1-43c558d80746")
+	)
+	(fp_line
+		(start -0.27 -0.43)
+		(end 0.43 -0.43)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f3d041bc-d9b0-4dc1-b353-7bd3d2cd5203")
+	)
+	(fp_line
+		(start 0.43 -0.43)
+		(end 0.43 0.43)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c430457d-4612-4bab-873a-1947c0a41d83")
+	)
+	(fp_line
+		(start 0.43 0.43)
+		(end -0.43 0.43)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b20a7fd3-1bf7-43e3-8b4b-8be0500ef3c2")
+	)
+	(fp_line
+		(start -1.32 -1.32)
+		(end -1.32 1.32)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "147b85ab-e369-42be-97e3-a3516ec0cdd4")
+	)
+	(fp_line
+		(start -1.32 1.32)
+		(end 1.32 1.32)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3cf1593a-754b-4514-9136-1da9608cc5a9")
+	)
+	(fp_line
+		(start 1.32 -1.32)
+		(end -1.32 -1.32)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0f6d5b69-1374-414c-a5c1-f554c9303de6")
+	)
+	(fp_line
+		(start 1.32 1.32)
+		(end 1.32 -1.32)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7ad2d5e7-2bf8-47ac-9a4c-ace667c3003c")
+	)
+	(fp_line
+		(start -0.32 -0.16)
+		(end -0.16 -0.32)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2e198838-c914-483c-bad2-150f42564d37")
+	)
+	(fp_line
+		(start -0.32 0.32)
+		(end -0.32 -0.16)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "436c69f3-fddf-4414-8b90-e633bf1607a6")
+	)
+	(fp_line
+		(start -0.16 -0.32)
+		(end 0.32 -0.32)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0fdc5489-7eb9-4863-9439-2494af59e5b1")
+	)
+	(fp_line
+		(start 0.32 -0.32)
+		(end 0.32 0.32)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "966e5265-c98f-453f-bd1e-dcf3af8b8856")
+	)
+	(fp_line
+		(start 0.32 0.32)
+		(end -0.32 0.32)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fc29b303-9562-4bc7-aff3-e09f9c6b3a35")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "f17bfcab-3fab-4b9e-aa86-36cb3f0ef3c7")
+		(effects
+			(font
+				(size 0.15 0.15)
+				(thickness 0.0225)
+			)
+		)
+	)
+	(pad "A1" smd circle
+		(at -0.175 -0.175)
+		(size 0.21 0.21)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d2f14b91-6565-4d67-a708-e3ed612c92f7")
+	)
+	(pad "A2" smd circle
+		(at 0.175 -0.175)
+		(size 0.21 0.21)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "c2fa51a3-9227-4a26-b9d1-a71948900a16")
+	)
+	(pad "B1" smd circle
+		(at -0.175 0.175)
+		(size 0.21 0.21)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "aa87a66a-45a2-4520-8a17-fb305efe98b8")
+	)
+	(pad "B2" smd circle
+		(at 0.175 0.175)
+		(size 0.21 0.21)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "26d7f1c0-779f-43a2-999f-27aa0d873f2c")
+	)
+	(model "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-4_0.64x0.64mm_P0.35mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

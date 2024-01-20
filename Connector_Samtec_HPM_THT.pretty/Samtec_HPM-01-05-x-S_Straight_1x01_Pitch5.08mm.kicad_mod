@@ -1,34 +1,247 @@
-(module Samtec_HPM-01-05-x-S_Straight_1x01_Pitch5.08mm (layer F.Cu) (tedit 63B55738)
-  (descr "Through hole straight Samtec HPM power header series 3.81mm post length, 1x01, 5.08mm pitch, single row")
-  (tags "Through hole Samtec HPM power header series 3.81mm post length THT 1x01 5.08mm single row")
-  (fp_text reference REF** (at 0 -3.65) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value Samtec_HPM-01-05-x-S_Straight_1x01_Pitch5.08mm (at 0 3.65) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_line (start -1.5875 -2.54) (end 3.175 -2.54) (layer F.Fab) (width 0.1))
-  (fp_line (start 3.175 -2.54) (end 3.175 2.54) (layer F.Fab) (width 0.1))
-  (fp_line (start 3.175 2.54) (end -3.175 2.54) (layer F.Fab) (width 0.1))
-  (fp_line (start -3.175 2.54) (end -3.175 -0.9525) (layer F.Fab) (width 0.1))
-  (fp_line (start -3.175 -0.9525) (end -1.5875 -2.54) (layer F.Fab) (width 0.1))
-  (fp_line (start -3.285 2.65) (end 3.285 2.65) (layer F.SilkS) (width 0.12))
-  (fp_line (start -3.285 2.54) (end -3.285 2.65) (layer F.SilkS) (width 0.12))
-  (fp_line (start 3.285 2.54) (end 3.285 2.65) (layer F.SilkS) (width 0.12))
-  (fp_line (start -3.285 2.54) (end 3.285 2.54) (layer F.SilkS) (width 0.12))
-  (fp_line (start -3.285 0) (end -3.285 -2.65) (layer F.SilkS) (width 0.12))
-  (fp_line (start -3.285 -2.65) (end 0 -2.65) (layer F.SilkS) (width 0.12))
-  (fp_line (start -3.68 -3.04) (end -3.68 3.04) (layer F.CrtYd) (width 0.05))
-  (fp_line (start -3.68 3.04) (end 3.68 3.04) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 3.68 3.04) (end 3.68 -3.04) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 3.68 -3.04) (end -3.68 -3.04) (layer F.CrtYd) (width 0.05))
-  (pad 1 thru_hole rect (at 0 0) (size 2.8 2.8) (drill 1.75) (layers *.Cu *.Mask))
-  (fp_text user ${REFERENCE} (at 0 0 90) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (model ${KICAD6_3DMODEL_DIR}/Connector_Samtec_HPM_THT.3dshapes/Samtec_HPM-01-05-x-S_Straight_1x01_Pitch5.08mm.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
+(footprint "Samtec_HPM-01-05-x-S_Straight_1x01_Pitch5.08mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Through hole straight Samtec HPM power header series 3.81mm post length, 1x01, 5.08mm pitch, single row")
+	(tags "Through hole Samtec HPM power header series 3.81mm post length THT 1x01 5.08mm single row")
+	(property "Reference" "REF**"
+		(at 0 -3.65 0)
+		(layer "F.SilkS")
+		(uuid "cc5bd9da-936c-4f46-93b1-ce2065704ff0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Samtec_HPM-01-05-x-S_Straight_1x01_Pitch5.08mm"
+		(at 0 3.65 0)
+		(layer "F.Fab")
+		(uuid "24a65be7-e6b0-4e04-9544-0fd61ac595de")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a0066e0d-5ce9-4775-a885-fa1283e1082a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6a58b790-87f3-4ce4-a631-0b0fa71d6d9b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "416a1636-96df-4e81-94ac-a7fcc72c8084")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.285 -2.65)
+		(end 0 -2.65)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bf2b2533-397e-47bd-84b2-a145823bd4db")
+	)
+	(fp_line
+		(start -3.285 0)
+		(end -3.285 -2.65)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7b6e4567-0bc5-4f31-9437-3cac5ef9431f")
+	)
+	(fp_line
+		(start -3.285 2.54)
+		(end -3.285 2.65)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e6859907-aafe-4d79-8038-fcbee3cebaea")
+	)
+	(fp_line
+		(start -3.285 2.54)
+		(end 3.285 2.54)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ab2df855-da80-4436-a5b8-51b21d7df844")
+	)
+	(fp_line
+		(start -3.285 2.65)
+		(end 3.285 2.65)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "28ff24b3-a5e8-47f8-960b-1c64d67c9127")
+	)
+	(fp_line
+		(start 3.285 2.54)
+		(end 3.285 2.65)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e32f6b2f-cc45-46bc-b32b-be7be716e6cd")
+	)
+	(fp_line
+		(start -3.68 -3.04)
+		(end -3.68 3.04)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "879c2483-4124-4a91-a741-5be6e65f2290")
+	)
+	(fp_line
+		(start -3.68 3.04)
+		(end 3.68 3.04)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7bb029f2-eecd-474b-9cc8-c1c5637cfdc0")
+	)
+	(fp_line
+		(start 3.68 -3.04)
+		(end -3.68 -3.04)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "960ba80c-06e0-462a-84c2-54692e605c85")
+	)
+	(fp_line
+		(start 3.68 3.04)
+		(end 3.68 -3.04)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "590621ea-96f1-49f3-8ac0-c30495c2f5c5")
+	)
+	(fp_line
+		(start -3.175 -0.9525)
+		(end -1.5875 -2.54)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2f05b81b-cb65-405d-a023-8a145c473673")
+	)
+	(fp_line
+		(start -3.175 2.54)
+		(end -3.175 -0.9525)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fe65b3be-7477-4121-b2bb-50701f193010")
+	)
+	(fp_line
+		(start -1.5875 -2.54)
+		(end 3.175 -2.54)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8faea925-e981-4050-8fd3-de19b311f044")
+	)
+	(fp_line
+		(start 3.175 -2.54)
+		(end 3.175 2.54)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "456a10dc-6535-4723-a12a-feb46f1ce934")
+	)
+	(fp_line
+		(start 3.175 2.54)
+		(end -3.175 2.54)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "539880d2-82c0-4fe3-97c5-01f4c1f38b6f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 90)
+		(layer "F.Fab")
+		(uuid "6c1b80bb-ccd6-4078-b77f-3045891846db")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 2.8 2.8)
+		(drill 1.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f364bad3-c6a7-44c7-bbc3-69f4c64e6088")
+	)
+	(model "${KICAD6_3DMODEL_DIR}/Connector_Samtec_HPM_THT.3dshapes/Samtec_HPM-01-05-x-S_Straight_1x01_Pitch5.08mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
