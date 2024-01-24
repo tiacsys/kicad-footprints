@@ -117,6 +117,8 @@
   (pad T6 smd circle (at 0.151554 1.299) (size 0.225 0.225) (property pad_prop_bga) (layers F.Cu F.Mask F.Paste))
   (pad T8 smd circle (at 0.757772 1.299) (size 0.225 0.225) (property pad_prop_bga) (layers F.Cu F.Mask F.Paste))
   (pad T10 smd circle (at 1.36399 1.299) (size 0.225 0.225) (property pad_prop_bga) (layers F.Cu F.Mask F.Paste))
+  (fp_poly (pts (xy -1.86 -1.745) (xy -2.36 -1.745) (xy -1.86 -2.245) (xy -1.86 -1.745))
+    (stroke (width 0.12) (type solid)) (fill solid) (layer F.SilkS))
   (fp_text user ${REFERENCE} (at 0 0) (layer F.Fab)
     (effects (font (size 0.81 0.81) (thickness 0.1215)))
   )
