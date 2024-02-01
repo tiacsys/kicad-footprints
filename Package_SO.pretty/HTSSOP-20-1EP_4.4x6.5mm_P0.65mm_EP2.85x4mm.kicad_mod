@@ -59,7 +59,7 @@
     (zone_connect 2))
   (pad "" smd roundrect (at 0 -1) (size 2.3 1.61) (layers F.Paste) (roundrect_rratio 0.15528))
   (pad "" smd roundrect (at 0 1) (size 2.3 1.61) (layers F.Paste) (roundrect_rratio 0.15528))
-  (fp_poly (pts (xy -2.9 -3.385) (xy -3.08 -3.637) (xy -2.72 -3.637) (xy -2.9 -3.385))
+  (fp_poly (pts (xy -3.86 -2.925) (xy -4.19 -3.165) (xy -4.19 -2.685) (xy -3.86 -2.925))
     (stroke (width 0.12) (type solid)) (fill solid) (layer F.SilkS))
   (fp_text user ${REFERENCE} (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))

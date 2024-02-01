@@ -135,7 +135,7 @@
   (pad 49 smd rect (at 0 0) (size 6.5 6.5) (property pad_prop_heatsink) (layers F.Cu)
     (zone_connect 2))
   (pad "" smd roundrect (at 0 0) (size 3.62 3.62) (layers F.Paste) (roundrect_rratio 0.069061))
-  (fp_poly (pts (xy -4.225 -3.16) (xy -4.459 -3.4876) (xy -3.991 -3.4876) (xy -4.225 -3.16))
+  (fp_poly (pts (xy -4.225 -3.16) (xy -4.565 -3.63) (xy -3.885 -3.63) (xy -4.225 -3.16))
     (stroke (width 0.12) (type solid)) (fill solid) (layer F.SilkS))
   (fp_text user ${REFERENCE} (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))

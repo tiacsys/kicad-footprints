@@ -146,7 +146,7 @@
   (pad "" smd roundrect (at 1.6 -1.6) (size 1.29 1.29) (layers F.Paste) (roundrect_rratio 0.193798))
   (pad "" smd roundrect (at 1.6 0) (size 1.29 1.29) (layers F.Paste) (roundrect_rratio 0.193798))
   (pad "" smd roundrect (at 1.6 1.6) (size 1.29 1.29) (layers F.Paste) (roundrect_rratio 0.193798))
-  (fp_poly (pts (xy -5.7 -4.36) (xy -5.934 -4.6876) (xy -5.466 -4.6876) (xy -5.7 -4.36))
+  (fp_poly (pts (xy -5.7 -4.36) (xy -6.04 -4.83) (xy -5.36 -4.83) (xy -5.7 -4.36))
     (stroke (width 0.12) (type solid)) (fill solid) (layer F.SilkS))
   (fp_text user ${REFERENCE} (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))

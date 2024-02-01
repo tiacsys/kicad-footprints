@@ -73,7 +73,7 @@
   (pad "" smd roundrect (at -0.75 0.775) (size 1.21 1.25) (layers F.Paste) (roundrect_rratio 0.206612))
   (pad "" smd roundrect (at 0.75 -0.775) (size 1.21 1.25) (layers F.Paste) (roundrect_rratio 0.206612))
   (pad "" smd roundrect (at 0.75 0.775) (size 1.21 1.25) (layers F.Paste) (roundrect_rratio 0.206612))
-  (fp_poly (pts (xy -2.925 -2.41) (xy -3.105 -2.662) (xy -2.745 -2.662) (xy -2.925 -2.41))
+  (fp_poly (pts (xy -2.925 -2.41) (xy -3.165 -2.74) (xy -2.685 -2.74) (xy -2.925 -2.41))
     (stroke (width 0.12) (type solid)) (fill solid) (layer F.SilkS))
   (fp_text user ${REFERENCE} (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
