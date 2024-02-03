@@ -70,6 +70,7 @@
   (fp_line (start 1.25 0.85) (end -1.25 0.85)
     (stroke (width 0.1) (type default)) (layer "F.Fab") (tstamp f3a3c967-877f-4067-83d1-5f2c4b8b13e3))
   (pad "1" smd custom (at -0.85 0 90) (size 0.001 0.001) (layers "F.Cu" "F.Mask")
+    (thermal_bridge_angle 45)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly
@@ -86,6 +87,7 @@
         (width 0.1) (fill yes))
     ) (tstamp 0012627b-e8fa-4332-9ae7-8a5f8cc1617f))
   (pad "2" smd custom (at 0.85 0 270) (size 0.001 0.001) (layers "F.Cu" "F.Mask")
+    (thermal_bridge_angle 45)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly

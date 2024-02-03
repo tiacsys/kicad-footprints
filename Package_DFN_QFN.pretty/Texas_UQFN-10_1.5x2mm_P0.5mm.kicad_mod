@@ -2,7 +2,6 @@
   (layer "F.Cu")
   (descr "Texas RSE0010A UQFN, 10 Pin (https://www.ti.com/lit/ml/mpqf186d/mpqf186d.pdf)")
   (tags "Texas RSE0010 UQFN NoLead")
-  (solder_mask_margin 0.0)
   (attr smd)
   (fp_text reference "REF**" (at 0 -2.15) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
