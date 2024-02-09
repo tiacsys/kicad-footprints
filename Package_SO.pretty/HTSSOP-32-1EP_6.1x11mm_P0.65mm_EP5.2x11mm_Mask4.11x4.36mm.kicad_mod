@@ -2,6 +2,7 @@
   (layer "F.Cu")
   (descr "HTSSOP32: plastic thin shrink small outline package; 32 leads; body width 6.1 mm; lead pitch 0.65 mm (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot487-1_po.pdf)")
   (tags "SSOP 0.65 PowerPAD")
+  (clearance 0.2)
   (attr smd)
   (fp_text reference "REF**" (at 0 -6.55) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
@@ -15,8 +16,6 @@
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     (tstamp db157926-fa20-434f-b586-50528b46ce33)
   )
-  (fp_line (start -4.25 -5.4) (end -3.175 -5.4)
-    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 51ffd93a-24a3-4cd9-abfb-98c5163d541f))
   (fp_line (start -3.175 -5.625) (end 3.175 -5.625)
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp c4a882af-3d2d-4de7-931e-90f7375b92ab))
   (fp_line (start -3.175 -5.4) (end -3.175 -5.625)
@@ -29,6 +28,15 @@
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 238750cc-a7a4-4a88-a5f1-8afc84100e3d))
   (fp_line (start 3.175 5.625) (end 3.175 5.3)
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 7c77b7ac-1344-4f04-bd05-6f4a731fba4a))
+  (fp_poly
+    (pts
+      (xy -3.65 -5.35)
+      (xy -3.89 -5.68)
+      (xy -3.41 -5.68)
+      (xy -3.65 -5.35)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp ad6a43dc-0f36-4004-8857-bba8e0a564d8))
   (fp_line (start -4.5 -5.8) (end -4.5 5.8)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 8d391692-0771-49cb-a00e-d0856cd3ac17))
   (fp_line (start -4.5 5.8) (end 4.5 5.8)

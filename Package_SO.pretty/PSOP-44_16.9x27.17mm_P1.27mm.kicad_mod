@@ -2,6 +2,7 @@
   (layer "F.Cu")
   (descr "PSOP44: plastic thin shrink small outline package; 44 leads; body width 16.90 mm")
   (tags "PSOP 1.27")
+  (clearance 0.2)
   (attr smd)
   (fp_text reference "REF**" (at 0 -15.285) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
@@ -19,8 +20,6 @@
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 55f2ba52-4c9f-4280-92ca-4b32b790f075))
   (fp_line (start -7 -14.1) (end 7 -14.1)
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp d159db0a-0639-4fd3-84da-a84c853d34bd))
-  (fp_line (start -7 -13.9) (end -9 -13.9)
-    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 34b1df58-75e5-4063-aa91-69c09a4d76ac))
   (fp_line (start -7 13.8) (end -7 14.1)
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 36d9675e-edfa-4822-bb37-ce33a744a287))
   (fp_line (start -7 14.1) (end 7 14.1)
@@ -29,6 +28,15 @@
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp fec80039-898a-4b32-8818-d45f500c7b08))
   (fp_line (start 7 13.8) (end 7 14.1)
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp e534625a-f10c-48aa-83fb-5cdb8c5106d2))
+  (fp_poly
+    (pts
+      (xy -8 -13.9)
+      (xy -7.76 -14.23)
+      (xy -8.24 -14.23)
+      (xy -8 -13.9)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp f1a5e8b8-abc5-41ca-815c-0cce8869985f))
   (fp_line (start -9.6 -14.4) (end -9.6 14.4)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 5e9cf99d-6567-40fa-8e6b-202b19bb3fd1))
   (fp_line (start -9.6 -14.4) (end 9.6 -14.4)
