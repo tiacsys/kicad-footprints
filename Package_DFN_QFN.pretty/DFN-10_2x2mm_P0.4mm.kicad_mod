@@ -12,13 +12,22 @@
     (tstamp 2b8325c9-0b4b-4e79-aa8d-f24e01bf86d0)
   )
   (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
-      (effects (font (size 0.45 0.45) (thickness 0.05)))
+      (effects (font (size 0.5 0.5) (thickness 0.075)))
     (tstamp 44ed7fa5-bb50-4d9b-af08-293ba0fa35e6)
   )
-  (fp_line (start 1 -1.1) (end 0 -1.1)
-    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp f5ff9981-208a-4fdc-8874-0e257b06d419))
-  (fp_line (start 1 1.1) (end -1 1.1)
+  (fp_line (start 0.99 1.19) (end -1.01 1.19)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp fff3b13c-e091-4f7d-987a-443ee2a4ff78))
+  (fp_line (start 1 -1.19) (end -1 -1.19)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp f5ff9981-208a-4fdc-8874-0e257b06d419))
+  (fp_poly
+    (pts
+      (xy -1.34 -1.11)
+      (xy -1.62 -1.11)
+      (xy -1.34 -1.39)
+      (xy -1.34 -1.11)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp bc769b5a-8dc5-4ac1-887f-2fb74cc682ad))
   (fp_line (start -1.4 1.25) (end -1.4 -1.25)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp c84bd529-49ef-4126-b709-8e190579d0d1))
   (fp_line (start -1.4 1.25) (end 1.4 1.25)
@@ -47,7 +56,7 @@
   (pad "8" smd rect (at 0.8 0) (size 0.7 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0722e027-a39f-4442-a104-c8314390e9a9))
   (pad "9" smd rect (at 0.8 -0.4) (size 0.7 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c6cb51e2-5637-4f55-9447-0179506bfd43))
   (pad "10" smd rect (at 0.8 -0.8) (size 0.7 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f311ce31-8f81-48bb-b57c-242267080cf6))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-10_2x2mm_P0.4mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-10_2x2mm_P0.4mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

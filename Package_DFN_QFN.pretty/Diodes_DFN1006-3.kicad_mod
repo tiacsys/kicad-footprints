@@ -11,14 +11,23 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 78131c28-7ed9-42da-9a8a-9ae4fb201c3a)
   )
-  (fp_text user "${REFERENCE}" (at 0 -1.6) (layer "F.Fab")
-      (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text user "${REFERENCE}" (at 0 -1) (layer "F.Fab")
+      (effects (font (size 0.5 0.5) (thickness 0.075)))
     (tstamp 5285e66e-b787-4bea-a6b1-deeef392190c)
   )
-  (fp_line (start -0.7 -0.5) (end -0.7 0)
-    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 1a20b35c-6a46-42aa-9d0c-96f5b3a1bc77))
-  (fp_line (start -0.2 -0.5) (end -0.7 -0.5)
-    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 1f0f4113-88cf-4391-97d2-57c04dc241f8))
+  (fp_line (start -0.5 -0.61) (end 0.5 -0.61)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp 8612e263-6457-4170-8cee-d1023515c97e))
+  (fp_line (start -0.5 0.61) (end 0.5 0.61)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp 63dbf775-8d10-4eae-a462-f740dbe5430d))
+  (fp_poly
+    (pts
+      (xy -0.74 -0.54)
+      (xy -1.02 -0.54)
+      (xy -0.74 -0.82)
+      (xy -0.74 -0.54)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp ebee68db-1c1d-49bb-836a-f1b2be4352fc))
   (fp_line (start -0.8 -0.6) (end 0.8 -0.6)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 24ffb408-cd7a-498c-b522-4c9d3eef4737))
   (fp_line (start -0.8 0.6) (end -0.8 -0.6)
@@ -40,7 +49,7 @@
   (pad "1" smd rect (at -0.35 -0.225 270) (size 0.25 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp efeb73e5-01a6-4797-bf31-7a87e00b4faa))
   (pad "2" smd rect (at -0.35 0.225 270) (size 0.25 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 50274a8c-1f5d-4552-9e37-f59368946d84))
   (pad "3" smd rect (at 0.35 0 270) (size 0.7 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 68185bfd-a946-4ce5-8acd-cd49692bb628))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Diodes_DFN1006-3.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Diodes_DFN1006-3.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

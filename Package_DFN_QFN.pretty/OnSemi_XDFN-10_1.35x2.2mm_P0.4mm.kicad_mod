@@ -3,7 +3,7 @@
   (descr "10-Lead Plastic XDFN (1.35mm x 2.2mm) (see https://www.onsemi.com/pdf/datasheet/emi8132-d.pdf)")
   (tags "OnSemi XDFN-10 0.4")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -2) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 0 -2.3) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 8799a16c-9d04-455c-895a-997146538d58)
   )
@@ -17,8 +17,17 @@
   )
   (fp_line (start -0.675 1.22) (end 0.675 1.22)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp bc68850c-45e4-4b9b-a729-8f89388e7e9b))
-  (fp_line (start 0.075 -1.22) (end 0.675 -1.22)
+  (fp_line (start 0.14 -1.22) (end 0.675 -1.22)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp c0610c99-778b-4fc8-9b22-4a6ca659f659))
+  (fp_poly
+    (pts
+      (xy -0.97 -1.36)
+      (xy -1.25 -1.36)
+      (xy -0.97 -1.64)
+      (xy -0.97 -1.36)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 51e1616d-2eee-469b-b4c2-94f5af6c0495))
   (fp_line (start -1.02 -1.43) (end -1.02 1.35)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp b5f24375-cae3-4881-8491-c000f48642a6))
   (fp_line (start -1.02 -1.43) (end 1.02 -1.43)
@@ -47,7 +56,7 @@
   (pad "8" smd rect (at 0.45 0) (size 0.65 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fdcc795b-62b6-4e4e-a674-6e02a86126b8))
   (pad "9" smd rect (at 0.45 -0.4) (size 0.65 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp adae7b4f-643b-489b-a921-b36353d00f10))
   (pad "10" smd rect (at 0.45 -0.8) (size 0.65 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d23de1b2-8d8a-4342-9c9b-88885d993949))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/OnSemi_XDFN-10_1.35x2.2mm_P0.4mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/OnSemi_XDFN-10_1.35x2.2mm_P0.4mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

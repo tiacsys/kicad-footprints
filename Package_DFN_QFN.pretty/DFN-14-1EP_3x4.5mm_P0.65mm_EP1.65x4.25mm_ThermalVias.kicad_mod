@@ -11,14 +11,23 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp bf7cb9c8-aa4f-4291-9902-878841986fb0)
   )
-  (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
-      (effects (font (size 0.75 0.75) (thickness 0.15)))
+  (fp_text user "${REFERENCE}" (at 0 0 90) (layer "F.Fab")
+      (effects (font (size 0.75 0.75) (thickness 0.11)))
     (tstamp cffed9e8-e5be-455d-8090-51131c80e59a)
   )
-  (fp_line (start -1.5 2.35) (end 1.5 2.35)
+  (fp_line (start -1.5 2.36) (end 1.5 2.36)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 0340f225-86d4-44a9-931f-4ec0c24ee9bf))
-  (fp_line (start 1.5 -2.35) (end 0 -2.35)
+  (fp_line (start 1.5 -2.36) (end -1.5 -2.36)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp fa994f67-263d-4ce2-8785-dad991319cae))
+  (fp_poly
+    (pts
+      (xy -2.06 -2.26)
+      (xy -2.54 -2.26)
+      (xy -2.06 -2.74)
+      (xy -2.06 -2.26)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 2e0405b5-5662-42f1-b7f0-b9084b83b634))
   (fp_line (start -2.18 -2.5) (end -2.18 2.5)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 36f05fa9-706d-4b3d-84e6-a24fda705cc6))
   (fp_line (start -2.18 2.5) (end 2.18 2.5)
@@ -70,7 +79,7 @@
   (pad "15" thru_hole circle (at 0.5 -0.5) (size 0.65 0.65) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 196875f7-3fbe-48f9-a764-fbf39f67f945))
   (pad "15" thru_hole circle (at 0.5 0.5) (size 0.65 0.65) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 0087f362-d11b-45e1-9cdf-e87fac576833))
   (pad "15" thru_hole circle (at 0.5 1.5) (size 0.65 0.65) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 0d703638-7c4e-467e-be89-7d3d141a87d0))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-14-1EP_3x4.5mm_P0.65mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-14-1EP_3x4.5mm_P0.65mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

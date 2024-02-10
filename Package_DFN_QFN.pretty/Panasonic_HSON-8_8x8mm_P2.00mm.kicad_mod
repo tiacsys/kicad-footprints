@@ -16,10 +16,19 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 77c8c741-363f-4754-93ab-d5b84091d259)
   )
-  (fp_line (start 4.11 -4.11) (end -4.5 -4.11)
+  (fp_line (start 4 -4.11) (end -4 -4.11)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp ccb5a529-e66c-4c7c-8aa6-3fa91cf43248))
-  (fp_line (start 4.11 4.11) (end -4.11 4.11)
+  (fp_line (start 4 4.11) (end -4 4.11)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 02a185cb-0ee1-4504-9df0-eef3d7c572b0))
+  (fp_poly
+    (pts
+      (xy -4.69 -3.84)
+      (xy -5.17 -3.84)
+      (xy -4.69 -4.32)
+      (xy -4.69 -3.84)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 4b019c5d-8758-496a-8f3f-50a1f2eabdbd))
   (fp_line (start -4.75 -4.25) (end 4.75 -4.25)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 8d34ca2c-bacd-4928-aac8-71cbf8918e23))
   (fp_line (start -4.75 4.25) (end -4.75 -4.25)
@@ -65,7 +74,7 @@
   (pad "7" smd rect (at 3.975 -1) (size 1.05 1.3) (layers "F.Cu" "F.Mask") (tstamp 5eb044a4-fc11-4405-b142-cbed96f3dd85))
   (pad "8" smd rect (at 3.975 -3) (size 1.05 1.3) (layers "F.Cu" "F.Mask") (tstamp 53f5eca5-aefb-4fa4-bbd8-9231166b1a1e))
   (pad "9" smd rect (at 0.9 0) (size 3.2 6.94) (layers "F.Cu" "F.Mask") (tstamp 7ee909e2-2990-4a9e-874e-32588c55baeb))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Panasonic_HSON-8_8x8mm_P2.00mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Panasonic_HSON-8_8x8mm_P2.00mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
