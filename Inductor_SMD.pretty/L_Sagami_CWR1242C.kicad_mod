@@ -46,7 +46,7 @@
   (pad "1" smd rect (at 0 5.35) (size 3.6 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f5ec770f-4fc5-45a1-9315-4e8aac094d29))
   (pad "2" smd rect (at 0 -5.35) (size 3.6 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 18d4b63d-b86c-4e69-a346-c84405d908ea))
   (pad "2" smd rect (at 5.35 0) (size 2.5 3.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8806915f-510b-4266-af28-be835de0de16))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sagami_CWR1242C.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sagami_CWR1242C.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -67,7 +67,7 @@
   (pad "16" thru_hole oval (at 25.2 -4.04) (size 1.524 1.824) (drill 0.9) (layers *.Cu *.Mask) (tstamp 51f452e6-8205-43f7-a0d0-5ffc4d583714))
   (pad "17" thru_hole oval (at 26.88 0) (size 1.524 1.824) (drill 0.9) (layers *.Cu *.Mask) (tstamp f5be69f1-0117-4351-a125-559cca0da1d9))
   (pad "18" thru_hole oval (at 28.56 -4.04) (size 1.524 1.824) (drill 0.9) (layers *.Cu *.Mask) (tstamp 1d8794d6-4ebb-40ca-9725-4c4e132c7819))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SLA704XM.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_SIP.3dshapes/SLA704XM.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

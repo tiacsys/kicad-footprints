@@ -59,7 +59,7 @@
   (pad "" thru_hole circle (at -1.25 2.5 180) (size 2.4 2.4) (drill 1.5) (layers *.Cu *.Mask) (tstamp 9586d554-520e-417a-9ba1-0083e3736570))
   (pad "1" thru_hole circle (at 0 0 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp a38f733d-803e-4adf-b803-96f34fb60ea8))
   (pad "2" thru_hole circle (at 4.5 0 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp d0f2e135-3a09-49ca-8017-384ff9a9336f))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_SPST_Omron_B3F-315x_Angled.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_SPST_Omron_B3F-315x_Angled.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

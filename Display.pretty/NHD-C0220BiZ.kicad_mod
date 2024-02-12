@@ -116,7 +116,7 @@
   (pad "8" thru_hole circle (at -7 15.9) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 3be1cff2-c44d-4073-8d28-492f53619f0f))
   (pad "9" thru_hole oval (at -38.55 4.25) (size 1.8 3.4) (drill oval 1 2.6) (layers *.Cu *.Mask) (tstamp 1f33a00d-4fbe-42d1-96f4-069f5e9fa177))
   (pad "10" thru_hole oval (at -38.55 -4.25) (size 1.8 3.4) (drill oval 1 2.6) (layers *.Cu *.Mask) (tstamp 8bf648d3-7a04-4996-b2ae-10469c25d6d8))
-  (model "${KICAD6_3DMODEL_DIR}/Display.3dshapes/NHD-C0220BiZ.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Display.3dshapes/NHD-C0220BiZ.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

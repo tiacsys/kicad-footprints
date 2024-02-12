@@ -54,7 +54,7 @@
   (pad "4" thru_hole circle (at 2.5 0) (size 1.7 1.7) (drill 1.2) (layers *.Cu *.Mask) (tstamp 655dc178-48ff-439e-830a-412ff7b12463))
   (pad "5" thru_hole circle (at 2.5 2.5) (size 1.7 1.7) (drill 1.2) (layers *.Cu *.Mask) (tstamp 9051f296-f13f-4509-9ad3-6ad98d3f2203))
   (pad "6" thru_hole circle (at 2.5 5) (size 1.7 1.7) (drill 1.2) (layers *.Cu *.Mask) (tstamp f582c4d5-df06-4e00-bdf3-436084c3a67d))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Nano-Fit_105314-xx06_2x03_P2.50mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Nano-Fit_105314-xx06_2x03_P2.50mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -116,7 +116,7 @@
   (pad "52" smd rect (at 11.8 -4.1) (size 0.6 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 20e1fcc6-e6cb-4047-8363-9d815bff19df))
   (pad "MP" smd rect (at 14.65 3.5) (size 2.3 3.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a3d4dcca-2a70-43e0-b6e9-d43f8646d829))
   (pad "MP" smd rect (at -14.65 3.5) (size 2.3 3.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bf1b6bfc-d6ff-48e0-8308-e9342527cf7b))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/BUS_PCI_Express_Mini_Dual.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/BUS_PCI_Express_Mini_Dual.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -59,7 +59,7 @@
   (pad "20" thru_hole oval (at 8.58 10.665 180) (size 1.27 1.524) (drill 0.89) (layers *.Cu *.Mask) (tstamp 2a6753e8-f9e7-4c11-a472-dc9c7e1759c8))
   (pad "SH" thru_hole circle (at 18.415 13.1445 180) (size 2.61 2.61) (drill 1.57) (layers *.Cu *.Mask) (tstamp 3d9154be-9202-4502-a21b-f77954b13363))
   (pad "SH" thru_hole circle (at 18.415 -2.9845 180) (size 2.63 2.63) (drill 1.57) (layers *.Cu *.Mask) (tstamp 4b1ce2e8-4a03-4cc0-90b9-f65c2da44a74))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Pulse_JK00177NL_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Pulse_JK00177NL_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

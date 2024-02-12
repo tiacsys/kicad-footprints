@@ -102,7 +102,7 @@
   (pad "7" thru_hole circle (at 29.7 5.08 180) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 34f85e84-6c82-4941-83ba-c89936def0b9))
   (pad "8" thru_hole circle (at 29.7 2.54 180) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 75ccdec3-d801-4a06-96aa-b035ca4760a2))
   (pad "9" thru_hole circle (at 29.7 0 180) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp b98ba76a-1e04-42f4-b841-68de4d004c6d))
-  (model "${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/Senseair_S8_Up.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor.3dshapes/Senseair_S8_Up.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

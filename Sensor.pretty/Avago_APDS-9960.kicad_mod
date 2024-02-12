@@ -74,7 +74,7 @@
   (pad "6" smd rect (at 0.485 0.7) (size 0.72 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp df39d976-3d45-4cd3-8748-0690ce2ec925))
   (pad "7" smd rect (at -0.485 0.7) (size 0.72 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0742f4de-bcd6-4982-93fd-930d4397423e))
   (pad "8" smd rect (at -1.455 0.7) (size 0.72 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c0fbba2a-082a-46ad-a3b5-ebceada24fac))
-  (model "${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/Avago_ADPS-9960.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor.3dshapes/Avago_ADPS-9960.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

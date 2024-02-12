@@ -54,7 +54,7 @@
   (fp_line (start -1.5 0.55) (end 1.5 0.55) (layer "F.Fab") (width 0.1) (tstamp f14b741c-4c7d-4ef3-aedc-de8227231c72))
   (pad "1" smd rect (at -4.45 0) (size 1.5 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1013dd88-bf1f-4595-8b4b-6c4b164e08b2))
   (pad "2" smd rect (at 4.45 0) (size 1.5 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 01931d43-32cb-4524-a977-80c7fd358050))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx01_Slide_Omron_A6S-110x_W8.9mm_P2.54mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx01_Slide_Omron_A6S-110x_W8.9mm_P2.54mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

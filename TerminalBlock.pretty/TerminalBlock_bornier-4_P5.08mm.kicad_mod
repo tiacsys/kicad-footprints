@@ -35,7 +35,7 @@
   (pad "2" thru_hole circle (at 5.08 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask) (tstamp 9c38f3ed-37d4-4c23-98ba-abd66f7379be))
   (pad "3" thru_hole circle (at 10.16 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask) (tstamp aaeb76a8-7323-491e-915e-59a04609123b))
   (pad "4" thru_hole circle (at 15.24 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask) (tstamp 14ef8b05-53ec-4cfe-a985-26093de67d4a))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_bornier-4_P5.08mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_bornier-4_P5.08mm.wrl"
     (offset (xyz 7.619999886 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

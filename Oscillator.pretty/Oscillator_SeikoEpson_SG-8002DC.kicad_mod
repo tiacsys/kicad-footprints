@@ -35,7 +35,7 @@
   (pad "4" thru_hole oval (at 0 7.62) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 8d8baac4-ca50-4dff-a9b1-6643218f44b2))
   (pad "5" thru_hole oval (at 7.62 7.62) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp c38765bc-7caa-465d-8fb1-38ce563c9a84))
   (pad "8" thru_hole oval (at 7.62 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 5d11c67f-16e8-4f4d-b396-3b307f051fdb))
-  (model "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SeikoEpson_SG-8002DC.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SeikoEpson_SG-8002DC.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

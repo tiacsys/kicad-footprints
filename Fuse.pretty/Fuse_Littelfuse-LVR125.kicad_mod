@@ -30,7 +30,7 @@
   (fp_line (start 16.3 -2.65) (end -4.9 -2.65) (layer "F.Fab") (width 0.1) (tstamp 7782da6f-fbbd-4805-961e-53c796d5ee87))
   (pad "1" thru_hole circle (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp fa95d02e-0fca-4177-ab14-a2f8c0599ce7))
   (pad "2" thru_hole circle (at 11.4 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 426b9547-78a8-4bd0-8168-41fdd81641c0))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Littelfuse-LVR125.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Littelfuse-LVR125.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -35,7 +35,7 @@
   (pad "2" thru_hole circle (at 0 5.08) (size 2.35 2.35) (drill 1.35) (layers *.Cu *.Mask) (tstamp bfee237f-7aca-44bc-bf42-a614b4880adf))
   (pad "3" thru_hole circle (at 5.08 5.08) (size 2.35 2.35) (drill 1.35) (layers *.Cu *.Mask) (tstamp 64ea00b6-baef-43dd-bf65-f0e3e4447807))
   (pad "4" thru_hole circle (at 5.08 0) (size 2.35 2.35) (drill 1.35) (layers *.Cu *.Mask) (tstamp d9712e8e-7091-441a-a8ac-94d4e2058afb))
-  (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_BL-FL7680RGB.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_BL-FL7680RGB.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

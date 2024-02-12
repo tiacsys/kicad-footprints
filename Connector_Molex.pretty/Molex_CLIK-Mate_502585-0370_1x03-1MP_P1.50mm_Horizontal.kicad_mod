@@ -41,7 +41,7 @@
   (pad "3" smd roundrect (at 1.5 -2.575) (size 0.8 2.9) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp b30f0635-bd19-46eb-9358-348999eb68bc))
   (pad "MP" smd roundrect (at -4.1 2.125) (size 1.8 3.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.138889) (tstamp d45830f4-1766-4730-a2cd-7ed68d9b169b))
   (pad "MP" smd roundrect (at 4.1 2.125) (size 1.8 3.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.138889) (tstamp d727ebe1-8806-42d7-aefa-6e5f09f23960))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_CLIK-Mate_502585-0370_1x03-1MP_P1.50mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_CLIK-Mate_502585-0370_1x03-1MP_P1.50mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

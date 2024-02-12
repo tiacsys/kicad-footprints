@@ -92,7 +92,7 @@
   (pad "3" thru_hole circle (at 7.92 0) (size 2.7 2.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp de8d82a9-8a04-4a68-b4d5-b1e3318ef669))
   (pad "4" thru_hole circle (at 11.88 0) (size 2.7 2.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp 5d7ec86b-144e-49f6-b2dd-48924ed50a00))
   (pad "5" thru_hole circle (at 15.84 0) (size 2.7 2.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp 6e3c0bc0-b849-4387-b501-01a0be2324aa))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_VH_B5PS-VH_1x05_P3.96mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_JST.3dshapes/JST_VH_B5PS-VH_1x05_P3.96mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

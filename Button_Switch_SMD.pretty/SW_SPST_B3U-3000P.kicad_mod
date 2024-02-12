@@ -46,7 +46,7 @@
   (fp_line (start -1.5 -1.25) (end 1.5 -1.25) (layer "F.Fab") (width 0.1) (tstamp e3d04754-f066-47b1-9c49-c916ab529eff))
   (pad "1" smd rect (at -1.7 0) (size 0.9 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bebaa3af-4334-4aa0-97a8-3187b9f162f9))
   (pad "2" smd rect (at 1.7 0) (size 0.9 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b745190b-fca3-45f5-8cad-6d4e805c0330))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-3000P.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-3000P.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

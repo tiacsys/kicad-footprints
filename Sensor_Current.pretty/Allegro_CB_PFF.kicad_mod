@@ -160,7 +160,7 @@
   (pad "5" thru_hole circle (at 0.11 -19.74) (size 0.8 0.8) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp b259b4d1-f906-465d-aa85-60cffcb4b0b6))
   (pad "5" thru_hole oval (at 0.86 -22.03 295) (size 0.8 0.8) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp 1b6de052-e648-4039-b166-a370775e3f5f))
   (pad "5" thru_hole oval (at 0.86 -20.77 65) (size 0.8 0.8) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp ad26ad58-c6f3-4da9-919b-3441a3a63237))
-  (model "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_CB_PFF.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_CB_PFF.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -34,7 +34,7 @@
   (pad "" np_thru_hole circle (at 0 0) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp 867cbdf9-e839-470b-9242-696142e734a9))
   (pad "1" smd rect (at -1.7 0) (size 0.9 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0337d48f-7680-4787-a0eb-f82b174962f4))
   (pad "2" smd rect (at 1.7 0) (size 0.9 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 55312f45-0fe7-42a8-be12-9fe37adb56dd))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-1000P-B.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-1000P-B.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

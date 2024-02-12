@@ -66,7 +66,7 @@
   (pad "8" smd roundrect (at 2.175 -0.975) (size 1.35 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp dcf00c96-5bb9-4776-b089-87839188df2e))
   (pad "9" smd rect (at 0 0) (size 2.5 3) (property pad_prop_heatsink) (layers "F.Cu")
     (zone_connect 2) (tstamp 7a1be13d-88cb-4026-ac80-eb63a9fba0e8))
-  (model "${KICAD7_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-8-1EP_3x3mm_P0.65mm_EP2.5x3mm_Mask1.73x2.36mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-8-1EP_3x3mm_P0.65mm_EP2.5x3mm_Mask1.73x2.36mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

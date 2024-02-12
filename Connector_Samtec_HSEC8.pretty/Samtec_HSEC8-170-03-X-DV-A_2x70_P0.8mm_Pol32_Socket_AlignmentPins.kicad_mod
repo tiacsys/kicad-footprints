@@ -223,7 +223,7 @@
   (pad "138" smd roundrect (at 28.4 -2.095) (size 0.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp b89ced5f-568a-45c1-9f48-bdcd6ce8578b))
   (pad "139" smd roundrect (at 29.2 2.095) (size 0.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp b4eed9c4-e413-4da3-91ec-d2507e9072cb))
   (pad "140" smd roundrect (at 29.2 -2.095) (size 0.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 4fc39c4a-c35a-44f1-af2a-051461e9df64))
-  (model "${KICAD7_3DMODEL_DIR}/Connector_Samtec_HSEC8.3dshapes/Samtec_HSEC8-170-03-X-DV-A_2x70_P0.8mm_Pol32_Socket_AlignmentPins.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Samtec_HSEC8.3dshapes/Samtec_HSEC8-170-03-X-DV-A_2x70_P0.8mm_Pol32_Socket_AlignmentPins.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -29,7 +29,7 @@
   (fp_line (start -1.75 0.3) (end -1.75 -0.3) (layer "F.Fab") (width 0.12) (tstamp 6eef4fe9-444b-445a-8f0e-ed0a823b49bf))
   (fp_line (start 1.75 0.3) (end -1.75 0.3) (layer "F.Fab") (width 0.12) (tstamp edc9ea64-4748-4d27-94ba-746b6432cfcf))
   (pad "1" thru_hole circle (at 0 0) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask) (tstamp c456b808-886e-47e1-b703-c92f973a6303))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.1mm_L10.2mm_W3.5mm_Flat.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.1mm_L10.2mm_W3.5mm_Flat.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

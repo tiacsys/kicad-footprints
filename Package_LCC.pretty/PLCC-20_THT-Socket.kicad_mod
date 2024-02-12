@@ -57,7 +57,7 @@
   (pad "18" thru_hole circle (at 5.08 2.54) (size 1.4224 1.4224) (drill 0.8) (layers *.Cu *.Mask) (tstamp 94cb2a43-4c68-4228-bd23-2a797aa03a7d))
   (pad "19" thru_hole circle (at 2.54 0) (size 1.4224 1.4224) (drill 0.8) (layers *.Cu *.Mask) (tstamp 56156633-9373-44ee-a842-492fb42348d9))
   (pad "20" thru_hole circle (at 2.54 2.54) (size 1.4224 1.4224) (drill 0.8) (layers *.Cu *.Mask) (tstamp cdc06232-6822-431b-8210-75cc6f483d46))
-  (model "${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-20_THT-Socket.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-20_THT-Socket.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

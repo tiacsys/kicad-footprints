@@ -52,7 +52,7 @@
   (fp_line (start 22.5 -4.7) (end 0.1 -4.7) (layer "F.Fab") (width 0.1) (tstamp 840f46ff-6a07-4c5b-b9dd-883757123193))
   (pad "1" thru_hole circle (at 0 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp fa917c29-3216-47a1-a3a5-0afc9f6af2ee))
   (pad "2" thru_hole circle (at 22.6 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 101f71e9-5861-43d3-815d-840995ea243d))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

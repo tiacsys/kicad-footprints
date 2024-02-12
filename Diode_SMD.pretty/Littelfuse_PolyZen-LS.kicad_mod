@@ -32,7 +32,7 @@
   (pad "1" smd rect (at -1.72 0) (size 0.56 2.21) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 775abacd-035f-4eb9-b754-75999569a491))
   (pad "2" smd rect (at 1.72 -0.635) (size 0.56 0.94) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d22a3228-5b0a-420e-a65c-d6b1dc96614e))
   (pad "3" smd rect (at 1.72 0.635) (size 0.56 0.94) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ac035349-d51c-4306-b108-32db21307768))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Littelfuse_PolyZen-LS.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/Littelfuse_PolyZen-LS.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

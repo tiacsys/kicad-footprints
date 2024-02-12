@@ -43,7 +43,7 @@
   (pad "7" thru_hole oval (at 7.62 12.7) (size 2.3 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 9494a975-f363-4cbd-a0f7-369f73a10ddc))
   (pad "8" thru_hole oval (at 7.62 10.16) (size 2.3 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 2c13bc98-131a-446d-ad08-d1434b490c39))
   (pad "12" thru_hole oval (at 7.62 0) (size 2.3 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 105701c1-853a-461e-a7c5-a709478b8cad))
-  (model "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_HJR-4102.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_HJR-4102.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

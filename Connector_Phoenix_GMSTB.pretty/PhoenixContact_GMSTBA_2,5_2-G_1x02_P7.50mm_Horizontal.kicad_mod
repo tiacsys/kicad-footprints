@@ -47,7 +47,7 @@
   (fp_line (start 11.25 -2) (end -3.75 -2) (layer "F.Fab") (width 0.1) (tstamp fbeecac7-da54-455a-8521-b3c149b50120))
   (pad "1" thru_hole roundrect (at 0 0) (size 2 3.6) (drill 1.4) (layers *.Cu *.Mask) (roundrect_rratio 0.125) (tstamp 2275f640-0d33-4eef-8532-4498553227d3))
   (pad "2" thru_hole oval (at 7.5 0) (size 2 3.6) (drill 1.4) (layers *.Cu *.Mask) (tstamp 2511db44-3c7d-4013-a69a-55d027b95959))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_GMSTB.3dshapes/PhoenixContact_GMSTBA_2,5_2-G_1x02_P7.50mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Phoenix_GMSTB.3dshapes/PhoenixContact_GMSTBA_2,5_2-G_1x02_P7.50mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

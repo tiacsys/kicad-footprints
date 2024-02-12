@@ -68,7 +68,7 @@
   (pad "1" smd rect (at -15.3 0) (size 6 5.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 40b73985-8318-44cf-bb01-182754ac2951))
   (pad "1" smd rect (at 15.3 0) (size 6 5.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7397bd50-a70e-4340-8993-3d1cd5862981))
   (pad "2" smd circle (at 0 0) (size 20 20) (layers "F.Cu" "F.Mask") (tstamp 5e322e88-c013-4bf4-a95e-991b067d6245))
-  (model "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_3008_1x2450.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_3008_1x2450.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

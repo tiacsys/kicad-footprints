@@ -47,7 +47,7 @@
   (pad "13" thru_hole oval (at 30.48 0) (size 1.6 2.2) (drill 1) (layers *.Cu *.Mask) (tstamp fbdb0faa-165f-4bb5-b3b1-70e97f66c13a))
   (pad "14" thru_hole oval (at 33.02 0) (size 1.6 2.2) (drill 1) (layers *.Cu *.Mask) (tstamp 27dc44bc-bc19-4304-b442-1d339ae2ee57))
   (pad "15" thru_hole oval (at 35.56 0) (size 1.6 2.2) (drill 1) (layers *.Cu *.Mask) (tstamp 465a62cb-ed4c-4ce0-a1ea-be33e0ffac6f))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_SIP.3dshapes/Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

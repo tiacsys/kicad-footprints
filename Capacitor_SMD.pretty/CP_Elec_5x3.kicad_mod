@@ -51,7 +51,7 @@
   (fp_circle (center 0 0) (end 2.5 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp c7fbf69c-73d4-4fd9-9e3b-1c1ee4299c07))
   (pad "1" smd roundrect (at -2.2 0) (size 3 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15625) (tstamp d8c50297-929b-41d3-b6a5-bf5b3f7956c4))
   (pad "2" smd roundrect (at 2.2 0) (size 3 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15625) (tstamp e39d5818-f747-47a4-91b8-4963eaf77634))
-  (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_5x3.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_5x3.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

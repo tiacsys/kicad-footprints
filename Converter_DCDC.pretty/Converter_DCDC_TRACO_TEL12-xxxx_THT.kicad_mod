@@ -35,7 +35,7 @@
   (pad "9" thru_hole oval (at 10.16 17.78) (size 2 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp fae22cba-3369-44da-827b-bf33429f7ec1))
   (pad "10" thru_hole oval (at 10.16 15.24) (size 2 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp 75b82a21-4f6c-44ca-bc0f-c21c68f137be))
   (pad "16" thru_hole oval (at 10.16 0) (size 2 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp 715c71c9-caea-47db-ad09-735f75805d1c))
-  (model "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TEL12-xxxx_THT.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TEL12-xxxx_THT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

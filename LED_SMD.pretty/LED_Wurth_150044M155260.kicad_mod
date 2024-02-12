@@ -41,7 +41,7 @@
   (pad "2" smd roundrect (at 0.4 -0.4) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ea00dee6-e085-4668-9f98-367bf5bfcba3))
   (pad "3" smd roundrect (at 0.4 0.4) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 955ca2a8-6034-4851-be6c-81c7c8cb73e5))
   (pad "4" smd roundrect (at -0.4 0.4) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 15c64775-d461-47a0-b964-0a99fef76af0))
-  (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Wurth_150044M155260.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Wurth_150044M155260.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

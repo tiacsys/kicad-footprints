@@ -37,7 +37,7 @@
   (pad "2" thru_hole oval (at 10 0) (size 2 3) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp e522c3f8-d3c7-45e1-936a-e5fd2e5e4912))
   (pad "3" thru_hole oval (at 22 0) (size 2 3) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 39181165-aa65-420b-a953-e3e70bc2cc43))
   (pad "4" thru_hole oval (at 27 0) (size 2 3) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp b2f5fdd8-17bd-464c-b7a7-489ca91f23ff))
-  (model "${KICAD7_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_NCR_HHG1D.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_NCR_HHG1D.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

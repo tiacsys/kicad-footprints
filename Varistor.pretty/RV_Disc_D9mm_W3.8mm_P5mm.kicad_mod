@@ -30,7 +30,7 @@
   (fp_line (start -2 2.8) (end 7 2.8) (layer "F.Fab") (width 0.1) (tstamp a891fff4-a8aa-4388-b337-788c7432a561))
   (pad "1" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.6) (layers *.Cu *.Mask) (tstamp 1a7de7c8-5cb9-4033-8279-5d684a8bec95))
   (pad "2" thru_hole circle (at 5 1.8) (size 1.6 1.6) (drill 0.6) (layers *.Cu *.Mask) (tstamp 34aa508e-d86e-47ef-b034-0716987944a5))
-  (model "${KICAD6_3DMODEL_DIR}/Varistor.3dshapes/RV_Disc_D9mm_W3.8mm_P5mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Varistor.3dshapes/RV_Disc_D9mm_W3.8mm_P5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

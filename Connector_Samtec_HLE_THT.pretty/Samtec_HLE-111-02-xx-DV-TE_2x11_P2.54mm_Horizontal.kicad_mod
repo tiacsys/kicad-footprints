@@ -52,7 +52,7 @@
   (pad "20" thru_hole circle (at 22.86 2.54) (size 1.31 1.31) (drill 0.71) (layers *.Cu *.Mask) (tstamp 7ba2202c-b4d0-4458-85d6-307b72ecb25a))
   (pad "21" thru_hole circle (at 25.4 0) (size 1.31 1.31) (drill 0.71) (layers *.Cu *.Mask) (tstamp ae10c0a3-32bc-488a-a512-a17d4bba4f80))
   (pad "22" thru_hole circle (at 25.4 2.54) (size 1.31 1.31) (drill 0.71) (layers *.Cu *.Mask) (tstamp 6fe8895f-a2d5-4106-87e2-a6463c7ed8eb))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Samtec_HLE_THT.3dshapes/Samtec_HLE-111-02-xx-DV-TE_2x11_P2.54mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Samtec_HLE_THT.3dshapes/Samtec_HLE-111-02-xx-DV-TE_2x11_P2.54mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

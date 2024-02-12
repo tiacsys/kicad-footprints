@@ -190,7 +190,7 @@
   (pad "H38" smd circle (at 3.175 22.225 90) (size 0.64 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6417affa-b6ff-4a70-abc5-4a9bb317491e))
   (pad "H39" smd circle (at 3.175 23.495 90) (size 0.64 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7d642f72-5d77-4582-8324-52ea94a7820b))
   (pad "H40" smd circle (at 3.175 24.765 90) (size 0.64 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 60879bea-69b0-4cf9-ac6c-e14c952e169b))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_FMC_ASP-134604-01_4x40_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_FMC_ASP-134604-01_4x40_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

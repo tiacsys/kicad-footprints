@@ -118,7 +118,7 @@
   (fp_arc (start 14.99272 0.918387) (mid 10.230202 -0.009888) (end 15 -0.9) (layer "F.Fab") (width 0.1) (tstamp d173c5a3-bb93-424b-a7c3-4aebc24eb366))
   (pad "1" thru_hole circle (at 12.7 0) (size 6 6) (drill 3.5) (layers *.Cu *.Mask) (tstamp 3253b276-bf7b-4b53-82d3-6940f3705bd4))
   (pad "1" thru_hole circle (at -12.7 0 180) (size 6 6) (drill 3.5) (layers *.Cu *.Mask) (tstamp f466c5f5-afa1-44e0-ab10-62a20ba9161d))
-  (model "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

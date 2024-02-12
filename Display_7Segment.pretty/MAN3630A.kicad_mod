@@ -46,7 +46,7 @@
   (pad "12" thru_hole circle (at 7.62 5.08) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp a5337357-cd90-40a1-9fb1-cfa2cd1a450c))
   (pad "13" thru_hole circle (at 7.62 2.54) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp bd973d09-18eb-4d23-a9bf-b7a8babb5c25))
   (pad "14" thru_hole circle (at 7.62 0) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp 28584dd8-4109-424d-be3d-3779fb88227b))
-  (model "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/MAN3630A.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Display_7Segment.3dshapes/MAN3630A.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

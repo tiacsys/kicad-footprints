@@ -82,7 +82,7 @@
   (pad "17" smd roundrect (at 8 -2.775) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 0041b49d-448b-421f-b19c-1d7adc358ad6))
   (pad "MP" smd roundrect (at -9.3 1.05) (size 0.8 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 75dc8442-4481-4124-afbd-aa70e8fc7ce3))
   (pad "MP" smd roundrect (at 9.3 1.05) (size 0.8 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 095dcb88-25ce-423d-8e5b-621f5d87da01))
-  (model "${KICAD7_3DMODEL_DIR}/Connector_Samtec_MicroMate.3dshapes/Samtec_T1M-17-X-SH-L_1x17-1MP_P1.0mm_Terminal_Horizontal_Latch.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Samtec_MicroMate.3dshapes/Samtec_T1M-17-X-SH-L_1x17-1MP_P1.0mm_Terminal_Horizontal_Latch.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

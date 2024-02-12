@@ -33,7 +33,7 @@
   (fp_circle (center 0 0) (end 3 3) (layer "F.Fab") (width 0.1) (fill none) (tstamp ddb86d75-515e-4297-ac11-5989c73c0f39))
   (pad "1" smd rect (at -2.35 0) (size 3.3 8.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 72e67b1f-185a-414f-8e3b-1e64297cd919))
   (pad "2" smd rect (at 2.35 0) (size 3.3 8.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1723d504-c512-4e93-9557-b4bea16cf510))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_VLP8040.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_VLP8040.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

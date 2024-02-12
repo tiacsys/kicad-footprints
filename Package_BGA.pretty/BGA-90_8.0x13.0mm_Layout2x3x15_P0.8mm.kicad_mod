@@ -135,7 +135,7 @@
   (pad "R7" smd circle (at 1.6 5.6) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c4f26bf3-aa15-4dc4-97c3-31a40b2ff8da))
   (pad "R8" smd circle (at 2.4 5.6) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ec4b0fb0-55c8-486a-9ad0-ed08e9746557))
   (pad "R9" smd circle (at 3.2 5.6) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fb4cb18d-3459-41b3-a591-b19e93b3f65a))
-  (model "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

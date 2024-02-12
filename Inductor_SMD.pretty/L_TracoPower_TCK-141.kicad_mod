@@ -36,7 +36,7 @@
   (fp_arc (start 1.21 1.21) (mid 0 1.711198) (end -1.21 1.21) (layer "F.Fab") (width 0.1) (tstamp 3a2fe259-a2da-4fe0-b6af-03e079001886))
   (pad "1" smd rect (at -2.05 0) (size 1.9 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fd27cf49-5dc5-4168-9ebf-2f553ac6743c))
   (pad "2" smd rect (at 2.05 0) (size 1.9 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4ac210e7-5696-40f8-9068-3156a7b43c6b))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TracoPower_TCK-141.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TracoPower_TCK-141.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

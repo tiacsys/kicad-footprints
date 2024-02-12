@@ -41,7 +41,7 @@
   (pad "1" thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp de99ea5f-948e-4f55-a655-f0fa893877d4))
   (pad "2" thru_hole circle (at 5.08 5.08) (size 1.8 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp 109a18b0-347f-4af1-83b6-b2874bd28c15))
   (pad "2" thru_hole circle (at 0 5.08) (size 1.8 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp 67673a62-5957-4fde-b32c-81e71638a291))
-  (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

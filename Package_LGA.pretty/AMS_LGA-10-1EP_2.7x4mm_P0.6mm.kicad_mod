@@ -71,7 +71,7 @@
   (pad "11" smd trapezoid (at 0 -1.1) (size 1 0.3) (rect_delta 0 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d93e5baa-f199-4602-892f-372c3380ec8e))
   (pad "11" smd rect (at 0 0.15) (size 1.3 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8de5f837-9939-4bb5-912c-50ee72908eb2))
   (pad "11" smd rect (at 0.15 -1.1) (size 1 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e764a0f4-7f4c-4583-b5b8-fee185fa47bb))
-  (model "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/AMS_LGA-10-1EP_2.7x4mm_P0.6mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_LGA.3dshapes/AMS_LGA-10-1EP_2.7x4mm_P0.6mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

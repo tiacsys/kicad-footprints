@@ -32,7 +32,7 @@
   (pad "4" smd roundrect (at 1.375 1.4) (size 1.35 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.0625) (tstamp ac3fc580-a2a8-4c12-a134-2451b191b61a))
   (pad "5" smd roundrect (at 1.375 0) (size 1.35 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.0625) (tstamp b9ba380b-47a2-4e24-b773-050c92569981))
   (pad "6" smd roundrect (at 1.375 -1.4) (size 1.35 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.0625) (tstamp 4a302fd1-9be9-487d-a32e-a66f7a8593da))
-  (model "${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Murata_SFECF-6.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Filter.3dshapes/Filter_Murata_SFECF-6.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

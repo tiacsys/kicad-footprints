@@ -207,7 +207,7 @@
   (pad "12" thru_hole circle (at 10.16 -25.4) (size 2.5 2.5) (drill 1.6) (layers *.Cu *.Mask) (tstamp 8b0e90a8-7fcb-4b4d-80ce-60dc409458e2))
   (pad "13" thru_hole circle (at 5.08 -25.4) (size 2.5 2.5) (drill 1.6) (layers *.Cu *.Mask) (tstamp 4b546f9c-f695-4fda-8450-298c9a72051e))
   (pad "14" thru_hole circle (at 0 -25.4) (size 2.5 2.5) (drill 1.6) (layers *.Cu *.Mask) (tstamp e0889922-3608-4655-96da-00c9e5884931))
-  (model "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Myrra_74040_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Myrra_74040_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

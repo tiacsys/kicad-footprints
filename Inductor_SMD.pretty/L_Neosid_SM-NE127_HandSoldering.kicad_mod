@@ -33,7 +33,7 @@
   (fp_circle (center 0 0) (end 5 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp f7d4310f-cd88-4997-bd24-78eacd3f1793))
   (pad "1" smd rect (at -5.5 0) (size 3.9 5.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 049099cb-0fcd-441d-978b-31f41bbd0099))
   (pad "2" smd rect (at 5.5 0) (size 3.9 5.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a5121cbc-5c16-4ad9-b5aa-6b984ff8aa84))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_SM-NE127.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_SM-NE127.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

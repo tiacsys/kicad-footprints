@@ -48,7 +48,7 @@
   (pad "R2" smd rect (at -3.175 -3.25) (size 1.2 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 61062f4b-bcb0-49cd-9697-b248624a55b1))
   (pad "S" smd rect (at 4.925 3.25) (size 1.2 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 723b5222-9e67-4451-b708-6dc20c72d106))
   (pad "T" smd rect (at 3.825 -3.25) (size 1.2 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0471b2b5-a483-4cc9-b90a-e928365c20d0))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_PJ320D_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_PJ320D_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -46,7 +46,7 @@
   (pad "10" smd roundrect (at 4.5 -2.025) (size 0.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ea5817dc-2bd2-48af-a921-bcc424fb7af6))
   (pad "MP" smd roundrect (at 5.8 1.875) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp 7ee5b89c-9739-4810-a2b2-b16bb6e38dc6))
   (pad "MP" smd roundrect (at -5.8 1.875) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp f8ae1539-89aa-402d-941c-f04f564ec97e))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Pico-Clasp_202396-1007_1x10-1MP_P1.00mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Pico-Clasp_202396-1007_1x10-1MP_P1.00mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

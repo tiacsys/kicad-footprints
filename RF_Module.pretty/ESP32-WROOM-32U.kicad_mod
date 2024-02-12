@@ -118,7 +118,7 @@
   (pad "39" smd rect (at -0.1 -0.69) (size 0.9 0.9) (layers "F.Cu" "F.Paste") (tstamp 7d1e309c-9905-46a4-9c69-61f245016199))
   (pad "39" thru_hole circle (at -0.1 0.01) (size 0.6 0.6) (drill 0.2) (property pad_prop_heatsink) (layers "*.Cu" "F.Mask") (tstamp 79a0fca8-74d6-42c5-8b7d-99b2f2755ea9))
   (pad "39" smd rect (at -0.1 0.71) (size 0.9 0.9) (layers "F.Cu" "F.Paste") (tstamp 743fce41-41f2-4ce9-802d-171213758744))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ESP32-WROOM-32U.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_Module.3dshapes/ESP32-WROOM-32U.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

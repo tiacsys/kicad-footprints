@@ -60,7 +60,7 @@
   (pad "18" thru_hole oval (at 43.18 0 180) (size 1.8 2.5) (drill 1.2) (layers *.Cu *.Mask) (tstamp 4a966f4d-98f3-4648-a4db-9c4fbcba3de3))
   (pad "19" thru_hole oval (at 45.72 0 180) (size 1.8 2.5) (drill 1.2) (layers *.Cu *.Mask) (tstamp 29425893-9d14-4cb7-abbd-78836224c103))
   (pad "20" thru_hole oval (at 48.26 0 180) (size 1.8 2.5) (drill 1.2) (layers *.Cu *.Mask) (tstamp a7d12ae1-d67c-469f-aa0f-8401508e3ac5))
-  (model "${KICAD6_3DMODEL_DIR}/Display.3dshapes/ERM19264.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Display.3dshapes/ERM19264.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

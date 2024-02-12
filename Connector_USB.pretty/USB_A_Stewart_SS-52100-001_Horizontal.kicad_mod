@@ -63,7 +63,7 @@
   (pad "4" thru_hole circle (at 7 0) (size 1.6 1.6) (drill 0.92) (layers *.Cu *.Mask) (tstamp e646ff68-1a0c-40fd-8d52-27854e4b6a29))
   (pad "5" thru_hole circle (at -3.07 2.71) (size 3 3) (drill 2.3) (layers *.Cu *.Mask) (tstamp 07c3b6d0-0c73-4e26-b58b-edd2ef0fb6f2))
   (pad "5" thru_hole circle (at 10.07 2.71) (size 3 3) (drill 2.3) (layers *.Cu *.Mask) (tstamp 5853d5ae-fdea-457c-b80c-d05e298c712b))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_Stewart_SS-52100-001_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_Stewart_SS-52100-001_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

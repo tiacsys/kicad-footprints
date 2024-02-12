@@ -71,7 +71,7 @@
   (pad "18" smd rect (at 4.0525 -2.54) (size 1.925 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6b4b22e8-40c4-4adc-84f2-a17ce9c32e9f))
   (pad "19" smd rect (at 2.54 -4.0525) (size 0.7 1.925) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 10fa3ff1-be3c-4e43-8bb5-c5296f398a79))
   (pad "20" smd rect (at 1.27 -4.0525) (size 0.7 1.925) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp efc05455-707b-4fbe-b5cb-73ca55269f9a))
-  (model "${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-20_SMD-Socket.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-20_SMD-Socket.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

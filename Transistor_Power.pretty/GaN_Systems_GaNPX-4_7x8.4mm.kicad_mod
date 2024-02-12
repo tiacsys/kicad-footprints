@@ -83,7 +83,7 @@
     ) (tstamp 5a28e9ad-e7d2-4bc4-8958-63842e36a336))
   (pad "3" smd roundrect (at -2.93 3.63) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 00b71cb3-2a5d-46a4-b44f-b4c0f67004d9))
   (pad "4" smd roundrect (at -1.43 3.63) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9f79dba6-712a-4011-9450-27ecc7c93606))
-  (model "${KICAD7_3DMODEL_DIR}/Transistor_Power.3dshapes/GaN_Systems_GaNPX-4_7x8.4mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Transistor_Power.3dshapes/GaN_Systems_GaNPX-4_7x8.4mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

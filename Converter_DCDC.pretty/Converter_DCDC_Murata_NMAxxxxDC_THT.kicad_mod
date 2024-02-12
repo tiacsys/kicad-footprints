@@ -37,7 +37,7 @@
   (pad "9" thru_hole oval (at 7.62 12.7) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp 4293622a-fbc3-491a-9bb4-1e698c46c7ee))
   (pad "11" thru_hole oval (at 7.62 7.62) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp c95e72f1-31a2-4efa-b067-7cc27649a62a))
   (pad "14" thru_hole oval (at 7.62 0) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp 00ff4248-f580-4f59-b1b5-97ae0c2a49d5))
-  (model "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_NMAxxxxDC_THT.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_NMAxxxxDC_THT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

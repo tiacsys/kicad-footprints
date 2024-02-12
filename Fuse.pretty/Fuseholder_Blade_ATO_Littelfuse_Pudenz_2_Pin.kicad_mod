@@ -33,7 +33,7 @@
   (pad "" np_thru_hole circle (at 4.6 1.2) (size 2.4 2.4) (drill 2.4) (layers *.Cu *.Mask) (tstamp 2a3b0e65-0bbc-4424-9d92-3345617705b1))
   (pad "1" thru_hole circle (at 0 0) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask) (tstamp 9fb38c4d-d16d-431e-959b-f9e2ba284e7a))
   (pad "2" thru_hole circle (at 9.2 0) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask) (tstamp ae975611-9869-4bfc-8504-790448297db8))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

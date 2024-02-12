@@ -52,7 +52,7 @@
   (pad "14" thru_hole circle (at 11.43 11.17 90) (size 1.72 1.72) (drill 1.02) (layers *.Cu *.Mask) (tstamp 559fb7f5-a7c7-4462-b4dd-181b846116a9))
   (pad "SH" thru_hole circle (at 5.84 -3.43 90) (size 2.2 2.2) (drill 1.63) (layers *.Cu *.Mask) (tstamp 4b3ba5a1-4fd7-4d30-91df-05da900c08b4))
   (pad "SH" thru_hole circle (at 5.84 12.32 90) (size 2.2 2.2) (drill 1.63) (layers *.Cu *.Mask) (tstamp fe7958c7-c3b3-4cc0-abd4-a4d9ace29aff))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -37,7 +37,7 @@
   (pad "1" thru_hole roundrect (at 0 0) (size 1.2 1.8) (drill 0.85) (layers *.Cu *.Mask) (roundrect_rratio 0.208) (tstamp 6856db16-8aef-403d-a84b-18c619acb281))
   (pad "2" thru_hole oval (at 1.9 0) (size 1.2 1.8) (drill 0.85) (layers *.Cu *.Mask) (tstamp 9b1d7251-c1f2-44c0-a7b9-2f2ed066e18e))
   (pad "3" thru_hole oval (at 3.8 0) (size 1.2 1.8) (drill 0.85) (layers *.Cu *.Mask) (tstamp 2b1ade01-9641-41f8-b339-2b9c137a8271))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/ONSemi_QSE15x.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/ONSemi_QSE15x.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

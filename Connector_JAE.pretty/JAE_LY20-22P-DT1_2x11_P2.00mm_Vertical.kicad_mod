@@ -72,7 +72,7 @@
   (pad "b9" thru_hole circle (at 2 16) (size 1.2 1.2) (drill 0.8) (layers *.Cu *.Mask) (tstamp 647bce76-edbb-45bc-bb92-3c3ce501718d))
   (pad "b10" thru_hole circle (at 2 18) (size 1.2 1.2) (drill 0.8) (layers *.Cu *.Mask) (tstamp 700b3895-529e-43e7-b204-230f83f6e25d))
   (pad "b11" thru_hole circle (at 2 20) (size 1.2 1.2) (drill 0.8) (layers *.Cu *.Mask) (tstamp 4d0d2684-de73-4d4c-b66c-e8d8ae85d496))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_JAE.3dshapes/JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_JAE.3dshapes/JAE_LY20-22P-DT1_2x11_P2.00mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -47,7 +47,7 @@
   (pad "6" thru_hole circle (at 7.62 15.24) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 7d79b6c0-5626-42f9-bdb4-bcf729193eac))
   (pad "7" thru_hole circle (at 7.62 2.54) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 7ab64dff-9104-4e85-9b64-3d5e3d3a1550))
   (pad "8" thru_hole circle (at 7.62 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 60943a36-cde7-4b36-b059-db23be6b64d0))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8-16_W7.62mm_Socket.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8-16_W7.62mm_Socket.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

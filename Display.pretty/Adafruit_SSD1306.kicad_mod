@@ -80,7 +80,7 @@
   (pad "6" thru_hole circle (at 12.7 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp e370eb7b-7d71-4f17-8adc-2b48c1a58a72))
   (pad "7" thru_hole circle (at 15.24 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp f0028d0f-dcb0-49e6-af15-a2f392538e3d))
   (pad "8" thru_hole circle (at 17.78 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 5cb3c167-6c27-4c39-9beb-d495d3c17f02))
-  (model "${KICAD6_3DMODEL_DIR}/Display.3dshapes/Adafruit_SSD1306.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Display.3dshapes/Adafruit_SSD1306.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

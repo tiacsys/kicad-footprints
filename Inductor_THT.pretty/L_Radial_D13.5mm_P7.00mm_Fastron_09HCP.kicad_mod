@@ -21,7 +21,7 @@
   (fp_circle (center 3.5 0) (end 10.25 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp 0db42949-79f1-4f24-b160-81e1c52e2c1a))
   (pad "1" thru_hole circle (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp 72a5a58f-6b8e-462c-8768-c1b679a77b45))
   (pad "2" thru_hole circle (at 7 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp d547a2b7-3456-4495-9c3f-5b2ba065d4f7))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D13.5mm_P7.00mm_Fastron_09HCP.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D13.5mm_P7.00mm_Fastron_09HCP.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

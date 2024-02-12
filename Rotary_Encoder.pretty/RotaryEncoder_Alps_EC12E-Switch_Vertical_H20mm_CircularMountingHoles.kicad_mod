@@ -50,7 +50,7 @@
   (pad "MP" thru_hole circle (at 7.5 -3.1) (size 2.8 2.8) (drill 2.2) (layers *.Cu *.Mask) (tstamp a152f2b2-f490-491e-b502-2e2dae2e6d47))
   (pad "S1" thru_hole circle (at 14.5 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 1c20bb92-0003-4716-90ff-75f1a91efcdf))
   (pad "S2" thru_hole circle (at 14.5 5) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 8429ef68-af9f-4325-a987-c6ba37226955))
-  (model "${KICAD6_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

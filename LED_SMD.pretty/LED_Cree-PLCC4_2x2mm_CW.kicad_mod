@@ -45,7 +45,7 @@
   (pad "2" smd rect (at 0.75 -0.55) (size 1 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4c52fcc9-7ab5-4683-ae53-e1394bb45b74))
   (pad "3" smd rect (at 0.75 0.55) (size 1 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9ef4708d-91cf-47d6-aecd-f8ef0dbf9ccc))
   (pad "4" smd rect (at -0.75 0.55) (size 1 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0d3775f2-e310-4372-bb60-9f61ea01258f))
-  (model "${KICAD7_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-PLCC4_2x2mm_CW.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-PLCC4_2x2mm_CW.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

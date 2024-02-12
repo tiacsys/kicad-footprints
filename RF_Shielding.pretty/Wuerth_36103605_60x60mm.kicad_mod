@@ -124,7 +124,7 @@
   (pad "1" smd rect (at -30.25 8.75) (size 1 2.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f8dd4d6a-2023-4fc9-b3de-b7c870f9e798))
   (pad "1" smd rect (at -30.25 -18.75) (size 1 2.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fb93afe6-f316-43ae-8adf-10e8753d33bf))
   (pad "1" smd rect (at 28.5 30.25) (size 2.5 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fdeca2a0-d7c7-436d-9fa7-17c97c239b5d))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Wuerth_36103605_60x60mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_Shielding.3dshapes/Wuerth_36103605_60x60mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -28,7 +28,7 @@
   (fp_line (start -1.6 1.25) (end -1.6 -1.25) (layer "F.Fab") (width 0.1) (tstamp d7d9c9d7-2c8b-4b27-b96c-fb56c2d50eec))
   (pad "1" smd rect (at -1.6 0) (size 1.2 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 34da4ef8-79fa-49b3-bde8-0d10f049ecd5))
   (pad "2" smd rect (at 1.6 0) (size 1.2 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 370effed-e624-49a5-8981-c07e9fc03e0e))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_NLV32_3.2x2.5mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_NLV32_3.2x2.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

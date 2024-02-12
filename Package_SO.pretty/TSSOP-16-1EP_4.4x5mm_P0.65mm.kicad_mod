@@ -78,7 +78,7 @@
     (solder_paste_margin_ratio -0.2) (tstamp 0bbcf083-2eb1-451e-90dc-470bce4f148b))
   (pad "17" smd rect (at 0.735 1.3425) (size 1.47 0.895) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_paste_margin_ratio -0.2) (tstamp 15e647b5-6f6f-403f-ba7a-4201d25a47f5))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-16-1EP_4.4x5mm_P0.65mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-16-1EP_4.4x5mm_P0.65mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -44,7 +44,7 @@
   (pad "10" thru_hole circle (at 13 5.08) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 9797aff1-d9bc-4747-8bca-e6c31c979558))
   (pad "11" thru_hole circle (at 13 2.54) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 717e5e40-511f-42f3-8ce9-4e77fef55ee6))
   (pad "12" thru_hole circle (at 13 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 3f3ebce0-8ad8-454e-ad44-a05d8c65ca8c))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ZETA-433-SO_THT.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_Module.3dshapes/ZETA-433-SO_THT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

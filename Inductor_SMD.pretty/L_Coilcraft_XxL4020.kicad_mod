@@ -28,7 +28,7 @@
   (fp_line (start -2 -2) (end 2 -2) (layer "F.Fab") (width 0.1) (tstamp e2fe5d2b-34cd-4d1b-abaa-600b81334b9b))
   (pad "1" smd rect (at -1.185 0) (size 0.98 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ae5837f3-6ac5-4f29-ad58-2eed88adc41c))
   (pad "2" smd rect (at 1.185 0) (size 0.98 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 359c5a1d-cbac-4646-9ee9-155e5df5bc2e))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Coilcraft_XxL4020.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Coilcraft_XxL4020.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

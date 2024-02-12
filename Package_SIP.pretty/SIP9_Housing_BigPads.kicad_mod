@@ -45,7 +45,7 @@
   (pad "7" thru_hole oval (at 15.24 0 90) (size 2.7 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 27141163-5e8a-43ec-9c7c-5ba4e8c45b6f))
   (pad "8" thru_hole oval (at 17.78 0 90) (size 2.7 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 9b084b1a-0763-46b2-8a3d-af08f4465401))
   (pad "9" thru_hole oval (at 20.32 0 90) (size 2.7 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 4abae06c-a283-4bdb-adda-877f8cc07cfb))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP9_Housing_BigPads.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_SIP.3dshapes/SIP9_Housing_BigPads.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

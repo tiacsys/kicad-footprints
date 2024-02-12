@@ -45,7 +45,7 @@
   (pad "10" smd rect (at -0.8 0.8 90) (size 0.5 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e142d1d3-f325-4665-96dd-f67681c48472))
   (pad "11" smd rect (at -1.6 0.8 90) (size 0.5 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 62843afc-0b5f-4211-8edd-7d36bd89ca9b))
   (pad "12" smd rect (at -1.6 0 90) (size 0.5 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e81d402b-a4bc-41c7-b1f4-b57b54e654a8))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/ST_VL53L1X.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/ST_VL53L1X.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

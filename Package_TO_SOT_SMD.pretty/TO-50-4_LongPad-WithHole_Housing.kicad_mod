@@ -54,7 +54,7 @@
   (pad "2" smd rect (at 0.7 -6.8 90) (size 7 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 49a65b2a-4c42-459c-b866-dd78b44908ed))
   (pad "3" smd rect (at -7.5 0 90) (size 1.5 10) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d3990f30-41af-42fe-a64a-c5b1f22d6642))
   (pad "4" smd rect (at 0.7 6.8 90) (size 7 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0b3ce94f-358b-43a0-b82f-9061edafcc6c))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-50-4_LongPad-WithHole_Housing.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-50-4_LongPad-WithHole_Housing.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -111,7 +111,7 @@
   (pad "5" thru_hole rect (at 4.4 40) (size 4.5 4.8) (drill 2.8) (layers *.Cu *.Mask) (tstamp e7dec4b0-1ba6-4810-9e56-3e0ae57a90ed))
   (pad "6" thru_hole rect (at 4.4 50) (size 4.5 4.8) (drill 2.8) (layers *.Cu *.Mask) (tstamp 3de979d9-a66b-4615-81c1-b84046ebd4b4))
   (pad "6" thru_hole rect (at 0 50) (size 4.5 4.8) (drill 2.8) (layers *.Cu *.Mask) (tstamp 91b4648c-d150-48b5-bc1e-88fe3ef05020))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Mini-Fit_Sr_42819-62XX_1x06_P10.00mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Mini-Fit_Sr_42819-62XX_1x06_P10.00mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

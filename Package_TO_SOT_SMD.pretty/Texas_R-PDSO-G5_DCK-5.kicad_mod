@@ -44,7 +44,7 @@
   (pad "3" smd roundrect (at -1.1 0.65) (size 0.9 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c1c2f86c-e555-4fda-8a47-872fabb757e6))
   (pad "4" smd roundrect (at 1.1 0.65) (size 0.9 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 39a7ffc5-c274-4ea9-a21d-78f5ddbc5dd4))
   (pad "5" smd roundrect (at 1.1 -0.65) (size 0.9 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 222967f9-2584-408d-8411-9d0a3bcd6b5a))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Texas_R-PDSO-G5_DCK-5.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Texas_R-PDSO-G5_DCK-5.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

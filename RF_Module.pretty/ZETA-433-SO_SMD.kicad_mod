@@ -68,7 +68,7 @@
   (pad "10" smd rect (at 7.25 -1.27) (size 3 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 619ae794-6912-4ad4-98f5-bf22ed8b5ff0))
   (pad "11" smd rect (at 7.25 -3.81) (size 3 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dde13b36-47c9-4c5a-b2a7-48fc5b4008e6))
   (pad "12" smd rect (at 7.25 -6.35) (size 3 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 899f7f8a-559b-4dbd-b45d-f130ac253181))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ZETA-433-SO_SMD.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_Module.3dshapes/ZETA-433-SO_SMD.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

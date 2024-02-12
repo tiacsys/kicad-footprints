@@ -56,7 +56,7 @@
   (pad "1" thru_hole circle (at 0 0 180) (size 2.5908 2.5908) (drill 1.8288) (layers "*.Cu" "*.Mask") (tstamp ddae2572-061a-4a62-8c41-ea5e4b6237a5))
   (pad "1" thru_hole circle (at 7.62 -2.54 180) (size 2.5908 2.5908) (drill 1.8288) (layers "*.Cu" "*.Mask") (tstamp 211a1e9f-ad4f-4367-891d-2fb8f2c28c24))
   (pad "1" thru_hole circle (at 7.62 2.54 180) (size 2.5908 2.5908) (drill 1.8288) (layers "*.Cu" "*.Mask") (tstamp 999b0ac4-ed5b-4f6f-8fae-ac3c292c2ba5))
-  (model "${KICAD7_3DMODEL_DIR}/Battery.3dshapes/BatteryClip_Keystone_54_D16-19mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Battery.3dshapes/BatteryClip_Keystone_54_D16-19mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

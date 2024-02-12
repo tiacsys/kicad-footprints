@@ -39,7 +39,7 @@
   (pad "2" smd rect (at -2.9 2.54 270) (size 1.5 2.5) (drill (offset 0 1.25)) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9413b22c-eac6-4c71-8941-de15fea207c7))
   (pad "3" smd rect (at 2.9 2.54 270) (size 1.5 2.5) (drill (offset 0 -1.25)) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0535f63c-e47b-4a0b-ad2f-8add9cd6967e))
   (pad "4" smd rect (at 2.9 -2.54 270) (size 1.5 2.5) (drill (offset 0 -1.25)) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f8baae9c-19ee-4a3f-8f5e-47e4be8539b0))
-  (model "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Abracon_ABLNO.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Abracon_ABLNO.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

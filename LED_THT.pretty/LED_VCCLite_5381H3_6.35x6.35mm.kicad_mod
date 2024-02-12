@@ -44,7 +44,7 @@
   (fp_arc (start -1.538265 3.057078) (mid -2.058655 1.26233) (end -1.53 -0.53) (layer "F.Fab") (width 0.1) (tstamp f06ff2ca-514e-4e48-ad96-747b8de98b23))
   (pad "1" thru_hole rect (at 0 0 270) (size 1.75 1.75) (drill 0.7) (layers *.Cu *.Mask) (tstamp 0a908bc2-8f8f-48c5-8dde-4d54065e0a5f))
   (pad "2" thru_hole circle (at 2.54 2.54 270) (size 1.75 1.75) (drill 0.7) (layers *.Cu *.Mask) (tstamp b4aa88bd-1330-46a1-881b-055bf7d3f536))
-  (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_VCCLite_5381H3_6.35x6.35mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_VCCLite_5381H3_6.35x6.35mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -80,7 +80,7 @@
   (pad "" np_thru_hole circle (at -4.3 0) (size 2.4 2.4) (drill 2.4) (layers *.Cu *.Mask) (tstamp 7015918f-930a-4743-9ba8-348ce4fd16ad))
   (pad "1" thru_hole roundrect (at 0 0) (size 1.8 3.6) (drill 1.2) (layers *.Cu *.Mask) (roundrect_rratio 0.138889) (tstamp 13b858b4-d0ec-490e-b2b9-021e8c40c7b8))
   (pad "2" thru_hole oval (at 3.5 0) (size 1.8 3.6) (drill 1.2) (layers *.Cu *.Mask) (tstamp 0433aab6-b3b0-4d49-b356-635efba8d550))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MCV_1,5_2-GF-3.5_1x02_P3.50mm_Vertical_ThreadedFlange_MountHole.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MCV_1,5_2-GF-3.5_1x02_P3.50mm_Vertical_ThreadedFlange_MountHole.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

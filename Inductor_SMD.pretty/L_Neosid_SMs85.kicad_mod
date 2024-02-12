@@ -32,7 +32,7 @@
   (fp_line (start -4.4 5.4) (end -4.4 -5.4) (layer "F.Fab") (width 0.1) (tstamp 948ba584-fe37-4e4c-b8a3-06061e65b75e))
   (pad "1" smd rect (at -3.38 0) (size 2.25 4.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4e39d4e8-98d1-4ce0-a45b-044f27ec26bd))
   (pad "2" smd rect (at 3.38 0) (size 2.25 4.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e01a2e27-bd2c-4d7e-81c6-2100500dcc6e))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_SMs85.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_SMs85.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -37,7 +37,7 @@
   (pad "4" thru_hole circle (at 36.694303 17.240222) (size 6.2 6.2) (drill 3.2) (layers "*.Cu" "*.Mask") (tstamp 0e006e01-b151-4d6e-9611-84a495b7aa73))
   (pad "5" thru_hole circle (at 53.693621 -0.00036) (size 6.2 6.2) (drill 3.2) (layers "*.Cu" "*.Mask") (tstamp a7a1f59e-8d15-4e06-905f-22be81858b05))
   (pad "6" thru_hole circle (at 23.425836 6.103155) (size 6.2 6.2) (drill 3.2) (layers "*.Cu" "*.Mask") (tstamp 0aef89f6-51fb-4509-a0eb-b9b287be1273))
-  (model "${KICAD7_3DMODEL_DIR}/Inductor_THT.3dshapes/L_CommonMode_VAC_T60405-S6123-X240.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_CommonMode_VAC_T60405-S6123-X240.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

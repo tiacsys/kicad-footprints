@@ -31,7 +31,7 @@
   (pad "2" smd rect (at -0.76 0.4 180) (size 0.76 0.43) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b3461a14-9012-41be-865a-c3966415f039))
   (pad "3" smd rect (at 0.76 0.4 180) (size 0.76 0.43) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 11d97768-0958-4342-a97f-76cf3a582a8c))
   (pad "4" smd rect (at 0.76 -0.4 180) (size 0.76 0.43) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c1bf8d14-1037-42f8-a79b-097b2251e03d))
-  (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Cat16-2.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Cat16-2.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

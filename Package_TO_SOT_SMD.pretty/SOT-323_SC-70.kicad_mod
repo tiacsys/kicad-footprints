@@ -44,7 +44,7 @@
   (pad "1" smd rect (at -1 -0.65 270) (size 0.45 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3502a4b1-e288-450a-b1f3-8ba616905090))
   (pad "2" smd rect (at -1 0.65 270) (size 0.45 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a6cd3be6-0bf7-4dda-9c7d-b86edac026e2))
   (pad "3" smd rect (at 1 0 270) (size 0.45 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fc6aa3f8-baa9-4662-9822-109b876508cb))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-323_SC-70.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-323_SC-70.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

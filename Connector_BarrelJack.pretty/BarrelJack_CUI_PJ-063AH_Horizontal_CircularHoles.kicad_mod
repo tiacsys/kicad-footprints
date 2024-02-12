@@ -40,7 +40,7 @@
   (pad "2" thru_hole circle (at 0 6) (size 3.3 3.3) (drill 2.3) (layers *.Cu *.Mask) (tstamp 22748cd3-3ce4-4c62-a9d0-dfc5be3e1c62))
   (pad "MP" thru_hole circle (at 4.5 7) (size 3.5 3.5) (drill 2.5) (layers *.Cu *.Mask) (tstamp 0bf649e6-4ee0-40cf-b55c-f0576dc85211))
   (pad "MP" thru_hole circle (at -4.5 7) (size 3.5 3.5) (drill 2.5) (layers *.Cu *.Mask) (tstamp 6e9b626d-d0bb-474a-902b-83a2f311dad0))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

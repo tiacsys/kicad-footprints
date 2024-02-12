@@ -62,7 +62,7 @@
   (pad "6" smd roundrect (at 0.775 0.485 270) (size 0.72 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 983fab00-d7e8-42b7-9f62-b060734280f0))
   (pad "7" smd roundrect (at 0.775 -0.485 270) (size 0.72 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp f0738706-c796-477a-8098-faf24ebd9ee8))
   (pad "8" smd roundrect (at 0.775 -1.455 270) (size 0.72 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 50388c76-7fb0-4ded-b3e5-1a78f21f780c))
-  (model "${KICAD7_3DMODEL_DIR}/Sensor.3dshapes/Rohm_RPR-0521RS.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor.3dshapes/Rohm_RPR-0521RS.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

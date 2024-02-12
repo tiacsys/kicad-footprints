@@ -54,7 +54,7 @@
   (pad "8" thru_hole circle (at 20 -10) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 7228c1de-e9db-4d53-af40-18145126c141))
   (pad "9" thru_hole circle (at 20 -5) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 99a51cb2-60ba-4ea2-9a2d-687f1d5e2712))
   (pad "10" thru_hole circle (at 20 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 44ec1a28-5317-4e7a-98d6-80d7e1e26203))
-  (model "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_CHK_EI30-2VA_Neutral.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_CHK_EI30-2VA_Neutral.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

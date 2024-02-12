@@ -29,7 +29,7 @@
   (pad "6" thru_hole circle (at -17.78 -7.62) (size 3.81 3.81) (drill 1.8) (layers *.Cu *.Mask) (tstamp 5d77099e-f8d1-4630-a356-309342b3739a))
   (pad "7" thru_hole circle (at -15.24 0) (size 3.81 3.81) (drill 1.8) (layers *.Cu *.Mask) (tstamp c407278e-b044-46b8-85dd-e02e03c034e1))
   (pad "8" thru_hole circle (at -7.62 2.54) (size 3.81 3.81) (drill 1.8) (layers *.Cu *.Mask) (tstamp 156fa16d-98c7-4035-bc5e-4cd1966c76a7))
-  (model "${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_Octal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Valve.3dshapes/Valve_Octal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

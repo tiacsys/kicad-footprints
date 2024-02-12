@@ -54,7 +54,7 @@
   (pad "" np_thru_hole circle (at 0.08 -5) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp a1cbee1c-6bab-493e-b942-25a44193b172))
   (pad "1" thru_hole circle (at 0 0) (size 3 3) (drill 1.35) (layers *.Cu *.Mask) (tstamp dbce3ac9-3178-4bb0-95c5-3affa0d3657d))
   (pad "2" thru_hole circle (at 10.16 0) (size 3 3) (drill 1.35) (layers *.Cu *.Mask) (tstamp 3a31cd50-554a-48ab-9905-e06cd90e1c12))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Bulgin_FX0456_Vertical_Closed.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Bulgin_FX0456_Vertical_Closed.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

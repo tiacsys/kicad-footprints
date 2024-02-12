@@ -138,7 +138,7 @@
   (pad "EP" thru_hole circle (at 1.74 -0.58) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp afcd18e8-69d8-41f1-b618-55caa76d16f1))
   (pad "EP" thru_hole circle (at 1.74 0.58) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp f9e2fa01-945d-4c46-8769-d9128e9ebb3e))
   (pad "EP" thru_hole circle (at 1.74 1.74) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 9e0cbebe-252a-48e4-b392-bd843d3d04d5))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

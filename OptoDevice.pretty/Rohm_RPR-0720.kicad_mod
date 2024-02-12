@@ -55,7 +55,7 @@
   (pad "4" smd roundrect (at 0.3 0.73 90) (size 0.4 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp db356b67-393b-432c-b555-3e8b59f6763c))
   (pad "5" smd roundrect (at 0.3 0 90) (size 0.4 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 79e2b5fb-5989-489e-8486-e1f1d5be6d8d))
   (pad "6" smd roundrect (at 0.3 -0.73 90) (size 0.4 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 4e6aa013-3479-4e99-9e95-381de3f9f47c))
-  (model "${KICAD7_3DMODEL_DIR}/OptoDevice.3dshapes/Rohm_RPR-0720.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Rohm_RPR-0720.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -46,7 +46,7 @@
   (pad "3" thru_hole oval (at 3.4 0) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask) (tstamp 6ab0cf8c-e1dc-45f1-9382-32984eaea71e))
   (pad "4" thru_hole oval (at 5.1 2.06) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask) (tstamp e9b5a33a-78ae-49f1-a18f-3ce59c3ea894))
   (pad "5" thru_hole oval (at 6.8 0) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask) (tstamp fb9569a9-b69e-475d-a7b5-ad58b7f15c09))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

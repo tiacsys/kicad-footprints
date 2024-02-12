@@ -30,7 +30,7 @@
   (fp_line (start -1.25 -1.25) (end -1.25 1.25) (layer "F.Fab") (width 0.1) (tstamp c896d8ee-540a-4d9e-a68f-d4172a1ef9e7))
   (pad "1" thru_hole circle (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp fcd0ecd3-b9e5-4e01-9abd-d043f2e80ef9))
   (pad "2" thru_hole circle (at 5 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 7682f8b1-6d99-45f8-88aa-625af09d4ec8))
-  (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D7.5mm_W2.5mm_P5.00mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D7.5mm_W2.5mm_P5.00mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

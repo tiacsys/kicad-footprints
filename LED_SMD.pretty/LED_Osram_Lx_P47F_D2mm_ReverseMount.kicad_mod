@@ -41,7 +41,7 @@
   (pad "" smd rect (at 1.55 -0.375) (size 0.5 0.7) (layers "F.Paste" "F.Mask") (tstamp fa6aa9c9-ae34-4c41-8455-507925aae0c4))
   (pad "1" smd rect (at -2.3 0) (size 2 2.5) (layers "F.Cu") (tstamp 357e6b1d-f43f-4b8b-a487-c8e55ef7cad9))
   (pad "2" smd rect (at 2.3 0) (size 2 2.5) (layers "F.Cu") (tstamp 0b3d34af-e086-420f-93c8-7c3c97d81740))
-  (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Osram_Lx_P47F_D2mm_ReverseMount.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Osram_Lx_P47F_D2mm_ReverseMount.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

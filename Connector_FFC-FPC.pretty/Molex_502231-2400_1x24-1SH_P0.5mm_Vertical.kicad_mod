@@ -83,7 +83,7 @@
   (pad "24" smd roundrect (at 5.75 -1.045) (size 0.3 1.37) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp dfaa00ba-9019-471f-bd3a-3c7df08687cf))
   (pad "SH" smd roundrect (at 2.5 3.025) (size 1.9 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.143) (tstamp b31057be-19f2-4e1b-b405-74521453e7a1))
   (pad "SH" smd roundrect (at -2.5 3.025) (size 1.9 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.143) (tstamp e50f0a2d-2d21-4ee1-800b-a8943133df4c))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Molex_502231-2400_1x24-1SH_P0.5mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Molex_502231-2400_1x24-1SH_P0.5mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

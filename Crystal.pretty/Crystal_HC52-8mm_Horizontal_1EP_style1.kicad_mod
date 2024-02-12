@@ -47,7 +47,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp 46080c4a-908f-4350-9ecf-a463cdda6658))
   (pad "2" thru_hole circle (at 3.8 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp e50080a4-bdcf-42b4-bd8c-cc99a778c20b))
   (pad "3" smd rect (at 1.9 5.75) (size 8.5 8.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 777b11ad-1d9f-49f2-91bc-1804ca7e1440))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC52-8mm_Horizontal_1EP_style1.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC52-8mm_Horizontal_1EP_style1.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

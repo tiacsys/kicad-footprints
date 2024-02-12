@@ -44,7 +44,7 @@
   (fp_line (start 0 -3.442893) (end 0.5 -4.15) (layer "F.Fab") (width 0.1) (tstamp d1ee6b26-5d97-4a56-8519-8808900b89a6))
   (pad "1" thru_hole roundrect (at 0 0) (size 2 2.6) (drill 1.6) (layers *.Cu *.Mask) (roundrect_rratio 0.125) (tstamp 912f22c6-863c-4c74-b308-c8905c45f2f1))
   (pad "2" thru_hole oval (at 3.5 0) (size 2 2.6) (drill 1.6) (layers *.Cu *.Mask) (tstamp bbdf8d72-d3af-45d3-a3ce-1b7296639b30))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Wago.3dshapes/Wago_734-132_1x02_P3.50mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Wago.3dshapes/Wago_734-132_1x02_P3.50mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -63,7 +63,7 @@
   (fp_line (start -2 -1.45) (end -2 6.25) (layer "F.Fab") (width 0.1) (tstamp d41c27b9-5874-4dc2-a30e-026906138690))
   (pad "1" thru_hole roundrect (at 0 0) (size 1.2 1.8) (drill 0.8) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp a521d215-7102-46c1-a505-cf46ba266432))
   (pad "2" thru_hole oval (at 2 0) (size 1.2 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp e6be56b7-aba4-4297-9272-753811507e89))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_440055-2_1x02_P2.00mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_440055-2_1x02_P2.00mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -31,7 +31,7 @@
   (pad "1" smd rect (at -2.85 0) (size 1.1 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8d5aab54-4c01-408a-bf5e-4d078cab9c65))
   (pad "2" smd rect (at 0.35 0) (size 2.5 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a2396170-26b9-40ec-9433-69bc72270dae))
   (pad "2" smd rect (at 2.85 0) (size 1.1 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp df18c477-fcc8-49bc-adf1-af4567383fd8))
-  (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Yuji_5730.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Yuji_5730.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

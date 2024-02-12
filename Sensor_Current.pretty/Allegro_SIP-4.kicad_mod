@@ -39,7 +39,7 @@
   (pad "2" thru_hole oval (at 1.27 0) (size 1 1.6) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 03468d09-0ce1-4511-bbf8-b5b35ea31a03))
   (pad "3" thru_hole oval (at 2.54 0) (size 1 1.6) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 9479dba9-9e53-423a-a560-3c6b38e62fc9))
   (pad "4" thru_hole oval (at 3.81 0) (size 1 1.6) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 9e912f45-d6b4-4305-bfbd-d69193bac8d7))
-  (model "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_SIP-4.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_SIP-4.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

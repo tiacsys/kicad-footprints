@@ -50,7 +50,7 @@
   (pad "6" smd rect (at -2.5 -2.1) (size 1.7 2.15) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 47a9e00c-c5ab-4aa7-8443-4493f8e3d8a4))
   (pad "7" smd rect (at -2.85 0) (size 1.55 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f8b703bd-c572-4189-b329-7bde6e41e2da))
   (pad "8" smd rect (at 2.85 0) (size 1.55 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 93b53c8a-5dc2-40ac-91f6-f6edae4c10ab))
-  (model "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_SI570_SI571_Standard.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_SI570_SI571_Standard.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

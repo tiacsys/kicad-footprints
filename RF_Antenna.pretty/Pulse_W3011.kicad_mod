@@ -43,7 +43,7 @@
   (pad "1" smd trapezoid (at -0.5 -1.6 90) (size 0.8 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 968967e8-3de7-4b5f-9899-038d753633c2))
   (pad "2" smd trapezoid (at 0.5 -1.6 90) (size 0.8 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 82a53e76-d7e2-4d1d-8024-7c396b78a65f))
   (pad "2" smd trapezoid (at 0 1.6 90) (size 0.8 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8ccdd110-2ef7-4d23-8ca5-8551c77c5340))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Antenna.3dshapes/Pulse_W3011.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_Antenna.3dshapes/Pulse_W3011.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

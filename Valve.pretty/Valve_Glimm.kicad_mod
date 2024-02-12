@@ -36,7 +36,7 @@
   (fp_arc (start 0.02 2.5) (mid -2.48 0) (end 0.02 -2.5) (layer "F.Fab") (width 0.1) (tstamp a3ee321e-30a3-4a2f-aaf1-629cf51ea9aa))
   (pad "1" thru_hole rect (at 0 0) (size 1.78 1.78) (drill 0.8) (layers *.Cu *.Mask) (tstamp 2f411b75-3842-4102-b4e1-d64cff7a630a))
   (pad "2" thru_hole circle (at 5.08 0) (size 1.78 1.78) (drill 0.8) (layers *.Cu *.Mask) (tstamp 3939bc2a-9533-4e9e-a776-541f22da39ed))
-  (model "${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_Glimm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Valve.3dshapes/Valve_Glimm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

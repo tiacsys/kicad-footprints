@@ -44,7 +44,7 @@
   (pad "2" thru_hole circle (at 20.32 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp b009be57-53ad-4a8e-9a26-4f32fddd2c00))
   (pad "3" thru_hole circle (at 5.08 25.4) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp d2320618-9245-4325-85cd-47b02ea5a9b5))
   (pad "4" thru_hole circle (at -5.08 25.4) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp c2f69cbd-70bd-438d-9183-595cc2cbe631))
-  (model "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_37x44.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_37x44.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

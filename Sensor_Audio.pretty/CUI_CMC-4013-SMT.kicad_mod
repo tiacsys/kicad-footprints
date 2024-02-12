@@ -28,7 +28,7 @@
       (gr_circle (center 0 1.375) (end 1.375 1.375) (width 0.75) (fill none))
     ) (tstamp 0b027c6d-3d46-4cba-b840-fd7f8dd6df9a))
   (pad "2" smd circle (at 0 0) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7beac5a1-e922-4dda-aa35-0582db7964dc))
-  (model "${KICAD6_3DMODEL_DIR}/Sensor_Audio.3dshapes/CUI_CMC-4013-SMT.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor_Audio.3dshapes/CUI_CMC-4013-SMT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -245,7 +245,7 @@
   (pad "100" smd roundrect (at 0.85 -5.95 90) (size 1 1) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.2) (tstamp 1400520e-2dbe-4675-8fc3-69f555b01bc1))
   (pad "101" smd roundrect (at -0.85 -5.95 90) (size 1 1) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.2) (tstamp eaebef6d-41d0-43d7-8eaf-3965e4d22445))
   (pad "102" smd roundrect (at -2.55 -5.95 90) (size 1 1) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.2) (tstamp 3f859764-4863-4e1b-84fc-90fd27cfa929))
-  (model "${KICAD7_3DMODEL_DIR}/RF_GSM.3dshapes/Quectel_BG96.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_GSM.3dshapes/Quectel_BG96.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

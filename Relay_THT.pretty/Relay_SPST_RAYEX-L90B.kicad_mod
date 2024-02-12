@@ -84,7 +84,7 @@
   (pad "12" thru_hole circle (at 25.34 8.9 180) (size 3 3) (drill 1.6) (layers *.Cu *.Mask) (tstamp 1237f22c-7d13-4ee3-9658-e501c761dbde))
   (pad "A1" thru_hole roundrect (at 2.54 -5.1 180) (size 2 2) (drill 1.1) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 20aef301-acb7-4fa3-ad5a-8693bd2468df))
   (pad "A2" thru_hole circle (at 2.54 5.1 180) (size 2 2) (drill 1.1) (layers *.Cu *.Mask) (tstamp fe9b1f9c-b4ca-4758-b0b0-5857bd485a17))
-  (model "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_RAYEX-L90B.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_RAYEX-L90B.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

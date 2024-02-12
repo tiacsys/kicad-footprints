@@ -54,7 +54,7 @@
   (pad "7" thru_hole oval (at 21 0) (size 1.8 3.6) (drill 1.2) (layers *.Cu *.Mask) (tstamp 6da389e9-b786-488f-845b-858b2dfb3b03))
   (pad "8" thru_hole oval (at 24.5 0) (size 1.8 3.6) (drill 1.2) (layers *.Cu *.Mask) (tstamp 63cddb7e-7181-49c6-9829-28d615d3413c))
   (pad "9" thru_hole oval (at 28 0) (size 1.8 3.6) (drill 1.2) (layers *.Cu *.Mask) (tstamp a7c605e1-0b90-4fb8-b297-4a57b9b2a026))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MC_1,5_9-GF-3.5_1x09_P3.50mm_Horizontal_ThreadedFlange.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MC_1,5_9-GF-3.5_1x09_P3.50mm_Horizontal_ThreadedFlange.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

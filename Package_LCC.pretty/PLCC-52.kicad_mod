@@ -88,7 +88,7 @@
   (pad "50" smd rect (at 3.81 -9.1325) (size 0.7 1.925) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 872e538b-bece-4c00-b80e-cf004175a30b))
   (pad "51" smd rect (at 2.54 -9.1325) (size 0.7 1.925) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2a6c2f8c-7854-444f-9a94-4d588b6ed446))
   (pad "52" smd rect (at 1.27 -9.1325) (size 0.7 1.925) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 42771b3c-e864-4cde-a4fe-2db3221e92a3))
-  (model "${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-52.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-52.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

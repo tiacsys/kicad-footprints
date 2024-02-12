@@ -126,7 +126,7 @@
   (pad "2" smd roundrect (at -0.25 -3.4925) (size 3.69 2.665) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.09380863039) (tstamp 22bd8a37-1f5e-430b-ba9d-56150300f054))
   (pad "2" smd roundrect (at -0.25 3.4925) (size 3.69 2.665) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.09380863039) (tstamp 09bf18b3-0ada-4092-ae5c-41b274b9352f))
   (pad "2" smd roundrect (at -0.25 3.4925) (size 3.69 2.665) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.09380863039) (tstamp 3f4dbb80-333f-419f-896b-25dc2a5e90cd))
-  (model "${KICAD7_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Molex_73251-2120_EdgeMount_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Molex_73251-2120_EdgeMount_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

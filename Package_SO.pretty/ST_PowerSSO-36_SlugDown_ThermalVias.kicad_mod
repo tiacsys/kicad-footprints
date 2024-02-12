@@ -104,7 +104,7 @@
   (pad "37" thru_hole circle (at 1.5 -0.5) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 279b0871-4b23-425e-a0e8-18d4686f2411))
   (pad "37" thru_hole circle (at 1.5 0.5) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 65b097d0-7a43-4d6a-b889-e110fd93ac9d))
   (pad "37" thru_hole circle (at 1.5 1.5) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 0200ddf7-8631-4bab-8dab-c013535bf35b))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ST_PowerSSO-36_SlugDown.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/ST_PowerSSO-36_SlugDown.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

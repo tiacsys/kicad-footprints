@@ -47,7 +47,7 @@
   (pad "2" smd roundrect (at 2.56 -0.85) (size 1.5 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 3e070f8a-98b4-4f50-ab6d-9cb363c3eb7c))
   (pad "3" smd roundrect (at -2.56 0.85) (size 1.5 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp de0211c0-d820-4e1f-bd8a-40655c57f7f7))
   (pad "4" smd roundrect (at 2.56 0.85) (size 1.5 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp dd09840b-2129-46ca-a138-1e3b79ae4cd6))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kingbright_KPS-5130.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Kingbright_KPS-5130.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

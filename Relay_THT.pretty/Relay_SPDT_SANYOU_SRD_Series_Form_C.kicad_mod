@@ -55,7 +55,7 @@
   (pad "3" thru_hole circle (at 14.15 6.05 90) (size 3 3) (drill 1.3) (layers *.Cu *.Mask) (tstamp 7cd6eb93-e176-40fd-b22f-5dfe9d55f93a))
   (pad "4" thru_hole circle (at 14.2 -6 90) (size 3 3) (drill 1.3) (layers *.Cu *.Mask) (tstamp 030300a8-a240-4926-8991-25319513086f))
   (pad "5" thru_hole circle (at 1.95 -5.95 90) (size 2.5 2.5) (drill 1) (layers *.Cu *.Mask) (tstamp 4014e80d-65d4-4100-ab62-0004d92d5a43))
-  (model "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_SANYOU_SRD_Series_Form_C.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_SANYOU_SRD_Series_Form_C.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

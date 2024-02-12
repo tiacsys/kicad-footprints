@@ -38,7 +38,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 1 1) (drill 0.5) (layers *.Cu *.Mask) (tstamp e21454c3-b202-4ab6-bbd9-825414fd5884))
   (pad "2" thru_hole circle (at 1.5 0) (size 1 1) (drill 0.5) (layers *.Cu *.Mask) (tstamp b6a0ea67-060a-4f0e-88c3-005052e3c36d))
   (pad "3" smd rect (at 0.75 4.15) (size 1.5 4.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b5dd6a32-e440-43cc-8a89-7518919232b8))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_DS10_D1.0mm_L4.3mm_Horizontal_1EP_style1.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_DS10_D1.0mm_L4.3mm_Horizontal_1EP_style1.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

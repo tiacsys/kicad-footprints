@@ -47,7 +47,7 @@
   (pad "2" smd rect (at 2.54 3.2) (size 1.5 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 65ea58d2-c285-47e4-8bdc-4f20b7b1061f))
   (pad "3" smd rect (at 2.54 -3.2) (size 1.5 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bba91728-3137-4834-88e8-7736ac30e7d5))
   (pad "4" smd rect (at -2.54 -3.2) (size 1.5 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 943f25c0-7cb3-4343-b008-c4e545adda6b))
-  (model "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

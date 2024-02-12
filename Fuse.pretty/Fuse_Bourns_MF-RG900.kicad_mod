@@ -32,7 +32,7 @@
   (fp_line (start -4.45 2.1) (end 9.55 2.1) (layer "F.Fab") (width 0.1) (tstamp 84a14b94-7140-4dd6-9f21-b636da6803dd))
   (pad "1" thru_hole circle (at 0 0) (size 2.01 2.01) (drill 1.01) (layers *.Cu *.Mask) (tstamp ff9104e5-d9f8-4b57-a4d3-6a716698686a))
   (pad "2" thru_hole circle (at 5.1 1.2) (size 2.01 2.01) (drill 1.01) (layers *.Cu *.Mask) (tstamp 4f48d735-0605-43fd-9248-5c1145ffda48))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-RG900.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-RG900.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

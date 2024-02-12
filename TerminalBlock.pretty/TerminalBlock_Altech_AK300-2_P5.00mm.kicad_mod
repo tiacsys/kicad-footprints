@@ -114,7 +114,7 @@
   (fp_arc (start 3.58 -4.13) (mid 3.281534 -4.559406) (end 3.437028 -5.058699) (layer "F.Fab") (width 0.1) (tstamp ee715562-cef0-40ba-8d2d-5f252217ce59))
   (pad "1" thru_hole rect (at 0 0) (size 1.98 3.96) (drill 1.32) (layers *.Cu *.Mask) (tstamp bf920338-5f2c-4f63-b722-3e18f20fd246))
   (pad "2" thru_hole oval (at 5 0) (size 1.98 3.96) (drill 1.32) (layers *.Cu *.Mask) (tstamp 6be0b330-2f16-4e7c-acac-f6099e545399))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Altech_AK300-2_P5.00mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Altech_AK300-2_P5.00mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

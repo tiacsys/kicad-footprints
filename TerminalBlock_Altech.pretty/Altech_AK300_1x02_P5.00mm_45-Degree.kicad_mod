@@ -37,7 +37,7 @@
   (fp_line (start -2.5 6.5) (end -2.5 -5.5) (layer "F.Fab") (width 0.1) (tstamp ef0f0afa-4b02-48fc-9750-48812233ccd6))
   (pad "1" thru_hole rect (at 0 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 4e8019aa-c96c-4a28-ae71-397c1e99912c))
   (pad "2" thru_hole circle (at 5 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 20f544b6-a2ac-4778-acab-426e32bf0925))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_Altech.3dshapes/Altech_AK300_1x02_P5.00mm_45-Degree.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TerminalBlock_Altech.3dshapes/Altech_AK300_1x02_P5.00mm_45-Degree.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

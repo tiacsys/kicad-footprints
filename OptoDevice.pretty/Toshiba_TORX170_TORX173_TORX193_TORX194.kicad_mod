@@ -46,7 +46,7 @@
   (pad "4" thru_hole oval (at 7.62 0) (size 1.5 2.5) (drill 1) (layers *.Cu *.Mask) (tstamp c7813d49-49b1-45a1-8698-e90d28fff366))
   (pad "5" thru_hole circle (at 9.01 -4.2) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask) (tstamp e4ee848d-6ca2-4bf9-84d7-689e1bd198a5))
   (pad "6" thru_hole circle (at -1.39 -4.2) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask) (tstamp 50543016-fa08-47f8-9ef8-06a3d2a99e2e))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Toshiba_TORX170_TORX173_TORX193_TORX194.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Toshiba_TORX170_TORX173_TORX193_TORX194.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

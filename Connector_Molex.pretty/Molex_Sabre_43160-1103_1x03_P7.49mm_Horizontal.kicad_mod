@@ -61,7 +61,7 @@
   (pad "2" thru_hole rect (at 7.49 0) (size 3.78 3.43) (drill 1.78) (layers *.Cu *.Mask) (tstamp cb8d0440-d54e-4d35-8f91-0d45b5f065d1))
   (pad "3" thru_hole rect (at 14.98 -3.18) (size 3.78 3.43) (drill 1.78) (layers *.Cu *.Mask) (tstamp a66db424-b367-4fbe-8515-cf1969f162bc))
   (pad "3" thru_hole rect (at 14.98 0) (size 3.78 3.43) (drill 1.78) (layers *.Cu *.Mask) (tstamp b7ed326a-3cc7-4596-b16b-240f1f846867))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

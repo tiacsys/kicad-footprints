@@ -37,7 +37,7 @@
   (fp_line (start 1.517 -1.273) (end -1.273 1.517) (layer "F.Fab") (width 0.1) (tstamp c4088b3a-fe9d-43ea-946a-aef3ded31417))
   (fp_circle (center 0 0) (end 2 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp 3c14605d-3bba-4b07-9a5e-fed911a16dbb))
   (pad "1" thru_hole circle (at 0 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 6f89b2de-b69d-4aaf-953c-7f74ca28c599))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

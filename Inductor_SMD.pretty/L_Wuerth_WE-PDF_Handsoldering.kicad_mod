@@ -73,7 +73,7 @@
   (fp_circle (center 1.85 2.1) (end 2.1 2.2) (layer "F.Fab") (width 0.1) (fill none) (tstamp f1124182-e1be-47a0-a34f-23b9adef98d6))
   (pad "1" smd rect (at -5.1 0) (size 4.4 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4edcf25a-d01e-44bf-8ed7-8d6e3d9f643d))
   (pad "2" smd rect (at 5.1 0) (size 4.4 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 840f7cf2-c7ae-4e06-88ed-cde1031a48c7))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_WE-PDF.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_WE-PDF.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

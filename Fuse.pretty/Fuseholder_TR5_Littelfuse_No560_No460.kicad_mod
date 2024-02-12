@@ -44,7 +44,7 @@
   (fp_circle (center 2.55 0) (end 7.25 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp 85f8ea5f-757f-4321-97e2-636cbb582c59))
   (pad "1" thru_hole circle (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 74a6c701-7fb4-4e44-a3f9-603808ed11e2))
   (pad "2" thru_hole circle (at 5.08 0.01) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 3d00489e-871d-4776-a8ac-adeea8a90580))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_TR5_Littelfuse_No560_No460.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_TR5_Littelfuse_No560_No460.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

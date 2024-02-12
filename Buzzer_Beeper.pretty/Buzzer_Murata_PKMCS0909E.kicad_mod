@@ -42,7 +42,7 @@
   (fp_line (start -3.5 -4.5) (end 4.5 -4.5) (layer "F.Fab") (width 0.1) (tstamp f7ac5999-3121-47f3-9c71-12955ac75ca6))
   (pad "1" smd rect (at -4.35 0) (size 1.3 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7287f2f2-feb0-4553-8685-b96f5c25aa0a))
   (pad "2" smd rect (at 4.35 0) (size 1.3 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 108ded3d-794e-412b-af67-7d4b166a855e))
-  (model "${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_Murata_PKMCS0909E.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_Murata_PKMCS0909E.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

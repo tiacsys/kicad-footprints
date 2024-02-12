@@ -409,7 +409,7 @@
   (pad "20" thru_hole oval (at 7.62 5.08) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 2e59520a-feb9-4fe7-a5f5-8ca2915a9791))
   (pad "21" thru_hole oval (at 7.62 2.54) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 17b24a07-abe1-4f5b-8550-77ce42714299))
   (pad "22" thru_hole oval (at 7.62 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 1e11ce67-9f8d-4ab2-9b80-99d08d5a2484))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_DIP_SPSTx11_Slide_9.78x30.12mm_W7.62mm_P2.54mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_DIP_SPSTx11_Slide_9.78x30.12mm_W7.62mm_P2.54mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

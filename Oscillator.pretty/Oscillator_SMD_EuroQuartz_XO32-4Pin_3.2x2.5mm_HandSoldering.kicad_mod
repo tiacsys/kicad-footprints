@@ -47,7 +47,7 @@
   (pad "2" smd rect (at 1.45 0.775) (size 1.75 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b67438ff-4bc6-409c-b65a-9d932d9646af))
   (pad "3" smd rect (at 1.45 -0.775) (size 1.75 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3a93064d-371f-49b1-9cfd-4e3be9ec1326))
   (pad "4" smd rect (at -1.45 -0.775) (size 1.75 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d3d627d4-1fa2-4c22-9294-a1cd3b821ff9))
-  (model "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm_HandSoldering.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm_HandSoldering.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

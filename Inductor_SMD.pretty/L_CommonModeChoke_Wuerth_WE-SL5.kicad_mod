@@ -49,7 +49,7 @@
   (pad "2" smd roundrect (at -3.8 3.1 180) (size 2.7 2.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.09259259259) (tstamp 53747f4b-b839-42e2-8711-2f83cf7b741a))
   (pad "3" smd roundrect (at 3.8 3.1 180) (size 2.7 2.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.09259259259) (tstamp 1d655a06-5a60-4b79-8c71-f9e76530c19d))
   (pad "4" smd roundrect (at 3.8 -3.1 180) (size 2.7 2.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.09259259259) (tstamp 655ed453-bbb1-41c5-bb12-4459044097ca))
-  (model "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_CommonModeChoke_Wuerth_WE-SL5.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_CommonModeChoke_Wuerth_WE-SL5.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -47,7 +47,7 @@
   (pad "14" thru_hole circle (at 13.6 4) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask) (tstamp cdb1e2fc-dafe-4106-9d8d-b5f1cb098576))
   (pad "15" thru_hole circle (at 13.6 2) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask) (tstamp 776a3967-fb05-4545-9c2b-a7276458378f))
   (pad "16" thru_hole circle (at 13.6 0) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask) (tstamp b87cce84-0440-4bd1-9c15-919b25918561))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/HOPERF_RFM9XW_THT.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_Module.3dshapes/HOPERF_RFM9XW_THT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

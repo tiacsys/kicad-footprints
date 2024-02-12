@@ -73,7 +73,7 @@
     (thermal_bridge_angle 45) (tstamp be45d97e-3a89-4ce3-8e15-8ab23997040e))
   (pad "12" smd roundrect (at -2.05 0.635 270) (size 0.5 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (thermal_bridge_angle 45) (tstamp 5360748d-a66a-4c00-90ff-dde10a4247d8))
-  (model "${KICAD7_3DMODEL_DIR}/Sensor_Distance.3dshapes/AMS_OLGA12.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor_Distance.3dshapes/AMS_OLGA12.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

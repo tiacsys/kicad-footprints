@@ -50,7 +50,7 @@
   (pad "3" thru_hole circle (at -2.54 45.72) (size 2.3 2.3) (drill 1.3) (layers "*.Cu" "*.Mask") (tstamp 0aff5685-ee54-464f-8e3f-d2dd4835b9f0))
   (pad "4" thru_hole circle (at 7.62 45.72) (size 2.3 2.3) (drill 1.3) (layers "*.Cu" "*.Mask") (tstamp f39fd88f-fc13-4995-99bf-07fbf9b40067))
   (pad "5" thru_hole circle (at 17.78 45.72) (size 2.3 2.3) (drill 1.3) (layers "*.Cu" "*.Mask") (tstamp 8c9c94cd-fd4b-482f-a277-f2cad73cb5fd))
-  (model "${KICAD7_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_THB10-xxxx_Dual_THT.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_THB10-xxxx_Dual_THT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

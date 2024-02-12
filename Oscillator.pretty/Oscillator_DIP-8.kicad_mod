@@ -45,7 +45,7 @@
   (pad "4" thru_hole circle (at 7.62 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 5e5a6d05-11cb-466c-b600-efedf9dd3f4c))
   (pad "5" thru_hole circle (at 7.62 -7.62) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp fb1c6081-a23a-4526-9cfe-cf5a1fa1d891))
   (pad "8" thru_hole circle (at 0 -7.62) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp ee936cb3-35e4-41d0-86a9-a75e9dc67b0f))
-  (model "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_DIP-8.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_DIP-8.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

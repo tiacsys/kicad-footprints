@@ -30,7 +30,7 @@
   (fp_line (start 1.6 0.8) (end 1.6 -0.8) (layer "F.Fab") (width 0.1) (tstamp d230770e-c3c1-40ca-bd2c-270beb42c790))
   (pad "1" smd roundrect (at -1.45 0) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp a2974a02-96e1-452f-854a-8d9fcf06d0d5))
   (pad "2" smd roundrect (at 1.45 0) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp 237e4ca6-4b6b-44b3-aec6-cbb0025c87b6))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Antenna.3dshapes/Johanson_2450AT18x100.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_Antenna.3dshapes/Johanson_2450AT18x100.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

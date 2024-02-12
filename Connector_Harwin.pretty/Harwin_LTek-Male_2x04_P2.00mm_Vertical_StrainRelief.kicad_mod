@@ -57,7 +57,7 @@
   (pad "6" thru_hole circle (at 4 -2) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask) (tstamp 5e3f9ab6-826f-479e-af03-caf124515a31))
   (pad "7" thru_hole circle (at 6 0) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask) (tstamp f86f3a28-a5f1-40d9-b4e9-51c5075614a9))
   (pad "8" thru_hole circle (at 6 -2) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask) (tstamp a1872092-ba7b-481f-a939-256a90072970))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_LTek-Male_2x04_P2.00mm_Vertical_StrainRelief.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_LTek-Male_2x04_P2.00mm_Vertical_StrainRelief.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

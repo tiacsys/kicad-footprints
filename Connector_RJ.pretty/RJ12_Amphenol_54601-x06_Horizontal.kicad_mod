@@ -73,7 +73,7 @@
   (pad "4" thru_hole circle (at 3.81 2.54) (size 1.52 1.52) (drill 0.76) (layers "*.Cu" "*.Mask") (tstamp 4da5984b-fdff-4189-83c9-3fdb5c29f601))
   (pad "5" thru_hole circle (at 5.08 0) (size 1.52 1.52) (drill 0.76) (layers "*.Cu" "*.Mask") (tstamp c59b5103-675d-44cb-9128-5f987f8e8841))
   (pad "6" thru_hole circle (at 6.35 2.54) (size 1.52 1.52) (drill 0.76) (layers "*.Cu" "*.Mask") (tstamp 60f6db18-30e9-4101-8493-69a06b5b3fba))
-  (model "${KICAD7_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ12_Amphenol_54601-x06_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ12_Amphenol_54601-x06_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

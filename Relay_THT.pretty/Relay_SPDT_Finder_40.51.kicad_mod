@@ -48,7 +48,7 @@
   (pad "14" thru_hole circle (at 25 7.5) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp d6a83713-8cbf-4402-8997-ba38627050aa))
   (pad "A1" thru_hole rect (at 0 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp cfbe5e49-6d81-41af-baa6-148f6c1163c0))
   (pad "A2" thru_hole circle (at 0 7.5) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 2a4d1dc0-90a7-4f8d-855b-75141821b260))
-  (model "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Finder_40.51.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Finder_40.51.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

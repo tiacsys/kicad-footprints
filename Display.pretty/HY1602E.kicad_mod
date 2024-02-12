@@ -73,7 +73,7 @@
   (pad "14" thru_hole oval (at 33.02 0 180) (size 1.8 2.6) (drill 1.2) (layers *.Cu *.Mask) (tstamp 20272d0a-41d6-4118-adca-89cbceafd3b4))
   (pad "15" thru_hole oval (at 35.56 0 180) (size 1.8 2.6) (drill 1.2) (layers *.Cu *.Mask) (tstamp f9a66af1-7d87-4ba1-bd47-8fd68cd731fe))
   (pad "16" thru_hole oval (at 38.1 0 180) (size 1.8 2.6) (drill 1.2) (layers *.Cu *.Mask) (tstamp e74f3017-693b-41ad-ad8e-f490b0454b0d))
-  (model "${KICAD6_3DMODEL_DIR}/Display.3dshapes/HY1602E.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Display.3dshapes/HY1602E.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -309,7 +309,7 @@
   (pad "6" thru_hole oval (at 50 0) (size 1.5 3) (drill 1.15) (layers *.Cu *.Mask) (tstamp 54adc82f-eced-462d-a4f2-1fa9b37f5d8d))
   (pad "7" thru_hole oval (at 60 0) (size 1.5 3) (drill 1.15) (layers *.Cu *.Mask) (tstamp 825634f7-f120-4211-be4e-14e4fd4357dd))
   (pad "8" thru_hole oval (at 70 0) (size 1.5 3) (drill 1.15) (layers *.Cu *.Mask) (tstamp a9405a5f-cac6-4791-a03d-8aedf9db95c6))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_WAGO.3dshapes/TerminalBlock_WAGO_236-308_1x08_P10.00mm_45Degree.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TerminalBlock_WAGO.3dshapes/TerminalBlock_WAGO_236-308_1x08_P10.00mm_45Degree.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -168,7 +168,7 @@
   (pad "12" thru_hole oval (at 22 0) (size 1.2 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp e4a2b69f-a6a0-4dfd-bbf9-521d448e64eb))
   (pad "13" thru_hole oval (at 24 0) (size 1.2 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp 056a929b-2a3c-4615-b6ac-3620cea0f3d2))
   (pad "14" thru_hole oval (at 26 0) (size 1.2 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp 7488be90-3791-4dfb-b932-6183bb683f86))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Latch_53254-1470_1x14_P2.00mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Latch_53254-1470_1x14_P2.00mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

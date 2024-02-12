@@ -51,7 +51,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 010e939f-f999-41e2-ac12-7229e016be87))
   (pad "1" smd roundrect (at -1.21 0) (size 3.1 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1136363636) (tstamp 03f45342-9579-43ad-a3ee-97b4a295f0fd))
   (pad "2" smd roundrect (at 2.01 0) (size 1.5 1.52) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1666666667) (tstamp c310412d-f7eb-448f-97d1-665eab02a45c))
-  (model "${KICAD7_3DMODEL_DIR}/Diode_SMD.3dshapes/Vishay_SMPA.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/Vishay_SMPA.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

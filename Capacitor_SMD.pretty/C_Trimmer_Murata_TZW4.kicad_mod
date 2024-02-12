@@ -49,7 +49,7 @@
   (fp_circle (center 0 0) (end 2 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp 9eb2bffa-a8ad-4b89-b0c1-e47a21568d3d))
   (pad "1" smd rect (at -2.85 0) (size 1.3 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6c317c54-3210-4b46-b4b5-816ced6a77b8))
   (pad "2" smd rect (at 2.85 0) (size 1.3 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e31da1f5-bc0d-4887-b60b-f79ff9658022))
-  (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_Trimmer_Murata_TZW4.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_Trimmer_Murata_TZW4.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

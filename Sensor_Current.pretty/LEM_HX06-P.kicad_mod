@@ -51,7 +51,7 @@
   (pad "4" thru_hole circle (at 0 7.62) (size 1.75 1.75) (drill 0.76) (layers "*.Cu" "*.Mask") (tstamp aeab86b6-b04a-4f8a-a089-522b7d5d7f66))
   (pad "5" thru_hole circle (at 10.85 0.81) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask") (tstamp caa88b42-5e55-43f8-8984-345b5fd2a1f8))
   (pad "6" thru_hole circle (at 10.85 6.81) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask") (tstamp a54f9e1d-5a25-4489-bcca-1f2f6bb276be))
-  (model "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_HX06-P.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_HX06-P.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

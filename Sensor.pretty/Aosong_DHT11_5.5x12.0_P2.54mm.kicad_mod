@@ -49,7 +49,7 @@
   (pad "2" thru_hole circle (at 0 2.54) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 26e75833-0ec4-4acd-8b58-fd5b8f8cb31e))
   (pad "3" thru_hole circle (at 0 5.08) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 23866ba5-5e81-42fa-8121-5b28fa37acb6))
   (pad "4" thru_hole circle (at 0 7.62) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 40c33894-85bb-422f-8c12-45bd1fc080da))
-  (model "${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/Aosong_DHT11_5.5x12.0_P2.54mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor.3dshapes/Aosong_DHT11_5.5x12.0_P2.54mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -80,7 +80,7 @@
   (pad "38" thru_hole circle (at 15.24 5.08) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask) (tstamp af1dbe09-4766-4067-93b1-6a2faaf1c07a))
   (pad "39" thru_hole circle (at 15.24 2.54) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask) (tstamp e021c39e-a519-4cbe-8c7b-b6fd679c63f0))
   (pad "40" thru_hole circle (at 15.24 0) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask) (tstamp 6c2134cf-676b-40c6-bc5e-ddb602e5a37c))
-  (model "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Electrosmith_Daisy_Seed.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Module.3dshapes/Electrosmith_Daisy_Seed.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

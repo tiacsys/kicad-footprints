@@ -243,7 +243,7 @@
   (pad "28" thru_hole oval (at 1 13) (size 0.85 0.85) (drill 0.5) (layers *.Cu *.Mask) (tstamp 3e3c4e80-5c83-4217-a16c-6fcfab0bc667))
   (pad "29" thru_hole oval (at 0 14) (size 0.85 0.85) (drill 0.5) (layers *.Cu *.Mask) (tstamp c0a5c0d2-83fc-4039-966f-3b9136c1d208))
   (pad "30" thru_hole oval (at 1 14) (size 0.85 0.85) (drill 0.5) (layers *.Cu *.Mask) (tstamp f76a489a-ae09-4d0c-a07b-df21e1b8da5b))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.00mm.3dshapes/PinHeader_2x15_P1.00mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_1.00mm.3dshapes/PinHeader_2x15_P1.00mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -36,7 +36,7 @@
   (pad "A" thru_hole circle (at 0 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 92d19fdb-ca4f-4768-9907-2b34acb964eb))
   (pad "B" thru_hole circle (at 0 -5) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 8eec0ce6-e076-42c3-8934-a470bdeacfa3))
   (pad "C" thru_hole circle (at 0 -2.5) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 331bc468-46e6-420f-84dd-0a2d41437a88))
-  (model "${KICAD6_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Bourns_Horizontal_PEC09-2xxxF-Nxxxx.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Bourns_Horizontal_PEC09-2xxxF-Nxxxx.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

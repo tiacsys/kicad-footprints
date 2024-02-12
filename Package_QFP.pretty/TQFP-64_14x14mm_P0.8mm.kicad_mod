@@ -122,7 +122,7 @@
   (pad "62" smd rect (at -4.4 -7.7 90) (size 1.5 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0ce07100-55db-4e8b-87ba-6ab77df4a36c))
   (pad "63" smd rect (at -5.2 -7.7 90) (size 1.5 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp eef2f0ba-f527-420a-b23a-edd346fa0171))
   (pad "64" smd rect (at -6 -7.7 90) (size 1.5 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 512ec69d-b182-4d4c-81f7-c5139cd1f6df))
-  (model "${KICAD7_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-64_14x14mm_P0.8mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-64_14x14mm_P0.8mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -56,7 +56,7 @@
   (fp_arc (start -6.25 -5.75) (mid -6.103553 -6.103553) (end -5.75 -6.25) (layer "F.Fab") (width 0.1) (tstamp f62e0a79-473e-413c-83b4-f60284069815))
   (pad "1" smd rect (at -5.55 0) (size 3.1 5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3f7f26d3-2806-4429-a44f-1a2e60157860))
   (pad "2" smd rect (at 5.55 0) (size 3.1 5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fdb3150f-7b5c-4b67-b101-e0eba3c66191))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TaiTech_TMPC1265_13.5x12.5mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TaiTech_TMPC1265_13.5x12.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

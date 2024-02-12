@@ -41,7 +41,7 @@
   (fp_line (start 1.25 0.5) (end 1.75 0.5) (layer "F.Fab") (width 0.15) (tstamp e63a9cef-cc21-47e4-88a3-7d4e77ccb513))
   (fp_line (start -1.25 -1) (end -1.25 -0.5) (layer "F.Fab") (width 0.15) (tstamp f23fabd0-0345-44ae-b139-4e86a83e4553))
   (pad "1" smd rect (at 0 0) (size 3.8 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 36e9b045-6d4e-4029-9fd2-a9cb2475ece3))
-  (model "${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5019_Minature.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5019_Minature.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

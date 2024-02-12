@@ -110,7 +110,7 @@
     (zone_connect 1) (tstamp bb874f1d-15c4-4e48-9073-2a2e471dec10))
   (pad "15" thru_hole circle (at 0.95 0.95) (size 0.5 0.5) (drill 0.2) (layers "*.Cu" "*.Mask")
     (zone_connect 1) (tstamp 5524ad14-ca1f-4b2f-8456-6d04754d69ec))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

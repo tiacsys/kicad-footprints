@@ -45,7 +45,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 1.7 1.7) (drill 0.9) (layers *.Cu *.Mask) (tstamp eaf58e09-f879-4ac6-ab93-04be13c3b8d7))
   (pad "2" thru_hole circle (at 4 0) (size 1.7 1.7) (drill 0.9) (layers *.Cu *.Mask) (tstamp f3ecb8ce-ce94-432c-9abb-d40deb3d3d10))
   (pad "3" thru_hole circle (at 8 0) (size 1.7 1.7) (drill 0.9) (layers *.Cu *.Mask) (tstamp 11e68d34-658f-4126-9ad2-d19077dc4d1e))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_E-Switch_EG1224_SPDT_Angled.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_E-Switch_EG1224_SPDT_Angled.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

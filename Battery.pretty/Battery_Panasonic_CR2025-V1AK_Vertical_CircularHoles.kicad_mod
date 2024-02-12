@@ -36,7 +36,7 @@
   (fp_line (start -5.225 -3.25) (end 14.875 -3.25) (layer "F.Fab") (width 0.1) (tstamp ee38aec0-5beb-4800-bc27-4f11cb44b86c))
   (pad "1" thru_hole rect (at 0 0 90) (size 2.7 2.7) (drill 2.12) (layers *.Cu *.Mask) (tstamp 518bc6cb-8998-45f3-9ca5-d6ef52682784))
   (pad "2" thru_hole circle (at 10.17 -3.15) (size 1.6 1.6) (drill 1.09) (layers *.Cu *.Mask) (tstamp 3e338933-e9f4-45de-9ca2-d8dcfcaf8f59))
-  (model "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Battery.3dshapes/Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

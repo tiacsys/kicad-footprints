@@ -109,7 +109,7 @@
   (pad "MP" thru_hole roundrect (at 2.54 7.62) (size 3.5 1.5) (drill 1) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25) (tstamp 905d7d8b-e8da-47ac-8ccf-61eae72dd795))
   (pad "MP" thru_hole roundrect (at 7.62 -2.54) (size 3.5 1.5) (drill 1) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25) (tstamp 2b6318d9-2f57-4be0-adee-1ebe0416ce1c))
   (pad "MP" thru_hole roundrect (at 7.62 7.62) (size 3.5 1.5) (drill 1) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25) (tstamp b34bd272-1668-493d-b035-3d77859405b5))
-  (model "${KICAD7_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_NKK_NR01.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_NKK_NR01.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

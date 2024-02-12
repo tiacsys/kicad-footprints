@@ -33,7 +33,7 @@
   (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp ee1616be-3af4-4d1d-96b5-541d19557273))
   (pad "2" thru_hole circle (at 6.5 4.5) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 65a424f4-9f68-4376-86e4-1cb03f2e6524))
   (pad "2" thru_hole circle (at 0 4.5) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp daf085bd-70df-419e-a957-02914568e0f9))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_TH_Tactile_Omron_B3F-10xx.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_TH_Tactile_Omron_B3F-10xx.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

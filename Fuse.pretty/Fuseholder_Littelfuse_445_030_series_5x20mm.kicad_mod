@@ -32,7 +32,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 2.3 2.3) (drill 1.3) (layers *.Cu *.Mask) (tstamp cf100904-82b5-4134-b763-3e824bb8d494))
   (pad "2" thru_hole circle (at 20.5 0) (size 2.3 2.3) (drill 1.3) (layers *.Cu *.Mask) (tstamp 9156e327-038d-426a-8fa8-0dba2f3e975a))
   (pad "2" thru_hole circle (at 15.3 0) (size 2.3 2.3) (drill 1.3) (layers *.Cu *.Mask) (tstamp cfd1aebd-5d1f-4e55-8cd3-e7f12aef770c))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Littelfuse_445_030_series_5x20mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Littelfuse_445_030_series_5x20mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

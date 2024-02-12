@@ -34,7 +34,7 @@
   (fp_line (start -2.45 0.5) (end -1.742893 0) (layer "F.Fab") (width 0.1) (tstamp a8202f1b-b3f5-4c91-9938-fcb51487d6e1))
   (pad "1" thru_hole roundrect (at 0 0) (size 1.7 1.85) (drill 0.85) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp 1e4adc2e-b120-4325-ab95-cdc84efde73d))
   (pad "2" thru_hole oval (at 2.5 0) (size 1.7 1.85) (drill 0.85) (layers *.Cu *.Mask) (tstamp e98869cc-a364-4a8c-9811-32785ded4cb8))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_SPOX_5268-02A_1x02_P2.50mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_SPOX_5268-02A_1x02_P2.50mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -46,7 +46,7 @@
   (pad "2" thru_hole circle (at 0 15.24) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp e7ac5dcb-f5ed-4cb1-8b56-de0160f13d26))
   (pad "3" thru_hole circle (at 22.86 15.24) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 2ea4eb26-e9fb-4531-97ea-24fb3d11ec70))
   (pad "4" thru_hole circle (at 22.86 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp a888d393-9d3d-4262-8646-47160804dd1a))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_CommonMode_Toroid_Vertical_L36.8mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_CommonMode_Toroid_Vertical_L36.8mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

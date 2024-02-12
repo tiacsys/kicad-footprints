@@ -30,7 +30,7 @@
   (fp_line (start 0.50118 0.75032) (end 0.50118 -0.79908) (layer F.Fab) (width 0.1))
   (pad 1 thru_hole roundrect (at -5 0) (size 4.5 3.3) (drill 1.2 (offset 0.6 0)) (layers *.Cu *.Mask) (roundrect_rratio 0.0757575758))
   (pad 2 thru_hole roundrect (at 5 0 180) (size 4.5 3.3) (drill 1.2 (offset 0.6 0)) (layers *.Cu *.Mask) (roundrect_rratio 0.0757575758))
-  (model ${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMC.wrl
+  (model ${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMC.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

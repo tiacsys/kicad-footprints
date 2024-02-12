@@ -31,7 +31,7 @@
   (pad "2" thru_hole oval (at 3.81 7) (size 2 3) (drill 1.15) (layers "*.Cu" "*.Mask") (tstamp 00d2ba21-3963-4595-aeb6-212ade00ce0c))
   (pad "3" thru_hole oval (at 7.62 0) (size 2 3) (drill 1.15) (layers "*.Cu" "*.Mask") (tstamp b81b4f98-ec3d-43e0-ac05-4a72590472e1))
   (pad "3" thru_hole oval (at 7.62 7) (size 2 3) (drill 1.15) (layers "*.Cu" "*.Mask") (tstamp c6acb5d3-7701-448f-a795-3949de669c58))
-  (model "${KICAD7_3DMODEL_DIR}//TerminalBlock.3dshapes/TerminalBlock_Degson_DG246-3.81-03P.wrl"
+  (model "${KICAD8_3DMODEL_DIR}//TerminalBlock.3dshapes/TerminalBlock_Degson_DG246-3.81-03P.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

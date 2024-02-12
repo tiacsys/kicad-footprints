@@ -100,7 +100,7 @@
     ) (tstamp 3f165ddc-9e83-40eb-ad9b-f6d797e53243))
   (pad "21" smd roundrect (at 0.275 -2.15) (size 0.2 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c1d785a7-9aed-4f90-98d7-9080f02ea748))
   (pad "21" smd roundrect (at 0.275 2.15) (size 0.2 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 770a4c5f-dcd2-404b-beea-48a895dbb4e3))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_VQFN-RHL-20_ThermalVias.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_VQFN-RHL-20_ThermalVias.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

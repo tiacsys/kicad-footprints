@@ -159,7 +159,7 @@
   (pad "3" thru_hole circle (at 0 7.62) (size 1.52 1.52) (drill 0.81) (layers *.Cu *.Mask) (tstamp 97440991-3e2b-43bf-8427-b77c899536c5))
   (pad "4" thru_hole circle (at -12.7 7.62) (size 1.52 1.52) (drill 0.81) (layers *.Cu *.Mask) (tstamp f868a0e6-6551-47f9-ab7d-ddb47671c510))
   (pad "6" thru_hole circle (at -12.7 0) (size 1.52 1.52) (drill 0.81) (layers *.Cu *.Mask) (tstamp 10ee614d-6640-4aec-b3d6-9c65b31f644d))
-  (model "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_NF_ETAL_P3324.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_NF_ETAL_P3324.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

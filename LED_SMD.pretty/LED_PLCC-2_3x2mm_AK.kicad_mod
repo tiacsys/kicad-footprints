@@ -36,7 +36,7 @@
   (fp_arc (start -0.55 0.7) (mid -1.25 0) (end -0.55 -0.7) (layer "F.Fab") (width 0.1) (tstamp cfdcf2e9-7db9-4882-9ee2-22a91067a7aa))
   (pad "1" smd rect (at 1.425 0) (size 1.55 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bfae2e89-43c2-4db3-8f7d-78937bea6625))
   (pad "2" smd rect (at -1.425 0) (size 1.55 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5d440233-cf4b-4d73-b2b4-08f095b9246e))
-  (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_PLCC-2_3x2mm_KA.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_PLCC-2_3x2mm_KA.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -66,7 +66,7 @@
   (pad "7" thru_hole circle (at -4.155 2.84) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 5c3b529d-4f83-445f-9033-3294da869222))
   (pad "8" thru_hole circle (at -6.925 2.84) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 5419bd66-f409-48ec-b3ab-2782faae0985))
   (pad "9" thru_hole circle (at -9.695 2.84) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp f47f93ba-d7d8-46e7-a3c5-b4b2a0338443))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-9_Female_Vertical_P2.77x2.84mm_MountingHoles.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-9_Female_Vertical_P2.77x2.84mm_MountingHoles.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

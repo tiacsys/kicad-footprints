@@ -45,7 +45,7 @@
   (pad "3" thru_hole circle (at 2.9337 0.5207) (size 0.808 0.808) (drill 0.508) (layers *.Cu)
     (zone_connect 2) (tstamp bb747e95-1229-4042-9104-22519029bf07))
   (pad "4" smd rect (at -1.0922 0.9525 90) (size 0.889 1.2954) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c44f2e96-a730-49be-8608-317456d664cb))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_MMM168.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_MMM168.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

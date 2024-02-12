@@ -28,7 +28,7 @@
   (fp_arc (start 2.2 -2.6) (mid 2.824509 -0.001265) (end 2.201149 2.597745) (layer "F.Fab") (width 0.1) (tstamp 6e4d1a80-0101-4f8a-884f-01c0a5404961))
   (pad "1" smd rect (at -1.93 0) (size 2.15 5.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ca23a6a6-5bb2-4209-aafd-3a4540a7b7ac))
   (pad "2" smd rect (at 1.93 0) (size 2.15 5.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8a3dccef-af4f-4ca0-94b3-eac142738f2d))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_WE-PD2-Typ-MS.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_WE-PD2-Typ-MS.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

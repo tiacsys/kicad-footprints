@@ -46,7 +46,7 @@
   (pad "2" thru_hole circle (at 0 3.8) (size 1.15 1.15) (drill 0.55) (layers *.Cu *.Mask) (tstamp 27bb677a-a0e9-4e8f-9a1c-6668de4ed5da))
   (pad "3" thru_hole circle (at 15 -0.64) (size 1.15 1.15) (drill 0.55) (layers *.Cu *.Mask) (tstamp 60ccf9fb-a602-4cf7-9321-9bb8ddde4e0b))
   (pad "4" thru_hole circle (at 15 4.44) (size 1.15 1.15) (drill 0.55) (layers *.Cu *.Mask) (tstamp 7c7a9163-a1a1-4101-b8c8-ffdeab4bb339))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/PerkinElmer_VTL5C.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/PerkinElmer_VTL5C.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

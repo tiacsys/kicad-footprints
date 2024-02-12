@@ -121,7 +121,7 @@
   (pad "82" thru_hole circle (at 5.08 2.54) (size 1.4224 1.4224) (drill 0.8) (layers *.Cu *.Mask) (tstamp 106b58a6-6d87-4b6c-8f27-866dbd0de1b8))
   (pad "83" thru_hole circle (at 2.54 0) (size 1.4224 1.4224) (drill 0.8) (layers *.Cu *.Mask) (tstamp 404fead3-75d2-409b-af2c-a1eddcee882b))
   (pad "84" thru_hole circle (at 2.54 2.54) (size 1.4224 1.4224) (drill 0.8) (layers *.Cu *.Mask) (tstamp d8dbe410-46e1-45f7-bd8f-0aebf96a280b))
-  (model "${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-84_THT-Socket.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-84_THT-Socket.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

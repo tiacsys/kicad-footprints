@@ -32,7 +32,7 @@
   (fp_line (start -5.8 1.2) (end 5.8 1.2) (layer "F.Fab") (width 0.1) (tstamp c9a0fc95-d5e4-491c-93d6-e29cc7379a92))
   (pad "1" smd rect (at -9.21 0) (size 2 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 732ccaff-d934-4773-a6ad-9bfa1e3b0ab3))
   (pad "2" smd rect (at 9.21 0) (size 2 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c7eb8aa2-f6a2-4148-8615-4eab5e9942aa))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_REED_CT10-XXXX-G2.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_REED_CT10-XXXX-G2.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

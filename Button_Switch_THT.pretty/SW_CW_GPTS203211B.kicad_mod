@@ -33,7 +33,7 @@
   (fp_line (start 0.7 -3.35) (end 0.7 8.65) (layer "F.Fab") (width 0.1) (tstamp df8c9842-21ae-40c9-907d-5a655b8fb4a1))
   (pad "1" thru_hole circle (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp 7218b644-212b-46ff-a3bf-05a1d2a69b8a))
   (pad "2" thru_hole circle (at 0 5.3) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp ca98723b-7cb4-4094-93a4-8ac7f8b7168f))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_CW_GPTS203211B.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_CW_GPTS203211B.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -64,7 +64,7 @@
   (pad "1" thru_hole circle (at 12.7 0) (size 3 3) (drill 1.9) (layers *.Cu *.Mask) (tstamp 77469923-d298-4f3a-bc14-a59eca75a1b3))
   (pad "1" thru_hole circle (at -12.7 0) (size 3 3) (drill 1.9) (layers *.Cu *.Mask) (tstamp f00068ed-1132-478f-a18f-6ec12e24647d))
   (pad "2" smd circle (at 0 0) (size 20 20) (layers "F.Cu" "F.Mask") (tstamp 65fcd214-da6d-4e22-a73b-1c0427be6d6c))
-  (model "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_3009_1x2450.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_3009_1x2450.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

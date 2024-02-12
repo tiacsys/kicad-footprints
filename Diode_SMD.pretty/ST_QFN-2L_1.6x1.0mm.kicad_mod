@@ -45,7 +45,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp b93137ee-dffb-481b-a809-67fb651cecb1))
   (pad "1" smd roundrect (at -0.525 0) (size 0.35 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp fde30dfe-45cf-4ef8-b855-033527ebd2e7))
   (pad "2" smd roundrect (at 0.525 0) (size 0.35 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 805eb803-ac27-4243-a342-08a927deceb6))
-  (model "${KICAD7_3DMODEL_DIR}/Diode_SMD.3dshapes/ST_QFN-2L_1.6x1.0mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/ST_QFN-2L_1.6x1.0mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

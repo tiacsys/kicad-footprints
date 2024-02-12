@@ -35,7 +35,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 2.78 2.78) (drill 1.78) (layers *.Cu *.Mask) (tstamp a1fd0c48-3477-43f6-ba59-1417acd072b3))
   (pad "2" thru_hole circle (at 9.92 0) (size 2.78 2.78) (drill 1.78) (layers *.Cu *.Mask) (tstamp e24adeb3-5af8-4bd2-beea-dd06485799e2))
   (pad "2" thru_hole circle (at 9.92 3.4) (size 2.78 2.78) (drill 1.78) (layers *.Cu *.Mask) (tstamp e8667a3d-0ff6-4fb6-8288-69f8c2d305f4))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Blade_Mini_Keystone_3568.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Blade_Mini_Keystone_3568.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -34,7 +34,7 @@
   (pad "1" thru_hole roundrect (at 0 0 45) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask) (roundrect_rratio 0.208) (tstamp 73518640-fd6a-424d-8479-97bb68ef9e90))
   (pad "2" thru_hole circle (at 1 1) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask) (tstamp 1a577d2a-c882-49e1-9c48-e5a419986e46))
   (pad "3" thru_hole circle (at 2 0) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask) (tstamp 1e3b0fcc-28d5-4433-bf06-bfdf63313081))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/LaserDiode_TO18-D5.6-3.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/LaserDiode_TO18-D5.6-3.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

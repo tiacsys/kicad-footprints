@@ -63,7 +63,7 @@
   (pad "2" smd rect (at 2.825 0) (size 1.35 4.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 34343da3-e75a-42a7-829f-0fbb10d93d55))
   (pad "2" smd rect (at -2.825 0) (size 1.35 4.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b9d9dd5e-b422-4225-b2b0-84e13b78fe37))
   (pad "2" smd rect (at -2.825 0) (size 1.35 4.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp c28c778c-7cfe-49b1-8bdc-9dfd6454e666))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

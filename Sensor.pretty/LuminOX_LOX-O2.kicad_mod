@@ -31,7 +31,7 @@
   (pad "2" thru_hole circle (at 0 5.08) (size 1.9 1.9) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 0a01c90c-e054-4f35-ab96-8fdb8116a5d4))
   (pad "3" thru_hole circle (at -12.7 2.54) (size 1.9 1.9) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 9ec16d4a-fdce-48ab-a290-1a858a9558ff))
   (pad "4" thru_hole circle (at -12.7 5.08) (size 1.9 1.9) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 82f25201-ec03-43bd-ae67-449ca9fcbe6c))
-  (model "${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/LuminOX_LOX-O2.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor.3dshapes/LuminOX_LOX-O2.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

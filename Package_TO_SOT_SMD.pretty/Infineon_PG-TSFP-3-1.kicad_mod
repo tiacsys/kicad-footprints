@@ -44,7 +44,7 @@
   (pad "1" smd rect (at -0.525 -0.4 270) (size 0.4 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 45ae870c-33c1-4679-b696-853dcee44bde))
   (pad "2" smd rect (at -0.525 0.4 270) (size 0.4 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3c90f8d8-c926-40bf-b395-850a790fbfcd))
   (pad "3" smd rect (at 0.525 0 270) (size 0.4 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ba521f0b-a067-4a1c-97d6-6022e1bb7d52))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-TSFP-3-1.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-TSFP-3-1.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

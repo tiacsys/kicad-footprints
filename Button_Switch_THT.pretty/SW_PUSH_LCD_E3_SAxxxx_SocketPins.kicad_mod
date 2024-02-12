@@ -37,7 +37,7 @@
   (pad "4" thru_hole circle (at -15 12) (size 3.2 3.2) (drill 1.6) (layers *.Cu *.Mask) (tstamp 93616d13-77af-4021-bc86-15a99d81d14d))
   (pad "5" thru_hole oval (at -8.75 6) (size 2 3.2) (drill 1.6) (layers *.Cu *.Mask) (tstamp 67be873c-9d5c-45eb-8163-422ca3a72af4))
   (pad "6" thru_hole oval (at -6.25 6) (size 2 3.2) (drill 1.6) (layers *.Cu *.Mask) (tstamp e8370358-d03a-4ded-8810-46372da095ce))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_LCD_E3_SAxxxx_SocketPins.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_LCD_E3_SAxxxx_SocketPins.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

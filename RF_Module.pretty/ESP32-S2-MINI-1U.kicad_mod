@@ -136,7 +136,7 @@
   (pad "63" smd rect (at -7 7) (size 0.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0bfc36de-1b29-4437-9371-35f4f236e8a5))
   (pad "64" smd rect (at 7 7) (size 0.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3ed0d203-0b85-46af-9b89-51d4a95c6e5c))
   (pad "65" smd rect (at 7 -7) (size 0.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d7a1072f-6bef-4c9d-a97c-50c14c2a9388))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ESP32-S2-MINI-1U.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_Module.3dshapes/ESP32-S2-MINI-1U.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

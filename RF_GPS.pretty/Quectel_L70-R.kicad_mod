@@ -70,7 +70,7 @@
   (pad "16" smd roundrect (at 4.85 -2.2) (size 1.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp cfa336bb-f82b-458c-a3c6-86b0991d807e))
   (pad "17" smd roundrect (at 4.85 -3.3) (size 1.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 226480db-eebe-4202-adc6-c9c355da5b64))
   (pad "18" smd roundrect (at 4.85 -4.4) (size 1.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e0c3a4b8-7a6f-4496-9100-a22f06b586ea))
-  (model "${KICAD7_3DMODEL_DIR}/RF_GPS.3dshapes/Quectel_L70-R.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_GPS.3dshapes/Quectel_L70-R.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

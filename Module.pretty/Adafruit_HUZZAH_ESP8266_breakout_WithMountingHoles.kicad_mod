@@ -72,7 +72,7 @@
   (pad "18" thru_hole oval (at 20.32 5.08) (size 2.1 1.9) (drill 1.02) (layers *.Cu *.Mask) (tstamp ef17fa74-00f0-481a-8aaa-4333cb71d2a6))
   (pad "19" thru_hole oval (at 20.32 2.54) (size 2.1 1.9) (drill 1.02) (layers *.Cu *.Mask) (tstamp de8e5d8e-ab25-449a-8d6c-88c9bece313b))
   (pad "20" thru_hole oval (at 20.32 0) (size 2.1 1.9) (drill 1.02) (layers *.Cu *.Mask) (tstamp 4693c1ea-59c7-4c4b-af1f-73d6e3d8b19e))
-  (model "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Module.3dshapes/Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

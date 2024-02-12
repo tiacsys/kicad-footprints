@@ -42,7 +42,7 @@
   (fp_line (start 4.5 -0.35) (end -1 -0.35) (layer "F.Fab") (width 0.1) (tstamp e9abb8c1-0ecc-408d-834b-5a9be66b94b2))
   (pad "1" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 107e9989-e704-4638-a7c6-b025aee367e7))
   (pad "2" thru_hole circle (at 3.5 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 72b199b6-7833-4b74-bdc9-43d66eb561a5))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_5.2x5.2mm_P3.5mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_5.2x5.2mm_P3.5mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

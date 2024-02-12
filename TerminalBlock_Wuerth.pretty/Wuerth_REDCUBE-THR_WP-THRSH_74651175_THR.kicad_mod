@@ -36,7 +36,7 @@
   (pad "1" thru_hole circle (at 2.935 -2.935) (size 3.2 3.2) (drill 1.85) (layers *.Cu *.Mask) (tstamp 39da5aff-336f-4c89-9085-a5f200ed772b))
   (pad "1" thru_hole circle (at 2.935 2.935) (size 3.2 3.2) (drill 1.85) (layers *.Cu *.Mask) (tstamp 76905e87-84dc-47a1-9019-a924eb6800d8))
   (pad "1" thru_hole circle (at -2.935 2.935) (size 3.2 3.2) (drill 1.85) (layers *.Cu *.Mask) (tstamp cf0354df-d8f2-4516-a8ed-0583537c69cf))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_Wuerth.3dshapes/Wuerth_REDCUBE-THR_WP-THRSH_74651175_THR.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TerminalBlock_Wuerth.3dshapes/Wuerth_REDCUBE-THR_WP-THRSH_74651175_THR.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

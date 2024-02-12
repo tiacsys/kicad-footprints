@@ -170,7 +170,7 @@
   (pad "" np_thru_hole circle (at -48 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.SilkS *.Mask) (tstamp 6846cbed-5784-4677-9847-19107d00c49b))
   (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.SilkS *.Mask) (tstamp 853723fe-b20c-4c71-9b2b-da837035c89e))
   (pad "" np_thru_hole circle (at 48.006 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.SilkS *.Mask) (tstamp d07dd6e8-d684-4a17-96f7-d92a66f70e78))
-  (model "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_125x35x50mm_3xFixationM3.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_125x35x50mm_3xFixationM3.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

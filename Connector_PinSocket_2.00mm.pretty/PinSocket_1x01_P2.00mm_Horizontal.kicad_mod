@@ -54,7 +54,7 @@
   (fp_line (start 0 0.3) (end 0 -0.3) (layer "F.Fab") (width 0.1) (tstamp b9388f13-525b-4a59-acb5-f1406e6c82be))
   (fp_line (start -1.27 0.3) (end 0 0.3) (layer "F.Fab") (width 0.1) (tstamp efbfa42d-26b9-4f85-9183-25477292c4d7))
   (pad "1" thru_hole rect (at 0 0) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask) (tstamp 70eae1e6-0eb4-457f-be11-d0a9216a4a2c))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.00mm.3dshapes/PinSocket_1x01_P2.00mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.00mm.3dshapes/PinSocket_1x01_P2.00mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -133,7 +133,7 @@
   (pad "27" thru_hole circle (at -0.35 1.05) (size 0.45 0.45) (drill 0.2) (property pad_prop_heatsink) (layers "*.Cu" "F.Mask") (tstamp 0465da6a-8ff4-4f2b-8e19-ce6fcf6caa20))
   (pad "27" thru_hole circle (at 0.8 0.3) (size 0.45 0.45) (drill 0.2) (property pad_prop_heatsink) (layers "*.Cu" "F.Mask") (tstamp 4e982cc6-231f-44a2-8469-f5e1c546cd62))
   (pad "28" smd roundrect (at 0.985 0.99 180) (size 0.58 0.38) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 4b8031c2-0d6e-4cc2-bd64-116b85971484))
-  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Vishay_PowerPAK_MLP44-24L.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Vishay_PowerPAK_MLP44-24L.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

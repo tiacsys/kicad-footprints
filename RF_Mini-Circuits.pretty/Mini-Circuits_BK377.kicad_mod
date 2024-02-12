@@ -45,7 +45,7 @@
   (pad "12" smd rect (at 6.6675 -2.54) (size 2.54 1.651) (drill (offset -1.27 0)) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e9efba72-cab5-4391-92da-eb2fb0039108))
   (pad "13" smd rect (at 5.3975 -5.08) (size 2.54 1.651) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a78bf7c8-4dcd-4afd-b1d5-aa6928fe65f0))
   (pad "14" smd rect (at 5.3975 -7.62) (size 2.54 1.651) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7906a443-b335-4bdf-9ea5-40f348aa6f7e))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_BK377.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_BK377.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

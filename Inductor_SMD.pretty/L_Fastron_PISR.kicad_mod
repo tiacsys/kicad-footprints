@@ -104,7 +104,7 @@
   (fp_line (start 2.24 6.3) (end 3.35 5.79) (layer "F.Fab") (width 0.1) (tstamp fc7ee56e-3f76-47fc-b482-fae8f2afa01c))
   (pad "1" smd rect (at 7.82 0) (size 3 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cd1b4672-9c30-4da8-b98c-955775149801))
   (pad "2" smd rect (at -7.82 0) (size 3 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f497f50b-eda9-4eaf-8c5a-3ae7492574bd))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Fastron_PISR.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Fastron_PISR.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

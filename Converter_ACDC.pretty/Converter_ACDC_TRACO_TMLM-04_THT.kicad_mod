@@ -39,7 +39,7 @@
   (pad "5" thru_hole circle (at 29 21) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 106442bd-8edc-4040-9fbe-48fd8e62db9b))
   (pad "6" thru_hole circle (at 21.5 21) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 95f4ec27-a6dd-4343-bcb2-e98b0b394a59))
   (pad "7" thru_hole circle (at 0 21) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 2594dc1b-45b8-4e3c-8159-8541d542de9d))
-  (model "${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_TRACO_TMLM-04_THT.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_TRACO_TMLM-04_THT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -43,7 +43,7 @@
   (pad "2" thru_hole oval (at 1.27 1.27) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask) (tstamp 00c2dd49-6e7b-43f4-8403-0b39b7d78b1f))
   (pad "3" thru_hole oval (at 2.54 0) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask) (tstamp 042b87be-cb9d-4b18-b060-cca7b3419988))
   (pad "4" thru_hole oval (at 1.27 -1.27) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask) (tstamp 9b5c0e64-6d03-4b66-a948-53e2909e3d8a))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-18-4_Lens.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-18-4_Lens.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

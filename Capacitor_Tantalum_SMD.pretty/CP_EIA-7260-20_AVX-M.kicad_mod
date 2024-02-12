@@ -30,7 +30,7 @@
   (fp_line (start 3.6 3) (end 3.6 -3) (layer "F.Fab") (width 0.1) (tstamp c0ff72a3-fa11-415e-9b59-f7ca8c4bda61))
   (pad "1" smd roundrect (at -2.85 0) (size 2.5 6.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp b67ed07c-35ba-4bbc-b48b-72292f61c3ff))
   (pad "2" smd roundrect (at 2.85 0) (size 2.5 6.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 3b132a42-ec21-4264-b422-35126d74e105))
-  (model "${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-7260-20_AVX-M.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-7260-20_AVX-M.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

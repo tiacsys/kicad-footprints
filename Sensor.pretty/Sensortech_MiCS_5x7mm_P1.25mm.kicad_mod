@@ -68,7 +68,7 @@
   (pad "H" smd rect (at 2.25 -1.25 270) (size 0.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d6ad5e7b-b609-47f5-a8ff-47d91c7224c0))
   (pad "J" smd rect (at 1.27 -3.25 180) (size 0.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 693fcd75-d57b-4681-b7c6-f167c3b60f9c))
   (pad "K" smd rect (at -1.27 -3.25 180) (size 0.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 09b5a326-1131-45f4-8b92-2fa20d88d156))
-  (model "${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/Sensortech_MiCS_5x7mm_P1.25mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor.3dshapes/Sensortech_MiCS_5x7mm_P1.25mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

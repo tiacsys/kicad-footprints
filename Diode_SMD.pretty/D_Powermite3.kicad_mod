@@ -44,7 +44,7 @@
   (pad "1" smd rect (at -0.762 0 180) (size 5.344 4.826) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d1a8663b-4cd8-41fc-9a19-eb32a868b33a))
   (pad "2" smd rect (at 3.053 -0.9145 180) (size 0.762 0.965) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0da18661-fcc0-441f-8360-3c1b8e4a2b88))
   (pad "3" smd rect (at 3.053 0.9145 180) (size 0.762 0.965) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 25aeda60-ea86-48ec-b988-534548879e2d))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_Powermite3.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_Powermite3.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

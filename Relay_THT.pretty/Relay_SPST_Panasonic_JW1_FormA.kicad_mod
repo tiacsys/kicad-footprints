@@ -61,7 +61,7 @@
   (pad "4" thru_hole oval (at 23.5 0 90) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 1bfba81b-9e99-44e4-9460-928e6d156c4b))
   (pad "6" thru_hole oval (at 20 -7.6 90) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp a6ef7315-65c7-4ee7-9c98-e67a687eb1ff))
   (pad "8" thru_hole oval (at 0 -7.6 90) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 3d082a89-c997-499a-afd8-8a73fcacbb20))
-  (model "${KICAD7_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_Panasonic_JW1_FormA.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_Panasonic_JW1_FormA.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

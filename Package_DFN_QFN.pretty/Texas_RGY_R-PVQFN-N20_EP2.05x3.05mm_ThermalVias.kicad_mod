@@ -100,7 +100,7 @@
   (pad "21" smd roundrect (at 0 0) (size 2.05 3.05) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.0243902439) (tstamp e26b99be-0f5e-4a29-89c3-eb4066c880db))
   (pad "21" thru_hole circle (at 0 1.275) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp 19cc6a6c-98e9-4531-83c3-2ceb0552a159))
   (pad "21" thru_hole circle (at 0.775 0) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp bb92fddc-5a67-484d-bf25-7e9c47aa3be3))
-  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RGY_R-PVQFN-N20_EP2.05x3.05mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RGY_R-PVQFN-N20_EP2.05x3.05mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -65,7 +65,7 @@
   (pad "8" thru_hole circle (at 17.78 0) (size 1.74 1.74) (drill 1.09) (layers *.Cu *.Mask) (tstamp 0d85c713-9a91-403f-b71d-e16c8737c386))
   (pad "9" thru_hole circle (at 20.32 0) (size 1.74 1.74) (drill 1.09) (layers *.Cu *.Mask) (tstamp 39ee0473-91bc-47c0-ab6e-c42fb7f87f4c))
   (pad "10" thru_hole circle (at 22.86 0) (size 1.74 1.74) (drill 1.09) (layers *.Cu *.Mask) (tstamp 74de2b82-5b33-4e70-8a50-c7e7fc2520c6))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_SL_171971-0010_1x10_P2.54mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_SL_171971-0010_1x10_P2.54mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

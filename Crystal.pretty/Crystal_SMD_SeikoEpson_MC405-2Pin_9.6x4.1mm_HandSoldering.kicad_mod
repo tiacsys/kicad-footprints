@@ -30,7 +30,7 @@
   (fp_line (start -4.8 2.03) (end 4.8 2.03) (layer "F.Fab") (width 0.1) (tstamp f96e7863-d6f5-4cc7-80b1-85f57e6cbb5d))
   (pad "1" smd rect (at -5.5375 0) (size 7.175 4.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 15c9dba5-e20e-44e7-b3ad-f5f189a40937))
   (pad "2" smd rect (at 5.5375 0) (size 7.175 4.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c1226186-034b-4a13-aba7-0f0d908ee694))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MC405-2Pin_9.6x4.1mm_HandSoldering.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MC405-2Pin_9.6x4.1mm_HandSoldering.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -35,7 +35,7 @@
     (stroke (width 0.1) (type default)) (layer "F.Fab") (tstamp 76a1cd1b-170a-4a48-b0d6-cfca980d2662))
   (pad "1" thru_hole rect (at 0 0) (size 2.2 2.2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp bf22ded6-0379-41dd-89bc-b848fe118884))
   (pad "2" thru_hole circle (at 11.8 0) (size 2.2 2.2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp bc76381d-b443-4610-8338-19590f7a1091))
-  (model "${KICAD7_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Zeming_ZMCT103C.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Zeming_ZMCT103C.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -91,7 +91,7 @@
   (pad "2" thru_hole circle (at 20.32 -10.16) (size 2.4 2.4) (drill 1.4) (layers "*.Cu" "*.Mask") (tstamp e9223d0d-3538-475d-ad74-ac976fb758d2))
   (pad "3" thru_hole circle (at 0 -10.16) (size 2.4 2.4) (drill 1.4) (layers "*.Cu" "*.Mask") (tstamp 7d971504-7959-4615-869f-ebc59d0d856a))
   (pad "4" thru_hole circle (at 20.32 0) (size 2.4 2.4) (drill 1.4) (layers "*.Cu" "*.Mask") (tstamp 535089f0-eaf9-4595-9d80-b2665c0ca1b9))
-  (model "${KICAD7_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Mount_Lodestone_VTM120.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Mount_Lodestone_VTM120.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

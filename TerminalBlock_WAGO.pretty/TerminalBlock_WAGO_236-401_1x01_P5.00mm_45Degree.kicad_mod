@@ -74,7 +74,7 @@
   (fp_line (start 2.5 2.7) (end -1.5 2.7) (layer "F.Fab") (width 0.1) (tstamp fdaccf50-65cb-4ada-a18a-0bd468a56fb8))
   (pad "1" thru_hole rect (at 0 0) (size 1.5 3) (drill 1.15) (layers *.Cu *.Mask) (tstamp 5606bea8-94b0-46c1-9fae-3ede6a381dc8))
   (pad "1" thru_hole rect (at 0 5) (size 1.5 3) (drill 1.15) (layers *.Cu *.Mask) (tstamp d77eb464-dfa0-4443-ac11-5508d186f88e))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_WAGO.3dshapes/TerminalBlock_WAGO_236-401_1x01_P5.00mm_45Degree.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TerminalBlock_WAGO.3dshapes/TerminalBlock_WAGO_236-401_1x01_P5.00mm_45Degree.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

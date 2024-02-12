@@ -30,7 +30,7 @@
   (fp_line (start -0.6 -0.55) (end -0.6 0.55) (layer "F.Fab") (width 0.12) (tstamp fdd71790-d2fb-4e15-96d7-1557f0850dc7))
   (pad "1" smd rect (at -0.95 0) (size 1.2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c43f1c71-d317-477c-b112-f522a3fa3228))
   (pad "2" smd rect (at 0.95 0) (size 1.2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b449e48e-d2e2-4652-8ef9-28d0c134ce64))
-  (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_MicroMELF_MMU-0102.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_MicroMELF_MMU-0102.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

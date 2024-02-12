@@ -28,7 +28,7 @@
   (fp_line (start -3 1.75) (end 3 1.75) (layer "F.Fab") (width 0.1) (tstamp f7cbe906-6f2d-4692-a317-56f238acdb15))
   (pad "1" smd rect (at -2.15 0) (size 1.9 2.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 15c612e3-dcb9-4545-aea4-4bea1adcb661))
   (pad "2" smd rect (at 2.15 0) (size 1.9 2.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cdc6f2d4-785f-4f90-8256-288ddbfee860))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

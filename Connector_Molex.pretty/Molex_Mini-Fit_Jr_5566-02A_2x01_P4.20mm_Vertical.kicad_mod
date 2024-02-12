@@ -53,7 +53,7 @@
   (fp_line (start -0.825 3.2) (end 0.825 3.2) (layer "F.Fab") (width 0.1) (tstamp ef7dc141-5a2e-486b-b6e1-5666c1036d76))
   (pad "1" thru_hole roundrect (at 0 0) (size 2.7 3.3) (drill 1.4) (layers *.Cu *.Mask) (roundrect_rratio 0.092593) (tstamp 10566e06-7264-414c-877a-98932cf93997))
   (pad "2" thru_hole oval (at 0 5.5) (size 2.7 3.3) (drill 1.4) (layers *.Cu *.Mask) (tstamp 52360705-0ff6-4e62-af55-4f13dfbd620b))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Mini-Fit_Jr_5566-02A_2x01_P4.20mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Mini-Fit_Jr_5566-02A_2x01_P4.20mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

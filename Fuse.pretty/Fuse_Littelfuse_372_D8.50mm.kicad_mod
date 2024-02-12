@@ -21,7 +21,7 @@
   (fp_circle (center 2.54 0) (end 6.79 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp 1e31c085-a400-458e-b54f-1197a67eea22))
   (pad "1" thru_hole circle (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 485d3e00-54ca-4ca5-aa5e-a05daa7ffb0a))
   (pad "2" thru_hole circle (at 5.08 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 0ff686d7-f7fc-4436-a9d8-cc74fc9359bd))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Littelfuse_372_D8.50mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Littelfuse_372_D8.50mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

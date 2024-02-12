@@ -71,7 +71,7 @@
   (pad "20" thru_hole circle (at 18 2) (size 1.2 1.2) (drill 0.75) (layers *.Cu *.Mask) (tstamp 29d2fdf9-60a6-4522-85da-ce7ba8f457c4))
   (pad "21" thru_hole circle (at 20 0) (size 1.2 1.2) (drill 0.75) (layers *.Cu *.Mask) (tstamp 4865849d-3195-439b-a375-af750a41c3ad))
   (pad "22" thru_hole circle (at 20 2) (size 1.2 1.2) (drill 0.75) (layers *.Cu *.Mask) (tstamp da428f1c-104b-4335-91d2-c2268213c313))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PUD_B22B-PUDSS_2x11_P2.00mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PUD_B22B-PUDSS_2x11_P2.00mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

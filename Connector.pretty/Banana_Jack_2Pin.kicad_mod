@@ -30,7 +30,7 @@
   (fp_circle (center 30 0) (end 34.75 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp de1b9e4d-1431-4dc4-a3fe-dd69d6bce2fc))
   (pad "1" thru_hole circle (at 0 0) (size 10.16 10.16) (drill 6.1) (layers *.Cu *.Mask) (tstamp ad75bc89-bf06-43aa-9104-df020c26de0a))
   (pad "2" thru_hole circle (at 29.97 0) (size 10.16 10.16) (drill 6.1) (layers *.Cu *.Mask) (tstamp 642c6b20-c013-4fcf-995a-d35047ed1b45))
-  (model "${KICAD6_3DMODEL_DIR}/Connector.3dshapes/Banana_Jack_2Pin.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector.3dshapes/Banana_Jack_2Pin.wrl"
     (offset (xyz 14.98599977 0 0))
     (scale (xyz 2 2 2))
     (rotate (xyz 0 0 0))

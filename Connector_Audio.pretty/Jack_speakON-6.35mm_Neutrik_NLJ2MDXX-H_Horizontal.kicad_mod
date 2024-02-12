@@ -50,7 +50,7 @@
   (fp_line (start 24.71 -4.72) (end 29.21 -4.72) (layer "F.Fab") (width 0.1) (tstamp fe5fcec4-7af5-4140-a99c-7eb43cafb013))
   (pad "1+" thru_hole circle (at 0 0) (size 3 3) (drill 1.2) (layers *.Cu *.Mask) (tstamp 7e185050-734e-42ce-9540-ec58a88f87d6))
   (pad "1-" thru_hole circle (at 4.44 9.53) (size 3 3) (drill 1.2) (layers *.Cu *.Mask) (tstamp d424c38b-92c4-4591-b9d9-b08c503118df))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_speakON-6.35mm_Neutrik_NLJ2MDXX-H_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_speakON-6.35mm_Neutrik_NLJ2MDXX-H_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -56,7 +56,7 @@
   (fp_circle (center 0 -0.3) (end 1.75 -0.3) (layer "F.Fab") (width 0.1) (fill none) (tstamp c4f07d9d-bf8b-4373-90aa-b9e669723db9))
   (pad "1" thru_hole rect (at 0 0) (size 2.6 2.6) (drill 1.4) (layers *.Cu *.Mask) (tstamp ddc0deff-13d3-4724-b8f7-a29fe0aebf66))
   (pad "2" thru_hole circle (at 5.08 0) (size 2.6 2.6) (drill 1.4) (layers *.Cu *.Mask) (tstamp 8947ac3a-5495-4bf9-9a67-14641c8f5f20))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

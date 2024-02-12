@@ -50,7 +50,7 @@
   (fp_line (start -3.25 -6) (end -3.25 -3.9) (layer "F.Fab") (width 0.1) (tstamp f7b7cea4-bd16-4fa4-8053-33529b18f1b2))
   (pad "1" smd rect (at -6 0) (size 3 6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9d0b0eaf-01f7-4601-86e6-8b060a57318b))
   (pad "2" smd rect (at 6 0) (size 3 6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fc9b6001-c2e3-4ebd-8700-4526d6d588a4))
-  (model "${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_Mallory_AST1240MLQ.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_Mallory_AST1240MLQ.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

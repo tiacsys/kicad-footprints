@@ -107,7 +107,7 @@
   (pad "R10" thru_hole circle (at 11.43 2.54) (size 1.9 1.9) (drill 0.9) (layers *.Cu *.Mask) (tstamp 0355460c-7cb3-45ee-bf6c-8b765f0b4625))
   (pad "SH" thru_hole circle (at 13.49 5.84) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask) (tstamp 9140eb5e-4080-4cbe-80f3-bc779e8aff65))
   (pad "SH" thru_hole circle (at -2.06 5.84) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask) (tstamp ded86189-d432-496e-8314-f8b972ccac7c))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_UDE_RB1-125B8G1A.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_UDE_RB1-125B8G1A.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

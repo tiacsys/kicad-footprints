@@ -39,7 +39,7 @@
   (pad "1" thru_hole circle (at 0 0 270) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask) (tstamp 6ef83382-67af-415c-b86b-00f106582724))
   (pad "2" thru_hole circle (at 20 0 270) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask) (tstamp 1ed38596-a81b-4abd-a920-dbae37871965))
   (pad "3" thru_hole circle (at 0 5 270) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask) (tstamp 1dec099a-0ea9-4b80-a4ff-bc1db26b3bd9))
-  (model "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Autotransformer_ZS1052-AC.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Transformer_THT.3dshapes/Autotransformer_ZS1052-AC.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

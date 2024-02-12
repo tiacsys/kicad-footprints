@@ -84,7 +84,7 @@
   (pad "12" smd roundrect (at 4.5974 -1.27) (size 2.2098 0.6096) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 34a312c2-fb4f-4ba3-8f05-fb008bb2a825))
   (pad "13" smd roundrect (at 4.5974 -2.54) (size 2.2098 0.6096) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 370bdb93-6b2d-4aa7-bf63-c58581f8b83d))
   (pad "14" smd roundrect (at 4.5974 -3.81) (size 2.2098 0.6096) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp cf6e6643-d56f-43bf-b374-cbb5e88a100c))
-  (model "${KICAD6_3DMODEL_DIR}/Sensor_Pressure.3dshapes/TE_MS5525DSO-DBxxxyS.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor_Pressure.3dshapes/TE_MS5525DSO-DBxxxyS.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

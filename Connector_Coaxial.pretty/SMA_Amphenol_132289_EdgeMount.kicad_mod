@@ -46,7 +46,7 @@
   (pad "2" smd rect (at 0 -4.25 90) (size 1.5 5.08) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 37edef0f-e8a6-4de9-a1fe-3dc77e3f8a40))
   (pad "2" smd rect (at 0 -4.25 90) (size 1.5 5.08) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 9115563a-5c91-4d9e-9fd6-c4788995231b))
   (pad "2" smd rect (at 0 4.25 90) (size 1.5 5.08) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp e18fd33f-be34-4a66-a5ae-cfc11eff5687))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132289_EdgeMount.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132289_EdgeMount.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

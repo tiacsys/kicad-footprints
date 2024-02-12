@@ -56,7 +56,7 @@
   (pad "" thru_hole circle (at 3 -10) (size 1.4 1.4) (drill 1) (layers *.Cu *.Mask) (tstamp b8a68313-cd14-4a06-8213-437cc9450e9a))
   (pad "1" thru_hole rect (at 0 0) (size 3.5 3.5) (drill 1.9) (layers *.Cu *.Mask) (tstamp 3c08777f-6352-4a31-ad4f-79ad6b02212f))
   (pad "2" thru_hole circle (at -5 0) (size 3.5 3.5) (drill 1.9) (layers *.Cu *.Mask) (tstamp dcf9b550-d66d-4aed-b629-a4aaa009b914))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT30PW-M_1x02_P2.50mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT30PW-M_1x02_P2.50mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

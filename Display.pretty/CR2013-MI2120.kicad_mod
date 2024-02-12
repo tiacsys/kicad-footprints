@@ -54,7 +54,7 @@
   (pad "12" thru_hole circle (at 63.52 10.16) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp d7dcac46-5a84-4b90-9e02-a8d146ff3b4a))
   (pad "13" thru_hole circle (at 63.52 12.7) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 1a033ee7-b527-4a41-b17b-63966f1accfa))
   (pad "14" thru_hole circle (at 63.52 15.24) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 15da1f7b-6866-4742-9f4d-e56d69d8050b))
-  (model "${KICAD6_3DMODEL_DIR}/Display.3dshapes/CR2013-MI2120.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Display.3dshapes/CR2013-MI2120.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

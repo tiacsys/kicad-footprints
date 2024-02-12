@@ -40,7 +40,7 @@
   (pad "1" thru_hole rect (at 0 0) (size 1.8 1.8) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 111a0c3d-6201-469a-a1dd-54226a0a8d36))
   (pad "2" thru_hole circle (at -3.75 11.65) (size 1.8 1.8) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 36b7fc24-1096-4e61-a034-8ff95bd1379a))
   (pad "2" thru_hole circle (at 3.75 11.65) (size 1.8 1.8) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 6585dfb5-4ff9-407e-be4e-67cf9a996ddc))
-  (model "${KICAD7_3DMODEL_DIR}/Sensor.3dshapes/TGS-5141.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor.3dshapes/TGS-5141.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

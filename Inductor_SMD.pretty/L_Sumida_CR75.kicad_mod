@@ -30,7 +30,7 @@
   (fp_line (start -4.04 -3.5) (end -4.04 3.5) (layer "F.Fab") (width 0.1) (tstamp fb6259e6-1ec6-48a2-8652-c346316ff340))
   (pad "1" smd roundrect (at -2.5 0) (size 3 5.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.333) (tstamp 39addb90-2da5-427e-b011-0cec9811aa2a))
   (pad "2" smd roundrect (at 2.5 0) (size 3 5.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.333) (tstamp 371dcd7e-df7c-4528-816c-3b7d99cdedec))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sumida_CR75.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sumida_CR75.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

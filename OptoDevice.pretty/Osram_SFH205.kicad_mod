@@ -26,7 +26,7 @@
   (fp_arc (start -0.75 1.55) (mid 1.266965 -2.546152) (end 3.293689 1.54518) (layer "F.Fab") (width 0.1) (tstamp 7bc3a8de-a1f5-4380-8773-d337e7a4b1d6))
   (pad "1" thru_hole roundrect (at 0 0) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask) (roundrect_rratio 0.178) (tstamp c127d34c-4716-44d4-9a40-745af1948841))
   (pad "2" thru_hole circle (at 2.56 0) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask) (tstamp edf91c5c-35f8-4abb-b1c0-5d07df6f7e46))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SFH205.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SFH205.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

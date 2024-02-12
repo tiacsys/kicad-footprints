@@ -91,7 +91,7 @@
   (pad "1" smd circle (at -2.95 0) (size 1.1 1.1) (layers "F.Cu") (tstamp 30de0b41-66d1-4433-abea-e06f03a86937))
   (pad "1" smd circle (at 0 -2.95) (size 1.1 1.1) (layers "F.Cu") (tstamp b4c7a1db-7056-4833-bf9a-26598e87b2e1))
   (pad "1" smd circle (at 0 2.95) (size 1.1 1.1) (layers "F.Cu") (tstamp fc5f3358-c93c-4495-93b4-c3c7f6c47aa4))
-  (model "${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M3_H15mm_9774150360.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M3_H15mm_9774150360.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

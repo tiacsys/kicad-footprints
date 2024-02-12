@@ -32,7 +32,7 @@
   (fp_line (start 5.7 -5) (end 5.7 5) (layer "F.Fab") (width 0.1) (tstamp bbf8d7f9-0425-48be-82b2-4cb361de5abe))
   (pad "1" smd rect (at -4.75 0) (size 3.6 4.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 112c40a3-6f31-45db-8610-e2768534e75f))
   (pad "2" smd rect (at 4.75 0) (size 3.6 4.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 56f7f90d-49d4-490c-a542-db3e90e497ba))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_SM-PIC1004H.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_SM-PIC1004H.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

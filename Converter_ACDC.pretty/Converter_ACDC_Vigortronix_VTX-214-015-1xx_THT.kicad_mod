@@ -37,7 +37,7 @@
   (pad "3" thru_hole circle (at 0 35) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp ccdbd89b-5abd-4974-9be5-d7e73c8385d1))
   (pad "4" thru_hole circle (at 47 27.5) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 2d56bb21-0c31-4b6e-adaf-b26f5a1f5611))
   (pad "5" thru_hole circle (at 47 7.5) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp dc7969ea-fd65-457f-8320-517ce0b0a12f))
-  (model "${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_Vigortronix_VTX-214-015-1xx_THT.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_Vigortronix_VTX-214-015-1xx_THT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

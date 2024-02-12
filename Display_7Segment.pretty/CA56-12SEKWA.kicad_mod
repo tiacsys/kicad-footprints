@@ -44,7 +44,7 @@
   (pad "10" thru_hole circle (at 15.24 5.08) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp a4726cae-e529-4c05-aea1-d4ce064aabf0))
   (pad "11" thru_hole circle (at 15.24 2.54) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 86cbe745-9810-410f-b6fc-194f9c47f6ee))
   (pad "12" thru_hole circle (at 15.24 0) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp f6883e60-47d3-45e5-bb44-98f5614d24b7))
-  (model "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/CA56-12SEKWA.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Display_7Segment.3dshapes/CA56-12SEKWA.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

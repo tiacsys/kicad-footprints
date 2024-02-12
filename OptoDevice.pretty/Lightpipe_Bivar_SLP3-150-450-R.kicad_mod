@@ -44,7 +44,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 6a26cd55-7208-4f60-95e3-1a41e7aea6d1))
   (pad "" np_thru_hole circle (at 0 -1.27) (size 1.1684 1.1684) (drill 1.1684) (layers "F&B.Cu" "*.Mask") (tstamp 1de358f6-602c-451d-93cb-3bbe49084673))
   (pad "" np_thru_hole circle (at 0 1.27) (size 1.1684 1.1684) (drill 1.1684) (layers "F&B.Cu" "*.Mask") (tstamp 6122892e-780c-453e-be2c-55b56a6f0210))
-  (model "${KICAD7_3DMODEL_DIR}/OptoDevice.3dshapes/Lightpipe_Bivar_SLP3-150-450-R.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Lightpipe_Bivar_SLP3-150-450-R.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

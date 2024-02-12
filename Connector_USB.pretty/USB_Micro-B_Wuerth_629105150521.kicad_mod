@@ -61,7 +61,7 @@
   (pad "6" thru_hole oval (at 3.725 -1.85) (size 1.45 2) (drill oval 0.85 1.4) (layers *.Cu *.Mask) (tstamp 5ed5dba4-9bff-4c65-9ebb-f72870f1fab2))
   (pad "6" thru_hole oval (at -3.875 1.95) (size 1.15 1.8) (drill oval 0.55 1.2) (layers *.Cu *.Mask) (tstamp b44df903-bd58-4ffd-a572-52f8de33ecf0))
   (pad "6" thru_hole oval (at 3.875 1.95) (size 1.15 1.8) (drill oval 0.55 1.2) (layers *.Cu *.Mask) (tstamp f21f15f9-e387-44cb-8b56-351902e45e67))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Wuerth_629105150521.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Wuerth_629105150521.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -78,7 +78,7 @@
   (pad "22" smd roundrect (at 7.3 -4.445) (size 1.91 0.76) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ffc5ce2f-903d-47ac-8aed-46759d11f769))
   (pad "23" smd roundrect (at 7.3 -5.715) (size 1.91 0.76) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 510aee32-e123-41e7-8a5f-f8315eafd78a))
   (pad "24" smd roundrect (at 7.3 -6.985) (size 1.91 0.76) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 56e3f0b9-0c00-4c5f-a475-4280c4b2e2c3))
-  (model "${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Ethernet_Bourns_PT61020EL.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Ethernet_Bourns_PT61020EL.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

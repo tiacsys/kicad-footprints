@@ -57,7 +57,7 @@
   (pad "C2" smd circle (at -0.25 0.5 90) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bb3493fe-646d-4b37-ac70-805c2ee7ef54))
   (pad "C3" smd circle (at 0.25 0.5 90) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 845f0f2f-13ab-4296-bb72-fc1750a00f83))
   (pad "C4" smd circle (at 0.75 0.5 90) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 04c33dc9-f33e-4dd3-ae14-cba5a2c83256))
-  (model "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Maxim_WLP-12.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_BGA.3dshapes/Maxim_WLP-12.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

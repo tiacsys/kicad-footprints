@@ -143,7 +143,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 634e10de-799b-40f2-81eb-1316c3fbef1e))
   (pad "1" thru_hole circle (at -12.7 0 180) (size 4 4) (drill 2.5) (layers "*.Cu" "*.Mask") (tstamp 50639ea7-af02-44b2-b71b-5d648a7a17b5))
   (pad "1" thru_hole circle (at 12.7 0) (size 4 4) (drill 2.5) (layers "*.Cu" "*.Mask") (tstamp 2e129035-b08c-446c-bd76-662214368a43))
-  (model "${KICAD7_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

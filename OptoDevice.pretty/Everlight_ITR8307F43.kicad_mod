@@ -35,7 +35,7 @@
   (pad "2" thru_hole oval (at 0 -4) (size 1.1 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp 465b0467-e568-4adb-a0a5-f85f943eb20e))
   (pad "3" thru_hole oval (at 1.8 0) (size 1.1 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp 987a5bc5-a4eb-479e-b5cf-f47cc34283eb))
   (pad "4" thru_hole oval (at 1.8 -4) (size 1.1 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp 4d242dec-11e7-4d67-bfed-b34de1adf7bf))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Everlight_ITR8307F43.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Everlight_ITR8307F43.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

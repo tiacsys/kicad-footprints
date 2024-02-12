@@ -51,7 +51,7 @@
   (pad "9" smd rect (at 3.05 1.27) (size 2.2 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f8d6d54a-1325-4017-8b85-37006d9409bb))
   (pad "10" smd rect (at 3.05 -1.27) (size 2.2 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b099ceb7-79ef-4377-84f9-5355b403e1c4))
   (pad "12" smd rect (at 3.05 -6.35) (size 2.2 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ddd559f1-58f1-46bd-af54-0d726ff834fd))
-  (model "${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_DPDT_Omron_G6SK-2G.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_DPDT_Omron_G6SK-2G.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

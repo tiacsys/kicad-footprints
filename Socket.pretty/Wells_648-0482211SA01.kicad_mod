@@ -80,7 +80,7 @@
   (pad "46" thru_hole roundrect (at 27.64 1) (size 1.5 1.1) (drill 0.75) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 6b6f92b8-2664-4c2b-9fce-ad1fc6f78eca))
   (pad "47" thru_hole roundrect (at 34.24 0.5) (size 1.5 1.1) (drill 0.75) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 2e62d081-a5d7-4118-858d-1e685bf429cc))
   (pad "48" thru_hole roundrect (at 30.94 0) (size 1.5 1.1) (drill 0.75) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp a268afb2-e743-450e-8f1c-7727d5c6ad66))
-  (model "${KICAD6_3DMODEL_DIR}/Socket.3dshapes/Wells_648-0482211SA01.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Socket.3dshapes/Wells_648-0482211SA01.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

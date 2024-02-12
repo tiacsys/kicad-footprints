@@ -47,7 +47,7 @@
   (pad "2" thru_hole circle (at 16 0) (size 3 3) (drill 1.2) (layers *.Cu *.Mask) (tstamp 212f487f-e29f-4537-8a40-b12eaa716c24))
   (pad "3" thru_hole circle (at 0 -10) (size 3 3) (drill 1.2) (layers *.Cu *.Mask) (tstamp 7fb099f4-7738-4a1c-82c1-c3d38d75d974))
   (pad "4" thru_hole circle (at 16 -10) (size 3 3) (drill 1.2) (layers *.Cu *.Mask) (tstamp 9df97951-36df-4be1-ac6e-479c3e5e728c))
-  (model "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Toroid_Horizontal_D14.0mm_Amidon-T50.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Toroid_Horizontal_D14.0mm_Amidon-T50.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

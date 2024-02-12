@@ -40,7 +40,7 @@
   (fp_circle (center 9.55 0) (end 13.183333 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp 8ea2ff26-9d19-4123-841e-73d867ab65d6))
   (pad "1" thru_hole circle (at 0 0) (size 3.6 3.6) (drill 1.8) (layers *.Cu *.Mask) (tstamp 37fc7fbb-4722-4f79-aa75-b17acc07945b))
   (pad "2" thru_hole circle (at 19.1 0) (size 3.6 3.6) (drill 1.8) (layers *.Cu *.Mask) (tstamp 99c809e8-8eca-4881-95c1-0585a4c5d1e1))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D21.8mm_P19.10mm_Bourns_2100.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D21.8mm_P19.10mm_Bourns_2100.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

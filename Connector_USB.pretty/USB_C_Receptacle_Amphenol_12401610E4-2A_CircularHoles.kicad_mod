@@ -60,7 +60,7 @@
   (pad "S1" thru_hole circle (at 4.49 2.84) (size 1.4 1.4) (drill 1.1) (layers *.Cu *.Mask) (tstamp 7d1b9542-5a19-4198-a48a-6971683af045))
   (pad "S1" thru_hole circle (at -4.13 -3.11) (size 1.4 1.4) (drill 1.1) (layers *.Cu *.Mask) (tstamp ae9984b2-5cfb-4ecb-aa98-5fc45c2f9799))
   (pad "S1" thru_hole circle (at 4.13 -3.11) (size 1.4 1.4) (drill 1.1) (layers *.Cu *.Mask) (tstamp eb0323a6-e7b6-44fa-9413-fe395de861ee))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_12401610E4-2A.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_12401610E4-2A.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

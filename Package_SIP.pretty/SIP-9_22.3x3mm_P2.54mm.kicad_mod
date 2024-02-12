@@ -43,7 +43,7 @@
   (pad "7" thru_hole circle (at 15.24 0 90) (size 1.45 1.45) (drill 0.85) (layers *.Cu *.Mask) (tstamp 5538fc6a-ae51-4f42-ad7a-8b981772774c))
   (pad "8" thru_hole circle (at 17.78 0 90) (size 1.45 1.45) (drill 0.85) (layers *.Cu *.Mask) (tstamp af5d3160-80a7-4f66-9d92-be581db5efe8))
   (pad "9" thru_hole circle (at 20.32 0 90) (size 1.45 1.45) (drill 0.85) (layers *.Cu *.Mask) (tstamp f82ac9bf-51bb-4ea0-8a97-3885ae518dda))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP-9_22.3x3mm_P2.54mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_SIP.3dshapes/SIP-9_22.3x3mm_P2.54mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

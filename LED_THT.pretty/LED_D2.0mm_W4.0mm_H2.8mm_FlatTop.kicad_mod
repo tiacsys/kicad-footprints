@@ -33,7 +33,7 @@
   (fp_circle (center 1.27 0) (end 2.27 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp 06699a16-4a8a-4479-8aac-2cde08a935a9))
   (pad "1" thru_hole rect (at 0 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask) (tstamp 8e48cd92-b4be-48f7-abf1-46aabce181cb))
   (pad "2" thru_hole circle (at 2.54 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask) (tstamp 83468d5b-082f-4134-a165-65363b7de598))
-  (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D2.0mm_W4.0mm_H2.8mm_FlatTop.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D2.0mm_W4.0mm_H2.8mm_FlatTop.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

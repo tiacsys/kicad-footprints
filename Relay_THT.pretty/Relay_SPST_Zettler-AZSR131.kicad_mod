@@ -55,7 +55,7 @@
   (pad "2" thru_hole circle (at 22 0 180) (size 2.1 2.1) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp 2e7efc41-4117-4982-85f2-1b43dbd1e504))
   (pad "3" thru_hole circle (at 25.8 12 180) (size 2.8 2.8) (drill 1.8) (layers "*.Cu" "*.Mask") (tstamp e6882743-e9e5-473a-8ca2-9a0bdb554679))
   (pad "4" thru_hole circle (at -1.8 12 180) (size 2.8 2.8) (drill 1.8) (layers "*.Cu" "*.Mask") (tstamp 492b6391-3d1b-4316-a8ad-498de6ced2fe))
-  (model "${KICAD7_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_Zettler-AZSR131.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_Zettler-AZSR131.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

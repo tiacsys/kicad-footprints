@@ -38,7 +38,7 @@
   (pad "1" smd rect (at -0.5 -3.125) (size 0.6 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d6a31412-aa1b-4ea1-ba47-e7f00b04f755))
   (pad "2" smd rect (at 0.5 -3.125) (size 0.6 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 10e3f980-5b0f-449f-b9ee-63f19de78895))
   (pad "3" smd rect (at 0 2.475) (size 1.5 2.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f0669d64-5986-4c84-b046-6c88ae42dad2))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_MicroCrystal_MS3V-T1R.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_MicroCrystal_MS3V-T1R.wrl"
     (offset (xyz 0 0.3249999954 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

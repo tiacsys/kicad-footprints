@@ -99,7 +99,7 @@
   (pad "21" thru_hole circle (at 2 0) (size 0.8 0.8) (drill 0.3) (layers "*.Cu") (tstamp bd4923c0-94a1-40bf-be8f-bdd2285ebf3a))
   (pad "21" thru_hole circle (at 2 1.55) (size 0.8 0.8) (drill 0.3) (layers "*.Cu") (tstamp 75c3d482-a6df-4950-abc8-d4c3f7a0dd20))
   (pad "21" thru_hole circle (at 2 3.1) (size 0.8 0.8) (drill 0.3) (layers "*.Cu") (tstamp 9a0a71c6-9c1f-4101-a6b8-33e11818f650))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-DSO-20-30.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-DSO-20-30.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

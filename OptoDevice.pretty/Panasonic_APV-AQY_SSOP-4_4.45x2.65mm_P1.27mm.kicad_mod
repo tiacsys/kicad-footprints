@@ -36,7 +36,7 @@
   (pad "2" smd roundrect (at -2.175 0.635) (size 0.9 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp f609cf71-3f8b-4e98-96a0-7c824d0038c9))
   (pad "3" smd roundrect (at 2.175 0.635) (size 0.9 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 515fc6b6-6839-45ff-97d0-f29556a51c45))
   (pad "4" smd roundrect (at 2.175 -0.635) (size 0.9 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 6cd9bf70-ffba-4f81-a70c-24e49039e368))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

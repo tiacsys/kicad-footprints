@@ -39,7 +39,7 @@
   (pad "R" thru_hole circle (at 2 7.9) (size 2.8 2.8) (drill 2) (layers *.Cu *.Mask) (tstamp 0ddd2de7-f090-4004-98d0-1b1b65512abc))
   (pad "S" thru_hole circle (at 0 0) (size 2.8 2.8) (drill 2) (layers *.Cu *.Mask) (tstamp 56bf01c3-9501-4867-83e0-e6d316a30543))
   (pad "T" thru_hole circle (at 2 2.4) (size 2.8 2.8) (drill 2) (layers *.Cu *.Mask) (tstamp fd915c4b-f9bc-4f68-aee0-123603b4789b))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_CUI_SJ1-3533NG_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_CUI_SJ1-3533NG_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -42,7 +42,7 @@
   (fp_line (start 6 3) (end 6 -3) (layer "F.Fab") (width 0.1) (tstamp b6dc171c-93c1-43f2-8ead-e1baa64d7f33))
   (pad "1" smd rect (at -5.4 2.3 180) (size 1.5 2) (layers "F.Cu" "F.Mask") (tstamp ad56c8fa-4afc-4f62-b12d-0dc4b552ea30))
   (pad "2" smd rect (at 5.4 2.3 180) (size 1.5 2) (layers "F.Cu" "F.Mask") (tstamp bf230c2a-591e-4598-8bac-cef07294ae7c))
-  (model "${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Speaker_CUI_CMR-1206S-67.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Speaker_CUI_CMR-1206S-67.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

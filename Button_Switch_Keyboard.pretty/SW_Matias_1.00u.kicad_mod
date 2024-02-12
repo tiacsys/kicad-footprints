@@ -34,7 +34,7 @@
   (fp_line (start 6.1 11.5) (end -11.1 11.5) (layer "F.Fab") (width 0.1) (tstamp cd0e4276-367c-4b81-b27c-9d8133ea980a))
   (pad "1" thru_hole circle (at 0 0) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask) (tstamp 228a6da5-d93b-4ab5-8d2b-a04ff88d8283))
   (pad "2" thru_hole circle (at -5 0.5) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask) (tstamp 1ea4fcc5-ccb1-4862-b05f-bd5ed8827319))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Matias_1.00u.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Matias_1.00u.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -36,7 +36,7 @@
   (pad "2" smd rect (at 2.975 -2) (size 1 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4225b8ec-44ec-4934-8c5e-767f23c6494d))
   (pad "3" smd rect (at 2.975 2) (size 1 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c66a7bc3-7cfe-4799-88f5-d272acf5ad9c))
   (pad "4" smd rect (at -2.975 2) (size 1 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0e4d75af-71f8-4fc3-a933-f764a4e55083))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_Vishay_MBLS.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_Vishay_MBLS.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

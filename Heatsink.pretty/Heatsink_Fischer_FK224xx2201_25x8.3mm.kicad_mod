@@ -65,7 +65,7 @@
   (fp_line (start -0.6 7.65) (end -0.6 -0.65) (layer "F.Fab") (width 0.1) (tstamp cce1ecbb-844f-405e-a5ac-e7568b6b72be))
   (pad "1" thru_hole circle (at 23.8 0) (size 3 3) (drill 2) (layers *.Cu *.Mask) (tstamp 29870c68-910c-4598-87ca-6e653a0fb488))
   (pad "1" thru_hole circle (at 0 0) (size 3 3) (drill 2) (layers *.Cu *.Mask) (tstamp a1e2a574-cb85-4041-9cc7-5410a066e245))
-  (model "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Fischer_FK2242201_25x8.3mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Fischer_FK2242201_25x8.3mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

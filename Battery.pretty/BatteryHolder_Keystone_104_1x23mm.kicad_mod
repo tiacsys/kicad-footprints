@@ -58,7 +58,7 @@
   (fp_arc (start 27.892123 -0.00164) (mid 16.968026 12.568376) (end 3 3.5) (layer "F.Fab") (width 0.1) (tstamp f92a2324-a542-4b6b-b976-9e1c18376902))
   (pad "1" thru_hole rect (at 0 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp df630b1c-e6bb-46c0-ab38-d133de6998d1))
   (pad "2" thru_hole circle (at 20.49 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 278156a0-c9fd-43e2-8c9e-9389df87b52f))
-  (model "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_104_1x23mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_104_1x23mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

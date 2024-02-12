@@ -137,7 +137,7 @@
   (pad "63" smd oval (at -3.25 -4.5 90) (size 0.8 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6886e6ce-d33a-4df0-bec7-4ebb95011d24))
   (pad "64" smd oval (at -3.75 -4.5 90) (size 0.8 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 32b139ab-9569-476a-a359-1e3cf0ba2261))
   (pad "65" smd rect (at 0 0) (size 7.25 7.25) (layers "F.Cu" "F.Mask") (tstamp 91e58994-b963-4adb-bb95-c6475d3a904a))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -38,7 +38,7 @@
   (pad "2" smd roundrect (at -3.43 1.27) (size 1.4 0.76) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d8123fe4-1675-4181-9693-1728438bb1f2))
   (pad "3" smd roundrect (at 3.43 -1.27) (size 1.4 0.76) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e30fc10f-c18f-46b7-8904-8923d6967eff))
   (pad "4" smd roundrect (at 2.48 0.635) (size 3.3 2.03) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.12) (tstamp c90b701e-aaf3-4a78-a42f-dab8bac50024))
-  (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -32,7 +32,7 @@
   (fp_circle (center 0 12) (end 1 12) (layer "F.Fab") (width 0.1) (fill none) (tstamp ce8daa72-d90d-4698-ad11-754c33466eb7))
   (pad "" np_thru_hole circle (at 0 12) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Mask) (tstamp d3f51cbc-2b93-48f4-b7fb-a06e94395e2b))
   (pad "1" thru_hole roundrect (at 0 0) (size 2 2) (drill 0.85) (layers *.Cu *.Mask) (roundrect_rratio 0.125) (tstamp f037d808-dd9a-4a0a-8090-d1dd111c9f7b))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.25sqmm_1x01_D0.65mm_OD2mm_Relief.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.25sqmm_1x01_D0.65mm_OD2mm_Relief.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -39,7 +39,7 @@
   (pad "3" thru_hole oval (at 5 0) (size 1.8 3) (drill 1.2) (layers *.Cu *.Mask) (tstamp cc0fccf8-df64-46ee-baee-ac88c27b0162))
   (pad "4" thru_hole oval (at 7.5 -5) (size 1.8 3) (drill 1.2) (layers *.Cu *.Mask) (tstamp 4cf60788-962c-47a7-beea-e80744c7ebe8))
   (pad "4" thru_hole oval (at 7.5 0) (size 1.8 3) (drill 1.2) (layers *.Cu *.Mask) (tstamp afd55b0e-23b9-4033-b271-70888347579d))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PTSM-0,5-4-2.5-H-THR_1x04_P2.50mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PTSM-0,5-4-2.5-H-THR_1x04_P2.50mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -33,7 +33,7 @@
   (pad "4" smd roundrect (at 2.55 1.27) (size 1.2 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 36459fec-58ac-4213-9b96-4044bc19a89a))
   (pad "5" smd roundrect (at 2.55 0) (size 1.2 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 909c44ee-09f9-43e5-a7fb-a13d6df8bd75))
   (pad "6" smd roundrect (at 2.55 -1.27) (size 1.2 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp bae961e6-a733-4b94-b02d-f7cb910120c1))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SFH9x0x.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SFH9x0x.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

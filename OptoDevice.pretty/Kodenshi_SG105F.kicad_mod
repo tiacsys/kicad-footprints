@@ -31,7 +31,7 @@
   (pad "2" thru_hole oval (at 0 4) (size 1.1 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp 138817fc-a84c-47d3-9422-a4ad48cb0d21))
   (pad "3" thru_hole oval (at 1.8 4) (size 1.1 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp f497142c-d36e-4466-be0b-dbd5a20e90c1))
   (pad "4" thru_hole oval (at 1.8 0) (size 1.1 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp d5fc382a-08ef-4d08-af49-e1a7e65c5412))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kodenshi_SG105F.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Kodenshi_SG105F.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

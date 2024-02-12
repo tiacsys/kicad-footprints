@@ -47,7 +47,7 @@
   (fp_line (start -1.5 0.05) (end -0.5 0.05) (layer "F.Fab") (width 0.1) (tstamp ffbf55a8-a863-4605-bb7f-79a956231008))
   (pad "1" smd rect (at -2.54 0) (size 1.6 0.76) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp abb54d35-efef-4d5f-b251-171d94681b16))
   (pad "2" smd rect (at 2.54 0) (size 1.6 0.76) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 75e1556d-f704-4786-869b-a326331dc785))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx01_Slide_Copal_CHS-01A_W5.08mm_P1.27mm_JPin.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx01_Slide_Copal_CHS-01A_W5.08mm_P1.27mm_JPin.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

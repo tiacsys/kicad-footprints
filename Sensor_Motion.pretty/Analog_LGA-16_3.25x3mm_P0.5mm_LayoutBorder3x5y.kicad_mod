@@ -72,7 +72,7 @@
   (pad "14" smd roundrect (at 0.5 -1.275) (size 0.3 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 5c241721-c2a9-4976-a16c-e336f374f16a))
   (pad "15" smd roundrect (at 0 -1.275) (size 0.3 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9de012db-58de-458a-88e9-62a49f20f6c9))
   (pad "16" smd roundrect (at -0.5 -1.275) (size 0.3 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e8c02d10-9266-4658-bc83-bb393ac18624))
-  (model "${KICAD6_3DMODEL_DIR}/Sensor_Motion.3dshapes/LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor_Motion.3dshapes/LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

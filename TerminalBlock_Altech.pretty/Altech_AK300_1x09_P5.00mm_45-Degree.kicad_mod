@@ -44,7 +44,7 @@
   (pad "7" thru_hole circle (at 30 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 94c92acc-aaa0-4d0b-af07-3e6ad1dec7d0))
   (pad "8" thru_hole circle (at 35 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 99d9e058-5706-467d-a481-e503caa01a5c))
   (pad "9" thru_hole circle (at 40 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 901db66f-cde5-43f7-97a0-0b3e983a44f7))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_Altech.3dshapes/Altech_AK300_1x09_P5.00mm_45-Degree.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TerminalBlock_Altech.3dshapes/Altech_AK300_1x09_P5.00mm_45-Degree.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

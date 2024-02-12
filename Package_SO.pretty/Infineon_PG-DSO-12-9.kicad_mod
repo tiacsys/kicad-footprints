@@ -97,7 +97,7 @@
   (pad "11" smd rect (at 4.8 -1.5) (size 2 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 28df68ed-7a37-4243-a7ac-e2e4729f6c8e))
   (pad "12" smd rect (at 4.8 -2.5) (size 2 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 18180908-5768-4d23-8a2c-40cde40da773))
   (pad "13" smd rect (at 0 0) (size 4.5 8.1) (layers "F.Cu" "F.Mask") (tstamp b72de039-ac2a-4f15-ae98-0e4516901451))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-DSO-12-9.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-DSO-12-9.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -80,7 +80,7 @@
   (pad "22" thru_hole oval (at 73.5 0) (size 2 2.6) (drill 1.6) (layers *.Cu *.Mask) (tstamp 495b8d44-cbfe-4dfb-83f1-0420ac10aef9))
   (pad "23" thru_hole oval (at 77 0) (size 2 2.6) (drill 1.6) (layers *.Cu *.Mask) (tstamp 240a7c41-4e9e-48b6-98a1-130c646fb9a9))
   (pad "24" thru_hole oval (at 80.5 0) (size 2 2.6) (drill 1.6) (layers *.Cu *.Mask) (tstamp 120a5205-560e-4894-8789-70dfa25c8f09))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Wago.3dshapes/Wago_734-184_1x24_P3.50mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Wago.3dshapes/Wago_734-184_1x24_P3.50mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -56,7 +56,7 @@
   (pad "14" thru_hole circle (at 12.6 3.56) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask) (tstamp 8ba9c2f0-61bc-4bdc-a38f-8f76a85b6473))
   (pad "15" thru_hole circle (at 12.6 1.78) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask) (tstamp d46e54e7-7dc6-49d8-bd07-305f33f589fe))
   (pad "16" thru_hole circle (at 12.6 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask) (tstamp a549d628-b99e-4bd4-979d-0a52b753b34a))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/ADNS-9800.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/ADNS-9800.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -44,7 +44,7 @@
   (pad "8" smd roundrect (at 5.25 -2.575) (size 0.8 2.9) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 3d83628e-c504-4ff4-b866-f1eafe8e9627))
   (pad "MP" smd roundrect (at -7.85 2.125) (size 1.8 3.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.138889) (tstamp 837bb307-4a45-4c1a-b791-a9d9cf3f909b))
   (pad "MP" smd roundrect (at 7.85 2.125) (size 1.8 3.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.138889) (tstamp c391dbba-1842-45b7-99b2-e28ef7c7db55))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_ZE_SM08B-ZESS-TB_1x08-1MP_P1.50mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_JST.3dshapes/JST_ZE_SM08B-ZESS-TB_1x08-1MP_P1.50mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -62,7 +62,7 @@
   (pad "30" thru_hole circle (at 60.96 5.08) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 071e7fee-a2dd-4c20-94b5-0269cf423376))
   (pad "31" thru_hole circle (at 60.96 2.54) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 63c7625f-7051-4cd9-ba8a-025575bc2142))
   (pad "32" thru_hole circle (at 60.96 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 56aac6b5-7673-444d-8d4a-fee4cf68c4c8))
-  (model "${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_DOGXL160-7.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Display.3dshapes/EA_DOGXL160-7.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

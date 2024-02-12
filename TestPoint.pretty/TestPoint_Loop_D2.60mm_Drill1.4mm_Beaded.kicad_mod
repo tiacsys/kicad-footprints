@@ -24,7 +24,7 @@
   (fp_line (start 1.3 -0.3) (end -1.3 -0.3) (layer "F.Fab") (width 0.12) (tstamp f0fa0439-9c18-4cf5-8074-2194ea5ba8aa))
   (fp_circle (center 0 0) (end 1.5 0) (layer "F.Fab") (width 0.12) (fill none) (tstamp d3a07b32-bd7d-43be-bb4a-d68c6f2cf138))
   (pad "1" thru_hole circle (at 0 0) (size 2.8 2.8) (drill 1.4) (layers *.Cu *.Mask) (tstamp fa2d8295-c105-44b0-a30d-4b2e668c1b22))
-  (model "${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

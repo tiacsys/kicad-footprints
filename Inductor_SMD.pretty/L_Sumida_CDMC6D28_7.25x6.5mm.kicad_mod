@@ -48,7 +48,7 @@
   (fp_arc (start 3.25 2.75) (mid 3.103553 3.103553) (end 2.75 3.25) (layer "F.Fab") (width 0.1) (tstamp d6f1af5b-1014-4994-a1c1-ecab9706d8c6))
   (pad "1" smd rect (at -2.85 0) (size 2 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5838e2b3-ff82-446d-a560-2523ffef060b))
   (pad "2" smd rect (at 2.85 0) (size 2 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e8afcdeb-37d8-4cff-8d64-ec10aa6c813c))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sumida_CDMC6D28_7.25x6.5mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sumida_CDMC6D28_7.25x6.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

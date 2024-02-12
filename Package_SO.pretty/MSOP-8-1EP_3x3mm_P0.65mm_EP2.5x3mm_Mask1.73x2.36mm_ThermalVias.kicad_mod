@@ -71,7 +71,7 @@
     (zone_connect 2) (tstamp 1aeafbe9-032e-4690-b396-868ebcd867d9))
   (pad "9" thru_hole circle (at 0.5 -0.5) (size 0.5 0.5) (drill 0.2) (property pad_prop_heatsink) (layers "*.Cu") (tstamp f0c7ad96-3915-46bf-be03-0c654fe1e3c4))
   (pad "9" thru_hole circle (at 0.5 0.5) (size 0.5 0.5) (drill 0.2) (property pad_prop_heatsink) (layers "*.Cu") (tstamp 1040d978-39ca-4d06-a105-49d729d2eecf))
-  (model "${KICAD7_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-8-1EP_3x3mm_P0.65mm_EP2.5x3mm_Mask1.73x2.36mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-8-1EP_3x3mm_P0.65mm_EP2.5x3mm_Mask1.73x2.36mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -71,7 +71,7 @@
   (pad "S1" thru_hole oval (at -4.32 1.075) (size 1 1.6) (drill oval 0.6 1.2) (layers "*.Cu" "*.Mask") (tstamp 81c2e804-ae91-4e17-b03b-278b888d3030))
   (pad "S1" thru_hole oval (at 4.32 -3.105) (size 1 2.1) (drill oval 0.6 1.7) (layers "*.Cu" "*.Mask") (tstamp 3390d88c-fa48-4d57-b9f2-a0d12c77db3c))
   (pad "S1" thru_hole oval (at 4.32 1.075) (size 1 1.6) (drill oval 0.6 1.2) (layers "*.Cu" "*.Mask") (tstamp 63a3a2b0-1a86-49a3-9be4-f520e50a5911))
-  (model "${KICAD7_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

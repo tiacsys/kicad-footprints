@@ -34,7 +34,7 @@
   (pad "1" thru_hole roundrect (at 0 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask) (roundrect_rratio 0.138) (tstamp c636a45f-7634-4533-bdc6-2e375b87e097))
   (pad "2" thru_hole circle (at 2.54 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask) (tstamp 011c9131-6b6a-4071-986b-d17beb656ec5))
   (pad "3" thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask) (tstamp 310dca9c-f99b-4682-92d8-2961e62d8ad7))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Vishay_MOLD-3Pin.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Vishay_MOLD-3Pin.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

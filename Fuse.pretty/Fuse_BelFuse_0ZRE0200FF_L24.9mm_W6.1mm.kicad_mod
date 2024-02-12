@@ -30,7 +30,7 @@
   (fp_line (start 17.55 -2.1) (end 17.55 4) (layer "F.Fab") (width 0.1) (tstamp fc0148dd-9d78-4c44-af91-62e69c6f1c60))
   (pad "1" thru_hole circle (at 0 0) (size 1.56 1.56) (drill 1.01) (layers *.Cu *.Mask) (tstamp 041c5c47-834c-40db-a07d-d766533d5fc5))
   (pad "2" thru_hole circle (at 10.2 1.9) (size 1.56 1.56) (drill 1.01) (layers *.Cu *.Mask) (tstamp 254e8493-fde8-4b6a-9c40-e28cc3c03721))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_BelFuse_0ZRE_0ZRE0200FF_L24.9mm_W6.1mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuse_BelFuse_0ZRE_0ZRE0200FF_L24.9mm_W6.1mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

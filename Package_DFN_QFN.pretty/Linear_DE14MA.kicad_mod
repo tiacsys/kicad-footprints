@@ -113,7 +113,7 @@
   (pad "12" smd rect (at 1.4 -0.5) (size 0.7 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c1f319df-e5a1-49cb-b7f8-8e1d883ef938))
   (pad "13" smd rect (at 1.4 -1) (size 0.7 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 016b4e5e-c398-42ff-bb01-da7e1f414450))
   (pad "14" smd rect (at 1.4 -1.5) (size 0.7 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 232d93a0-0b7f-4e88-a6ab-7d2774bf24c9))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Linear_DE14MA.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Linear_DE14MA.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

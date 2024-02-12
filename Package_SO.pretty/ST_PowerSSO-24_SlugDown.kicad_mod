@@ -79,7 +79,7 @@
   (pad "23" smd rect (at 4.9325 -3.6) (size 1.7 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 68aca042-d7ce-4f4f-b671-31f260a80573))
   (pad "24" smd rect (at 4.9325 -4.4) (size 1.7 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0aaf2bc6-da14-458b-a38b-d7b173e921e5))
   (pad "25" smd rect (at 0 0) (size 5.2 7.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e08a4e51-e571-44f9-81a1-41b558838356))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ST_PowerSSO-24_SlugDown.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/ST_PowerSSO-24_SlugDown.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

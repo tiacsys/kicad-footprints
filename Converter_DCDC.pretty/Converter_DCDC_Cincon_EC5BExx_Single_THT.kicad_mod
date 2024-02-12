@@ -37,7 +37,7 @@
   (pad "2" thru_hole oval (at 5.08 0 90) (size 6 2.54) (drill 1.524) (layers *.Cu *.Mask) (tstamp d7fd9407-d50b-4d0b-b1bc-3f34bc63fb8d))
   (pad "3" thru_hole oval (at -7.62 20.32 90) (size 6 2.54) (drill 1.524) (layers *.Cu *.Mask) (tstamp 52694a44-1cc1-4ecc-9c98-5275a7e52201))
   (pad "5" thru_hole oval (at 12.7 20.32 90) (size 6 2.54) (drill 1.524) (layers *.Cu *.Mask) (tstamp 42c7ffa6-1717-4bd0-a135-019ac04f19a3))
-  (model "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Cincon_EC5BExx_Single_THT.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Cincon_EC5BExx_Single_THT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

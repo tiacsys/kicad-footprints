@@ -50,7 +50,7 @@
   (pad "2" smd rect (at -0.765 0) (size 0.75 0.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5c0dd11f-4cbc-4bde-a790-4c26aa702066))
   (pad "3" smd rect (at 0.645 0.42) (size 0.76 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 67df2e3f-0b1b-4225-9124-2a0f56781cda))
   (pad "3" smd rect (at 0.645 -0.42) (size 0.76 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a6c07b26-d66e-49b6-a363-d610d1c09cee))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_MQ.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_MQ.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

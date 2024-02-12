@@ -53,7 +53,7 @@
   (pad "2" smd roundrect (at -0.925 -0.625 180) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 3e00e01d-7cc9-4751-a3ad-042fd4f38205))
   (pad "3" smd roundrect (at -0.925 0.625 180) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 1f88c38c-91df-47c0-abea-ad0d456a7f0c))
   (pad "4" smd roundrect (at 0.925 0.625 180) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 7855e7e3-0539-4787-85fc-be9b7845f60f))
-  (model "${KICAD7_3DMODEL_DIR}/LED_SMD.3dshapes/LED_RGB_Lumex_SML-LXT0805SIUGUBW.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_RGB_Lumex_SML-LXT0805SIUGUBW.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -48,7 +48,7 @@
   (pad "1" thru_hole rect (at 0 0) (size 1.4 1.4) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp b7baa456-a4be-469f-8630-6756f119a9d4))
   (pad "2" thru_hole circle (at 2.65 0) (size 1.4 1.4) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp ec147569-3b56-4b64-a12d-55076e4f4eb8))
   (pad "3" thru_hole circle (at 5.3 0) (size 1.4 1.4) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp ff51d209-3060-4a38-9482-8cecac8de72d))
-  (model "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Diodes_SIP-3_4.1x1.5mm_P2.65mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor_Current.3dshapes/Diodes_SIP-3_4.1x1.5mm_P2.65mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

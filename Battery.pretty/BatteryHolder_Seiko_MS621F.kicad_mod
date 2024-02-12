@@ -26,7 +26,7 @@
   (fp_circle (center -5 0) (end -1.6 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp d95bfcb0-64ef-4995-b843-fdf66e1af98b))
   (pad "1" smd rect (at 0 -0.75) (size 2 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 23457f95-57a2-4359-8100-9fd08ece3128))
   (pad "2" smd rect (at 0 0.75) (size 2 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 916872bb-9567-4543-bf2f-4c20e5c0d201))
-  (model "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Seiko_MS621F.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Seiko_MS621F.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

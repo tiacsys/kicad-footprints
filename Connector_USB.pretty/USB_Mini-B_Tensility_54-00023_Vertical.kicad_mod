@@ -41,7 +41,7 @@
   (pad "5" thru_hole circle (at 3.2 0) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask) (tstamp 05ae332c-522c-4df9-b80a-0d63fb6a7fe3))
   (pad "6" thru_hole oval (at 5.25 -0.875) (size 1.1 2.4) (drill oval 0.7 2) (layers *.Cu *.Mask) (tstamp 6931925c-5e27-40ef-8e98-06cf86e9cd38))
   (pad "6" thru_hole oval (at -2.05 -0.875) (size 1.1 2.4) (drill oval 0.7 2) (layers *.Cu *.Mask) (tstamp de7a98e0-5374-4cd2-8db5-1e02f27bd1dc))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Mini-B_Tensility_54-00023_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Mini-B_Tensility_54-00023_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

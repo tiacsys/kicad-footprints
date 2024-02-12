@@ -71,7 +71,7 @@
   (pad "2" connect roundrect (at -4.65 0) (size 1 6.2) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.2) (tstamp a0d0af82-ac56-46f2-917e-2131a057b906))
   (pad "3" connect roundrect (at 4.65 0) (size 1 6.2) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.2) (tstamp 71038384-3a26-4dd6-b6c9-10f74f98a892))
   (pad "4" connect roundrect (at 6.65 0) (size 1 6.2) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.2) (tstamp a6a3c989-bfee-4d71-9714-a01d181a0a54))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/molex_EDGELOCK_4-CKT.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/molex_EDGELOCK_4-CKT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

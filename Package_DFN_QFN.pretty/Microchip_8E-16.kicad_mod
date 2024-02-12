@@ -72,7 +72,7 @@
     (solder_paste_margin_ratio -0.2) (tstamp 3e563b46-0bca-4bd9-ae40-18cf98ef354f))
   (pad "17" smd rect (at 0.5375 0.5375) (size 1.075 1.075) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_paste_margin_ratio -0.2) (tstamp 3922dda6-6efa-4652-bc9d-57feef60f59e))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-16-1EP_4x4mm_Pitch0.65mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-16-1EP_4x4mm_Pitch0.65mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -54,7 +54,7 @@
   (pad "6" thru_hole circle (at 5.08 5.4) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask) (tstamp ea5256c5-ef5d-41d1-8627-f3392d649038))
   (pad "7" thru_hole circle (at 5.08 3.2) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask) (tstamp a7803475-11dd-4d95-a46d-dfe8f68ba312))
   (pad "8" thru_hole circle (at 5.08 0) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask) (tstamp 19e960b0-42cd-4d94-83c7-66ca3c5b3c12))
-  (model "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

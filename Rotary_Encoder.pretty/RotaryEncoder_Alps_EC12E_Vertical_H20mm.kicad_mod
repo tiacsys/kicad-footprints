@@ -46,7 +46,7 @@
   (pad "C" thru_hole circle (at 0 2.5) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 884468e0-4cab-4fce-9ee4-7dc5d64e2704))
   (pad "MP" thru_hole rect (at 7.5 -3.1) (size 3 2.5) (drill oval 2.5 2) (layers *.Cu *.Mask) (tstamp 3985c579-3035-4753-9438-db7205f932b5))
   (pad "MP" thru_hole rect (at 7.5 8.1) (size 3 2.5) (drill oval 2.5 2) (layers *.Cu *.Mask) (tstamp 6bb3e653-82e6-4c12-96a4-6c5976116303))
-  (model "${KICAD6_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC12E_Vertical_H20mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC12E_Vertical_H20mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

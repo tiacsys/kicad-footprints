@@ -41,7 +41,7 @@
   (pad "8" thru_hole circle (at 5.08 5.08) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 038a25b0-b455-4f02-9f8f-f1882981e2bf))
   (pad "9" thru_hole circle (at 5.08 2.54) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp ad464b9b-f7c1-4201-b76f-3e9f75e18ebb))
   (pad "10" thru_hole circle (at 5.08 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp d9317d78-092c-4344-b313-cd15860e2858))
-  (model "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/HDSP-A401.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Display_7Segment.3dshapes/HDSP-A401.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

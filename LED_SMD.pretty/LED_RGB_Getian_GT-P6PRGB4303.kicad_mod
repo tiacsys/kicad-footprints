@@ -46,7 +46,7 @@
   (pad "5" smd rect (at 6.22 0 180) (size 3.1 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c3466e2e-96f0-4c25-b1d0-a1127ee8b87a))
   (pad "6" smd rect (at 6.22 -1.7 180) (size 3.1 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 09bd15c0-ae61-44b7-b0f0-c139ce024057))
   (pad "PAD" smd circle (at 0 0) (size 5.7 5.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 84302e5b-1cf2-455c-9465-2ed872bb5811))
-  (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_RGB_Getian_GT-P6PRGB4303.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_RGB_Getian_GT-P6PRGB4303.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

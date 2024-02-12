@@ -55,7 +55,7 @@
   (pad "3" thru_hole circle (at -20.3 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 34f89ae5-2634-4752-8cbf-6401fb041838))
   (pad "4" thru_hole circle (at -20.3 40.6) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 227b7242-4313-498f-8439-87e1dbdd2270))
   (pad "5" thru_hole circle (at 20.3 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 106b1e57-595e-4efc-9054-bc2e6c6385bf))
-  (model "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_OCXO_Morion_MV267.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_OCXO_Morion_MV267.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

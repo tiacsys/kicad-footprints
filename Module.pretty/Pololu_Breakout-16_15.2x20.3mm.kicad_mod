@@ -51,7 +51,7 @@
   (pad "14" thru_hole oval (at 12.7 5.08) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp c95ddd35-51ec-4578-826e-0e9625e86489))
   (pad "15" thru_hole oval (at 12.7 2.54) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 1cef4470-7a63-4408-bfdd-2738afea9d7d))
   (pad "16" thru_hole oval (at 12.7 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp de170945-c365-417e-bd94-f8aafba2aa2a))
-  (model "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Pololu_Breakout-16_15.2x20.3mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Module.3dshapes/Pololu_Breakout-16_15.2x20.3mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

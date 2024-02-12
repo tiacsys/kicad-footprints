@@ -40,7 +40,7 @@
   (fp_line (start -6 -6) (end 6 -6) (layer "F.Fab") (width 0.1) (tstamp e62d5229-00a9-47cd-ae8e-170c95f38d35))
   (pad "1" smd rect (at -4.75 0 90) (size 5.6 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3ce473dc-d33a-44c5-812d-c0de6f6ba4d6))
   (pad "2" smd rect (at 4.75 0 90) (size 5.6 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp adab274a-c690-4fe9-b6e5-49f3dc1139bb))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Pulse_PA4320.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Pulse_PA4320.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

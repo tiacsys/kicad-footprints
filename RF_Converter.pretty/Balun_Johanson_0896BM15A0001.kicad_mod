@@ -37,7 +37,7 @@
   (pad "5" smd rect (at 0.9 0) (size 1 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a91c5c95-1501-4d61-a507-dc718f576d06))
   (pad "6" smd rect (at 0.9 -0.65) (size 1 0.35) (layers "F.Cu" "F.Paste" "F.Mask")
     (clearance 0.2) (tstamp e0a9cc0b-d8dc-44bd-845a-0ad558986f78))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Converter.3dshapes/Balun_Johanson_0896BM15A0001.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_Converter.3dshapes/Balun_Johanson_0896BM15A0001.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

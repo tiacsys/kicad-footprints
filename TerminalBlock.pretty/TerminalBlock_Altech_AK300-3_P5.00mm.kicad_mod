@@ -142,7 +142,7 @@
   (pad "1" thru_hole rect (at 0 0) (size 1.98 3.96) (drill 1.32) (layers *.Cu *.Mask) (tstamp ff7c150a-7a89-422a-848b-0e90da12d2b4))
   (pad "2" thru_hole oval (at 5 0) (size 1.98 3.96) (drill 1.32) (layers *.Cu *.Mask) (tstamp 0ce80d45-a5c0-4ae1-b305-c34290914d9c))
   (pad "3" thru_hole oval (at 10 0) (size 1.98 3.96) (drill 1.32) (layers *.Cu *.Mask) (tstamp f6535d96-8ca7-4be7-b559-da184193bd78))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Altech_AK300-3_P5.00mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Altech_AK300-3_P5.00mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

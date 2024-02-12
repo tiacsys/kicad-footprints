@@ -35,7 +35,7 @@
   (pad "2" smd rect (at 1.1 0.9) (size 1.3 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a40b44b0-60b6-4601-8233-13e90d120b6a))
   (pad "3" smd rect (at 1.1 -0.9) (size 1.3 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp eab22988-455d-4182-9b12-39793c2426e5))
   (pad "4" smd rect (at -1.1 -0.9) (size 1.3 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 461d45e3-fa8a-40d4-b62e-9b234c4a4c0d))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_EuroQuartz_MT-4Pin_3.2x2.5mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_EuroQuartz_MT-4Pin_3.2x2.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

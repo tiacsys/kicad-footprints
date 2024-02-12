@@ -91,7 +91,7 @@
   (pad "S" thru_hole oval (at 0.55 7.5) (size 1.8 2.3) (drill oval 0.8 1.3) (layers "*.Cu" "*.Mask") (tstamp cb52c1e9-579a-4eec-aa84-5e3ad0de18a2))
   (pad "T" thru_hole oval (at 0 0) (size 2 2.3) (drill oval 1 1.3) (layers "*.Cu" "*.Mask") (tstamp 12682516-36b1-43bc-abb9-a824fcbbc569))
   (pad "T" thru_hole oval (at 5.7 0) (size 2 2.3) (drill oval 1 1.3) (layers "*.Cu" "*.Mask") (tstamp 598c1b17-cbaa-4896-8473-3013ace6fce8))
-  (model "${KICAD7_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_Lumberg_1503_07_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_Lumberg_1503_07_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

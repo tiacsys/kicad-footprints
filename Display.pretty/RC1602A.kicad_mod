@@ -90,7 +90,7 @@
   (pad "K1" thru_hole rect (at -36.74 19.06 180) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 08114adf-3dc6-4ab4-8a04-ff8a260817b0))
   (pad "K1" thru_hole rect (at -39.28 16.52 180) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 413b2d01-fb6e-4af5-bf0d-b57332b070fe))
   (pad "K1" thru_hole rect (at -39.28 19.06 180) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 7addaea3-94a7-42b3-97e2-e7e0879117d4))
-  (model "${KICAD6_3DMODEL_DIR}/Display.3dshapes/RC1602A.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Display.3dshapes/RC1602A.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

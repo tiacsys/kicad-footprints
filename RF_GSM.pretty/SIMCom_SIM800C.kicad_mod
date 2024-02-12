@@ -138,7 +138,7 @@
   (pad "40" smd oval (at -2.2 -8.8) (size 0.6 1.6) (layers "F.Cu" "F.Mask") (tstamp 6a2e82a8-5159-4d2d-bd72-bb124c43d8f1))
   (pad "41" smd oval (at -3.3 -8.8) (size 0.6 1.6) (layers "F.Cu" "F.Mask") (tstamp 6ab0cf2c-c193-41fd-83c9-593fa3388f6d))
   (pad "42" smd oval (at -4.4 -8.8) (size 0.6 1.6) (layers "F.Cu" "F.Mask") (tstamp 27c36c89-06aa-4891-aa47-cf6eea9d9a73))
-  (model "${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/SIMCom_SIM800C.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_GSM.3dshapes/SIMCom_SIM800C.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

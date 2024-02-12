@@ -34,7 +34,7 @@
   (fp_line (start -1 0.6) (end 1 0.6) (layer "F.Fab") (width 0.1) (tstamp c7db1f6e-eb69-436e-a9a9-1245984482c7))
   (pad "1" smd rect (at -0.925 0) (size 1.05 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 09088b44-5764-48b4-8de5-0ca3e836c610))
   (pad "2" smd rect (at 0.925 0) (size 1.05 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0339ccb3-c751-4bad-ad1b-44ed755da404))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_2012-2Pin_2.0x1.2mm_HandSoldering.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_2012-2Pin_2.0x1.2mm_HandSoldering.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

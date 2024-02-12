@@ -46,7 +46,7 @@
   (pad "14" thru_hole circle (at 10.16 5.08) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp 0fc21e33-cfea-4092-b31b-a2b99e2b5364))
   (pad "15" thru_hole circle (at 10.16 2.54) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp b9c188a9-338a-4a27-9e9a-3c177747d6ae))
   (pad "16" thru_hole circle (at 10.16 0) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask) (tstamp 8663af7d-c36b-4a81-8df5-cf78331d2d9e))
-  (model "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/LTC-4627Jx.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Display_7Segment.3dshapes/LTC-4627Jx.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

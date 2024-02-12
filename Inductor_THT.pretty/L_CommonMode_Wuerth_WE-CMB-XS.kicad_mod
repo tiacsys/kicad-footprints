@@ -97,7 +97,7 @@
   (pad "2" thru_hole circle (at 4.5 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 5b19432e-5ad6-4dd6-99b2-2fe424598be5))
   (pad "3" thru_hole circle (at 4.5 10) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 7ec58be1-82d4-4b85-a3c3-a1bf7eb6b394))
   (pad "4" thru_hole circle (at 0 10) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 7f694077-d97c-4c1d-9d3a-d2f468f534ed))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_CommonMode_Wuerth_WE-CMB-XS.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_CommonMode_Wuerth_WE-CMB-XS.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

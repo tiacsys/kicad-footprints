@@ -35,7 +35,7 @@
   (pad "4" thru_hole circle (at 0 5) (size 2 2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 05ff8a20-9cb3-4eaa-914b-dbc4d0e07f8d))
   (pad "5" thru_hole circle (at 4 5) (size 2 2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 203894ff-bc6a-43cc-9488-5146a304da48))
   (pad "6" thru_hole circle (at 8 5) (size 2 2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 424d00c2-799c-4130-9846-76a410bf8033))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_E-Switch_FS5700DP_DPDT.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_E-Switch_FS5700DP_DPDT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

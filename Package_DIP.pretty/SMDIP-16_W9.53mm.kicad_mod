@@ -47,7 +47,7 @@
   (pad "14" smd rect (at 4.765 -3.81) (size 2 1.78) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e3e0ae19-99a9-48bf-8557-564ecb754912))
   (pad "15" smd rect (at 4.765 -6.35) (size 2 1.78) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 09d28e60-71f0-4cf4-90a4-e9c08599eaa7))
   (pad "16" smd rect (at 4.765 -8.89) (size 2 1.78) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 375d27be-13bb-4c33-ba73-5217a85e3524))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/SMDIP-16_W9.53mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/SMDIP-16_W9.53mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

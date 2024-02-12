@@ -52,7 +52,7 @@
   (pad "4" smd rect (at 4.125 2.54) (size 1.27 1.27) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6b862fff-1e50-4de4-8c89-0237bfb729a4))
   (pad "5" smd rect (at 4.125 0) (size 1.27 1.27) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0e3e3dd8-ba42-4c47-81da-f64afc5a991c))
   (pad "6" smd rect (at 4.125 -2.54) (size 1.27 1.27) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bc33318b-6dbe-4ff0-a093-c211633dca17))
-  (model "${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Pulse_PA1323NL.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Transformer_SMD.3dshapes/Pulse_PA1323NL.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

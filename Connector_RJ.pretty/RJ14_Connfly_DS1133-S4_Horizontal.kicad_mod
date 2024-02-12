@@ -45,7 +45,7 @@
   (pad "2" thru_hole circle (at 1.02 2.54 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp 8bc04549-e239-40b7-a424-884af74166c4))
   (pad "3" thru_hole circle (at 2.04 0 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp 4381ed40-fa8e-49de-9ea2-542b423795f3))
   (pad "4" thru_hole circle (at 3.06 2.54 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp 40df184b-22c5-46ce-9899-fb7d9bded97d))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ14_Connfly_DS1133-S4_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ14_Connfly_DS1133-S4_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -53,7 +53,7 @@
   (fp_circle (center 0 0) (end 4.2 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp 08c96988-7fab-45aa-827e-b97e3845df3b))
   (pad "1" smd rect (at -5 0) (size 3 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0dc14b18-51c5-4f49-a6f2-5e1f1592ebc2))
   (pad "2" smd rect (at 5 0) (size 3 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp abadcf9e-641a-43d3-9664-036b84133abe))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_SigTra_SC3316F.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_SigTra_SC3316F.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -60,7 +60,7 @@
   (pad "2" thru_hole roundrect (at 16.6 -1.5) (size 9.36 3.01) (drill oval 7.36 1.01) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 3d223713-97db-454b-8c3f-913420857b6d))
   (pad "3" thru_hole roundrect (at 16.6 16.6) (size 9.36 3.01) (drill oval 7.36 1.01) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp d9c5fde4-c7f7-448e-8743-2b49b3f067b5))
   (pad "4" thru_hole roundrect (at 2.3 16.6) (size 9.36 3.01) (drill oval 7.36 1.01) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp a5f2c7bc-f71e-46d6-8455-266520936eb3))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_GeneSiC_KBPC_T.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_GeneSiC_KBPC_T.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

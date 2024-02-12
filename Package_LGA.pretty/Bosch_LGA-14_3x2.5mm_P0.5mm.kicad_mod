@@ -70,7 +70,7 @@
   (pad "12" smd rect (at 0.5 -1.0125) (size 0.25 0.675) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fda26ba8-5848-4fd1-9e33-4fd1b8883f65))
   (pad "13" smd rect (at 0 -1.0125) (size 0.25 0.675) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 096ff4ff-57d8-4d9e-a966-b56fb3298dea))
   (pad "14" smd rect (at -0.5 -1.0125) (size 0.25 0.675) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f5a4c9a1-164a-4d25-ba74-ab28290f581b))
-  (model "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-14_3x2.5mm_P0.5mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-14_3x2.5mm_P0.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

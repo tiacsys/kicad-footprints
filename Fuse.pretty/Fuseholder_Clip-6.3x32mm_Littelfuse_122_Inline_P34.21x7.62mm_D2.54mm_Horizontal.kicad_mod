@@ -48,7 +48,7 @@
   (pad "1" thru_hole roundrect (at 7.62 0) (size 3.5 3.5) (drill 2.54) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 73b20805-b8d9-4e6f-82fa-5433a0c1fec9))
   (pad "2" thru_hole circle (at 26.59 0) (size 3.5 3.5) (drill 2.54) (layers *.Cu *.Mask) (tstamp b74d4760-efdb-4596-ab10-df42d3d003d6))
   (pad "2" thru_hole circle (at 34.21 0) (size 3.5 3.5) (drill 2.54) (layers *.Cu *.Mask) (tstamp ef659a24-a738-46f9-9666-9ca9f6431ee2))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Clip-6.3x32mm_Littelfuse_122_Inline_P34.21x7.62mm_D2.54mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Clip-6.3x32mm_Littelfuse_122_Inline_P34.21x7.62mm_D2.54mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

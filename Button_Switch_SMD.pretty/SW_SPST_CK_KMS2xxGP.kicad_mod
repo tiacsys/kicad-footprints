@@ -52,7 +52,7 @@
   (pad "2" smd roundrect (at -2.05 0.8) (size 0.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15) (tstamp 52c13023-3526-4722-84de-88b449f83f1a))
   (pad "2" smd roundrect (at 2.05 0.8) (size 0.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15) (tstamp 9b489588-2b93-4ff1-9b41-34be065b4d77))
   (pad "SH" smd roundrect (at 0 -1.425) (size 1.7 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15) (tstamp f55d981b-9aa5-42c3-9ede-9f7fa9e13baf))
-  (model "${KICAD7_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_CK_KMS2xxGP.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_CK_KMS2xxGP.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

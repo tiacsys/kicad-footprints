@@ -57,7 +57,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 66519a63-fd0f-4f42-835c-48a4a4ab747f))
   (pad "1" thru_hole roundrect (at 0 0) (size 1.8 3.3) (drill 1.1) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.138889) (tstamp c7413956-02b0-4895-bb85-6451c574a17d))
   (pad "1" thru_hole roundrect (at 0 8.2) (size 1.8 3.3) (drill 1.1) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.138889) (tstamp 18e1a53b-7e73-4d41-bfd1-aa06e1f141c0))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_SPT.3dshapes/PhoenixContact_SPT_2.5_1-H-5.0_1x01_P5.0mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Phoenix_SPT.3dshapes/PhoenixContact_SPT_2.5_1-H-5.0_1x01_P5.0mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

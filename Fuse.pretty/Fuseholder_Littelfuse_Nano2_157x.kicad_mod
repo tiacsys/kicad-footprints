@@ -32,7 +32,7 @@
   (fp_line (start -3.25 1.85) (end 3.25 1.85) (layer "F.Fab") (width 0.1) (tstamp ba0f9645-d93f-4c8d-9c07-255113ba1d63))
   (pad "1" smd rect (at -2.43 0) (size 2.4 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 74480129-32b5-45e0-935e-81b3283d7415))
   (pad "2" smd rect (at 2.43 0) (size 2.4 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d6851921-59bf-485d-b868-a6d3565c9fb4))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Littelfuse_Nano2_157x.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Littelfuse_Nano2_157x.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -71,7 +71,7 @@
   (pad "2" thru_hole circle (at -3.18 3.81) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask) (tstamp f6b6e70b-0294-44a3-82c0-12e58dc98523))
   (pad "3" thru_hole circle (at 0 7.62) (size 3.4 3.4) (drill 1.6) (layers *.Cu *.Mask) (tstamp a69f8269-2e74-459b-978b-d1620e66d99f))
   (pad "G" thru_hole circle (at 6.98 14.61) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask) (tstamp c269370b-7b0f-4afa-924d-dd88f018ac2f))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3FAHR2_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3FAHR2_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

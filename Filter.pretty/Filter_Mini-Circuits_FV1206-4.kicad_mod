@@ -61,7 +61,7 @@
   (pad "4" thru_hole circle (at 0.56 -1.195) (size 0.63 0.63) (drill 0.3) (layers *.Cu *.Mask) (tstamp 540ed6ad-f734-40e2-8f06-9fe5c8f4e05d))
   (pad "4" smd roundrect (at 0 -1.015) (size 1.75 0.99) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 6206ac60-9a97-46ba-bb05-d0483633ab8b))
   (pad "4" thru_hole circle (at -0.56 -1.195) (size 0.63 0.63) (drill 0.3) (layers *.Cu *.Mask) (tstamp d601be33-b386-428a-a385-2af63501683c))
-  (model "${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Mini-Circuits_FV1206-4.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Filter.3dshapes/Filter_Mini-Circuits_FV1206-4.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -40,7 +40,7 @@
   (pad "2" thru_hole circle (at 4.6 0) (size 2.1 2.1) (drill 1.1) (layers *.Cu *.Mask) (tstamp 30b4c9c2-30db-407d-a7c3-5df9600306cc))
   (pad "3" thru_hole circle (at 9.2 0) (size 2.1 2.1) (drill 1.1) (layers *.Cu *.Mask) (tstamp 3a38a0ce-df92-437b-aa63-68b2f8b83b4f))
   (pad "4" thru_hole circle (at 13.8 0) (size 2.1 2.1) (drill 1.1) (layers *.Cu *.Mask) (tstamp 29c4eabd-7b8a-4379-b833-4414b109846c))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.5sqmm_1x04_P4.6mm_D0.9mm_OD2.1mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.5sqmm_1x04_P4.6mm_D0.9mm_OD2.1mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

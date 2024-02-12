@@ -43,7 +43,7 @@
   (pad "9" thru_hole oval (at 0 43.18) (size 3 2) (drill 1) (layers *.Cu *.Mask) (tstamp 709ebb30-0b37-4daa-bd62-5bf48a959854))
   (pad "10" thru_hole oval (at 0 45.72) (size 3 2) (drill 1) (layers *.Cu *.Mask) (tstamp d46f905b-0816-4997-aede-e5f37cec7e76))
   (pad "11" thru_hole oval (at 0 48.26) (size 3 2) (drill 1) (layers *.Cu *.Mask) (tstamp 9e6c3c27-67df-4212-b547-fab3fdc70a0b))
-  (model "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_MeanWell_NID30_THT.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_MeanWell_NID30_THT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -41,7 +41,7 @@
   (pad "2" smd rect (at -1.2 0.65) (size 1.5 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp adb51280-3af7-4044-a4b5-a9a07e3e3d64))
   (pad "3" smd rect (at 1.2 0.65) (size 1.5 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dcf87b86-195b-4f4a-8ad8-8e1ae65f72de))
   (pad "4" smd rect (at 1.2 -0.65) (size 1.5 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 32035f2e-5282-419c-bbaf-02a5b2219778))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SC-82AB.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SC-82AB.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -35,7 +35,7 @@
   (pad "5" thru_hole circle (at 15.88 12.7) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask) (tstamp 9fae7182-b05d-4ab2-97fd-6131c4b36388))
   (pad "6" thru_hole circle (at 22.23 12.7) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask) (tstamp 6a2471c2-d50b-4bfb-945a-ef83656d9180))
   (pad "7" thru_hole circle (at 22.23 0) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask) (tstamp a525beea-f883-4bdb-95b9-0c4a554cd43b))
-  (model "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Texas_EUW_R-PDSS-T7_THT.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Module.3dshapes/Texas_EUW_R-PDSS-T7_THT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

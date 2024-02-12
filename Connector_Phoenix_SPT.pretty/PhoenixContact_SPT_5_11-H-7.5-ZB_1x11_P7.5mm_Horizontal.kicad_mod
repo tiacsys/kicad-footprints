@@ -148,7 +148,7 @@
   (pad "9" thru_hole oval (at 60 0) (size 2.8 4.3) (drill 2.1) (layers "*.Cu" "*.Mask") (tstamp 21a76dc6-0a6c-4823-b5f7-b0eeaedf5a1d))
   (pad "10" thru_hole oval (at 67.5 13.2) (size 2.8 4.3) (drill 2.1) (layers "*.Cu" "*.Mask") (tstamp 24feba69-92aa-4ac3-8dc4-4c233b53fc02))
   (pad "11" thru_hole oval (at 75 0) (size 2.8 4.3) (drill 2.1) (layers "*.Cu" "*.Mask") (tstamp 228b408e-2017-4b06-9fc4-df6ce1864eb2))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_SPT.3dshapes/PhoenixContact_SPT_5_11-H-7.5-ZB_1x11_P7.5mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Phoenix_SPT.3dshapes/PhoenixContact_SPT_5_11-H-7.5-ZB_1x11_P7.5mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

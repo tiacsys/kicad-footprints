@@ -103,7 +103,7 @@
   (pad "11" thru_hole oval (at -1.09 17.935) (size 2.75 2.1) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 21ba668e-296a-4af3-90ba-6c4d85a4ba84))
   (pad "12" thru_hole oval (at -1.09 14.835) (size 2.75 2.1) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp c2229f26-d775-4a32-b21e-fee3e86de185))
   (pad "13" thru_hole oval (at -1.09 11.735) (size 2.75 2.1) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 4289bf60-799e-48df-b62e-918131eb8efb))
-  (model "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_HO8-NP.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_HO8-NP.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

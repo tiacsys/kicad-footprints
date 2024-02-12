@@ -83,7 +83,7 @@
   (pad "10" thru_hole circle (at 22.86 0) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask) (tstamp 52680daa-3b04-4c75-93fc-388c0dfa5253))
   (pad "11" thru_hole circle (at 25.4 0) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask) (tstamp 5a3de9eb-f1c0-4070-8b41-4a5cd93a549a))
   (pad "12" thru_hole circle (at 27.94 0) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask) (tstamp 77bd89b9-9f5d-4aca-addf-7f29ec6dd4e6))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MPT-0,5-12-2.54_1x12_P2.54mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MPT-0,5-12-2.54_1x12_P2.54mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -57,7 +57,7 @@
   (pad "19" thru_hole oval (at -2.3 -1.8) (size 2.7 1.5) (drill oval 2 0.8) (layers *.Cu *.Mask) (tstamp af601d64-2920-4210-ae72-241e9929d4fc))
   (pad "20" thru_hole oval (at 26.3 -1.8) (size 2.7 1.5) (drill oval 2 0.8) (layers *.Cu *.Mask) (tstamp ad69aeb1-564c-4438-837b-2272905c2831))
   (pad "21" thru_hole oval (at 29.3 -1.8) (size 2.7 1.5) (drill oval 2 0.8) (layers *.Cu *.Mask) (tstamp 5442e1ce-3e2c-43bd-b206-b971246ae918))
-  (model "${KICAD6_3DMODEL_DIR}/Display.3dshapes/NHD-C12832A1Z-FSRGB.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Display.3dshapes/NHD-C12832A1Z-FSRGB.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

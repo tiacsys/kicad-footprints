@@ -42,7 +42,7 @@
   (pad "S" thru_hole circle (at 6.5 2.25) (size 1.9 1.9) (drill 1.2) (layers *.Cu *.Mask) (tstamp 1f5fd4f6-dbbb-4dd9-ae2d-886dd302f75e))
   (pad "T" thru_hole circle (at -1 -2.9) (size 1.9 1.9) (drill 1.2) (layers *.Cu *.Mask) (tstamp a09c8332-a01e-402c-9415-69d7c9c769ad))
   (pad "T" thru_hole circle (at -1 2.9) (size 1.9 1.9) (drill 1.2) (layers *.Cu *.Mask) (tstamp b971c025-844b-4c54-9495-e657edeee6ef))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_Switronic_ST-005-G_horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_Switronic_ST-005-G_horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

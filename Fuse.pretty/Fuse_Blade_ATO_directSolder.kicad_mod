@@ -35,7 +35,7 @@
   (fp_line (start -5.35 -3) (end 14.65 -3) (layer "F.Fab") (width 0.1) (tstamp d94a723e-4a7a-4baf-83e5-e0bf3a1212e6))
   (pad "1" thru_hole oval (at 0 0) (size 8 3.8) (drill oval 6 2) (layers *.Cu *.Mask) (tstamp e77e679f-b315-4fe7-8452-f759e6e286a6))
   (pad "2" thru_hole oval (at 9.3 0) (size 8 3.8) (drill oval 6 2) (layers *.Cu *.Mask) (tstamp 79f666d8-7a02-4383-a457-28e94d013ebe))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Blade_ATO_directSolder.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Blade_ATO_directSolder.wrl"
     (offset (xyz 4.571999931 0 0))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 0))

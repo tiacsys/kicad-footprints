@@ -71,7 +71,7 @@
   (pad "30" smd rect (at 7.62 -13.97) (size 1.6 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 52da46d9-586f-46c2-80ab-1a8b88ce70f3))
   (pad "31" smd rect (at 7.62 -16.51) (size 1.6 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1eec76e6-c707-4582-9dca-d344f176379d))
   (pad "32" smd rect (at 7.62 -19.05) (size 1.6 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a7ddb49a-ae33-4b28-9080-88d0fd0f64ff))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-32_W15.24mm_SMDSocket.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-32_W15.24mm_SMDSocket.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

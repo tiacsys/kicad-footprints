@@ -40,7 +40,7 @@
   (pad "1" thru_hole rect (at 0 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask) (tstamp ca144ae0-7e9e-4492-996c-aa81bffc3242))
   (pad "2" thru_hole oval (at 7.62 2.54) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask) (tstamp 0d4d9b0e-2717-4a0d-92de-2051f1bf927f))
   (pad "3" thru_hole oval (at 7.62 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask) (tstamp 7071db1d-5aa6-4fa6-a2e1-ef515f329465))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/Vishay_HVM-DIP-3_W7.62mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/Vishay_HVM-DIP-3_W7.62mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

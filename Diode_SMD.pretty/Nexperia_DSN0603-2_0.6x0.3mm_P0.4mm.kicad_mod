@@ -29,7 +29,7 @@
     (solder_mask_margin 0.05) (solder_paste_margin -0.05) (clearance 0.05) (tstamp a0a571e8-761a-4861-89bd-648c09e0c12d))
   (pad "2" smd rect (at 0.2 0 90) (size 0.28 0.2) (layers "F.Cu" "F.Mask")
     (solder_mask_margin 0.05) (solder_paste_margin -0.05) (clearance 0.05) (tstamp e10e69b5-562e-432d-9bd0-f8ecad1c7bda))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Nexperia_DSN0603-2_0.6x0.3mm_P0.4mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/Nexperia_DSN0603-2_0.6x0.3mm_P0.4mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

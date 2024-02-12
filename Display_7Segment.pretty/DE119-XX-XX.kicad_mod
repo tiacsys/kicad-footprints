@@ -95,7 +95,7 @@
   (pad "38" thru_hole circle (at 33.02 5.08 270) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 7a1946ca-7c53-41a8-a0e7-65e710029b5f))
   (pad "39" thru_hole circle (at 33.02 2.54 270) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 8c8f9808-1bc0-44b0-8592-860653ce67e0))
   (pad "40" thru_hole circle (at 33.02 0 270) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 2f20fbd4-67c8-4a32-a45d-0e03b935f4ae))
-  (model "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/DE119-XX-XX.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Display_7Segment.3dshapes/DE119-XX-XX.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

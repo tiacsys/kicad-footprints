@@ -33,7 +33,7 @@
   (pad "2" smd roundrect (at -0.7 -0.425) (size 0.8 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 758f1bca-20b9-4f59-a65a-242bbffd3528))
   (pad "3" smd roundrect (at 0.7 -0.425) (size 0.8 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 5ea3572a-8b21-429f-a65d-1591c5454f35))
   (pad "4" smd roundrect (at 2.1 -0.425) (size 0.8 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp f4974b64-1e34-4003-a851-3e9868101fd0))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kingbright_KRC011_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Kingbright_KRC011_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

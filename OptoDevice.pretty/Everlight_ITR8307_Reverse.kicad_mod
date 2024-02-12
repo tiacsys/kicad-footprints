@@ -49,7 +49,7 @@
   (pad "2" smd roundrect (at 0.9 -2.8) (size 1.2 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp 1f079c52-4046-4c10-8be5-9752e3a74414))
   (pad "3" smd roundrect (at -0.9 2.8) (size 1.2 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp c86d599a-93e2-4802-95bb-0a34582ca80e))
   (pad "4" smd roundrect (at -0.9 -2.8) (size 1.2 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp 82c3079e-9e61-4759-8581-30c61d11d7f5))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Everlight_ITR8307_Reverse.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Everlight_ITR8307_Reverse.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -63,7 +63,7 @@
   (pad "10" smd roundrect (at -0.8 0.8) (size 0.5 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c3119ccd-c3e9-4966-adb5-ff3cf10a3f32))
   (pad "11" smd roundrect (at -1.6 0.8) (size 0.5 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp f013454c-6399-4754-9081-c3448d280216))
   (pad "12" smd roundrect (at -1.6 0) (size 0.5 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d2a8110f-8921-4597-b5f8-36dd0eea128c))
-  (model "${KICAD6_3DMODEL_DIR}/Sensor_Distance.3dshapes/ST_VL53L1x.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor_Distance.3dshapes/ST_VL53L1x.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

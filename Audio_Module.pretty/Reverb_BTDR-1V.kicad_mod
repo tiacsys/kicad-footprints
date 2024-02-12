@@ -45,7 +45,7 @@
   (pad "5" thru_hole circle (at 50.62 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 35698302-6de0-4184-aefe-e2cbdd76c272))
   (pad "6" thru_hole circle (at 53.16 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp c86ea0ec-de68-4d29-839c-dfca7c7d64b3))
   (pad "7" thru_hole circle (at 55.7 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 5fc56d94-ca72-44e4-babd-0986bd43161c))
-  (model "${KICAD6_3DMODEL_DIR}/Audio_Module.3dshapes/Reverb_BTDR-1V.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Audio_Module.3dshapes/Reverb_BTDR-1V.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

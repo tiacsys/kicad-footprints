@@ -154,7 +154,7 @@
   (pad "55" smd rect (at 5.25 3.15) (size 1.1 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 29a790da-398c-49b6-9486-fefe631498c6))
   (pad "55" smd rect (at 5.25 5.25) (size 1.1 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7207d783-6c4a-496f-a5ca-a571ff49dfd5))
   (pad "55" smd rect (at 5.25 7.35) (size 1.1 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 74de3498-38b5-497b-9a17-526db4384dbc))
-  (model "${KICAD7_3DMODEL_DIR}/RF_GPS.3dshapes/ublox_ZED.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_GPS.3dshapes/ublox_ZED.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

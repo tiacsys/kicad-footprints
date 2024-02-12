@@ -55,7 +55,7 @@
     (stroke (width 0.1) (type default)) (fill none) (layer "F.Fab") (tstamp e43f7365-c394-4c95-beea-a6da67beedd4))
   (pad "1" thru_hole rect (at 0 0) (size 2.54 2.54) (drill 1.016) (layers "*.Cu" "*.Mask") (tstamp d4c3366c-2e7a-4b58-b62b-1886165d08f9))
   (pad "2" thru_hole circle (at 9.9822 0) (size 2.54 2.54) (drill 1.016) (layers "*.Cu" "*.Mask") (tstamp 3bb1d88d-f81f-4591-8507-69e7b415bdf2))
-  (model "${KICAD7_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_500.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_500.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

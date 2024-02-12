@@ -140,7 +140,7 @@
   (pad "32" thru_hole circle (at 18.75 -1.25) (size 0.95 0.95) (drill 0.55) (layers *.Cu *.Mask) (tstamp 597b9719-bfa6-49b8-8a79-b2d3ab56d547))
   (pad "33" thru_hole circle (at 20 0) (size 0.95 0.95) (drill 0.55) (layers *.Cu *.Mask) (tstamp dab73969-8f4e-4ff4-82dd-1927483dcf8b))
   (pad "34" thru_hole circle (at 20 -1.25) (size 0.95 0.95) (drill 0.55) (layers *.Cu *.Mask) (tstamp 034d2849-1401-4c49-8cfb-3fc0dfc726b9))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_Gecko-G125-MVX3405L1X_2x17_P1.25mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_Gecko-G125-MVX3405L1X_2x17_P1.25mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

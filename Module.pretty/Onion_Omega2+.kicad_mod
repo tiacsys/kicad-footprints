@@ -122,7 +122,7 @@
   (pad "30" thru_hole circle (at 24.4 4) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp dfc99bdf-0b7a-45cc-a78b-4b6c009a9296))
   (pad "31" thru_hole circle (at 24.4 2) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp c1ef268f-9efd-4dd4-bb64-d6b60b371483))
   (pad "32" thru_hole circle (at 24.4 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 10563e73-7f13-461b-a6b6-6df01f422b05))
-  (model "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Onion_Omega2+.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Module.3dshapes/Onion_Omega2+.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

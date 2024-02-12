@@ -57,7 +57,7 @@
   (pad "B12" smd rect (at -2.75 0.04) (size 0.38 1) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 551212aa-41d2-4e1b-9ceb-4dfd56895c48))
   (pad "S1" smd rect (at -3.42 0.88) (size 0.7 1.15) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3451f64c-22b1-4b3b-af0d-65f013be1639))
   (pad "S1" smd rect (at 3.42 0.88) (size 0.7 1.15) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 429b673b-5c4d-4e03-b1bf-964208b47dbe))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Plug_Molex_105444.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Plug_Molex_105444.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

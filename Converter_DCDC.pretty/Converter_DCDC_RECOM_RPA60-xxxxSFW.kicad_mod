@@ -34,7 +34,7 @@
   (pad "4" thru_hole circle (at 17.78 45.72) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 513ce21c-f350-44b8-bfdf-7f7b91d734a8))
   (pad "5" thru_hole circle (at 7.62 45.72) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp b8da6ed2-6bf2-43b5-bcda-1e6b69d5d609))
   (pad "6" thru_hole circle (at -2.54 45.72) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 53276333-af57-4f1d-83ad-ed29a5d522ab))
-  (model "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_RECOM_RPA60-xxxxSFW.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_RECOM_RPA60-xxxxSFW.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -31,7 +31,7 @@
   (pad "" np_thru_hole oval (at 0 0) (size 1.8 2.4) (drill oval 1.8 2.4) (layers *.Cu *.Mask) (tstamp 6f5018ba-081c-4ae8-bf8b-dcb5d05cdd66))
   (pad "1" smd roundrect (at -1.55 0) (size 0.95 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp ab9886e5-7116-44b6-ae34-3ec4d72ec5e4))
   (pad "2" smd roundrect (at 1.55 0) (size 0.95 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp 046ac8a4-1147-4fe3-b440-3dfecb3d6589))
-  (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric_ReverseMount.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric_ReverseMount.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

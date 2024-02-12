@@ -38,7 +38,7 @@
   (pad "2" thru_hole circle (at 2.54 -2.54) (size 2.74 2.74) (drill 1.7) (layers *.Cu *.Mask) (tstamp 482faaad-8c77-4e6e-90f8-f5e755d8c7ed))
   (pad "2" thru_hole circle (at -2.54 2.54) (size 2.74 2.74) (drill 1.7) (layers *.Cu *.Mask) (tstamp 5d2bd720-a994-4de2-87f9-082f69423ad5))
   (pad "2" thru_hole circle (at 2.54 2.54) (size 2.74 2.74) (drill 1.7) (layers *.Cu *.Mask) (tstamp e28dda43-dce6-4543-9d02-0352db906a14))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMB_Jack_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMB_Jack_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -62,7 +62,7 @@
   (pad "6" smd rect (at 0.325 1.025 90) (size 0.5 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 08bf1a71-33e4-40fd-8705-5fa271ccdb8f))
   (pad "7" smd rect (at -0.325 1.025 90) (size 0.5 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7a0a042c-c0c8-4aa4-a05f-4fe19de7bc6f))
   (pad "8" smd rect (at -0.975 1.025 90) (size 0.5 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1babf453-3a82-491c-a2dc-b1ad71de665b))
-  (model "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering.wrl"
     (offset (xyz 0.01500000025 -0.03500000059 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

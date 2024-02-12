@@ -52,7 +52,7 @@
   (pad "1" smd rect (at -2.25 -1.43) (size 0.7 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 299048f8-c13b-48bf-b7d1-27fc1262eacd))
   (pad "2" smd rect (at 0.75 -1.43) (size 0.7 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1e2bf2d9-66b0-4133-a876-44e107f2c776))
   (pad "3" smd rect (at 2.25 -1.43) (size 0.7 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fb73ad09-b71d-43c9-84e5-a13cf14ca903))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPDT_PCM12.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPDT_PCM12.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

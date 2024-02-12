@@ -59,7 +59,7 @@
   (pad "11" smd oval (at 5.45 -2.67 270) (size 0.71 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 24f4e1d2-f5a3-4a12-bc61-eb067f65b805))
   (pad "12" smd oval (at 5.45 -4.45 270) (size 0.71 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 633fa16f-2e78-4839-8b2e-4cc11f439aaa))
   (pad "13" smd rect (at 0 0 270) (size 8.15 5.51) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3eb3d1a8-128c-4f33-8f78-79e7d5a54a2c))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/PowerIntegrations_eSOP-12B.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/PowerIntegrations_eSOP-12B.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -46,7 +46,7 @@
   (pad "4" thru_hole oval (at 7.62 0) (size 1.5 2.5) (drill 1) (layers *.Cu *.Mask) (tstamp 2fb41939-eea1-468b-8f08-eab83d161fc0))
   (pad "5" thru_hole circle (at 9.01 -4.2) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask) (tstamp 94a107b7-fc72-48c9-8c61-48b896f4122d))
   (pad "6" thru_hole circle (at -1.39 -4.2) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask) (tstamp 8339f8ef-f4fc-44ff-900e-4585bb5cd7f9))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Toshiba_TOTX170_TOTX173_TOTX193_TOTX194.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Toshiba_TOTX170_TOTX173_TOTX193_TOTX194.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

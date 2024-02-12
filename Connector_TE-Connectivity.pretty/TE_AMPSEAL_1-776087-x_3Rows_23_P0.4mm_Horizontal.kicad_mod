@@ -96,7 +96,7 @@
   (pad "21" thru_hole circle (at 20 8) (size 3 3) (drill 1.75) (layers *.Cu *.Mask) (tstamp e7868940-913d-4214-b730-2c2f032ea2df))
   (pad "22" thru_hole circle (at 24 8) (size 3 3) (drill 1.75) (layers *.Cu *.Mask) (tstamp 40792f4b-47dc-4da5-bbd0-6a2e2c11e7e1))
   (pad "23" thru_hole circle (at 28 8) (size 3 3) (drill 1.75) (layers *.Cu *.Mask) (tstamp 465c9fa3-6cc2-4473-bcff-394b52066dd4))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

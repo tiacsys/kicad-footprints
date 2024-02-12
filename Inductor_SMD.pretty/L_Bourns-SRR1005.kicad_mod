@@ -39,7 +39,7 @@
   (fp_circle (center 0 0) (end 0 -5) (layer "F.Fab") (width 0.1) (fill none) (tstamp 70b8f51f-b02d-4665-8b9c-0988cca6bd73))
   (pad "1" smd rect (at -5.15 0) (size 3 2.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b2a73fa7-76d7-4a8f-983b-8c91ea8f78f7))
   (pad "2" smd rect (at 5.15 0) (size 3 2.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b8881a0e-6ae5-40fb-bb23-1b354547a81b))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns-SRR1005.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns-SRR1005.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -46,7 +46,7 @@
   (pad "1" smd roundrect (at -9.125 0) (size 5.75 19.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.07) (tstamp c4bca9a8-ba65-4ad4-b61c-b4ad88c87a51))
   (pad "2" smd rect (at 7.25 0) (size 2 19.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 116b706b-7ac9-4524-b2ad-e5821e8a1693))
   (pad "2" smd roundrect (at 9.125 0) (size 5.75 19.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.07) (tstamp 16b78a80-70f9-4ced-a8a5-9710255117ce))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRP2313AA.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRP2313AA.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

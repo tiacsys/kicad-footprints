@@ -222,7 +222,7 @@
   (pad "Y12" smd circle (at 2.75 -2.25 90) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 93378fcc-e3e6-4cfc-ab9a-6f34802bcd4a))
   (pad "Y13" smd circle (at 2.75 -2.75 90) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0fffc48e-d441-4f1e-924d-44e2471d54a6))
   (pad "Y14" smd circle (at 2.75 -3.25 90) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 665250a9-049b-4ea6-a5c5-a7a1e912bafa))
-  (model "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/LFBGA-169_16x12mm_Layout28x14.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_BGA.3dshapes/LFBGA-169_16x12mm_Layout28x14.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

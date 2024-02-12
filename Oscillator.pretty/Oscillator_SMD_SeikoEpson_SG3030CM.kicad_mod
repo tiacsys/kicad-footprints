@@ -32,7 +32,7 @@
   (pad "2" smd rect (at 1.325 0.6) (size 1.05 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f7a297a8-978e-4e38-8798-7ba741cdb0d0))
   (pad "3" smd rect (at 1.325 -0.6) (size 1.05 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 26c41da0-c6c7-49c8-9e3d-bfb2f9730bfa))
   (pad "4" smd rect (at -1.325 -0.6) (size 1.05 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0a7f0c8c-4d89-4a62-a5c6-a8e2d33b4cca))
-  (model "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_SG3030CM.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_SG3030CM.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

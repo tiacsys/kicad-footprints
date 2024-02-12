@@ -79,7 +79,7 @@
   (fp_circle (center -5.8 0) (end -5.8 0.5) (layer "F.Fab") (width 0.1) (fill none) (tstamp d7158b49-544d-4b8d-91e9-fb1b4ac3e3fd))
   (pad "" np_thru_hole circle (at 0 4.15) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Mask) (tstamp 167c6c45-88e8-466b-8e3b-8bd77359c54b))
   (pad "" np_thru_hole circle (at 0 -4.15) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Mask) (tstamp 5d8087a9-5ec3-4f52-ab77-d7cc499c310f))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Lightpipe_Mentor_1276.2004.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Lightpipe_Mentor_1276.2004.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

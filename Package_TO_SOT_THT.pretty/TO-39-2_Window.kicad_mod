@@ -47,7 +47,7 @@
   (fp_circle (center 2.54 0) (end 5.49 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp efe0b8eb-69a3-4882-a9da-759d7dbfa772))
   (pad "1" thru_hole oval (at 0 0) (size 1.6 1.2) (drill 0.7) (layers *.Cu *.Mask) (tstamp aad4eceb-a423-4ea1-9b5d-0cdf058be540))
   (pad "2" thru_hole oval (at 5.08 0) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask) (tstamp 877f34b7-b15a-4f7e-8864-c9ddea0f6b78))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-39-2_Window.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-39-2_Window.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

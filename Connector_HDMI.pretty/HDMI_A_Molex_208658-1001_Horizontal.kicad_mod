@@ -75,7 +75,7 @@
   (pad "SH" thru_hole oval (at -2.525 -7.25) (size 3.3 1.5) (drill oval 2.7 0.9) (layers *.Cu *.Mask) (tstamp 34b37be4-0c0b-4138-91e5-ee96e412ab26))
   (pad "SH" thru_hole oval (at 3.435 -7.25) (size 2.3 1.5) (drill oval 1.7 0.9) (layers *.Cu *.Mask) (tstamp c14e0e25-addb-4acf-be94-fc826be74200))
   (pad "SH" thru_hole oval (at -2.525 7.25) (size 3.3 1.5) (drill oval 2.7 0.9) (layers *.Cu *.Mask) (tstamp e83da059-e1d8-4d98-9aca-6ae561b9b284))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_HDMI.3dshapes/HDMI_A_Molex_208658-1001_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_HDMI.3dshapes/HDMI_A_Molex_208658-1001_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

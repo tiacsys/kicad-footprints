@@ -42,7 +42,7 @@
   (fp_line (start 8.58 -1.435) (end 10.01 12.865) (layer "F.Fab") (width 0.1) (tstamp f76fb850-8ae6-49df-93fa-535e1e4610fe))
   (pad "1" thru_hole circle (at 0 0) (size 3.6 3.6) (drill 1.8) (layers *.Cu *.Mask) (tstamp 7fbd7e54-573e-41b4-b34b-c27f355801de))
   (pad "2" thru_hole circle (at 0 11.43) (size 3.6 3.6) (drill 1.8) (layers *.Cu *.Mask) (tstamp 45ee80f0-0c89-44e6-bf63-94085872b2e3))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L28.6mm_W14.3mm_P11.43mm_Bourns_5700.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L28.6mm_W14.3mm_P11.43mm_Bourns_5700.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

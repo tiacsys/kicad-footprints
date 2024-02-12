@@ -43,7 +43,7 @@
   (pad "8" smd rect (at 4 -2.54) (size 3 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1e9d6222-8244-40aa-a50c-83ec719c089b))
   (pad "C" smd rect (at 4 0) (size 3 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 33595d2a-03dd-4e53-a6af-7b70cbf6828b))
   (pad "C" smd rect (at -4 0) (size 3 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ba10a66b-3314-4227-9208-8dbde55ee68b))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/Nidec_Copal_SH-7010B.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/Nidec_Copal_SH-7010B.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

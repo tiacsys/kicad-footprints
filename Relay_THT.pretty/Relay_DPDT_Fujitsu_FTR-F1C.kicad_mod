@@ -38,7 +38,7 @@
   (pad "6" thru_hole circle (at 7.5 10 270) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask) (tstamp 75d512ff-b82f-4746-8527-ed741c8a590e))
   (pad "7" thru_hole circle (at 7.5 5 270) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask) (tstamp 7ccd640e-c6fc-48aa-93a5-e68f559c82e8))
   (pad "8" thru_hole circle (at 7.5 0 270) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask) (tstamp 3bad69a6-7968-4c1e-b0a2-3497102c8369))
-  (model "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Fujitsu_FTR-F1C.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Fujitsu_FTR-F1C.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

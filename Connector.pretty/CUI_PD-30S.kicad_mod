@@ -55,7 +55,7 @@
   (pad "SH" thru_hole rect (at -5.35 -1.35) (size 1.6 3.5) (drill oval 0.7 2.9) (layers *.Cu *.Mask) (tstamp ad797b2d-bdda-4c26-88eb-4b5eaa828351))
   (pad "SH" thru_hole rect (at 10.35 7.15) (size 1.6 3.5) (drill oval 0.7 2.9) (layers *.Cu *.Mask) (tstamp b50acbca-105b-4c9e-80c2-a04c6aea5aab))
   (pad "SH" thru_hole rect (at -5.35 7.15) (size 1.6 3.5) (drill oval 0.7 2.9) (layers *.Cu *.Mask) (tstamp e2612c5d-71ea-4d16-9bf9-5f4904f5784e))
-  (model "${KICAD6_3DMODEL_DIR}/Connector.3dshapes/CUI_PD-30S.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector.3dshapes/CUI_PD-30S.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

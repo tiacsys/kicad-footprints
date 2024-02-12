@@ -38,7 +38,7 @@
   (pad "2" thru_hole circle (at 1.27 1.27) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask) (tstamp 55dc33fa-f9b7-4be2-9f93-8ba4eaedd35d))
   (pad "3" thru_hole circle (at 2.54 0) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask) (tstamp 550e429f-a935-41e7-9180-65b9109357be))
   (pad "4" thru_hole circle (at 3.81 1.27) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask) (tstamp 1c1f4b55-69ce-46f8-9362-2664b50302e1))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Sharp_IS471F.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Sharp_IS471F.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -96,7 +96,7 @@
   (pad "4" thru_hole oval (at 7.62 0) (size 1.8 2.6) (drill 1.4) (layers *.Cu *.Mask) (tstamp d9174fc8-b47c-4ca9-93b4-4eaeec21c525))
   (pad "5" thru_hole oval (at 7.62 -7.62) (size 2 2.6) (drill 1.4) (layers *.Cu *.Mask) (tstamp b1c1f774-8d48-472f-a9c8-c1218de18817))
   (pad "6" thru_hole oval (at 0 -7.62) (size 2 2.6) (drill 1.4) (layers *.Cu *.Mask) (tstamp da3d9bed-f1ad-4130-aa94-118ae3fbe8db))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/AGILENT_HFBR-152x.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/AGILENT_HFBR-152x.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

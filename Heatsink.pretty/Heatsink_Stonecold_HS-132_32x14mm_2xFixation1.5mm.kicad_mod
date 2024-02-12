@@ -173,7 +173,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 5193391d-1446-4011-ab61-d1f3954770bc))
   (pad "1" thru_hole circle (at -8.9 0) (size 3 3) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 358447dc-fff4-49e8-99bf-1d2900b1a567))
   (pad "1" thru_hole circle (at 8.9 0) (size 3 3) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 7c7ce70c-03b3-45b7-9e53-d978f7018fd6))
-  (model "${KICAD7_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

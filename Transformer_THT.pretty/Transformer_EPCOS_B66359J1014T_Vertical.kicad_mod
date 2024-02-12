@@ -124,7 +124,7 @@
   (pad "12" thru_hole circle (at -25.4 -20.32) (size 2.5 2.5) (drill 1.6) (layers *.Cu *.Mask) (tstamp 23b1a710-9168-4d1f-957c-7c881fff3719))
   (pad "13" thru_hole circle (at -30.48 0) (size 2.5 2.5) (drill 1.6) (layers *.Cu *.Mask) (tstamp 22c66869-5f8a-4309-8246-bd135d68261a))
   (pad "14" thru_hole circle (at -30.48 -20.32) (size 2.5 2.5) (drill 1.6) (layers *.Cu *.Mask) (tstamp f779a237-8573-4f24-866d-f31050e265f8))
-  (model "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_EPCOS_B66359J1014T_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_EPCOS_B66359J1014T_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

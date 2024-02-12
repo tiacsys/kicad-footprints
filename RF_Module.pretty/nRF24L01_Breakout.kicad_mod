@@ -84,7 +84,7 @@
   (pad "6" thru_hole circle (at 2.54 5.08) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp b7f07673-953b-4792-bf44-0f8a90d3b12f))
   (pad "7" thru_hole circle (at 0 7.62) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp e99fb193-0f7b-4271-9b5c-83f42b906c22))
   (pad "8" thru_hole circle (at 2.54 7.62) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 3e1d86a9-e29e-43cb-a9dd-d3f581f2ab78))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/nRF24L01_Breakout.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_Module.3dshapes/nRF24L01_Breakout.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

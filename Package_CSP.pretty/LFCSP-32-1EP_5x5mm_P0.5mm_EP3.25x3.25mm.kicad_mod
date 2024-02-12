@@ -84,7 +84,7 @@
   (pad "31" smd rect (at -1.25 -2.4 90) (size 0.8 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4221721d-4176-44c9-aaa1-2069a6daf389))
   (pad "32" smd rect (at -1.75 -2.4 90) (size 0.8 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 26eaa1cf-5f24-4d89-af2e-bb7d264e3da9))
   (pad "33" smd rect (at 0 0) (size 3.25 3.25) (layers "F.Cu" "F.Mask") (tstamp 6203d3cd-00d3-4149-b0aa-d3676a116203))
-  (model "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-32-1EP_5x5mm_P0.5mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-32-1EP_5x5mm_P0.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

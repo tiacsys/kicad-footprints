@@ -56,7 +56,7 @@
   (pad "3" smd roundrect (at 0.925 0.5) (size 0.55 0.35) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.25) (tstamp 81b41098-300d-4e34-80f4-a6cb261ddc5a))
   (pad "4" smd roundrect (at 0.925 -0.5) (size 0.55 0.35) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.25) (tstamp 6be9ce64-01d9-4908-8a4a-eac89a2a2f1d))
   (pad "5" smd roundrect (at 0 0) (size 0.7 1.6) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.25) (tstamp 27d05756-ffc7-45ae-ad05-2a41073a38b2))
-  (model "${KICAD6_3DMODEL_DIR}/Sensor_Humidity.3dshapes/Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor_Humidity.3dshapes/Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

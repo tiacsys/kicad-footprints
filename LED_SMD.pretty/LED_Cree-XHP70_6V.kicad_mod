@@ -69,7 +69,7 @@
   (pad "1" smd rect (at -3 0) (size 0.7 6.76) (layers "F.Cu" "F.Mask") (tstamp 6054dc83-3043-4e51-8ab6-bdfa09e0dd5b))
   (pad "2" smd rect (at 3 0) (size 0.7 6.76) (layers "F.Cu" "F.Mask") (tstamp f7a35a71-56f0-4821-910d-3f9eee5750a5))
   (pad "3" smd rect (at 0 0) (size 3.9 6.76) (layers "F.Cu" "F.Mask") (tstamp 3f3367c2-dfb7-4e78-9014-f08ae4f764b6))
-  (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-XHP70_6V.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-XHP70_6V.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -42,7 +42,7 @@
   (pad "1" thru_hole circle (at 6.5 0 90) (size 2 2) (drill 1.1) (layers *.Cu *.Mask) (tstamp 4af81d66-dbbc-479d-a567-1630320e5ee0))
   (pad "2" thru_hole circle (at 0 4.5 90) (size 2 2) (drill 1.1) (layers *.Cu *.Mask) (tstamp 23dbf4e7-499b-4ca9-af6d-08db732bb9a5))
   (pad "2" thru_hole circle (at 6.5 4.5 90) (size 2 2) (drill 1.1) (layers *.Cu *.Mask) (tstamp 65723dba-7a0d-4c82-812e-64786fa4ac8f))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H8.5mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H8.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

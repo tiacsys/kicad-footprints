@@ -44,7 +44,7 @@
   (pad "9" smd roundrect (at 6.875 3.6) (size 1.45 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 85ac109c-7655-4147-b9e6-7d3d3cb69f5b))
   (pad "9" smd roundrect (at -6.875 3.6) (size 1.45 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 8c01231e-9021-4782-bce4-ce4f105a3908))
   (pad "9" smd roundrect (at -6.875 -4.7) (size 1.45 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 90b2355e-fdda-44d4-af24-227a5fc01bd9))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/microSD_HC_Molex_47219-2001.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Card.3dshapes/microSD_HC_Molex_47219-2001.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

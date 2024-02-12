@@ -83,7 +83,7 @@
   (pad "S" smd roundrect (at -4.05 6.35) (size 1.5 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ab9e4c03-5a2e-4a10-b83d-9bc952f1a7e1))
   (pad "T" smd roundrect (at -4.05 -2.5) (size 1.5 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ac5978ec-e859-4b1a-a013-5db3f5d8acaf))
   (pad "T" smd roundrect (at 4.05 -2.5) (size 1.5 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e8799b37-048e-4f7b-ae41-4210d9f72cd2))
-  (model "${KICAD7_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_Lumberg_1503_02_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_Lumberg_1503_02_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

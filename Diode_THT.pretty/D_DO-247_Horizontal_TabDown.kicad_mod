@@ -42,7 +42,7 @@
   (pad "" np_thru_hole oval (at 5.45 -19.86) (size 3.6 3.6) (drill 3.6) (layers *.Cu *.Mask) (tstamp 62d63c0b-96d3-4345-9448-704e62e774f3))
   (pad "1" thru_hole rect (at 0 0) (size 2.5 4.5) (drill 1.5) (layers *.Cu *.Mask) (tstamp b23b4b46-9928-467e-8184-aa4ef46ffc43))
   (pad "2" thru_hole oval (at 10.9 0) (size 2.5 4.5) (drill 1.5) (layers *.Cu *.Mask) (tstamp e5451704-0914-472f-9a61-05e5a45fd731))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-247_Horizontal_TabDown.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-247_Horizontal_TabDown.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

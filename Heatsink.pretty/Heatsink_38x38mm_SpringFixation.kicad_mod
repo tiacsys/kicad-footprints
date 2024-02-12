@@ -60,7 +60,7 @@
   (pad "1" thru_hole circle (at 43.688 9.144) (size 2.99974 2.99974) (drill 1.09982) (layers *.Cu *.Mask) (tstamp 6803e30a-0900-44a2-9005-8c94e1134a76))
   (pad "1" thru_hole circle (at -5.588 -52.832) (size 2.99974 2.99974) (drill 1.09982) (layers *.Cu *.Mask) (tstamp 7965e22b-fc48-4310-8c3b-4e822bc84bc7))
   (pad "1" thru_hole circle (at 43.688 14.732) (size 2.99974 2.99974) (drill 1.09982) (layers *.Cu *.Mask) (tstamp c56f28e4-3e05-405b-9b80-aaff4f65b0c8))
-  (model "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_38x38mm_SpringFixation.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_38x38mm_SpringFixation.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

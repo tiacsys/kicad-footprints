@@ -35,7 +35,7 @@
   (pad "2" thru_hole circle (at 1.27 1.27) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask) (tstamp 0f63e318-a010-45dc-b687-020eeca28939))
   (pad "3" thru_hole circle (at 2.54 0) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask) (tstamp e886f240-1125-4b95-b49c-531f0c6dbc7a))
   (pad "4" thru_hole circle (at 1.27 -1.27) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask) (tstamp 849f6ff5-cde7-4bb2-88c2-64a8dd6f2d8b))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/Analog_TO-46-4_ThermalShield.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/Analog_TO-46-4_ThermalShield.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

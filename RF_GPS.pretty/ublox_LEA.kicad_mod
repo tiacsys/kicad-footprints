@@ -86,7 +86,7 @@
   (pad "26" smd roundrect (at 8.4 -6.3) (size 1.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 3f15e1e0-f0fb-41ce-a47b-419191267011))
   (pad "27" smd roundrect (at 8.4 -7.4) (size 1.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ccc56197-29a8-4455-bd55-8faa067cb80e))
   (pad "28" smd roundrect (at 8.4 -8.5) (size 1.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 7a6ba7a0-8e74-4c8c-9b7c-f99320c730ba))
-  (model "${KICAD7_3DMODEL_DIR}/RF_GPS.3dshapes/ublox_LEA.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_GPS.3dshapes/ublox_LEA.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

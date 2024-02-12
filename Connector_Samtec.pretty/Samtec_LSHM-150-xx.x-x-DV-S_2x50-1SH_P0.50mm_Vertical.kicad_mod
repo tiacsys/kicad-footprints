@@ -151,7 +151,7 @@
   (pad "100" smd rect (at 12.25 1.85) (size 0.3 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a8b4970e-6165-44da-beb9-a307601ff9fc))
   (pad "SH" thru_hole circle (at -14.975 1.15) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp bea3f837-5fd1-469d-8e38-16fdf24c2f60))
   (pad "SH" thru_hole circle (at 14.975 1.15) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp fad07448-d6fc-4bfd-b013-714bf29964b0))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_LSHM-150-xx.x-x-DV-S_2x50-1SH_P0.50mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_LSHM-150-xx.x-x-DV-S_2x50-1SH_P0.50mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -66,7 +66,7 @@
   (pad "30" thru_hole circle (at 5.08 60.96) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 3f1d66c1-9fb1-4609-9e77-6e52a344f85d))
   (pad "31" thru_hole circle (at 2.54 60.96) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 38a4f6ed-4ee2-486e-befe-a29416508743))
   (pad "32" thru_hole circle (at 0 60.96) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 673d671c-bbc6-4ab4-8556-4ec26bf2c126))
-  (model "${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA-eDIP128B-XXX.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Display.3dshapes/EA-eDIP128B-XXX.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

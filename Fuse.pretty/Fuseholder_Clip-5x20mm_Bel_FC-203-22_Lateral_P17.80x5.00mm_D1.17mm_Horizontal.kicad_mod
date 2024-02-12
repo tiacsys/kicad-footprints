@@ -48,7 +48,7 @@
   (pad "1" thru_hole roundrect (at 0 5) (size 2.2 2.2) (drill 1.17) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp f6662114-e94f-4466-8b01-5f4d76363a86))
   (pad "2" thru_hole circle (at 17.8 5) (size 2.2 2.2) (drill 1.17) (layers *.Cu *.Mask) (tstamp 4f2de74c-a0a3-419c-86d3-f1056d120362))
   (pad "2" thru_hole circle (at 17.8 0) (size 2.2 2.2) (drill 1.17) (layers *.Cu *.Mask) (tstamp d0d2152d-05bb-45b9-922c-65dc46f5a5df))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

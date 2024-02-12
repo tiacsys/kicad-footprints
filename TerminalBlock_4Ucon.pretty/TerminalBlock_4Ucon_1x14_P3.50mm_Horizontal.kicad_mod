@@ -247,7 +247,7 @@
   (pad "12" thru_hole circle (at 38.5 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp 9c9bc305-c7c3-416a-a735-84ed052d3373))
   (pad "13" thru_hole circle (at 42 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp 016e5c51-b5ab-4edb-ba8f-9ff31a0c96f2))
   (pad "14" thru_hole circle (at 45.5 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp 84fc7db6-85f2-43c8-bb7c-961534a6e58b))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_4Ucon.3dshapes/TerminalBlock_4Ucon_1x14_P3.50mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TerminalBlock_4Ucon.3dshapes/TerminalBlock_4Ucon_1x14_P3.50mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

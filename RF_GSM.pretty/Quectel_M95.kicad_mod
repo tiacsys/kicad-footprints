@@ -123,7 +123,7 @@
   (pad "40" smd oval (at -6.35 -11.65) (size 0.75 2.4) (layers "F.Cu" "F.Mask") (tstamp 9e7158cd-32a7-4e11-a44c-8fd556d13be6))
   (pad "41" smd oval (at -1.35 11.65) (size 0.75 2.4) (layers "F.Cu" "F.Mask") (tstamp 2349ea91-659c-4ad6-97a2-93c081d95269))
   (pad "42" smd oval (at -0.05 11.65) (size 0.75 2.4) (layers "F.Cu" "F.Mask") (tstamp 14e2fa3d-3625-4133-8eb2-fac45911a288))
-  (model "${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/Quectel_M95.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_GSM.3dshapes/Quectel_M95.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

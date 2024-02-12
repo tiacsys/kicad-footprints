@@ -29,7 +29,7 @@
   (pad "7" thru_hole oval (at -9.06 -6.58 342) (size 2.03 3.05) (drill oval 1.02 2.03) (layers *.Cu *.Mask) (tstamp 2b91f8e9-7070-4e63-8623-aa99fb284f97))
   (pad "8" thru_hole oval (at -9.06 -2.97 18) (size 2.03 3.05) (drill oval 1.02 2.03) (layers *.Cu *.Mask) (tstamp c9550cfc-37d5-4a66-9e5e-4e4ad548d66f))
   (pad "9" thru_hole oval (at -6.91 0 54) (size 2.03 3.05) (drill oval 1.02 2.03) (layers *.Cu *.Mask) (tstamp 159a1c04-ed17-42bd-9c53-679cf9adef70))
-  (model "${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_ECC-83-2.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Valve.3dshapes/Valve_ECC-83-2.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -36,7 +36,7 @@
   (fp_arc (start -3.17 -3.17) (mid 0 -4.483057) (end 3.17 -3.17) (layer "F.Fab") (width 0.1) (tstamp ec59681e-b25b-4d29-b12c-2c18297dd4db))
   (pad "1" smd rect (at -4.15 0) (size 2.7 3.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b0a217bc-d810-478a-b9a0-c3af37f4017c))
   (pad "2" smd rect (at 4.15 0) (size 2.7 3.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2d3300e9-f165-4666-97ba-4c801aa435f6))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_10.4x10.4_H4.8.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_10.4x10.4_H4.8.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

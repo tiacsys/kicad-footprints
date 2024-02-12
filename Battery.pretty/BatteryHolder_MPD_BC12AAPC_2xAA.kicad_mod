@@ -74,7 +74,7 @@
   (pad "" np_thru_hole circle (at 75.85 4.75) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Mask) (tstamp 9ef7a61b-d126-4162-b51d-cf53a694fb3d))
   (pad "1" thru_hole rect (at 0 0) (size 2.23 2.23) (drill 1.23) (layers *.Cu *.Mask) (tstamp 945f009e-326a-4be5-824f-d7bcb904a485))
   (pad "2" thru_hole circle (at 102 0) (size 2.23 2.23) (drill 1.23) (layers *.Cu *.Mask) (tstamp 4e52f542-e721-4313-8eb4-186673ee6dfe))
-  (model "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_MPD_BC12AAPC_2xAA.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_MPD_BC12AAPC_2xAA.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

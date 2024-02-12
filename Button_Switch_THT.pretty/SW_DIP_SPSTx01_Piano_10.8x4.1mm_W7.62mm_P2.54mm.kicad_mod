@@ -41,7 +41,7 @@
   (fp_line (start -1.59 -0.75) (end -1.59 0.75) (layer "F.Fab") (width 0.1) (tstamp f126af7c-9443-4e6e-962e-aed69a66220a))
   (pad "1" thru_hole rect (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp ed4ea8c9-c666-4f13-a0eb-d959b4b74af5))
   (pad "2" thru_hole oval (at 7.62 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 434cd3fc-a96b-4d47-b0cb-ac9e71d3c125))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_DIP_SPSTx01_Piano_10.8x4.1mm_W7.62mm_P2.54mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_DIP_SPSTx01_Piano_10.8x4.1mm_W7.62mm_P2.54mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

@@ -80,7 +80,7 @@
     (thermal_bridge_angle 45) (tstamp 1e43f4a3-f782-4016-846d-7402c711cd89))
   (pad "18" smd roundrect (at -1.15 -4.8) (size 2 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (thermal_bridge_angle 45) (tstamp 640a1a92-2006-41ab-9a25-e4938e8f80a8))
-  (model "${KICAD7_3DMODEL_DIR}/Package_LGA.3dshapes/MPS_LGA-18-10EP_12x12mm_P3.3mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_LGA.3dshapes/MPS_LGA-18-10EP_12x12mm_P3.3mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

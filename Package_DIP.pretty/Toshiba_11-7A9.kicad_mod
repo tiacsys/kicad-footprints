@@ -36,7 +36,7 @@
   (pad "3" thru_hole oval (at 0 5.08) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 61530ef4-1926-43db-a6ad-bb18a00296af))
   (pad "4" thru_hole oval (at 7.62 5.08) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 63290ee1-2e94-407a-b7d6-1f21a892e8ed))
   (pad "6" thru_hole oval (at 7.62 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 77e21baa-5b89-4eb0-9081-30f2cb8305ae))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/Toshiba_11-7A9.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/Toshiba_11-7A9.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

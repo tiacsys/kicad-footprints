@@ -37,7 +37,7 @@
   (pad "2" thru_hole circle (at 15 0) (size 2 2) (drill 0.9) (layers *.Cu *.Mask) (tstamp 58b5817b-f225-402f-8404-54f8fa691360))
   (pad "3" thru_hole circle (at 0 12.5) (size 2 2) (drill 0.9) (layers *.Cu *.Mask) (tstamp 85ca56d1-145d-49d4-86d1-206b8399d017))
   (pad "4" thru_hole circle (at 15 12.5) (size 2 2) (drill 0.9) (layers *.Cu *.Mask) (tstamp c5b54b91-9485-403d-86fd-e9307c70a0e5))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/Choke_Schaffner_RN232-04-18.0x31.0mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/Choke_Schaffner_RN232-04-18.0x31.0mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

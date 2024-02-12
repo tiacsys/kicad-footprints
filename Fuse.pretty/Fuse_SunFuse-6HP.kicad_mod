@@ -46,7 +46,7 @@
   (fp_line (start 0 0) (end 2.25 0) (layer "F.Fab") (width 0.1) (tstamp f50cbd65-fa6c-4ef8-8809-61f3d97dec87))
   (pad "1" thru_hole circle (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp 04410879-cf1e-4ceb-adea-941962b447de))
   (pad "2" thru_hole circle (at 37 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp d7516ff8-186c-40be-bd17-67474a7d18c3))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_SunFuse-6HP.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuse_SunFuse-6HP.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

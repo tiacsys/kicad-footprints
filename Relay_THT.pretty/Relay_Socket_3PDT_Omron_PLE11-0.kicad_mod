@@ -68,7 +68,7 @@
   (pad "34" thru_hole circle (at 25.0561 7.3508 180) (size 4.5 4.5) (drill 2.5) (layers "*.Cu" "*.Mask") (tstamp d0eee829-9483-488b-b6a1-2a3a32bf9802))
   (pad "A1" thru_hole roundrect (at 0 0 138.8) (size 4.5 4.5) (drill 2.5) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25) (tstamp 0cb42c6c-eb10-4a1c-8ba4-7ef1c906a97c))
   (pad "A2" thru_hole circle (at 21.715 0 180) (size 4.5 4.5) (drill 2.5) (layers "*.Cu" "*.Mask") (tstamp a4d9b13d-9dad-404e-a1a0-ed0a02bd428d))
-  (model "${KICAD7_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_Socket_3PDT_Omron_PLE11-0.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_Socket_3PDT_Omron_PLE11-0.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

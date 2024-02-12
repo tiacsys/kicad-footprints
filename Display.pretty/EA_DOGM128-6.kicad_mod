@@ -77,7 +77,7 @@
   (pad "38" thru_hole circle (at 43.18 5.08 270) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 810d9838-7023-4c65-aaa7-158955977d1a))
   (pad "39" thru_hole circle (at 43.18 2.54 270) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp d83ed6e4-9acd-4b54-aa7e-5efa771acc73))
   (pad "40" thru_hole circle (at 43.18 0 270) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp dfb8063f-53b4-478f-b7ec-de7b650431d6))
-  (model "${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_DOGM128-6.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Display.3dshapes/EA_DOGM128-6.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

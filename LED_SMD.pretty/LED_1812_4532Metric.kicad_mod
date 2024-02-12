@@ -30,7 +30,7 @@
   (fp_line (start 2.25 -1.6) (end -1.45 -1.6) (layer "F.Fab") (width 0.1) (tstamp ca6d8bba-e038-4f96-a9b6-3560b399e765))
   (pad "1" smd roundrect (at -2.1375 0) (size 1.125 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.222222) (tstamp ed9babea-ea0b-48d3-a2fe-db8b1c59fd6c))
   (pad "2" smd roundrect (at 2.1375 0) (size 1.125 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.222222) (tstamp f137c639-dadb-48c4-9afe-9242c483ea4e))
-  (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1812_4532Metric.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1812_4532Metric.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

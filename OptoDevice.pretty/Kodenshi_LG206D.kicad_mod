@@ -38,7 +38,7 @@
   (pad "3" thru_hole oval (at 0 4) (size 1.4 1.1) (drill 0.7) (layers *.Cu *.Mask) (tstamp e094ccd1-45a4-4847-b148-b8f76f2c05d7))
   (pad "4" thru_hole circle (at 10.3 3.27) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask) (tstamp 73dc9658-02c5-49e7-90f8-3e86645ae6cb))
   (pad "5" thru_hole circle (at 10.3 0.73) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask) (tstamp e83fc9df-fc26-4725-ba9f-e5587366f370))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kodenshi_LG206D.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Kodenshi_LG206D.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

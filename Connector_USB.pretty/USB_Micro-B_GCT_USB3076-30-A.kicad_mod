@@ -53,7 +53,7 @@
   (pad "6" smd rect (at 1.125 1.2) (size 1.75 1.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2521fcf2-ac92-4ce5-a2fa-93848ff54127))
   (pad "6" smd rect (at 2.32 -1.03) (size 1.15 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4a314fd9-8df1-4002-8b7a-f8260456c66c))
   (pad "6" thru_hole oval (at 3.575 1.2) (size 1.05 1.9) (drill oval 0.45 1.25) (layers *.Cu *.Mask) (tstamp 704b2aad-651d-4df9-8717-c9788c22bb85))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_GCT_USB3076-30-A.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_GCT_USB3076-30-A.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

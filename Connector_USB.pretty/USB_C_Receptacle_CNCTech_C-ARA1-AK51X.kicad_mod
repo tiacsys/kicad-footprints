@@ -68,7 +68,7 @@
   (pad "S1" thru_hole oval (at 4.39 -1.05) (size 1.33 1.98) (drill oval 0.93 1.58) (layers *.Cu *.Mask "F.Paste") (tstamp a58279bb-b04e-45ae-82e7-8eb3aa9c7ca3))
   (pad "S1" thru_hole oval (at 4.295 -3.03) (size 0.95 1.8) (drill oval 0.55 1.4) (layers *.Cu *.Mask "F.Paste") (tstamp cbaa6f94-cdf5-434f-95b1-07516e24e43f))
   (pad "S1" thru_hole oval (at -4.575 2) (size 0.95 2.28) (drill oval 0.55 1.6 (offset 0 -0.14)) (layers *.Cu *.Mask "F.Paste") (tstamp e95309d6-2525-4715-b36a-9f7be26999e7))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_CNCTech_C-ARA1-AK51X.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_CNCTech_C-ARA1-AK51X.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

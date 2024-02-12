@@ -156,7 +156,7 @@
   (pad "7" thru_hole circle (at -1.885 -12.27) (size 0.8 0.8) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp deac1a32-f6b4-4754-a1a4-2e1637632a9d))
   (pad "7" thru_hole circle (at -1.885 -10.93) (size 0.8 0.8) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp e9653aa7-e09d-4af0-839d-224c372a93ae))
   (pad "7" thru_hole circle (at -1.885 -9.6) (size 0.8 0.8) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp 80616ab3-6370-4218-affe-9da4ad10a0bd))
-  (model "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/AKM_CQ_7.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor_Current.3dshapes/AKM_CQ_7.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

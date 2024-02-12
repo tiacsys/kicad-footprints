@@ -49,7 +49,7 @@
   (pad "2" thru_hole circle (at 10.16 0 180) (size 2.3 2.3) (drill 1.3) (layers *.Cu *.Mask) (tstamp 57ddd702-6fe2-4df1-838f-5f151a8807bb))
   (pad "3" thru_hole circle (at 17.78 0 180) (size 2.3 2.3) (drill 1.3) (layers *.Cu *.Mask) (tstamp 9ae8da74-da43-4edb-bc9e-0d7abb87d682))
   (pad "5" thru_hole circle (at 0 -7.62 180) (size 2.3 2.3) (drill 1.3) (layers *.Cu *.Mask) (tstamp d84fab28-bfe1-42bd-8b1f-98c525cb20f0))
-  (model "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_Omron-G5Q-1A.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_Omron-G5Q-1A.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

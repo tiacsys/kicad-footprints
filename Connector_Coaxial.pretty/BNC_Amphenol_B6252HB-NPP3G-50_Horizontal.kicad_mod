@@ -48,7 +48,7 @@
   (pad "2" thru_hole oval (at 5.08 -5.08) (size 3.5 7) (drill 2.01) (layers *.Cu *.Mask) (tstamp 03805aeb-4386-472e-850d-449dbb7b9565))
   (pad "2" thru_hole oval (at -5.08 -5.08) (size 3.5 7) (drill 2.01) (layers *.Cu *.Mask) (tstamp 4a56a46c-3d94-40b7-80e6-a170ff8b6a2f))
   (pad "2" thru_hole oval (at -2.54 0) (size 1.6 2.5) (drill 0.89) (layers *.Cu *.Mask) (tstamp 95faa22d-35b2-443a-8bba-e3bcc7a00f2a))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/BNC_Amphenol_B6252HB-NPP3G-50_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Coaxial.3dshapes/BNC_Amphenol_B6252HB-NPP3G-50_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

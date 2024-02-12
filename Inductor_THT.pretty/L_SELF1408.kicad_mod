@@ -42,7 +42,7 @@
   (pad "2" thru_hole circle (at 12.7 2.54) (size 2.03 2.03) (drill 1.27) (layers *.Cu *.Mask) (tstamp 43136644-4cd6-407e-a2af-7b75e60017d5))
   (pad "2" thru_hole circle (at 12.7 -2.54) (size 2.03 2.03) (drill 1.27) (layers *.Cu *.Mask) (tstamp 9742c5c7-ee52-4aaa-9cde-e1baa2dad7ad))
   (pad "2" thru_hole circle (at 15.24 0) (size 2.03 2.03) (drill 1.27) (layers *.Cu *.Mask) (tstamp a6400660-3c1d-4465-9394-2c4c0de1f23b))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_SELF1408.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_SELF1408.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

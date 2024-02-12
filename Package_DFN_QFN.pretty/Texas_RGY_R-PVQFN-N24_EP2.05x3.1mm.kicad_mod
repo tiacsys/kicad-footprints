@@ -200,7 +200,7 @@
       (gr_circle (center 0 0.3425) (end 0.14 0.3425) (width 0) (fill yes))
     ) (tstamp 178134ea-3ca0-4325-9140-3d4f20e06385))
   (pad "25" smd rect (at 0 0) (size 2.05 3.1) (layers "F.Cu" "F.Mask") (tstamp e26b99be-0f5e-4a29-89c3-eb4066c880db))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

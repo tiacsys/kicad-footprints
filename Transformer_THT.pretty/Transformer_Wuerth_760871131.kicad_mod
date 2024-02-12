@@ -40,7 +40,7 @@
   (pad "12" thru_hole circle (at 20 3.745) (size 2 2) (drill 1.32) (layers *.Cu *.Mask) (tstamp 1ef879de-c29e-4fa9-be2f-263274751d77))
   (pad "13" thru_hole circle (at 20 1.255) (size 2 2) (drill 1.32) (layers *.Cu *.Mask) (tstamp dc752028-e335-47f5-b9c4-22860cd58215))
   (pad "14" thru_hole circle (at 20 -1.235) (size 2 2) (drill 1.32) (layers *.Cu *.Mask) (tstamp ad4da1d4-802a-4030-ad26-b26688a9239f))
-  (model "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Wuerth_760871131.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Wuerth_760871131.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -39,7 +39,7 @@
   (pad "2" thru_hole circle (at 5.025 5.025) (size 4 4) (drill 1.5) (layers *.Cu *.Mask) (tstamp 5e94dae0-98ad-4e6e-8a31-ecb50216b5c6))
   (pad "2" thru_hole circle (at 5.025 -5.025) (size 4 4) (drill 1.5) (layers *.Cu *.Mask) (tstamp 75a91b8c-f42a-4fe4-9658-16c948e1accf))
   (pad "2" thru_hole circle (at -5.025 -5.025) (size 4 4) (drill 1.5) (layers *.Cu *.Mask) (tstamp 80fc9765-6c32-40b5-b4b3-ce764779631c))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/BNC_TEConnectivity_1478035_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Coaxial.3dshapes/BNC_TEConnectivity_1478035_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

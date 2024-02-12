@@ -56,7 +56,7 @@
   (pad "3" thru_hole circle (at 7.5 17.5) (size 2 2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp e5012446-92f4-445d-b836-776ac1e0bf2a))
   (pad "4" thru_hole circle (at 15 17.5) (size 2 2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp be5a0bcc-7393-4232-a79c-8cfa43ca1899))
   (pad "5" thru_hole circle (at 15 0) (size 2 2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 00f6678b-daf6-4030-9920-cce926fbb4f8))
-  (model "${KICAD7_3DMODEL_DIR}/Filter.3dshapes/Filter_Schaffner_FN405.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Filter.3dshapes/Filter_Schaffner_FN405.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

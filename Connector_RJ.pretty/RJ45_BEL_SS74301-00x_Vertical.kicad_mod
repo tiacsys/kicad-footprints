@@ -60,7 +60,7 @@
   (pad "12" thru_hole circle (at -1.8796 10.4648) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask) (tstamp 42bb3615-17e8-4930-a52e-cf94d4a6cf87))
   (pad "SH" thru_hole circle (at 12.319 2.4638) (size 2.54 2.54) (drill 1.651) (layers *.Cu *.Mask) (tstamp 4782d055-55ff-4f00-a4b2-409b2eac8045))
   (pad "SH" thru_hole circle (at -3.429 2.4638) (size 2.54 2.54) (drill 1.651) (layers *.Cu *.Mask) (tstamp 9639b0cf-7b95-4ecf-9ad7-3641a80659bd))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_BEL_SS74301-00x_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_BEL_SS74301-00x_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

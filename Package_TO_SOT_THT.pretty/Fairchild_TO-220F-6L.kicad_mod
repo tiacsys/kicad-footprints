@@ -47,7 +47,7 @@
   (pad "4" thru_hole oval (at 4.73 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp b264c336-9cc7-41e9-91a9-0d77a613635d))
   (pad "5" thru_hole oval (at 6 3.5) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 7a93a5a4-3c78-421b-8b4c-dc42b7d456b8))
   (pad "6" thru_hole oval (at 7.75 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 58eb4539-7c86-4e30-bb37-9c3bf8d0ef47))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/Fairchild_TO-220F-6L.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/Fairchild_TO-220F-6L.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -41,7 +41,7 @@
   (pad "7" smd roundrect (at 6 -2.85) (size 1.2 3.1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp e6fcf775-cf25-40d8-9fb0-461923ffc030))
   (pad "MP" smd roundrect (at 10.52 2.75) (size 2.3 3.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.108696) (tstamp 924dd3ea-f87f-4215-8fec-f155ca4f0ecb))
   (pad "MP" smd roundrect (at -10.52 2.75) (size 2.3 3.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.108696) (tstamp bf5f5bcb-d534-4c99-8ebe-d7a4e992cf1f))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF3EA-07P-2H_1x07-1MP_P2.00mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF3EA-07P-2H_1x07-1MP_P2.00mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

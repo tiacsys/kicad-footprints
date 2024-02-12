@@ -73,7 +73,7 @@
   (pad "2" thru_hole circle (at 7.5 0) (size 2.6 2.6) (drill 1.4) (layers *.Cu *.Mask) (tstamp 534cf8e2-1e63-4c76-95c9-c3bad039276b))
   (pad "3" thru_hole circle (at 15 0) (size 2.6 2.6) (drill 1.4) (layers *.Cu *.Mask) (tstamp ee92a530-84a9-45e7-ba81-8fbc0929e301))
   (pad "4" thru_hole circle (at 22.5 0) (size 2.6 2.6) (drill 1.4) (layers *.Cu *.Mask) (tstamp d790e0da-a0a0-4dd4-a449-cde6c3f0b356))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type175_RT02704HBLC_1x04_P7.50mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type175_RT02704HBLC_1x04_P7.50mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

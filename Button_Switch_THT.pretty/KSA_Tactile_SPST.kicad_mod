@@ -34,7 +34,7 @@
   (pad "3" thru_hole circle (at 5.08 7.62) (size 1.778 1.778) (drill 1.143) (layers *.Cu *.Mask) (tstamp 72478dd2-0208-4434-b958-c19da3c8617a))
   (pad "4" thru_hole circle (at 2.54 7.62) (size 1.778 1.778) (drill 1.143) (layers *.Cu *.Mask) (tstamp 0bfddb73-ae75-49ef-bf78-c2c6b50ed656))
   (pad "5" thru_hole circle (at 0 7.62) (size 1.778 1.778) (drill 1.143) (layers *.Cu *.Mask) (tstamp 2f440e30-ae50-4e19-81ff-c3ff482dfe32))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/KSA_Tactile_SPST.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/KSA_Tactile_SPST.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

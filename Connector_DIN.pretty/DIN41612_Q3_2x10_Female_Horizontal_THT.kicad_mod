@@ -89,7 +89,7 @@
   (pad "b8" thru_hole circle (at 17.78 2.54) (size 1.55 1.55) (drill 1) (layers *.Cu *.Mask) (tstamp 1a079486-1d6b-4efb-8d6a-90743b352d8f))
   (pad "b9" thru_hole circle (at 20.32 2.54) (size 1.55 1.55) (drill 1) (layers *.Cu *.Mask) (tstamp 8f055609-d2e2-43bd-bf00-a13ce8dc824c))
   (pad "b10" thru_hole circle (at 22.86 2.54) (size 1.55 1.55) (drill 1) (layers *.Cu *.Mask) (tstamp a915d933-5e9a-4afe-a83c-02f835334fec))
-  (model "${KICAD7_3DMODEL_DIR}/Connector_DIN.3dshapes/DIN41612_Q3_2x10_Female_Horizontal_THT.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_DIN.3dshapes/DIN41612_Q3_2x10_Female_Horizontal_THT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

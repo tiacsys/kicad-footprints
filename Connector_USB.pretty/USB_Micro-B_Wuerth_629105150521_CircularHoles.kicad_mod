@@ -61,7 +61,7 @@
   (pad "6" thru_hole circle (at -3.725 -1.85) (size 2 2) (drill 1.4) (layers *.Cu *.Mask) (tstamp cace70cf-7101-4607-84e8-42ab022bc7fa))
   (pad "6" thru_hole circle (at -3.875 1.95) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask) (tstamp cadf5e81-abd1-49f3-967e-262b39de839e))
   (pad "6" thru_hole circle (at 3.875 1.95) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask) (tstamp cc8d9da1-435d-4919-b143-fcdc1d548726))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Wuerth_629105150521_CircularHoles.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Wuerth_629105150521_CircularHoles.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

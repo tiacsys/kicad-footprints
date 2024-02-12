@@ -38,7 +38,7 @@
   (fp_line (start 32.78 -0.8) (end 31.98 -0.8) (layer "F.Fab") (width 0.1) (tstamp c77511c3-1760-4433-8010-bde4a30e241b))
   (pad "1" thru_hole circle (at 0 0) (size 3 3) (drill 1.35) (layers *.Cu *.Mask) (tstamp 037a0997-3337-42f7-a113-95c9ef8f071c))
   (pad "2" thru_hole circle (at 10.16 0) (size 3 3) (drill 1.35) (layers *.Cu *.Mask) (tstamp d13f759a-549c-4ca1-99b1-5b266bc2c864))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

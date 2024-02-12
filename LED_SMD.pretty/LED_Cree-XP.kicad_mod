@@ -40,7 +40,7 @@
   (pad "1" smd rect (at -1.4 0) (size 0.5 3.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0df090fb-c406-4418-a9c6-d8e9a6c3e9a3))
   (pad "2" smd rect (at 1.4 0) (size 0.5 3.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7db8302b-23a4-45ab-b648-9eb644183cd9))
   (pad "3" smd rect (at 0 0) (size 1.3 3.3) (layers "F.Cu" "F.Mask") (tstamp e845eecd-1c3c-47e6-b542-fc6fb58a479c))
-  (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-XP.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-XP.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

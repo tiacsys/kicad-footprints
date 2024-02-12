@@ -28,7 +28,7 @@
   (fp_line (start -5.78 -3.49) (end -5.78 3.49) (layer "F.Fab") (width 0.1) (tstamp f3dd4885-4386-484b-b16b-97a83aa0628b))
   (pad "1" smd rect (at -4.575 0) (size 3.94 5.84) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a8d74625-eb9d-490b-a662-e882a5c9ffc9))
   (pad "2" smd rect (at 4.575 0) (size 3.94 5.84) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4d648dde-9b35-43df-bd94-fe6853f5a82a))
-  (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Vishay_WSR2_WSR3.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Vishay_WSR2_WSR3.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

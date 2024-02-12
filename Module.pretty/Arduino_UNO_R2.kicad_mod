@@ -97,7 +97,7 @@
   (pad "28" thru_hole oval (at 1.02 48.26 90) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp e494ecb2-0f68-4155-932d-1f4008128c3d))
   (pad "29" thru_hole oval (at -1.52 48.26 90) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp ebc3668b-3b07-4b12-b529-78edbf55f4ff))
   (pad "30" thru_hole oval (at -4.06 48.26 90) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 502631a4-71e1-4e02-8d46-4f63aa7f5ab4))
-  (model "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Arduino_UNO_R2.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Module.3dshapes/Arduino_UNO_R2.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

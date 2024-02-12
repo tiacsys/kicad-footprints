@@ -31,7 +31,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask) (tstamp 497302ef-b0ef-450b-b0a9-208e37232359))
   (pad "2" thru_hole circle (at 5 0) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask) (tstamp ae38d2d6-da4a-482d-a1b5-488a7c9bab04))
   (pad "3" thru_hole circle (at 2.5 2.5) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask) (tstamp 957cf70f-f9b7-46e0-b4f6-9791236512ff))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC35-U.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC35-U.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

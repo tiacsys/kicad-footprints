@@ -63,7 +63,7 @@
   (pad "8" smd roundrect (at 0 1.25 270) (size 0.4 2.1) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.1) (tstamp e6add58b-2748-401d-9f2d-bb3be206a7f8))
   (pad "9" smd roundrect (at 0 0 270) (size 1.5 1.1) (layers "F.Cu" "F.Mask") (roundrect_rratio 0)
     (chamfer_ratio 0.091) (chamfer bottom_left) (tstamp b0266596-6388-4534-964b-576af54d8231))
-  (model "${KICAD7_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_MYRxP.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_MYRxP.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

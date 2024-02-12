@@ -52,7 +52,7 @@
   (pad "1" thru_hole circle (at 5.08 0) (size 2.6 2.6) (drill 1.6) (layers *.Cu *.Mask) (tstamp 6cc6a53f-4392-42db-8dca-7f769ec395e3))
   (pad "1" thru_hole circle (at 5.08 5.08) (size 2.6 2.6) (drill 1.6) (layers *.Cu *.Mask) (tstamp aea8329d-4f69-42dc-9a6d-41ad1a67aa94))
   (pad "1" thru_hole circle (at 0 5.08) (size 2.6 2.6) (drill 1.6) (layers *.Cu *.Mask) (tstamp c33a89f0-b02d-4311-967e-e1818f428c24))
-  (model "${KICAD6_3DMODEL_DIR}/Connector.3dshapes/CalTest_CT3151.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector.3dshapes/CalTest_CT3151.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

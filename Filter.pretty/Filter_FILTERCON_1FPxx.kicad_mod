@@ -50,7 +50,7 @@
   (pad "2" thru_hole circle (at 20 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp e7093c8e-420d-40e4-be48-4ab7137f7b50))
   (pad "3" thru_hole circle (at 0 15) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp ee88de6b-3e9f-48a7-9238-15305f272cae))
   (pad "4" thru_hole circle (at 20 15) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 8ad026da-a4b9-4e23-9e37-82fafd01a154))
-  (model "${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_FILTERCON_1FPxx.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Filter.3dshapes/Filter_FILTERCON_1FPxx.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

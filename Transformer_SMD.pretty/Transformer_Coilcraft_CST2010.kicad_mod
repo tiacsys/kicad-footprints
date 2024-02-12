@@ -66,7 +66,7 @@
   (pad "10" smd rect (at 9.04 -5.08) (size 2.34 1.19) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2400879b-7b06-4b7a-9161-504d79a5488b))
   (pad "11" smd rect (at 0 -5.62) (size 7.24 4.27) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 21689619-0703-4085-8d0f-bd3949d4c5ef))
   (pad "12" smd rect (at 0 5.62) (size 7.24 4.27) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a594d4da-ac11-4b03-9f5b-509979e1e148))
-  (model "${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Coilcraft_CST2010.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Coilcraft_CST2010.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

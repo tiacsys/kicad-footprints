@@ -45,7 +45,7 @@
   (pad "3" thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp 9cf09bc6-efa5-47ff-b945-4fc53fb6d860))
   (pad "4" thru_hole circle (at 7.62 0) (size 1.8 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp f0124891-c979-4e9b-ad47-def87754f68d))
   (pad "5" thru_hole circle (at 10.16 0) (size 1.8 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp 1c932355-61d1-42e7-a9c8-71c87ef77650))
-  (model "${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_Mini_Pentode_Linear.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Valve.3dshapes/Valve_Mini_Pentode_Linear.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

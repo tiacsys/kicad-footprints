@@ -50,7 +50,7 @@
   (pad "4" thru_hole oval (at 4.5 0) (size 1.17 1.87) (drill 0.87) (layers *.Cu *.Mask) (tstamp 4a2cb251-4e69-4bc0-a0f3-cb6562a6abf7))
   (pad "5" thru_hole oval (at 6 0) (size 1.17 1.87) (drill 0.87) (layers *.Cu *.Mask) (tstamp d9d49a1c-55bc-4d9a-bb6b-6e8390b2a259))
   (pad "6" thru_hole oval (at 7.5 0) (size 1.17 1.87) (drill 0.87) (layers *.Cu *.Mask) (tstamp d62b053c-0cde-4008-b945-21f882c00856))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Wuerth.3dshapes/Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Wuerth.3dshapes/Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

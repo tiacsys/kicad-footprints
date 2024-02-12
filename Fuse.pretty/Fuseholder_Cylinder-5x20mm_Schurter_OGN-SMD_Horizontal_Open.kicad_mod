@@ -32,7 +32,7 @@
   (fp_line (start 11.35 -5.4) (end 11.35 5.4) (layer "F.Fab") (width 0.1) (tstamp dba6861b-c7dd-4614-8bab-d58ab6a1a887))
   (pad "1" smd roundrect (at -8.5 0) (size 6 6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp bf7ac7e3-70a4-466d-ab09-adfe3b5a8a45))
   (pad "2" smd roundrect (at 8.5 0) (size 6 6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d18a2267-a94b-4a4e-a8c8-3b36b0d8a9e1))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Schurter_OGN-SMD_Horizontal_Open.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Schurter_OGN-SMD_Horizontal_Open.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

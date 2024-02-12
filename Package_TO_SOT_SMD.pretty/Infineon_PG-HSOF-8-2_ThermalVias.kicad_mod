@@ -226,7 +226,7 @@
   (pad "4" thru_hole circle (at 5.28 1.2) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 14f1d14d-ee68-4d76-9106-0bd42aa3aa71))
   (pad "4" thru_hole circle (at 5.28 2.4) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 52f680b0-14cb-48ba-82d5-afcea4a27040))
   (pad "4" thru_hole circle (at 5.28 3.6) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp cdb75264-bc6a-4906-9ae1-8dcaeae9f07b))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-HSOF-8-2.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-HSOF-8-2.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

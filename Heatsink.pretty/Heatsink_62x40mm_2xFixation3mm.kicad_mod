@@ -42,7 +42,7 @@
   (fp_arc (start 67.056 -12.259) (mid 70.806 -8.509) (end 67.056 -4.759) (layer "F.Fab") (width 0.1) (tstamp 14d83360-fcfd-4b0e-a5ad-1669c3534c54))
   (pad "1" thru_hole circle (at -4.953 -31.496) (size 6.49732 6.49732) (drill 3.0988) (layers *.Cu *.Mask) (tstamp 12a1c081-f9c2-4830-ba76-e32473abd743))
   (pad "1" thru_hole circle (at 67.056 -8.509) (size 6.49732 6.49732) (drill 3.0988) (layers *.Cu *.Mask) (tstamp 69007c33-8dd3-40bd-9c9d-a58170032c2a))
-  (model "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_62x40mm_2xFixation3mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_62x40mm_2xFixation3mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -28,7 +28,7 @@
   (fp_line (start -1 1) (end 1 1) (layer "F.Fab") (width 0.1) (tstamp a150088c-2703-4a5b-9f90-6e22d91c461b))
   (pad "1" smd rect (at -0.675 0) (size 0.65 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c77f375a-a8ba-4fcb-adc5-f1222a01f6d9))
   (pad "2" smd rect (at 0.675 0) (size 0.65 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 57b4fe29-d673-4121-9107-cd10efb48b5e))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Taiyo-Yuden_MD-2020.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Taiyo-Yuden_MD-2020.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

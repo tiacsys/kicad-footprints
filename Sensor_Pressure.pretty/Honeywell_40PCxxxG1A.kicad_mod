@@ -112,7 +112,7 @@
   (pad "1" thru_hole rect (at 0 0) (size 2.25 1.25) (drill oval 1.5 0.5) (layers "*.Cu" "*.Mask") (tstamp 32fd7e0f-6ec0-47bb-bdc0-184383b51068))
   (pad "2" thru_hole oval (at 2.54 0) (size 2.25 1.25) (drill oval 1.5 0.5) (layers "*.Cu" "*.Mask") (tstamp 17118141-10d5-459e-a3aa-a279b7b6eb81))
   (pad "3" thru_hole oval (at 5.08 0) (size 2.25 1.25) (drill oval 1.5 0.5) (layers "*.Cu" "*.Mask") (tstamp 2c0ae4ae-4cef-45d6-8ccb-07354699342e))
-  (model "${KICAD6_3DMODEL_DIR}/Sensor_Pressure.3dshapes/Honeywell_40PCxxxG1A.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Sensor_Pressure.3dshapes/Honeywell_40PCxxxG1A.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

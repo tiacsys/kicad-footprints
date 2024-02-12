@@ -60,7 +60,7 @@
   (pad "3" thru_hole circle (at 0 16.97) (size 5.21 5.21) (drill 2) (layers *.Cu *.Mask) (tstamp 4c995e20-972f-41a8-a008-a8e21de113c3))
   (pad "4" thru_hole circle (at -6.5 8.48) (size 5.21 5.21) (drill 2) (layers *.Cu *.Mask) (tstamp 3afd21b3-d5ff-4f0f-a1bb-7d0b9c41421f))
   (pad "5" thru_hole circle (at 1.5 8.48) (size 5.21 5.21) (drill 4.2) (layers *.Cu *.Mask) (tstamp 37d5a07a-2a70-44c2-bf15-f9417f8b86f9))
-  (model "${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_EURO.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Valve.3dshapes/Valve_EURO.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -98,7 +98,7 @@
   (pad "" np_thru_hole circle (at 38.61 8.7) (size 3.45 3.45) (drill 3.45) (layers *.Cu *.Mask) (tstamp c7264076-aeb1-4e0e-a9d0-793dda2acdce))
   (pad "1" thru_hole rect (at 0 0) (size 2 2) (drill 1.02) (layers *.Cu *.Mask) (tstamp ee3b9c91-c0f0-4b83-9142-1b628776eedc))
   (pad "2" thru_hole circle (at 0 12.7) (size 2 2) (drill 1.02) (layers *.Cu *.Mask) (tstamp 1742149b-7c8d-4018-a557-72c11ea2065b))
-  (model "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_2468_2xAAA.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_2468_2xAAA.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -52,7 +52,7 @@
   (pad "9" thru_hole circle (at 5.08 7.62) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp 006a75a2-7059-4529-9ce7-3fa70f5f698f))
   (pad "10" thru_hole circle (at 5.08 5.08) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp 069fb2fb-9f11-496a-a58a-1f5c6acf2542))
   (pad "12" thru_hole circle (at 5.08 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp 52bf474a-9b36-40e2-b7d4-4a69c906e29e))
-  (model "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Kemet_EC2_DoubleCoil.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Kemet_EC2_DoubleCoil.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

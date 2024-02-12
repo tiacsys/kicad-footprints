@@ -35,7 +35,7 @@
   (pad "2" smd roundrect (at -0.725 0.925) (size 0.8 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9a292f7b-cb1b-4920-a7db-2befab82a7cb))
   (pad "3" smd roundrect (at 0.725 0.925) (size 0.8 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ea7b0b9f-cfa7-4427-90f1-a3d31052f9a2))
   (pad "4" smd roundrect (at 0.725 -0.925) (size 0.8 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 1d6613e4-7b93-4cd3-bea1-8f2ffac3976a))
-  (model "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

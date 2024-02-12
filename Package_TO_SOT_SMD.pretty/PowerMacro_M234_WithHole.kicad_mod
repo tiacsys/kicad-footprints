@@ -54,7 +54,7 @@
   (pad "2" smd rect (at -0.7 6.8 90) (size 7 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 75338087-d632-4114-b4be-207ace9df0ec))
   (pad "3" smd rect (at 7.5 0 90) (size 3.5 10) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fc92ae7d-7d3b-4c92-b1bf-e1eb0f43b46f))
   (pad "4" smd rect (at -0.7 -6.8 90) (size 7 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e0224e71-d165-4288-811e-a0c8b7dfc5a8))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/PowerMacro_M234_WithHole.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/PowerMacro_M234_WithHole.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

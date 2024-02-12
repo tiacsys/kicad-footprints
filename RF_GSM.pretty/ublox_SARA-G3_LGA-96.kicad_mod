@@ -222,7 +222,7 @@
   (pad "94" smd rect (at 1.05 10.25 180) (size 1.1 1.1) (layers "F.Cu" "F.Mask") (tstamp f4bc9bfd-704d-4a06-8607-7a393a96d1d6))
   (pad "95" smd rect (at 3.15 10.25 180) (size 1.1 1.1) (layers "F.Cu" "F.Mask") (tstamp 4f3d009d-c7a5-4bef-b19b-6d4e61f9b2c0))
   (pad "96" smd rect (at 5.25 10.25 270) (size 1.1 1.1) (layers "F.Cu" "F.Mask") (tstamp 833bdfa2-b223-45b4-9376-4df3decdce6c))
-  (model "${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/ublox_SARA-G3_LGA-96.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_GSM.3dshapes/ublox_SARA-G3_LGA-96.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

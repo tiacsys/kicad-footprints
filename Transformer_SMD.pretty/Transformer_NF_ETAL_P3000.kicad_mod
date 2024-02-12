@@ -93,7 +93,7 @@
   (pad "13" smd oval (at 0 -5 270) (size 1.5 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 538d1d2e-f08e-43db-8291-1c3476c512a8))
   (pad "13" smd oval (at 0 0 270) (size 1.5 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0f3f314c-fc61-4330-9845-fd24add79961))
   (pad "13" smd oval (at 0 5 270) (size 1.5 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6c4448f9-756e-483e-b8fe-f4fde9766338))
-  (model "${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P3000.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P3000.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

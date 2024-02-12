@@ -39,7 +39,7 @@
   (pad "9" thru_hole circle (at 7.62 12.8) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask) (tstamp 626fb546-5adb-43f8-9be2-652c64a346ea))
   (pad "13" thru_hole circle (at 7.62 2.54) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask) (tstamp c40d570d-9370-4574-822a-4255e9781122))
   (pad "14" thru_hole circle (at 7.62 0) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask) (tstamp ff75e508-a711-4457-9769-e86a993f0295))
-  (model "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_StandexMeder_DIP_HighProfile.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_StandexMeder_DIP_HighProfile.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

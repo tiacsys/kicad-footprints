@@ -81,7 +81,7 @@
   (pad "6" thru_hole circle (at 10 -15) (size 2 2) (drill 0.9) (layers *.Cu *.Mask) (tstamp cc712d7d-3732-46f5-bbc1-f262801ccf81))
   (pad "7" thru_hole circle (at 5 -15) (size 2 2) (drill 0.9) (layers *.Cu *.Mask) (tstamp 549a8adb-1b3a-4ec0-8b4f-7362ca087407))
   (pad "8" thru_hole circle (at 0 -15) (size 2 2) (drill 0.9) (layers *.Cu *.Mask) (tstamp fb255db2-a4d1-484d-b342-fbc0f6b26eff))
-  (model "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Breve_TEZ-22x24.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Breve_TEZ-22x24.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

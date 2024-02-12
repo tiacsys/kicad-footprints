@@ -31,7 +31,7 @@
   (pad "1" thru_hole rect (at 0 0 180) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp d55e6665-05bf-4ce5-a3dd-02b55c7cf14d))
   (pad "2" thru_hole circle (at 2.54 0 180) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 9660c4e7-4fa0-4dbb-b5c5-f23f22a37233))
   (pad "3" thru_hole circle (at 5.08 0 180) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp dd538aa4-675b-4536-ac61-a38923e6d0d7))
-  (model "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_OKI-78SR_horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_OKI-78SR_horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

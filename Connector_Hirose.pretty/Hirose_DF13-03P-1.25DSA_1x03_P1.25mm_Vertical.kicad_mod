@@ -57,7 +57,7 @@
   (pad "1" thru_hole roundrect (at 0 0) (size 0.9 1.4) (drill 0.6) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 3b29f6a9-11f1-4cc2-ab6c-174b982fe748))
   (pad "2" thru_hole oval (at 1.25 0) (size 0.9 1.4) (drill 0.6) (layers *.Cu *.Mask) (tstamp 884ffeb4-89ff-456a-9446-3ff7a3d9f4cc))
   (pad "3" thru_hole oval (at 2.5 0) (size 0.9 1.4) (drill 0.6) (layers *.Cu *.Mask) (tstamp ccb902c0-4d66-4e2a-b8f6-802942a8fb6f))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF13-03P-1.25DSA_1x03_P1.25mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF13-03P-1.25DSA_1x03_P1.25mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

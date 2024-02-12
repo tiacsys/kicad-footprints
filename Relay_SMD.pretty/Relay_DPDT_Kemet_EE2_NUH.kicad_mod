@@ -49,7 +49,7 @@
   (pad "9" smd roundrect (at 3.145 1.27 270) (size 1.11 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.225) (tstamp 79cfd550-b0eb-4c2b-a72b-d77c75601471))
   (pad "10" smd roundrect (at 3.145 -1.27 270) (size 1.11 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.225) (tstamp f94d2db6-f7a8-478b-b53f-6f86c8f03dbf))
   (pad "12" smd roundrect (at 3.145 -6.35 270) (size 1.11 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.225) (tstamp 08e113cc-1041-4e5e-b4fb-39651439d514))
-  (model "${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_DPDT_Kemet_EE2_NUH.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_DPDT_Kemet_EE2_NUH.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

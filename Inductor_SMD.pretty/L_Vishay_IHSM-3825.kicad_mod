@@ -34,7 +34,7 @@
   (fp_line (start -5.59 -3.175) (end -5.59 3.175) (layer "F.Fab") (width 0.1) (tstamp c8feb012-c1ba-4094-9fe7-4157e2737cf5))
   (pad "1" smd rect (at -4.84 0) (size 4.6 5.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 53ed07df-bcdf-4c72-9fc8-c36388117ebe))
   (pad "2" smd rect (at 4.84 0) (size 4.6 5.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 55c51849-3fa5-4864-a573-ee486df57528))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Vishay_IHSM-3825.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Vishay_IHSM-3825.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

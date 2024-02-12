@@ -84,7 +84,7 @@
   (pad "1" thru_hole rect (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp 519c31e3-a721-4758-afbc-0f72aba317e2))
   (pad "2" thru_hole circle (at 5 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp 81eef654-619d-4c6f-8160-559c8156da25))
   (pad "3" thru_hole circle (at 10 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp 88d2d431-b1ca-4d14-bc7c-0681119396f5))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_Philmore.3dshapes/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TerminalBlock_Philmore.3dshapes/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

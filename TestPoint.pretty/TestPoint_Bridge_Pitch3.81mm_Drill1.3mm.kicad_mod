@@ -27,7 +27,7 @@
   (fp_line (start 3.81 0) (end 0 0) (layer "F.Fab") (width 0.12) (tstamp 8d27b86b-e610-4dab-84f8-f0d1cc00d4cc))
   (pad "1" thru_hole circle (at 3.81 0) (size 2.6 2.6) (drill 1.3) (layers *.Cu *.Mask) (tstamp 1bcca40f-508a-4003-bcaa-d84ba2adc246))
   (pad "1" thru_hole circle (at 0 0) (size 2.6 2.6) (drill 1.3) (layers *.Cu *.Mask) (tstamp 30f204f4-f15b-4efc-bcf7-cfdec2efb8d8))
-  (model "${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Bridge_Pitch3.81mm_Drill1.3mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Bridge_Pitch3.81mm_Drill1.3mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

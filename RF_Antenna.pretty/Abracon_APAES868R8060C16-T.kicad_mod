@@ -41,7 +41,7 @@
   (fp_arc (start -41 -26) (mid -39.828427 -28.828427) (end -37 -30) (layer "F.Fab") (width 0.1) (tstamp 92036492-0f4f-4e77-91b5-4080e32cf7f1))
   (fp_arc (start -37 52) (mid -39.828427 50.828427) (end -41 48) (layer "F.Fab") (width 0.1) (tstamp d121f9e2-617f-446f-91ee-e9a77fb75302))
   (pad "1" thru_hole roundrect (at 0 0) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 92cde364-be0b-4b77-b9ee-93c5344577b6))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Antenna.3dshapes/Abracon_APAES868R8060C16-T.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_Antenna.3dshapes/Abracon_APAES868R8060C16-T.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

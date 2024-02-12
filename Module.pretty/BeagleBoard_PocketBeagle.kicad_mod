@@ -120,7 +120,7 @@
   (pad "70" thru_hole oval (at 27.94 40.64) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp f199a3cf-220b-4ecc-9cbb-92314e8ccea5))
   (pad "71" thru_hole oval (at 25.4 43.18) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 60366d4b-f78e-45da-a061-a4fe7652ae96))
   (pad "72" thru_hole oval (at 27.94 43.18) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 132fe214-a558-457a-be4f-ae0efa1bc637))
-  (model "${KICAD6_3DMODEL_DIR}/Module.3dshapes/BeagleBoard_PocketBeagle.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Module.3dshapes/BeagleBoard_PocketBeagle.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

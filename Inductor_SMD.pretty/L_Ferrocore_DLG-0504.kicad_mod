@@ -28,7 +28,7 @@
   (fp_arc (start -0.85 2.6) (mid -2.9 0) (end -0.85 -2.6) (layer "F.Fab") (width 0.1) (tstamp 2eef4f42-7a1d-452f-91b4-19734a6d6753))
   (pad "1" smd rect (at -1.925 0) (size 2.15 5.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0accc0ce-c74a-4818-8f20-edce4a4abb88))
   (pad "2" smd rect (at 1.925 0) (size 2.15 5.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3ea418a6-98c1-4f05-a2f6-38de91ef82d1))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Ferrocore_DLG-0504.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Ferrocore_DLG-0504.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

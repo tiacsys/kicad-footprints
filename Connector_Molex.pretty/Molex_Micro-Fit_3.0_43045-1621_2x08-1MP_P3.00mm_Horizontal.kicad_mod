@@ -74,7 +74,7 @@
   (pad "16" thru_hole circle (at 21 3) (size 1.5 1.5) (drill 1.02) (layers *.Cu *.Mask) (tstamp 930aa17a-0f1b-4f92-b838-8f12f8fd5f5a))
   (pad "MP" thru_hole circle (at -2.15 -4.32) (size 3.41 3.41) (drill 2.41) (layers *.Cu *.Mask) (tstamp 569d9fb6-9573-4e31-bff7-f5f8339ce924))
   (pad "MP" thru_hole circle (at 23.15 -4.32) (size 3.41 3.41) (drill 2.41) (layers *.Cu *.Mask) (tstamp 68894293-22ba-4257-85c3-71a9bde486fb))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43045-1621_2x08-1MP_P3.00mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43045-1621_2x08-1MP_P3.00mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

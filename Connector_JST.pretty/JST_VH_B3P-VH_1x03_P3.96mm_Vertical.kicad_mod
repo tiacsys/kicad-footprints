@@ -43,7 +43,7 @@
   (pad "1" thru_hole roundrect (at 0 0) (size 2.7 2.7) (drill 1.7) (layers *.Cu *.Mask) (roundrect_rratio 0.092593) (tstamp f19d4ee5-76c8-4b97-be23-46be4b231847))
   (pad "2" thru_hole circle (at 3.96 0) (size 2.7 2.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp 24c9e23b-8d4c-483a-a713-1f9bb8370aef))
   (pad "3" thru_hole circle (at 7.92 0) (size 2.7 2.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp 9706fb63-e7bf-4444-9ecc-2b5224c5fdd2))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_VH_B3P-VH_1x03_P3.96mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_JST.3dshapes/JST_VH_B3P-VH_1x03_P3.96mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

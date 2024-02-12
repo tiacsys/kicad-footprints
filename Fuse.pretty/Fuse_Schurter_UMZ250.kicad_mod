@@ -44,7 +44,7 @@
   (fp_line (start 5.05 -1.5) (end 5.05 1.5) (layer "F.Fab") (width 0.1) (tstamp cad1f920-afb6-4984-811d-a4cf0de67657))
   (pad "1" smd roundrect (at -4.25 0) (size 3 4.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.125) (tstamp bf458675-461e-4478-a7b5-4972e055e0dc))
   (pad "2" smd roundrect (at 4.25 0) (size 3 4.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.125) (tstamp 7284452d-3216-4621-af4d-97c824ae719f))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Schurter_UMZ250.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Schurter_UMZ250.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

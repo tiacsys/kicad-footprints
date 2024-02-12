@@ -24,7 +24,7 @@
   (fp_line (start -0.75 -0.25) (end 0.75 -0.25) (layer "F.Fab") (width 0.15) (tstamp e949be17-9999-41e2-a72b-bf21bc7b3a69))
   (fp_circle (center 0 0) (end 1.25 0) (layer "F.Fab") (width 0.15) (fill none) (tstamp dd962169-4778-4239-b7ef-f12bbeac5bc4))
   (pad "1" thru_hole circle (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 2eea8f1e-26a0-45ff-b675-89cc314d7f6a))
-  (model "${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5000-5004_Miniature.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5000-5004_Miniature.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

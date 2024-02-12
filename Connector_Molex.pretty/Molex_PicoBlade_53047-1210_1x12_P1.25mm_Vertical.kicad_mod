@@ -58,7 +58,7 @@
   (pad "10" thru_hole oval (at 11.25 0) (size 0.8 1.3) (drill 0.5) (layers *.Cu *.Mask) (tstamp aa5a73ff-03cf-4db3-a0ab-511cfb2b2b51))
   (pad "11" thru_hole oval (at 12.5 0) (size 0.8 1.3) (drill 0.5) (layers *.Cu *.Mask) (tstamp 204ea5a7-7ce6-4120-81e0-6473a166f49c))
   (pad "12" thru_hole oval (at 13.75 0) (size 0.8 1.3) (drill 0.5) (layers *.Cu *.Mask) (tstamp 6e526b97-9f61-47d4-9233-995e8389a695))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53047-1210_1x12_P1.25mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53047-1210_1x12_P1.25mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

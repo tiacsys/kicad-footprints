@@ -74,7 +74,7 @@
   (pad "1" smd rect (at 7.6 0) (size 2.5 5.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 62584a88-748b-4949-b238-cc4e3f02c456))
   (pad "1" smd rect (at -7.6 0) (size 2.5 5.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d2313279-6c73-4c17-9049-74cf3a87dd3c))
   (pad "2" smd circle (at 0 0) (size 10.2 10.2) (layers "F.Cu" "F.Mask") (tstamp fc5f2843-037d-4ed3-b475-9a273dfaa49c))
-  (model "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_LINX_BAT-HLD-012-SMT.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_LINX_BAT-HLD-012-SMT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

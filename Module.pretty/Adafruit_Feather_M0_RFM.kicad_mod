@@ -101,7 +101,7 @@
   (pad "30" thru_hole oval (at 11.43 43.18 90) (size 2.6 1.6) (drill 1 (offset 0.3 0)) (layers "*.Cu" "*.Mask") (tstamp 3e5feca9-4fc0-431a-a76a-76c6874304c5))
   (pad "31" thru_hole oval (at 13.97 43.18 90) (size 2.6 1.6) (drill 1 (offset 0.3 0)) (layers "*.Cu" "*.Mask") (tstamp 47676594-2bb4-41b0-988c-6a00a0942ac1))
   (pad "32" thru_hole oval (at 16.51 43.18 90) (size 2.6 1.6) (drill 1 (offset 0.3 0)) (layers "*.Cu" "*.Mask") (tstamp 0b0c2129-8d20-4f12-b230-d16419d83d52))
-  (model "${KICAD7_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_M0_RFM.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_M0_RFM.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

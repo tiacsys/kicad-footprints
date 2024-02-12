@@ -70,7 +70,7 @@
   (pad "13" thru_hole oval (at 30 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask) (tstamp 59eef3bf-d6f1-4583-a5ea-b7eb0891a117))
   (pad "14" thru_hole oval (at 32.5 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask) (tstamp 2c83e107-0404-4297-b62e-8fdae48ad76d))
   (pad "15" thru_hole oval (at 35 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask) (tstamp 72bdee48-bfcd-4c32-8b4f-20c933e6725e))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XA_B15B-XASK-1-A_1x15_P2.50mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XA_B15B-XASK-1-A_1x15_P2.50mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

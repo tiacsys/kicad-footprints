@@ -53,7 +53,7 @@
   (pad "1" thru_hole roundrect (at 0 0) (size 1 1.6) (drill 0.7) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 97cbb157-041f-4e40-835f-1cc546be6034))
   (pad "2" thru_hole oval (at 1.27 0) (size 1 1.6) (drill 0.7) (layers *.Cu *.Mask) (tstamp b8eb13fc-8397-47ed-93a4-90820372ce24))
   (pad "3" thru_hole oval (at 2.54 0) (size 1 1.6) (drill 0.7) (layers *.Cu *.Mask) (tstamp 71f193ca-c0fc-4ab3-818b-eb32865466d9))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Siemens_SFH900.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Siemens_SFH900.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

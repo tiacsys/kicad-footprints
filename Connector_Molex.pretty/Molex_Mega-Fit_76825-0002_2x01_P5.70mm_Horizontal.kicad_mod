@@ -41,7 +41,7 @@
   (pad "" np_thru_hole circle (at 0 -7.3) (size 3 3) (drill 3) (layers *.Cu *.Mask) (tstamp e6613795-ec9f-43a9-a944-38c0d3036f2c))
   (pad "1" thru_hole roundrect (at 0 0) (size 3.7 3.7) (drill 1.8) (layers *.Cu *.Mask) (roundrect_rratio 0.067568) (tstamp dcb52116-0a3d-472a-9399-bab8668f25b9))
   (pad "2" thru_hole circle (at 0 5.5) (size 3.7 3.7) (drill 1.8) (layers *.Cu *.Mask) (tstamp 9b52ffc7-350f-40ad-9b5b-4f03f0acab2a))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

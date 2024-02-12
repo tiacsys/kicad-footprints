@@ -108,7 +108,7 @@
   (pad "20" smd roundrect (at 3.81 8.89) (size 1 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 765632b4-2b36-495a-92bb-dd9cdd3cf1ac))
   (pad "21" smd roundrect (at 5.08 8.89) (size 1 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 7de30360-43ba-44a5-bf2d-103f52d2d883))
   (pad "22" smd roundrect (at 6.35 8.89) (size 1 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 3e7478df-1bca-49ef-a475-fbe21b611c30))
-  (model "${KICAD7_3DMODEL_DIR}/RF_Module.3dshapes/Heltec_HT-CT62.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_Module.3dshapes/Heltec_HT-CT62.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

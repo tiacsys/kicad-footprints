@@ -32,7 +32,7 @@
   (fp_arc (start 4.285 -1.425) (mid 5.71 0) (end 4.285 1.425) (layer "F.Fab") (width 0.1) (tstamp 12724812-f7dc-42b6-9f4b-4dce157ae85a))
   (pad "1" smd rect (at -1.6 0) (size 2.01 2.39) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1e44315d-ab42-4a82-9b92-72ea4cbca16a))
   (pad "2" smd rect (at 1.6 0) (size 2.01 2.39) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 32c1f32a-c97a-4c89-b0d2-581477b12951))
-  (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Dialight_591.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Dialight_591.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

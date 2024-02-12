@@ -56,7 +56,7 @@
   (pad "13" smd rect (at 1.725 -1 270) (size 0.28 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3135c845-81f6-4d8a-bad8-c4f6e1872d78))
   (pad "14" smd rect (at 0.75 -1.725 270) (size 0.85 0.28) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1a442cce-b0da-4f41-a70e-e775b0bf886e))
   (pad "15" smd rect (at 0 0 270) (size 2.05 2.05) (layers "F.Cu" "F.Mask") (tstamp 3fb535a0-1d52-46f8-abee-315622666edd))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N14.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N14.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

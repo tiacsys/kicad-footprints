@@ -72,7 +72,7 @@
   (pad "22" thru_hole oval (at 20 2) (size 1.2 1.65) (drill 0.85) (layers *.Cu *.Mask) (tstamp 2dfecdc6-8c52-4b17-8242-d569fb4887ef))
   (pad "23" thru_hole oval (at 22 0) (size 1.2 1.65) (drill 0.85) (layers *.Cu *.Mask) (tstamp 3ad38292-f219-4956-890c-9fb0e6bab3ff))
   (pad "24" thru_hole oval (at 22 2) (size 1.2 1.65) (drill 0.85) (layers *.Cu *.Mask) (tstamp 737a34f5-ee44-4ead-bf97-c5f96a9bb076))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF11-24DP-2DSA_2x12_P2.00mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF11-24DP-2DSA_2x12_P2.00mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -36,7 +36,7 @@
   (fp_arc (start 0.840735 1.55) (mid 2.54 -2.3) (end 4.239265 1.55) (layer "F.Fab") (width 0.1) (tstamp c08a207c-8443-431e-abfb-010b7e63f845))
   (pad "1" thru_hole rect (at 0 0) (size 1.2 1.7) (drill 0.7) (layers *.Cu *.Mask) (tstamp 84e8581b-d797-4497-9e32-1230521ec71c))
   (pad "2" thru_hole oval (at 5.08 0) (size 1.2 1.7) (drill 0.7) (layers *.Cu *.Mask) (tstamp 577d9b05-43ca-4003-8dcb-c1773b17087e))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/SOD-70_P5.08mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/SOD-70_P5.08mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

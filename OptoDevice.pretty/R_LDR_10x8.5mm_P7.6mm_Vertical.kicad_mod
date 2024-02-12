@@ -43,7 +43,7 @@
   (fp_arc (start 6.8 -4.25) (mid 9.0021 -0.025641) (end 6.841749 4.22022) (layer "F.Fab") (width 0.1) (tstamp abba261a-d826-4ff7-8b84-a481008fba09))
   (pad "1" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp c1f027bb-85af-4f17-9b2e-0dc91591224b))
   (pad "2" thru_hole circle (at 7.6 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 8a07203f-5356-405d-a8a9-a5a962d226bb))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_10x8.5mm_P7.6mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_10x8.5mm_P7.6mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

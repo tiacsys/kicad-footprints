@@ -125,7 +125,7 @@
   (pad "W24" smd circle (at 3.25 1.75 180) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d3768ea9-b792-42e9-a348-9e54ff551f94))
   (pad "Y2" smd circle (at -2.75 2 180) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ec100d47-91e4-41d3-9008-ce149f264590))
   (pad "Y23" smd circle (at 2.75 2 180) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9e20313f-ea23-4d49-b96d-03d013449858))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Nordic_AQFN-73-1EP_7x7mm_P0.5mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Nordic_AQFN-73-1EP_7x7mm_P0.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

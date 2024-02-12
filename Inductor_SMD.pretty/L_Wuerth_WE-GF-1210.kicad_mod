@@ -40,7 +40,7 @@
   (fp_line (start -1.6 -0.5) (end -1.6 0.5) (layer "F.Fab") (width 0.1) (tstamp f7c4eb21-04ac-410f-94ea-f82c908c7a3f))
   (pad "1" smd rect (at -1.4 0) (size 1 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 88dcb4e1-6744-4f92-b4fd-4ff9003d2d79))
   (pad "2" smd rect (at 1.4 0) (size 1 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 69d0a166-47fd-44a2-9dc9-e530fa35cb07))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_WE-GF-1210.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_WE-GF-1210.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

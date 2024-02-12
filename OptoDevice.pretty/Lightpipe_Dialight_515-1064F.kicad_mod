@@ -44,7 +44,7 @@
   (fp_line (start 2.27 20.36) (end -2.95 20.36) (layer "F.Fab") (width 0.1) (tstamp f1204861-bd40-4bf0-a5aa-6679ce26ac41))
   (pad "" np_thru_hole circle (at -2.29 18.87 180) (size 1.6 1.6) (drill 1.6) (layers F&B.Cu) (tstamp 2ec35354-31c7-497b-86f9-5f15c4e4482f))
   (pad "" np_thru_hole circle (at -2.29 5.46 180) (size 1.6 1.6) (drill 1.6) (layers F&B.Cu) (tstamp f223656c-3fc9-41e2-bc09-f22d7a184e01))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Lightpipe_Dialight_515-1064F.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Lightpipe_Dialight_515-1064F.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -28,7 +28,7 @@
   (fp_line (start -3.6775 2.56) (end -3.6775 -2.56) (layer "F.Fab") (width 0.1) (tstamp 82ab5e34-8991-417a-966d-a2e80369ba64))
   (pad "1" smd roundrect (at -3.475 0) (size 2.1 5.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.119048) (tstamp 9136205b-bd47-47f4-95c7-5e40154bc966))
   (pad "2" smd roundrect (at 3.475 0) (size 2.1 5.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.119048) (tstamp de1c7255-6ccf-4591-b231-f09ec1a0f787))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_2920_7451Metric.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuse_2920_7451Metric.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

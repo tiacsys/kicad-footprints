@@ -139,7 +139,7 @@
   (pad "4" thru_hole oval (at 0 7.62) (size 2.2 1.6) (drill 1.2) (layers *.Cu *.Mask) (tstamp 32531f6f-356f-4f09-ace4-0e7fc03bce63))
   (pad "5" thru_hole circle (at 8.7 7.62) (size 2 2) (drill 1.2) (layers *.Cu *.Mask) (tstamp c8d04bad-0ccf-438a-92d1-1798b29b652b))
   (pad "8" thru_hole circle (at 8.7 0) (size 2 2) (drill 1.2) (layers *.Cu *.Mask) (tstamp a78fd5bc-e522-4936-a358-65500fcf45ee))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Broadcom_AFBR-16xxZ_Tilted.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/Broadcom_AFBR-16xxZ_Tilted.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

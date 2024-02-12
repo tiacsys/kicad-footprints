@@ -38,7 +38,7 @@
   (fp_line (start -2.5 0.6) (end -1.5 1.6) (layer "F.Fab") (width 0.1) (tstamp ebedbff9-f781-4a3d-9640-2c6bc97b73a8))
   (pad "1" smd rect (at -2.7625 0) (size 3.325 2.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0dc4d8ad-a95b-4461-b731-1f95ccccdd49))
   (pad "2" smd rect (at 2.7625 0) (size 3.325 2.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bad5a03d-b8dc-4360-a808-5f661ca48c5a))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

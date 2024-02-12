@@ -41,7 +41,7 @@
   (fp_line (start -3.8 3.8) (end -3.8 -3.7) (layer "F.Fab") (width 0.1) (tstamp d4732a05-85cb-47c4-994f-87e8ee9edf4a))
   (pad "1" thru_hole rect (at 0 0) (size 2.54 2.54) (drill 1.6) (layers *.Cu *.Mask) (tstamp 8f52c4f1-95e5-4fb8-b987-5558af5b5ddd))
   (pad "2" thru_hole circle (at 7.62 0) (size 2.54 2.54) (drill 1.6) (layers *.Cu *.Mask) (tstamp 29aafdfd-2ac9-4ac3-959d-03b117ed8ad7))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Wuerth_691311400102_P7.62mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Wuerth_691311400102_P7.62mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

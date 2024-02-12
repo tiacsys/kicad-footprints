@@ -36,7 +36,7 @@
   (pad "1" smd rect (at 0 -1.375 180) (size 1.5 0.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 26cbfe81-8920-4631-bbab-ccc14dd5aa10))
   (pad "2" smd rect (at -0.65 0 180) (size 0.9 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 61f39ef5-d2d6-4420-9e3f-554a7484bac6))
   (pad "3" smd rect (at 0 1.375 180) (size 1.5 0.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ad6a9f07-3ee4-4fe2-9bff-76d7dd4d7c5b))
-  (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_LiteOn_LTST-S326.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_LiteOn_LTST-S326.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

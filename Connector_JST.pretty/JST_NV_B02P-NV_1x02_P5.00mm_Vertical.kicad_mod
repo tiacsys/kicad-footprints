@@ -36,7 +36,7 @@
   (fp_line (start 7.5 -3.7) (end -2.5 -3.7) (layer "F.Fab") (width 0.1) (tstamp f0877d48-bd6f-4641-b272-fc2196bebb26))
   (pad "1" thru_hole roundrect (at 0 0) (size 2.7 2.7) (drill 1.7) (layers *.Cu *.Mask) (roundrect_rratio 0.092593) (tstamp b9ef709f-8f0c-4bc6-ba2e-558b8167c6b0))
   (pad "2" thru_hole circle (at 5 0) (size 2.7 2.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp 24ec01ee-378e-4424-8cff-3afd0379d9bd))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_NV_B02P-NV_1x02_P5.00mm_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_JST.3dshapes/JST_NV_B02P-NV_1x02_P5.00mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

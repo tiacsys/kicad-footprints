@@ -45,7 +45,7 @@
   (pad "6" thru_hole circle (at 4.14 4.14) (size 2.64 2.64) (drill 1.4) (layers *.Cu *.Mask) (tstamp aeb54b03-724b-471d-9bb9-907d2f2c266b))
   (pad "7" thru_hole circle (at 4.14 8.28) (size 2.64 2.64) (drill 1.4) (layers *.Cu *.Mask) (tstamp d44249eb-f07d-46dd-9bc6-c944e5c1cd4e))
   (pad "8" thru_hole circle (at 4.14 12.42) (size 2.64 2.64) (drill 1.4) (layers *.Cu *.Mask) (tstamp d471ea47-d81e-4f29-999c-61fe392567bf))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_MATE-N-LOK_1-770970-x_2x04_P4.14mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_MATE-N-LOK_1-770970-x_2x04_P4.14mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

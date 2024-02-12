@@ -47,7 +47,7 @@
   (pad "8" thru_hole oval (at 7.62 0) (size 2.1 1.9) (drill 1) (layers *.Cu *.Mask) (tstamp 185cc7f9-5b02-42b5-a412-594bd3dbaf2f))
   (pad "C" thru_hole oval (at 7.62 2.54) (size 2.1 1.9) (drill 1) (layers *.Cu *.Mask) (tstamp 0ef122db-905c-4fc4-ab51-2745b7d46069))
   (pad "C" thru_hole oval (at 0 2.54) (size 2.1 1.9) (drill 1) (layers *.Cu *.Mask) (tstamp 192df37d-2e0f-495f-af8b-22054cc6f426))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/Nidec_Copal_SH-7010C.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/Nidec_Copal_SH-7010C.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

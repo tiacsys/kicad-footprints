@@ -61,7 +61,7 @@
   (pad "3" smd roundrect (at 1.27 -1.59 90) (size 1.65 0.76) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 8ccd37af-9d5f-4299-a7bd-54a813ba986d))
   (pad "4" smd roundrect (at 1.27 1.59 90) (size 1.65 0.76) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp f53eca02-b311-457d-846a-b2708a4b6330))
   (pad "6" smd roundrect (at -1.27 1.59 90) (size 1.65 0.76) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 68007076-47a6-48e0-bbce-82b307a9d49f))
-  (model "${KICAD7_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_MiniCircuits_AT224-1A.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_MiniCircuits_AT224-1A.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

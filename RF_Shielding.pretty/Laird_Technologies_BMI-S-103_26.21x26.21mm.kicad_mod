@@ -68,7 +68,7 @@
   (pad "1" smd rect (at -13.005 5.835) (size 1 3.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp deb32c52-2401-4b9f-b411-c341185283c5))
   (pad "1" smd rect (at 0 -13.005) (size 3.47 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f0c83c82-51d5-4a65-8195-89d04fe41d0d))
   (pad "1" smd rect (at 13.005 -11.22) (size 1 2.57) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f697c0df-37fc-4a92-bd81-f0c2b29f59bb))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Laird_Technologies_BMI-S-103_26.21x26.21mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_Shielding.3dshapes/Laird_Technologies_BMI-S-103_26.21x26.21mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

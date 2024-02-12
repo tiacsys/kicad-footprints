@@ -59,7 +59,7 @@
   (pad "2" smd rect (at 1.5 5.12) (size 1.27 2.92) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 03d88a85-11fd-47aa-954c-c318bb15294a))
   (pad "MP" thru_hole circle (at 3.65 -0.35) (size 2.71 2.71) (drill 2.41) (layers *.Cu *.Mask) (tstamp 842e430f-0c35-45f3-a0b5-95ae7b7ae388))
   (pad "MP" thru_hole circle (at -3.65 -0.35) (size 2.71 2.71) (drill 2.41) (layers *.Cu *.Mask) (tstamp 98e81e80-1f85-4152-be3f-99785ea97751))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43650-0210_1x02-1MP_P3.00mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43650-0210_1x02-1MP_P3.00mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

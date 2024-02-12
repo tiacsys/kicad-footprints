@@ -76,7 +76,7 @@
   (pad "14" thru_hole oval (at 21 5.5) (size 2.7 3.7) (drill 1.8) (layers *.Cu *.Mask) (tstamp de870c0e-2ea9-4da0-ab64-eef27ee2fed9))
   (pad "15" thru_hole oval (at 25.2 5.5) (size 2.7 3.7) (drill 1.8) (layers *.Cu *.Mask) (tstamp bb627cb4-1040-4ca0-a6e9-deacce3b3222))
   (pad "16" thru_hole oval (at 29.4 5.5) (size 2.7 3.7) (drill 1.8) (layers *.Cu *.Mask) (tstamp a4113ddc-40fb-4d48-866c-afca90e97ecd))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Mini-Fit_Jr_5569-16A2_2x08_P4.20mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Mini-Fit_Jr_5569-16A2_2x08_P4.20mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

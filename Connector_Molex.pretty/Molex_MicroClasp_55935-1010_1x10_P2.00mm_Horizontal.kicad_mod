@@ -73,7 +73,7 @@
   (pad "8" thru_hole oval (at 14 0) (size 1.2 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp 28f76d14-52db-4db5-8cd8-8d4aafdfc66d))
   (pad "9" thru_hole oval (at 16 0) (size 1.2 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp 9e9714a8-4f11-40d9-abf8-39018130cc12))
   (pad "10" thru_hole oval (at 18 0) (size 1.2 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp b3a0d5c4-c97e-4b14-bb6d-de8c97cf8afc))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_MicroClasp_55935-1010_1x10_P2.00mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_MicroClasp_55935-1010_1x10_P2.00mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -32,7 +32,7 @@
   (fp_line (start 3.99 -2.72) (end 3.99 2.72) (layer "F.Fab") (width 0.1) (tstamp 7fc5f831-e59b-44cd-93b1-a1707d359ff2))
   (pad "1" smd rect (at -3.7 0) (size 2.3 3.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3c3dd7b4-46c5-4f15-886f-ae7eb9b44838))
   (pad "2" smd rect (at 3.7 0) (size 2.3 3.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f15bca7d-e42f-4486-8778-245d3b6c0982))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-SM_7.98x5.44mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-SM_7.98x5.44mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

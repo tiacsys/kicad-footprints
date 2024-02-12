@@ -112,7 +112,7 @@
   (pad "1" thru_hole circle (at -25.25 -7.62) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask) (tstamp e2eea84b-4b7d-4e15-a9df-268e28850c33))
   (pad "1" thru_hole circle (at -25.25 17.78) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask) (tstamp e2fb41ea-bcba-4cca-bb08-5cdbbbf4ae78))
   (pad "1" thru_hole circle (at 17.78 25.25) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask) (tstamp f4a26521-c932-46e1-a28a-14798214f394))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Wuerth_36503505_50x50mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/RF_Shielding.3dshapes/Wuerth_36503505_50x50mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

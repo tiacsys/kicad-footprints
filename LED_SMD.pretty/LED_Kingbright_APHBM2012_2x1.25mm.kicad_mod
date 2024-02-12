@@ -33,7 +33,7 @@
   (pad "2" smd rect (at -0.475 0.9 90) (size 1.2 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c624868f-253b-4a1b-a348-f262800c409e))
   (pad "3" smd rect (at 0.475 0.9 90) (size 1.2 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2190269b-9bdd-43db-b22f-9de122b9c8ae))
   (pad "4" smd rect (at 0.475 -0.9 90) (size 1.2 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fdc2d0d7-1f0a-4bf1-8d0f-0bda6f3a4131))
-  (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Kingbright_APHBM2012_2x1.25mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Kingbright_APHBM2012_2x1.25mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

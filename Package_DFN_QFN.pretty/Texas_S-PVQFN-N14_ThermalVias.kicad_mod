@@ -61,7 +61,7 @@
   (pad "15" smd rect (at 0 0 270) (size 2.05 2.05) (layers "B.Cu") (tstamp 365f6793-da80-42f1-8348-642d6ff72877))
   (pad "15" thru_hole circle (at 0.5 -0.5 270) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 9e73a236-eace-4ad2-b663-4e88bed65413))
   (pad "15" thru_hole circle (at 0.5 0.5 270) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 57696ec4-a3f4-4818-850f-c73d4f3687b5))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N14.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N14.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

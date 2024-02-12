@@ -43,7 +43,7 @@
   (pad "9" thru_hole oval (at 20 0) (size 1.7 1.85) (drill 0.85) (layers *.Cu *.Mask) (tstamp e5a83fe9-c747-4424-9311-2049fcfab2ca))
   (pad "10" thru_hole oval (at 22.5 0) (size 1.7 1.85) (drill 0.85) (layers *.Cu *.Mask) (tstamp 9d78cc36-ee11-4fea-8f47-6c31c63bb1ca))
   (pad "11" thru_hole oval (at 25 0) (size 1.7 1.85) (drill 0.85) (layers *.Cu *.Mask) (tstamp 99064778-310c-4db6-9fe7-be082c66e0e4))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_SPOX_5268-11A_1x11_P2.50mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_SPOX_5268-11A_1x11_P2.50mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

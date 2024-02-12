@@ -34,7 +34,7 @@
   (fp_arc (start 1.5 -2.05) (mid 3.55 0) (end 1.5 2.05) (layer "F.Fab") (width 0.1) (tstamp f088823e-77a3-4ecb-8f69-a25303c90231))
   (pad "1" smd rect (at -2.75 0) (size 3.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ef5652bc-c54b-4b00-a432-ea2874045bfc))
   (pad "2" smd rect (at 2.75 0) (size 3.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1682ca37-29e2-454a-92aa-b64cea3e38d5))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

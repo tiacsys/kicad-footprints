@@ -82,7 +82,7 @@
   (pad "4" smd roundrect (at 5.75 -2.54) (size 1.6 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 04b06816-0179-415b-b89b-7f764237fd62))
   (pad "5" smd roundrect (at 5.75 0) (size 1.6 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 32d541da-c301-437c-8aa6-ffb2523a0d2a))
   (pad "6" smd roundrect (at 5.75 2.54) (size 1.6 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 57a6f86c-ae6a-4a06-944b-7c5b6f93752e))
-  (model "${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Murata_78250JC.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Murata_78250JC.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
