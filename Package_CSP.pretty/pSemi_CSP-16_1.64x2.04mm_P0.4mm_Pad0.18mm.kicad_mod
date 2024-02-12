@@ -3,7 +3,7 @@
   (descr "pSemi CSP-16 1.64x2.04x0.285mm (http://www.psemi.com/pdf/datasheets/pe29101ds.pdf, http://www.psemi.com/pdf/app_notes/an77.pdf)")
   (tags "psemi csp 16")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -2) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 0 -2.4) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 90ccb3e7-8b08-4753-bce4-7b757f0168a8)
   )
@@ -23,6 +23,15 @@
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 63ab3690-815d-4427-aae0-2f1097f43463))
   (fp_line (start 0.93 1.13) (end -0.93 1.13)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp ce923777-31b5-45c1-9cd4-19d817942201))
+  (fp_poly
+    (pts
+      (xy -0.93 -1.12)
+      (xy -1.43 -1.12)
+      (xy -0.93 -1.62)
+      (xy -0.93 -1.12)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp e90ddfd7-c878-482f-ae71-e8d7faa2b85c))
   (fp_line (start -1.07 -1.27) (end -1.07 1.27)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp f1b2e198-ccaa-458e-9637-a2f651509611))
   (fp_line (start 1.07 -1.27) (end -1.07 -1.27)
