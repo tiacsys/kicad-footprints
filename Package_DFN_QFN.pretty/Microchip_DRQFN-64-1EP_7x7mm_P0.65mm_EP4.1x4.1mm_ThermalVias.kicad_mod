@@ -15,10 +15,12 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp bca472c5-a5bb-46e6-b5d0-0846d80cfb27)
   )
+  (fp_line (start -3.61 -3.38) (end -3.61 -2.72)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp b546c376-423b-456b-aa99-737986918914))
   (fp_line (start -3.61 3.61) (end -3.61 2.72)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 80927e72-2c62-4668-bdf8-2348fd5a7c1f))
-  (fp_line (start -3.045 -3.61) (end -3.61 -3.61)
-    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 2955a572-4c8a-4b71-82e3-e1e70729813a))
+  (fp_line (start -3.045 -3.61) (end -3.35 -3.61)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 8b70e136-3b77-454b-9f87-8499d6dd1ab8))
   (fp_line (start -3.045 3.61) (end -3.61 3.61)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 755409c6-a822-4bbc-8df9-c96b40d98be2))
   (fp_line (start 3.045 -3.61) (end 3.61 -3.61)
@@ -29,6 +31,15 @@
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp d3e87fb0-48db-40ef-9092-0ec53103fb18))
   (fp_line (start 3.61 3.61) (end 3.045 3.61)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp b0afbda2-e3c7-4928-8ecd-42b1c71f4ae0))
+  (fp_poly
+    (pts
+      (xy -3.61 -3.61)
+      (xy -3.85 -3.94)
+      (xy -3.37 -3.94)
+      (xy -3.61 -3.61)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 43bb3e41-df84-4ece-b9c6-8c753bd2c461))
   (fp_line (start -4.05 -4.05) (end 4.05 -4.05)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 3060f9e2-c183-4c28-9edb-b6ccdd15b1cf))
   (fp_line (start -4.05 4.05) (end -4.05 -4.05)
@@ -138,7 +149,7 @@
   (pad "EP" thru_hole circle (at 1.74 -0.58) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp afcd18e8-69d8-41f1-b618-55caa76d16f1))
   (pad "EP" thru_hole circle (at 1.74 0.58) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp f9e2fa01-945d-4c46-8769-d9128e9ebb3e))
   (pad "EP" thru_hole circle (at 1.74 1.74) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 9e0cbebe-252a-48e4-b392-bd843d3d04d5))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

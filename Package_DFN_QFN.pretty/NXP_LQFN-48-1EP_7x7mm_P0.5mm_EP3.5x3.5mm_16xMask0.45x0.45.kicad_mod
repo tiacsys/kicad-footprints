@@ -15,12 +15,14 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp d93edef3-54ed-4494-ae36-6d504f8b4c52)
   )
+  (fp_line (start -3.61 -3.37) (end -3.61 -3.15)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 2b12ed97-831f-4f41-a421-c1b456987300))
   (fp_line (start -3.61 3.61) (end -3.61 3.16)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 6366e485-01b9-4496-94a6-5d8e0d6f813c))
-  (fp_line (start -3.16 -3.61) (end -3.61 -3.61)
-    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 31822aa6-9b0d-4b8d-901f-1551b4dd749e))
   (fp_line (start -3.16 3.61) (end -3.61 3.61)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 12c5e74e-ec3d-4876-a48d-ee71d0610fba))
+  (fp_line (start -3.15 -3.61) (end -3.31 -3.61)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 7e4df106-8737-4e20-9b69-b729525ede10))
   (fp_line (start 3.16 -3.61) (end 3.61 -3.61)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 2336358e-46f4-4131-898b-e59afc164146))
   (fp_line (start 3.16 3.61) (end 3.61 3.61)
@@ -29,6 +31,15 @@
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 23f991b0-9fb2-49cf-bce1-bab2e041e3c6))
   (fp_line (start 3.61 3.61) (end 3.61 3.16)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 0b7962d0-9fc5-483a-a681-dcaaebc091c2))
+  (fp_poly
+    (pts
+      (xy -3.61 -3.61)
+      (xy -3.85 -3.94)
+      (xy -3.37 -3.94)
+      (xy -3.61 -3.61)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp e35ec781-b836-48e8-93ee-f0606a0dd73d))
   (fp_line (start -4.12 -4.12) (end -4.12 4.12)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp b6bc0937-a93e-47db-9aea-d93d1cbe887a))
   (fp_line (start -4.12 4.12) (end 4.12 4.12)
@@ -112,7 +123,7 @@
   (pad "47" smd roundrect (at -2.25 -3.375) (size 0.27 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 19c71c27-4e92-4957-b567-a84b25d2e554))
   (pad "48" smd roundrect (at -2.75 -3.375) (size 0.27 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9eade143-1be3-426a-8cde-8e2ee867267b))
   (pad "49" smd rect (at 0 0) (size 3.5 3.5) (layers "F.Cu") (tstamp 981ccee5-a4db-419c-842a-a91241f23f51))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

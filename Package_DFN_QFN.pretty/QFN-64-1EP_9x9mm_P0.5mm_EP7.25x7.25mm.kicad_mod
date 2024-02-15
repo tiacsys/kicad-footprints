@@ -15,12 +15,14 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 7ef18256-c723-4356-9b41-d390a9ffd30c)
   )
-  (fp_line (start -4.62 -4.62) (end -4.2 -4.62)
-    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp bc296910-bf9f-4362-ae8d-30897056993c))
+  (fp_line (start -4.62 -4.16) (end -4.62 -4.38)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp df95646a-b732-4849-b0ca-df08b365d26d))
   (fp_line (start -4.62 4.62) (end -4.62 4.2)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 840292d3-122e-4120-9463-187b536f3355))
   (fp_line (start -4.62 4.62) (end -4.2 4.62)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 24bb9304-2131-42ba-8b14-6944e410910d))
+  (fp_line (start -4.16 -4.62) (end -4.32 -4.62)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 3d3effd8-95a1-4c51-94c6-fdc7dcc9050d))
   (fp_line (start 4.62 -4.62) (end 4.2 -4.62)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp ae0a81fb-4d66-4441-8f2a-b35a4396f4a2))
   (fp_line (start 4.62 -4.62) (end 4.62 -4.2)
@@ -29,6 +31,15 @@
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 49267ad8-6612-44be-a3ff-4c6d55f944dc))
   (fp_line (start 4.62 4.62) (end 4.62 4.2)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 5d45840f-481e-4365-8631-2f2de85d9e95))
+  (fp_poly
+    (pts
+      (xy -4.62 -4.62)
+      (xy -4.86 -4.95)
+      (xy -4.38 -4.95)
+      (xy -4.62 -4.62)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 8e63e1dc-242d-4fa0-87bb-627dfa923dc5))
   (fp_line (start -5.15 -5.15) (end -5.15 5.15)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp be32ceb6-3423-4db8-9333-5701f8bc8747))
   (fp_line (start -5.15 -5.15) (end 5.15 -5.15)
@@ -137,7 +148,7 @@
   (pad "63" smd oval (at -3.25 -4.5 90) (size 0.8 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6886e6ce-d33a-4df0-bec7-4ebb95011d24))
   (pad "64" smd oval (at -3.75 -4.5 90) (size 0.8 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 32b139ab-9569-476a-a359-1e3cf0ba2261))
   (pad "65" smd rect (at 0 0) (size 7.25 7.25) (layers "F.Cu" "F.Mask") (tstamp 91e58994-b963-4adb-bb95-c6475d3a904a))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -15,14 +15,23 @@
       (effects (font (size 0.7 0.7) (thickness 0.11)))
     (tstamp e9432722-33ef-48ab-a27d-e694982f22f0)
   )
-  (fp_line (start -1.14 1.14) (end -0.57 1.71)
-    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp ba6b0b71-1ae7-4fa3-9616-07283d46cbfb))
-  (fp_line (start -0.57 -1.7) (end -1.13 -1.14)
-    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp bd8873f7-0381-4399-bcc6-b8fce04ad9b3))
+  (fp_line (start -1.7 -0.57) (end -0.57 -1.7)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp a08f93da-61a9-431b-8040-9f2e8ff0d393))
+  (fp_line (start -0.57 1.7) (end -1.7 0.57)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 88e27b5a-4838-4bad-91f7-ef1977b57ff4))
   (fp_line (start 0.57 1.7) (end 1.7 0.57)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 0cba745e-f624-4f7f-a6e0-af31d60e4740))
   (fp_line (start 1.7 -0.57) (end 0.57 -1.7)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 67d61534-b337-4806-9f28-b0d8954ee87f))
+  (fp_poly
+    (pts
+      (xy -2.1 -0.57)
+      (xy -2.34 -0.9)
+      (xy -1.86 -0.9)
+      (xy -2.1 -0.57)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp c20dcfb7-0cf1-4d92-ac18-6d3fcc58f3d4))
   (fp_line (start -2.61 -0.32) (end -2.61 0.32)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 0590cad2-02bb-4b82-9375-4a6ef7500aa9))
   (fp_line (start -2.61 -0.32) (end -0.32 -2.61)
@@ -53,7 +62,7 @@
   (pad "2" smd roundrect (at 0 1.585) (size 0.61 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 98d063da-9262-42a5-86ee-4405588cd72a))
   (pad "3" smd roundrect (at 1.585 0) (size 1.55 0.61) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c9afe26d-14e1-42c0-859b-f646f22f0fc8))
   (pad "4" smd roundrect (at 0 -1.585) (size 0.61 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c818ea11-0e79-4aa9-8e42-da3e80c304cf))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Mini-Circuits_FG873-4_3x3mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Mini-Circuits_FG873-4_3x3mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
