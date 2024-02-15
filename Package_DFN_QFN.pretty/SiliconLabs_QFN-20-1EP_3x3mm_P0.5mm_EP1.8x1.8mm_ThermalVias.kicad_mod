@@ -12,13 +12,15 @@
     (tstamp 687b67ca-f06c-4c13-93b9-3488e824b7e4)
   )
   (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
-      (effects (font (size 0.65 0.65) (thickness 0.125)))
+      (effects (font (size 0.7 0.7) (thickness 0.105)))
     (tstamp 1bf739e0-7128-4291-81b8-8f178a279d98)
   )
-  (fp_line (start -1.66 -1.66) (end -1.16 -1.66)
-    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp a627dc5e-09c7-4941-a197-5898bd36e7b5))
+  (fp_line (start -1.66 -1.16) (end -1.66 -1.41)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 62474b72-866a-4f44-8874-5cd65c94e258))
   (fp_line (start -1.66 1.66) (end -1.66 1.16)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp ef7e1894-933c-4c2e-baa8-e6b98143e33c))
+  (fp_line (start -1.16 -1.66) (end -1.36 -1.66)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp cad8e440-4d51-4294-a0ce-5c29dcd24634))
   (fp_line (start -1.16 1.66) (end -1.66 1.66)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 3e1df6ae-a148-4ca1-9254-4631a8bb074c))
   (fp_line (start 1.16 -1.66) (end 1.66 -1.66)
@@ -29,6 +31,15 @@
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 1c38baf2-ef5c-4757-bc69-f28abe819e77))
   (fp_line (start 1.66 1.66) (end 1.66 1.16)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 21c3b18d-2814-4891-980d-680a86341daa))
+  (fp_poly
+    (pts
+      (xy -1.66 -1.66)
+      (xy -1.9 -1.99)
+      (xy -1.42 -1.99)
+      (xy -1.66 -1.66)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp c5ff76f5-4206-4005-b419-ce66924e9418))
   (fp_line (start -2.25 -2.25) (end -2.25 2.25)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 8f8bfd45-dcb0-495c-be85-7d495dd8c480))
   (fp_line (start -2.25 2.25) (end 2.25 2.25)
@@ -78,7 +89,7 @@
   (pad "21" smd rect (at 0 0) (size 2.8 2.8) (layers "B.Cu") (tstamp 4403add3-3422-43d9-bdaa-cae7e2cbd53a))
   (pad "21" thru_hole circle (at 0 0.45) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 586c5037-6604-46bd-a749-11cd5395aa3b))
   (pad "21" thru_hole circle (at 0.45 0) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 256636cb-12fb-4ae0-955d-5fe8b9e578b4))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

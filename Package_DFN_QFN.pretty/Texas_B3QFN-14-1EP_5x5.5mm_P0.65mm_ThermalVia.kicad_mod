@@ -15,10 +15,19 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9c44a9f8-5e80-415e-a169-ab24330bf3c8)
   )
-  (fp_line (start 2.5 -2.85) (end 0 -2.85)
+  (fp_line (start 2.5 -2.85) (end -2.5 -2.85)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 6f9af44b-c750-430b-a28e-d0e7d20c267c))
   (fp_line (start 2.5 2.85) (end -2.5 2.85)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp e7c7eb18-ed4b-43de-b138-d639a08e70a1))
+  (fp_poly
+    (pts
+      (xy -2.88 -2.57)
+      (xy -3.16 -2.57)
+      (xy -2.88 -2.85)
+      (xy -2.88 -2.57)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 666fe413-53d2-48ad-afd3-0b7d6c628d6a))
   (fp_line (start -2.95 -3) (end 2.95 -3)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp b1881f6f-119d-4eaf-97f9-8eaad1bc1b26))
   (fp_line (start -2.95 3) (end -2.95 -3)
@@ -110,7 +119,7 @@
     (zone_connect 1) (tstamp bb874f1d-15c4-4e48-9073-2a2e471dec10))
   (pad "15" thru_hole circle (at 0.95 0.95) (size 0.5 0.5) (drill 0.2) (layers "*.Cu" "*.Mask")
     (zone_connect 1) (tstamp 5524ad14-ca1f-4b2f-8456-6d04754d69ec))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
