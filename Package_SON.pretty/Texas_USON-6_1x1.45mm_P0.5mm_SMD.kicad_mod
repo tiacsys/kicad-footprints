@@ -5,7 +5,7 @@
   (solder_mask_margin -0.05)
   (solder_paste_margin -0.05)
   (attr smd)
-  (fp_text reference "REF**" (at 0 -1.68) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 0 -2) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5a4e910c-73f1-4a23-a935-2e685290d026)
   )
@@ -19,8 +19,17 @@
   )
   (fp_line (start -0.5 0.835) (end 0.5 0.835)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 6274b2a9-b25a-4767-a32c-6bbf86ab07b0))
-  (fp_line (start 0 -0.835) (end 0.5 -0.835)
-    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 077b950c-3345-45eb-b801-0a6aa0c6de98))
+  (fp_line (start -0.31 -0.835) (end 0.5 -0.835)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp a7f16891-8b25-401b-993b-f92474d8e9d0))
+  (fp_poly
+    (pts
+      (xy -0.63 -0.83)
+      (xy -0.91 -0.83)
+      (xy -0.63 -1.11)
+      (xy -0.63 -0.83)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 836b7872-b911-464c-abce-20769e980432))
   (fp_line (start -0.75 -0.98) (end -0.75 0.98)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 31b00207-205a-49b7-b375-2894f34cb163))
   (fp_line (start -0.75 0.98) (end 0.75 0.98)
