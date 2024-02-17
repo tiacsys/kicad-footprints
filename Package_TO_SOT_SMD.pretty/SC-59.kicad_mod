@@ -15,7 +15,7 @@
       (effects (font (size 0.5 0.5) (thickness 0.075)))
     (tstamp 3eda4adb-ac7a-4ffb-9247-4a2e0cd5d2fd)
   )
-  (fp_line (start -1.45 -1.65) (end 0.95 -1.65)
+  (fp_line (start -0.91 -1.65) (end 0.95 -1.65)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 66e05ed8-f151-45c1-bd75-ec677e3a9952))
   (fp_line (start -0.85 1.65) (end 0.95 1.65)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp af607419-5aee-4f34-9d95-f0bcf29dbdae))
@@ -23,6 +23,15 @@
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 4f989b98-befa-4612-be8c-b6296363376e))
   (fp_line (start 0.95 1.65) (end 0.95 0.6)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 568e5614-7943-466d-bb88-2b67a11c5753))
+  (fp_poly
+    (pts
+      (xy -1.36 -1.611676)
+      (xy -1.12 -1.941676)
+      (xy -1.6 -1.941676)
+      (xy -1.36 -1.611676)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 59019222-41cb-4fe4-9a92-ce891f28ddb1))
   (fp_line (start -1.9 -1.8) (end -1.9 1.8)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp fbc18cdd-54e8-40d2-96df-53b4e8fbb211))
   (fp_line (start -1.9 -1.8) (end 1.9 -1.8)
@@ -41,9 +50,9 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 670f55d9-9bfb-4dfe-b0d1-86438e5ffd96))
   (fp_line (start 0.85 -1.52) (end 0.85 1.52)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp f4199d64-3af1-4106-8187-4e910e05c4e8))
-  (pad "1" smd rect (at -1.2 -0.95) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 19ff62da-f6ff-4106-8ef1-d3ebdf2e8e81))
-  (pad "2" smd rect (at -1.2 0.95) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 54b24a48-7c5f-44af-93fd-4ed2ed2e6c20))
-  (pad "3" smd rect (at 1.2 0) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c383b538-76b7-4f79-af62-a7b3f593f0a9))
+  (pad "1" smd roundrect (at -1.2 -0.95) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 19ff62da-f6ff-4106-8ef1-d3ebdf2e8e81))
+  (pad "2" smd roundrect (at -1.2 0.95) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 54b24a48-7c5f-44af-93fd-4ed2ed2e6c20))
+  (pad "3" smd roundrect (at 1.2 0) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c383b538-76b7-4f79-af62-a7b3f593f0a9))
   (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SC-59.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
