@@ -56,7 +56,7 @@
   (pad "4" smd roundrect (at 0.95 1.1) (size 0.5 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 5751e86d-0759-41a1-8796-c1526692faa5))
   (pad "5" smd roundrect (at 0 1.1) (size 0.5 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 23bdb1ac-2fdb-458d-8821-3b8ef0cbd056))
   (pad "6" smd roundrect (at -0.95 1.1) (size 0.5 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp bc8c6a30-a164-4816-937b-0d49ab4ff9c7))
-  (model "${KICAD7_3DMODEL_DIR}/Package_SO.3dshapes/ROHM_SOT-457_ClockwisePinNumbering.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/ROHM_SOT-457_ClockwisePinNumbering.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
