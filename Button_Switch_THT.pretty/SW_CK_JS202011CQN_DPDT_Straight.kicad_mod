@@ -57,9 +57,9 @@
   (pad "1" thru_hole roundrect (at 0 0) (size 1.4 1.4) (drill 0.9) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.1785714286) (tstamp 73421228-c812-4927-8661-e333dac21414))
   (pad "2" thru_hole circle (at 2.5 0) (size 1.4 1.4) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 02f1c38d-7236-4518-a78b-d3d327841222))
   (pad "3" thru_hole circle (at 5 0) (size 1.4 1.4) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 5abf7ffb-b382-4ef2-a28a-f23ad19d712b))
-  (pad "4" thru_hole circle (at 0 3.3) (size 1.4 1.4) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 0b620c60-32bc-4aa5-abff-eff99cecee76))
+  (pad "4" thru_hole circle (at 5 3.3) (size 1.4 1.4) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 0b620c60-32bc-4aa5-abff-eff99cecee76))
   (pad "5" thru_hole circle (at 2.5 3.3) (size 1.4 1.4) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 6c3726b5-0abc-48f4-8827-ed5b58320f39))
-  (pad "6" thru_hole circle (at 5 3.3) (size 1.4 1.4) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 80d923ad-b5ae-4c95-8b6b-4a18add45a1a))
+  (pad "6" thru_hole circle (at 0 3.3) (size 1.4 1.4) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 80d923ad-b5ae-4c95-8b6b-4a18add45a1a))
   (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_CK_JS202011CQN_DPDT_Straight.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
