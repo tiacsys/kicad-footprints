@@ -29,7 +29,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "Symbol_CC-Attribution_CopperTop_Big"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -65,7 +65,7 @@
 			)
 		)
 	)
-	(attr exclude_from_pos_files exclude_from_bom)
+	(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 	(fp_rect
 		(start -1.6 0.4)
 		(end 1.6 0.8)

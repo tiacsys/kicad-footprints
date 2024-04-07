@@ -29,7 +29,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "Polarity_Center_Positive_6mm_SilkScreen"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -65,7 +65,7 @@
 			)
 		)
 	)
-	(attr exclude_from_pos_files exclude_from_bom)
+	(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 	(fp_poly
 		(pts
 			(xy -7.53198 0.301782) (xy -10.549802 0.301782) (xy -10.549802 -0.301782) (xy -7.53198 -0.301782)

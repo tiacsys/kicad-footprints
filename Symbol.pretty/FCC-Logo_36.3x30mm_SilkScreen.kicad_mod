@@ -29,7 +29,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "FCC-Logo_36.3x30mm_SilkScreen"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -65,7 +65,7 @@
 			)
 		)
 	)
-	(attr exclude_from_pos_files exclude_from_bom)
+	(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 	(fp_poly
 		(pts
 			(xy 6.844435 -8.396113) (xy 7.82277 -8.233585) (xy 8.753536 -7.957071) (xy 9.649547 -7.561957) (xy 10.52362 -7.043633)

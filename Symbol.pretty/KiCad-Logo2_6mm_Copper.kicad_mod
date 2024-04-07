@@ -29,7 +29,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "KiCad-Logo2_6mm_Copper"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -65,7 +65,7 @@
 			)
 		)
 	)
-	(attr exclude_from_pos_files exclude_from_bom)
+	(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 	(fp_poly
 		(pts
 			(xy 4.200322 3.642069) (xy 4.224035 3.656839) (xy 4.250686 3.678419) (xy 4.250686 3.999965) (xy 4.250601 4.094022)

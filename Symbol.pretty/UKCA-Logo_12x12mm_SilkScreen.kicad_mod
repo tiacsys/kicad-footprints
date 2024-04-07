@@ -29,7 +29,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "UKCA-Logo_12x12mm_SilkScreen"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -65,7 +65,7 @@
 			)
 		)
 	)
-	(attr exclude_from_pos_files exclude_from_bom)
+	(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 	(fp_poly
 		(pts
 			(xy 1.778 -4.021407) (xy 3.008226 -5.005787) (xy 4.238452 -5.990166) (xy 5.126142 -5.990166) (xy 5.314916 -5.989801)

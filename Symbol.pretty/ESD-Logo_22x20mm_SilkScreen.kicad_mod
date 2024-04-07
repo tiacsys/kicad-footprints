@@ -29,7 +29,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "ESD-Logo_22x20mm_SilkScreen"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -65,7 +65,7 @@
 			)
 		)
 	)
-	(attr exclude_from_pos_files exclude_from_bom)
+	(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 	(fp_poly
 		(pts
 			(xy 6.652135 0.785256) (xy 6.690223 0.849095) (xy 6.775837 0.995451) (xy 6.904741 1.217011) (xy 7.072704 1.506464)

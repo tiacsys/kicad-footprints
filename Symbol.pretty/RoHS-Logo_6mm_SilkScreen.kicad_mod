@@ -29,7 +29,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "RoHS-Logo_6mm_SilkScreen"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -65,7 +65,7 @@
 			)
 		)
 	)
-	(attr exclude_from_pos_files exclude_from_bom)
+	(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 	(fp_poly
 		(pts
 			(xy 1.42875 -0.612321) (xy 3.673928 -0.612321) (xy 3.673928 -2.880179) (xy 4.853214 -2.880179) (xy 4.853214 2.880179)

@@ -29,7 +29,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "OSHW-Symbol_33.5x30mm_Copper"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -65,7 +65,7 @@
 			)
 		)
 	)
-	(attr exclude_from_pos_files exclude_from_bom)
+	(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 	(fp_poly
 		(pts
 			(xy 2.799507 -12.7484) (xy 3.221691 -10.508932) (xy 4.779491 -9.866755) (xy 6.337291 -9.224579) (xy 8.206132 -10.495377)

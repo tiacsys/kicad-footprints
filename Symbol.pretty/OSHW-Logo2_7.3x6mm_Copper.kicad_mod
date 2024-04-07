@@ -29,7 +29,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "OSHW-Logo2_7.3x6mm_Copper"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -65,7 +65,7 @@
 			)
 		)
 	)
-	(attr exclude_from_pos_files exclude_from_bom)
+	(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 	(fp_poly
 		(pts
 			(xy 2.6526 1.958752) (xy 2.669948 1.966334) (xy 2.711356 1.999128) (xy 2.746765 2.046547) (xy 2.768664 2.097151)

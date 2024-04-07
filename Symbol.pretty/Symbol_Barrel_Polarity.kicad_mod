@@ -28,7 +28,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "Symbol_Barrel_Polarity"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -64,7 +64,7 @@
 			)
 		)
 	)
-	(attr exclude_from_pos_files exclude_from_bom)
+	(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 	(fp_line
 		(start -2 0.075)
 		(end -1.1 0.075)

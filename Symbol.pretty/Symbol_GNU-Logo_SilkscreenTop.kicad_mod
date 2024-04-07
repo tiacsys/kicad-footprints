@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "Symbol_GNU-Logo_SilkscreenTop"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -63,7 +63,7 @@
 			)
 		)
 	)
-	(attr exclude_from_pos_files exclude_from_bom)
+	(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 	(fp_line
 		(start -6.4008 5.84962)
 		(end -6.4008 6.2992)

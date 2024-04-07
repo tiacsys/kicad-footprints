@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "Symbol_GNU-GPL_CopperTop_Small"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -63,7 +63,7 @@
 			)
 		)
 	)
-	(attr exclude_from_pos_files exclude_from_bom)
+	(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 	(fp_line
 		(start -4.064 -3.048)
 		(end 4.064 -3.048)

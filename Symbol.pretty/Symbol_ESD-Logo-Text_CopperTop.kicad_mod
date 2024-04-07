@@ -25,7 +25,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "Symbol_ESD-Logo-Text_CopperTop"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -61,7 +61,7 @@
 			)
 		)
 	)
-	(attr exclude_from_pos_files exclude_from_bom)
+	(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 	(fp_line
 		(start -6.79958 7.37108)
 		(end -6.2103 7.37108)
