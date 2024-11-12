@@ -3,10 +3,10 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "Harwin Gecko Connector, 50 pins, dual row male, vertical entry, no latches, PN:G125-MVX5005L0X")
+	(descr "Harwin Gecko Connector, 50 pins, dual row male, vertical entry, no latches, PN:G125-MVX5005L0X, https://content.harwin.com/m/62fd8add13144f50/original/DRG-00182-Technical-Drawing-Datasheet-G125-MVXXX05LXP-pdf.pdf")
 	(tags "connector harwin gecko")
 	(property "Reference" "REF**"
-		(at 15 3.5 0)
+		(at 15 -4.45 0)
 		(layer "F.SilkS")
 		(uuid "9c8d9100-59da-4b8b-bb0a-ed72d7c413bd")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "Harwin_Gecko-G125-MVX5005L0X_2x25_P1.25mm_Vertical"
-		(at 15 -4.3 0)
+		(at 15 3.35 0)
 		(layer "F.Fab")
 		(uuid "679f1351-db5f-4c69-9c0c-880e29e1d98d")
 		(effects
@@ -119,33 +119,13 @@
 	)
 	(fp_line
 		(start -1.15 1.825)
-		(end 31.15 1.825)
+		(end -0.3 1.825)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "ff3e34a9-3f3d-47b5-bb51-b92fd1843c50")
-	)
-	(fp_line
-		(start -0.9 -2.125)
-		(end -0.9 -2.125)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "69ce8934-f346-4950-861e-47b3e322f873")
-	)
-	(fp_line
-		(start -0.9 0.875)
-		(end -0.9 0.875)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "655e21cf-36ed-4e56-80ac-44ab0de3530b")
+		(uuid "569bd2ce-2ef4-45f8-adeb-a82e1dea1b8f")
 	)
 	(fp_line
 		(start -0.9 1.175)
@@ -176,6 +156,16 @@
 		)
 		(layer "F.SilkS")
 		(uuid "5e218874-d131-4cae-a5a4-257c791db378")
+	)
+	(fp_line
+		(start 0.3 1.825)
+		(end 31.15 1.825)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6bf18b57-b335-46d7-a288-d93b89bc608b")
 	)
 	(fp_line
 		(start 0.35 1.125)
@@ -256,26 +246,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "5c5170a3-eeea-4ec8-94e2-3dfb277b25ec")
-	)
-	(fp_line
-		(start 30.9 -2.125)
-		(end 30.9 -2.125)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "1eab86da-5dd2-404c-bdc0-c3ec3a663455")
-	)
-	(fp_line
-		(start 30.9 0.875)
-		(end 30.9 0.875)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "a4e056e9-a65a-4577-a2b1-d9a0447e5dd7")
 	)
 	(fp_line
 		(start 30.9 1.175)
@@ -415,36 +385,37 @@
 		(layer "F.SilkS")
 		(uuid "a17f4e78-c37d-41d8-9d5d-ab4b0af021cb")
 	)
-	(fp_circle
-		(center -2.25 1.5)
-		(end -2 1.5)
+	(fp_poly
+		(pts
+			(xy 0 1.83) (xy -0.34 2.3) (xy 0.34 2.3) (xy 0 1.83)
+		)
 		(stroke
-			(width 0.15)
+			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill solid)
 		(layer "F.SilkS")
-		(uuid "99a7bbee-d701-4f8c-a12f-10f642fa2df6")
+		(uuid "5b01f640-0764-4d83-b18d-42495d6208b5")
 	)
 	(fp_line
 		(start -2.4 -3.58)
-		(end -2.4 -2.58)
+		(end -2.4 2.33)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "67495a8e-0aee-4dc6-ac3b-1db5c4714546")
+		(uuid "f3ad99d1-ee81-4c9e-af6e-8ebc7f39daf9")
 	)
 	(fp_line
-		(start -2.4 -2.58)
-		(end 32.4 -2.58)
+		(start -2.4 2.33)
+		(end 32.4 2.33)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "4952323e-c708-4abd-b5f6-5cf81e94ff7a")
+		(uuid "304b9048-cf32-4dea-ad50-3d9127fde9c3")
 	)
 	(fp_line
 		(start 32.4 -3.58)
@@ -457,8 +428,8 @@
 		(uuid "028fe63f-2fc3-4d7f-aaca-6c5ddf733a73")
 	)
 	(fp_line
-		(start 32.4 -2.58)
-		(end 32.4 -3.58)
+		(start 32.4 -3.58)
+		(end 32.4 2.33)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -527,26 +498,6 @@
 		(uuid "05f2c1fd-7d19-4b57-8dc2-050a8012767f")
 	)
 	(fp_line
-		(start -0.9 -2.125)
-		(end -0.9 -2.125)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "51ffb314-9a5e-4e3b-8cb4-56629b6e7e08")
-	)
-	(fp_line
-		(start -0.9 0.875)
-		(end -0.9 0.875)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "6adcbf56-6024-4b16-b466-5696677c2c1c")
-	)
-	(fp_line
 		(start -0.9 1.175)
 		(end -0.9 0.875)
 		(stroke
@@ -577,18 +528,8 @@
 		(uuid "79beb472-bcc6-4bfc-8c34-42163e6b32a8")
 	)
 	(fp_line
-		(start -0.3 0.85)
-		(end 0.3 0.85)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "30a65417-3352-4320-873d-01c6dd2e0c9b")
-	)
-	(fp_line
-		(start 0 0.25)
-		(end -0.3 0.85)
+		(start 0 0.825)
+		(end -0.3 1.425)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -597,8 +538,8 @@
 		(uuid "8eeccd1d-c285-42d6-a668-4a4179d8b537")
 	)
 	(fp_line
-		(start 0.3 0.85)
-		(end 0 0.25)
+		(start 0.3 1.425)
+		(end 0 0.825)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -685,26 +626,6 @@
 		)
 		(layer "F.Fab")
 		(uuid "248ec5dc-066f-4065-b751-d2f1b224c703")
-	)
-	(fp_line
-		(start 30.9 -2.125)
-		(end 30.9 -2.125)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "ca9f3ae8-c118-479b-8309-d226a7a45ccd")
-	)
-	(fp_line
-		(start 30.9 0.875)
-		(end 30.9 0.875)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "9e2fbd99-d945-4dc0-a1ad-22f136b23edb")
 	)
 	(fp_line
 		(start 30.9 1.175)
@@ -845,7 +766,7 @@
 		(uuid "346c1ffc-4e85-436b-82b8-e231758a5270")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 15 0 0)
+		(at 15 -0.625 0)
 		(layer "F.Fab")
 		(uuid "9fb98728-16c0-4622-9986-00c66008e3a1")
 		(effects
@@ -855,21 +776,21 @@
 			)
 		)
 	)
-	(pad "1" thru_hole circle
-		(at 1.25 0)
-		(size 0.95 0.95)
-		(drill 0.55)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "cea673d9-ae10-4107-bb0d-2b97d30ac482")
-	)
-	(pad "2" thru_hole rect
+	(pad "1" thru_hole rect
 		(at 0 0)
 		(size 0.95 0.95)
 		(drill 0.55)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "8eb4d634-41b0-4472-be66-4f59bc0ecd5d")
+	)
+	(pad "2" thru_hole circle
+		(at 1.25 0)
+		(size 0.95 0.95)
+		(drill 0.55)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cea673d9-ae10-4107-bb0d-2b97d30ac482")
 	)
 	(pad "3" thru_hole circle
 		(at 2.5 0)
