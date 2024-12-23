@@ -606,7 +606,7 @@
 	(zone
 		(net 0)
 		(net_name "")
-		(layer "F.Cu")
+		(layers "*.Cu")
 		(uuid "c70080ab-c79a-4d0c-9406-556c2a521b53")
 		(hatch full 0.5)
 		(connect_pads
