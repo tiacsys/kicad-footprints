@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(descr "SMT (Auto-In/Ultra-Low) Holder for 2032 Cell, 33.2 x 23.9mm, 2mm height above PCB, https://www.keyelco.com/userAssets/file/M65p4.pdf")
-	(tags "Keystone type 1057 coin cell holder")
+	(tags "Keystone type 1057 coin cell holder CR2032")
 	(property "Reference" "REF**"
 		(at -14.1 -4.4 0)
 		(layer "F.SilkS")
@@ -36,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -48,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +62,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -1171,7 +1174,6 @@
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
-		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "481f39ad-7433-4f1e-a6a6-b6493375371d")
 		(effects
