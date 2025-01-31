@@ -1,4 +1,4 @@
-(footprint "TO-220-4_P5.08x2.54mm_StaggerOdd_Lead3.8mm_Vertical"
+(footprint "TO-220-4_P5.08x3.7mm_StaggerOdd_Lead3.8mm_Vertical"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "TO-220-4_P5.08x2.54mm_StaggerOdd_Lead3.8mm_Vertical"
+	(property "Value" "TO-220-4_P5.08x3.7mm_StaggerOdd_Lead3.8mm_Vertical"
 		(at 3.81 2.15 0)
 		(layer "F.Fab")
 		(uuid "b53e2ff3-5ee9-4db6-9ea4-24c00751e960")
@@ -367,7 +367,7 @@
 		(remove_unused_layers no)
 		(uuid "aa4ab3c2-11f1-4924-9b68-79115bab2046")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-4_P5.08x2.54mm_StaggerOdd_Lead3.8mm_Vertical.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-4_P5.08x3.7mm_StaggerOdd_Lead3.8mm_Vertical.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
