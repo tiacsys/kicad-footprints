@@ -223,8 +223,8 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
 		(fill none)
+		(layer "F.Fab")
 	)
 	(fp_circle
 		(center 1.27 0)
@@ -233,8 +233,8 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
 		(fill none)
+		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 1.27 -4.02 0)
@@ -250,15 +250,15 @@
 		(at 0 0)
 		(size 1.6 1.2)
 		(drill 0.7)
-		(remove_unused_layers no)
 		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
 	)
 	(pad "2" thru_hole circle
 		(at 2.54 0)
 		(size 1.2 1.2)
 		(drill 0.7)
-		(remove_unused_layers no)
 		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
 	)
 	(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-52-2_Window.wrl"
 		(offset

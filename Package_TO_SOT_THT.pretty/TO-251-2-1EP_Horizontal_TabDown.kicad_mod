@@ -228,15 +228,15 @@
 		(at 0 0)
 		(size 1.8 1.8)
 		(drill 1.1)
-		(remove_unused_layers no)
 		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
 	)
 	(pad "2" thru_hole circle
 		(at 4.58 0)
 		(size 1.8 1.8)
 		(drill 1.1)
-		(remove_unused_layers no)
 		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
 	)
 	(pad "3" smd rect
 		(at 2.29 -7.433333)

@@ -219,22 +219,22 @@
 		(at 0 0)
 		(size 1.7145 1.8)
 		(drill 1.1)
-		(remove_unused_layers no)
 		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
 	)
 	(pad "2" thru_hole oval
 		(at 2.286 0)
 		(size 1.7145 1.8)
 		(drill 1.1)
-		(remove_unused_layers no)
 		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
 	)
 	(pad "3" thru_hole oval
 		(at 4.572 0)
 		(size 1.7145 1.8)
 		(drill 1.1)
-		(remove_unused_layers no)
 		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
 	)
 	(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/SIPAK_Vertical.wrl"
 		(offset

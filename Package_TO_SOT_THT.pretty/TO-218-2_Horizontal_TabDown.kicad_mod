@@ -212,8 +212,8 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
 		(fill none)
+		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 5.475 -23.45 0)
@@ -235,15 +235,15 @@
 		(at 0 0)
 		(size 2.5 3.5)
 		(drill 1.5)
-		(remove_unused_layers no)
 		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
 	)
 	(pad "2" thru_hole oval
 		(at 10.95 0)
 		(size 2.5 3.5)
 		(drill 1.5)
-		(remove_unused_layers no)
 		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
 	)
 	(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-218-2_Horizontal_TabDown.wrl"
 		(offset

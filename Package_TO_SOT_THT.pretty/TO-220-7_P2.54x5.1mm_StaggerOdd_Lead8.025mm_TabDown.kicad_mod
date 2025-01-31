@@ -5,7 +5,7 @@
 	(descr "TO-220-7, Horizontal, RM 1.27mm, Heptawatt-H, staggered type-1, see https://www.mouser.com/datasheet/2/389/cd00000076-1795191.pdf#page=14, https://www.jedec.org/system/files/docs/TO-220L-01.pdf")
 	(tags "TO-220-7 Horizontal RM 1.27mm Heptawatt-H staggered type-1")
 	(property "Reference" "REF**"
-		(at 3.81 -24.595 0)
+		(at 3.81 -24.645 0)
 		(layer "F.SilkS")
 		(effects
 			(font
@@ -26,7 +26,7 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -1.39 -23.595)
+		(start -1.39 -23.645)
 		(end -1.39 -7.906)
 		(stroke
 			(width 0.12)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -1.39 -23.595)
-		(end 9.01 -23.595)
+		(start -1.39 -23.645)
+		(end 9.01 -23.645)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -116,7 +116,7 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 9.01 -23.595)
+		(start 9.01 -23.645)
 		(end 9.01 -7.906)
 		(stroke
 			(width 0.12)
@@ -125,8 +125,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -1.52 -23.73)
-		(end -1.52 1.16)
+		(start -1.52 -23.78)
+		(end -1.52 1.15)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -134,8 +134,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -1.52 1.16)
-		(end 9.14 1.16)
+		(start -1.52 1.15)
+		(end 9.14 1.15)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -143,8 +143,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 9.14 -23.73)
-		(end -1.52 -23.73)
+		(start 9.14 -23.78)
+		(end -1.52 -23.78)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -152,8 +152,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 9.14 1.16)
-		(end 9.14 -23.73)
+		(start 9.14 1.15)
+		(end 9.14 -23.78)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -161,8 +161,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -1.27 -23.475)
-		(end 8.89 -23.475)
+		(start -1.27 -23.525)
+		(end 8.89 -23.525)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -171,7 +171,7 @@
 	)
 	(fp_line
 		(start -1.27 -17.175)
-		(end -1.27 -23.475)
+		(end -1.27 -23.525)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -260,8 +260,17 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 8.89 -23.475)
+		(start 8.89 -23.525)
 		(end 8.89 -17.175)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+	)
+	(fp_line
+		(start 8.89 -17.175)
+		(end -1.27 -17.175)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -287,8 +296,8 @@
 		(layer "F.Fab")
 	)
 	(fp_circle
-		(center 3.81 -20.675)
-		(end 5.685 -20.675)
+		(center 3.81 -20.725)
+		(end 5.685 -20.725)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -297,7 +306,7 @@
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 3.81 -24.595 0)
+		(at 3.81 -24.645 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -307,7 +316,7 @@
 		)
 	)
 	(pad "" np_thru_hole circle
-		(at 3.81 -20.675)
+		(at 3.81 -20.725)
 		(size 3.5 3.5)
 		(drill 3.5)
 		(layers "*.Cu" "*.Mask")
