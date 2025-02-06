@@ -1,11 +1,11 @@
-(footprint "SOIC-8_5.23x5.23mm_P1.27mm"
+(footprint "SOIC-8_5.3x5.3mm_P1.27mm"
 	(version 20240108)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py")
-	(tags "SOIC SO")
+	(descr "SOIC, 8 Pin (JEITA/EIAJ 08-001-BBA and Atmel/Microchip, 208 mils width, https://www.jeita.or.jp/japanese/standard/book/ED-7311-19/#target/page_no=21, https://ww1.microchip.com/downloads/en/DeviceDoc/20005045C.pdf#page=23, https://ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf#page=162), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+	(tags "SOIC SO P-SOP SOP SOP-8 SO SO-8 8S2 S2AE/F K04-056 CASE-751BE SO8W 8-Pin-SOIC PSA W8-2 W8-4 W8MS-1")
 	(property "Reference" "REF**"
-		(at 0 -3.56 0)
+		(at 0 -3.6 0)
 		(layer "F.SilkS")
 		(effects
 			(font
@@ -14,8 +14,8 @@
 			)
 		)
 	)
-	(property "Value" "SOIC-8_5.23x5.23mm_P1.27mm"
-		(at 0 3.56 0)
+	(property "Value" "SOIC-8_5.3x5.3mm_P1.27mm"
+		(at 0 3.6 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -26,8 +26,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -2.725 -2.725)
-		(end -2.725 -2.465)
+		(start -2.76 -2.76)
+		(end -2.76 -2.49)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -2.725 2.725)
-		(end -2.725 2.465)
+		(start -2.76 2.76)
+		(end -2.76 2.49)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,8 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 0 -2.725)
-		(end -2.725 -2.725)
+		(start 0 -2.76)
+		(end -2.76 -2.76)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -53,8 +53,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 0 -2.725)
-		(end 2.725 -2.725)
+		(start 0 -2.76)
+		(end 2.76 -2.76)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -62,8 +62,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 0 2.725)
-		(end -2.725 2.725)
+		(start 0 2.76)
+		(end -2.76 2.76)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -71,8 +71,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 0 2.725)
-		(end 2.725 2.725)
+		(start 0 2.76)
+		(end 2.76 2.76)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -80,8 +80,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 2.725 -2.725)
-		(end 2.725 -2.465)
+		(start 2.76 -2.76)
+		(end 2.76 -2.49)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -89,8 +89,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 2.725 2.725)
-		(end 2.725 2.465)
+		(start 2.76 2.76)
+		(end 2.76 2.49)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -99,10 +99,10 @@
 	)
 	(fp_poly
 		(pts
-			(xy -3.5075 -2.465)
-			(xy -3.7475 -2.795)
-			(xy -3.2675 -2.795)
-			(xy -3.5075 -2.465)
+			(xy -3.525 -2.49)
+			(xy -3.765 -2.82)
+			(xy -3.285 -2.82)
+			(xy -3.525 -2.49)
 		)
 		(stroke
 			(width 0.12)
@@ -112,8 +112,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -4.65 -2.86)
-		(end -4.65 2.86)
+		(start -4.65 -2.9)
+		(end -4.65 2.9)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -121,8 +121,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -4.65 2.86)
-		(end 4.65 2.86)
+		(start -4.65 2.9)
+		(end 4.65 2.9)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -130,8 +130,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 4.65 -2.86)
-		(end -4.65 -2.86)
+		(start 4.65 -2.9)
+		(end -4.65 -2.9)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -139,8 +139,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 4.65 2.86)
-		(end 4.65 -2.86)
+		(start 4.65 2.9)
+		(end 4.65 -2.9)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -148,8 +148,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -2.615 -1.615)
-		(end -1.615 -2.615)
+		(start -2.65 -1.65)
+		(end -1.65 -2.65)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -157,8 +157,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start -2.615 2.615)
-		(end -2.615 -1.615)
+		(start -2.65 2.65)
+		(end -2.65 -1.65)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -166,8 +166,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start -1.615 -2.615)
-		(end 2.615 -2.615)
+		(start -1.65 -2.65)
+		(end 2.65 -2.65)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -175,8 +175,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 2.615 -2.615)
-		(end 2.615 2.615)
+		(start 2.65 -2.65)
+		(end 2.65 2.65)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -184,8 +184,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 2.615 2.615)
-		(end -2.615 2.615)
+		(start 2.65 2.65)
+		(end -2.65 2.65)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -203,54 +203,54 @@
 		)
 	)
 	(pad "1" smd roundrect
-		(at -3.6 -1.905)
-		(size 1.6 0.6)
+		(at -3.5875 -1.905)
+		(size 1.625 0.65)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
 	)
 	(pad "2" smd roundrect
-		(at -3.6 -0.635)
-		(size 1.6 0.6)
+		(at -3.5875 -0.635)
+		(size 1.625 0.65)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
 	)
 	(pad "3" smd roundrect
-		(at -3.6 0.635)
-		(size 1.6 0.6)
+		(at -3.5875 0.635)
+		(size 1.625 0.65)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
 	)
 	(pad "4" smd roundrect
-		(at -3.6 1.905)
-		(size 1.6 0.6)
+		(at -3.5875 1.905)
+		(size 1.625 0.65)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
 	)
 	(pad "5" smd roundrect
-		(at 3.6 1.905)
-		(size 1.6 0.6)
+		(at 3.5875 1.905)
+		(size 1.625 0.65)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
 	)
 	(pad "6" smd roundrect
-		(at 3.6 0.635)
-		(size 1.6 0.6)
+		(at 3.5875 0.635)
+		(size 1.625 0.65)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
 	)
 	(pad "7" smd roundrect
-		(at 3.6 -0.635)
-		(size 1.6 0.6)
+		(at 3.5875 -0.635)
+		(size 1.625 0.65)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
 	)
 	(pad "8" smd roundrect
-		(at 3.6 -1.905)
-		(size 1.6 0.6)
+		(at 3.5875 -1.905)
+		(size 1.625 0.65)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.23x5.23mm_P1.27mm.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.3x5.3mm_P1.27mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
