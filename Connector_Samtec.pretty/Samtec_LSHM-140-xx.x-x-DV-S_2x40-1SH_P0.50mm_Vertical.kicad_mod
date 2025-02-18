@@ -740,7 +740,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_LSHM-140-xx.x-x-DV-S_2x40-1SH_P0.50mm_Vertical.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_LSHM-140-xx.x-x-DV-S_2x40-1SH_P0.50mm_Vertical.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

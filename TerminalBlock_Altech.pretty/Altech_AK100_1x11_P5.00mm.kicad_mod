@@ -247,7 +247,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 	)
-	(model "${KICAD8_3DMODEL_DIR}/TerminalBlock_Altech.3dshapes/Altech_AK100_1x11_P5.00mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/TerminalBlock_Altech.3dshapes/Altech_AK100_1x11_P5.00mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

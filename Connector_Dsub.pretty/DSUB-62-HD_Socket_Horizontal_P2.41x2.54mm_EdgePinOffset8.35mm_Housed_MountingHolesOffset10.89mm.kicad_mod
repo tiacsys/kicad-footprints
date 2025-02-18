@@ -809,7 +809,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-62-HD_Socket_Horizontal_P2.41x2.54mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-62-HD_Socket_Horizontal_P2.41x2.54mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

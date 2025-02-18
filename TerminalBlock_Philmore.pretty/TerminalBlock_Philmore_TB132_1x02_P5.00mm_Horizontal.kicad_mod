@@ -332,7 +332,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 	)
-	(model "${KICAD8_3DMODEL_DIR}/TerminalBlock_Philmore.3dshapes/TerminalBlock_Philmore_TB132_1x02_P5.00mm_Horizontal.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/TerminalBlock_Philmore.3dshapes/TerminalBlock_Philmore_TB132_1x02_P5.00mm_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
