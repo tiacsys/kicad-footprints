@@ -1,7 +1,7 @@
 (footprint "C_Disc_D14.5mm_W5.0mm_P10.00mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "C, Disc series, Radial, pin pitch=10.00mm, , diameter*width=14.5*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf")
 	(tags "C Disc series Radial pin pitch 10.00mm  diameter 14.5mm width 5.0mm Capacitor")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "90014c0d-e7bc-4063-89e7-a6c0b4d00a3d")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -211,6 +201,7 @@
 		(remove_unused_layers no)
 		(uuid "8014463a-68d1-4d63-8209-4ae2e1ae6341")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D14.5mm_W5.0mm_P10.00mm.wrl"
 		(offset
 			(xyz 0 0 0)

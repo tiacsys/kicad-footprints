@@ -1,7 +1,7 @@
 (footprint "L_Axial_L14.5mm_D5.8mm_P5.08mm_Vertical_Fastron_HBCC"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Axial series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=14.5*5.8mm^2, Fastron, HBCC, http://www.fastrongroup.com/image-show/18/HBCC.pdf?type=Complete-DataSheet&productType=series")
 	(tags "Inductor Axial series Axial Vertical pin pitch 5.08mm  length 14.5mm diameter 5.8mm Fastron HBCC")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "66194315-3978-4ef9-839b-385aeeccec19")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -81,7 +71,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "df7ae138-5f54-43b8-9fd6-e39bde502843")
 	)
@@ -142,7 +132,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "977296a7-8a03-471c-9be5-8829713c7325")
 	)
@@ -173,6 +163,7 @@
 		(remove_unused_layers no)
 		(uuid "fbb8bb2e-1a6b-4b60-bc7e-dae3625331ae")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L14.5mm_D5.8mm_P5.08mm_Vertical_Fastron_HBCC.wrl"
 		(offset
 			(xyz 0 0 0)

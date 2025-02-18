@@ -1,7 +1,7 @@
 (footprint "L_Radial_D7.8mm_P5.00mm_Fastron_07HCP"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Radial series, Radial, pin pitch=5.00mm, , diameter=7.8mm, Fastron, 07HCP, http://www.abracon.com/Magnetics/radial/AISR875.pdf")
 	(tags "Inductor Radial series Radial pin pitch 5.00mm  diameter 7.8mm Fastron 07HCP")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "dd17b496-cf7c-4450-97ec-46db928bf972")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -93,7 +83,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "bf859d67-2421-4f6d-9817-90fccff85618")
 	)
@@ -104,7 +94,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "de4d67e4-aac4-41ea-90bf-60acc6267441")
 	)
@@ -135,6 +125,7 @@
 		(remove_unused_layers no)
 		(uuid "b467f59d-aceb-4da7-af9b-16873ffde16a")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D7.8mm_P5.00mm_Fastron_07HCP.wrl"
 		(offset
 			(xyz 0 0 0)

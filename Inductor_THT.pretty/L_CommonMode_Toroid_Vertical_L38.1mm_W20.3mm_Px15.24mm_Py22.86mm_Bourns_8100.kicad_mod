@@ -1,7 +1,7 @@
 (footprint "L_CommonMode_Toroid_Vertical_L38.1mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "L_CommonMode_Toroid, Vertical series, Radial, pin pitch=15.24*22.86mm^2, , length*width=38.099999999999994*20.32mm^2, Bourns, 8100, http://datasheet.octopart.com/8120-RC-Bourns-datasheet-10228452.pdf")
 	(tags "L_CommonMode_Toroid Vertical series Radial pin pitch 15.24*22.86mm^2  length 38.099999999999994mm width 20.32mm Bourns 8100")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "d353d3da-63ad-4494-8e01-57a77a2b27ab")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -367,6 +357,7 @@
 		(remove_unused_layers no)
 		(uuid "c2f62c24-49eb-49cc-8bbb-9ccd7f2c6bcd")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_CommonMode_Toroid_Vertical_L38.1mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100.wrl"
 		(offset
 			(xyz 0 0 0)

@@ -1,7 +1,7 @@
 (footprint "L_Toroid_Horizontal_D3.2mm_P6.40mm_Diameter3-5mm_Amidon-T12"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "L_Toroid, Horizontal series, Radial, pin pitch=6.40mm, , diameter=3.175mm, Diameter3-5mm, Amidon-T12")
 	(tags "L_Toroid Horizontal series Radial pin pitch 6.40mm  diameter 3.175mm Diameter3-5mm Amidon-T12")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "fad8a269-289b-4b19-ad0a-b793add7065b")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -93,7 +83,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "bc77e1d6-4a97-4cac-abd3-ab31a8b1d353")
 	)
@@ -274,7 +264,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "7ef3c0b5-c80c-4d7d-a999-599567a5af49")
 	)
@@ -285,7 +275,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "d35e1bed-bce3-4c51-84ad-6aee021fd25c")
 	)
@@ -316,6 +306,7 @@
 		(remove_unused_layers no)
 		(uuid "37b76041-d293-4628-9be7-82b5ad5341d4")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D3.2mm_P6.40mm_Diameter3-5mm_Amidon-T12.wrl"
 		(offset
 			(xyz 0 0 0)

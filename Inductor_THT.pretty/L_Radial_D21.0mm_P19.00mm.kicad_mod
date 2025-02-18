@@ -1,7 +1,7 @@
 (footprint "L_Radial_D21.0mm_P19.00mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Radial series, Radial, pin pitch=19.00mm, , diameter=21mm, http://www.abracon.com/Magnetics/radial/AIRD02.pdf")
 	(tags "Inductor Radial series Radial pin pitch 19.00mm  diameter 21mm")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "b2da1bc6-7dbd-411b-83ef-de11e31ff3eb")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -93,7 +83,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "9cf4af6c-c10f-40b7-babd-96e545909c8b")
 	)
@@ -104,7 +94,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "4e4b2e22-348f-4c20-b879-e68af6a8e24a")
 	)
@@ -135,6 +125,7 @@
 		(remove_unused_layers no)
 		(uuid "23920607-62b2-4414-aac7-4270d3c976dd")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D21.0mm_P19.00mm.wrl"
 		(offset
 			(xyz 0 0 0)

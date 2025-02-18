@@ -1,7 +1,7 @@
 (footprint "C_Rect_L7.0mm_W4.5mm_P5.00mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "C, Rect series, Radial, pin pitch=5.00mm, , length*width=7*4.5mm^2, Capacitor")
 	(tags "C Rect series Radial pin pitch 5.00mm  length 7mm width 4.5mm Capacitor")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "77193848-0358-4ce7-a188-5925880e5cb8")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -211,6 +201,7 @@
 		(remove_unused_layers no)
 		(uuid "68dbc403-1b4e-4033-a0c0-4da3a4756725")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W4.5mm_P5.00mm.wrl"
 		(offset
 			(xyz 0 0 0)

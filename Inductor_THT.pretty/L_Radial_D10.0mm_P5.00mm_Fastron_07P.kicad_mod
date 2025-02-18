@@ -1,7 +1,7 @@
 (footprint "L_Radial_D10.0mm_P5.00mm_Fastron_07P"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Fastron, 07P, http://www.fastrongroup.com/image-show/37/07M.pdf?type=Complete-DataSheet&productType=series")
 	(tags "Inductor Radial series Radial pin pitch 5.00mm  diameter 10mm Fastron 07P")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "a3c76803-19cf-40a7-8076-cb6d2ceec1a0")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -71,7 +61,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "a00f743f-6cd8-4a26-bcb6-ec8fb0b5b4a8")
 	)
@@ -82,7 +72,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "d9bea381-8518-4f1d-b229-c30137fc9382")
 	)
@@ -93,7 +83,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "56a60dc6-2af3-43e0-8d3c-de312b61eb8f")
 	)
@@ -124,6 +114,7 @@
 		(remove_unused_layers no)
 		(uuid "361fd9b1-e0f1-46c9-8603-1ff4a71045d6")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D10.0mm_P5.00mm_Fastron_07P.wrl"
 		(offset
 			(xyz 0 0 0)

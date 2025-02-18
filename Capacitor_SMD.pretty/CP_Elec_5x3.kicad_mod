@@ -1,7 +1,7 @@
 (footprint "CP_Elec_5x3"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "SMD capacitor, aluminum electrolytic, Nichicon, 5.0x3.0mm")
 	(tags "capacitor electrolytic")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "6b352f6c-ce0b-4921-8655-0a944124fb9b")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -391,7 +381,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "c7fbf69c-73d4-4fd9-9e3b-1c1ee4299c07")
 	)
@@ -409,17 +399,18 @@
 	(pad "1" smd roundrect
 		(at -2.2 0)
 		(size 3 1.6)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15625)
 		(uuid "d8c50297-929b-41d3-b6a5-bf5b3f7956c4")
 	)
 	(pad "2" smd roundrect
 		(at 2.2 0)
 		(size 3 1.6)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15625)
 		(uuid "e39d5818-f747-47a4-91b8-4963eaf77634")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_5x3.wrl"
 		(offset
 			(xyz 0 0 0)

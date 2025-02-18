@@ -1,7 +1,7 @@
 (footprint "L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Radial series, Radial, pin pitch=27.94mm, , diameter=40.64mm, Vishay, IHB-4, http://www.vishay.com/docs/34015/ihb.pdf")
 	(tags "Inductor Radial series Radial pin pitch 27.94mm  diameter 40.64mm Vishay IHB-4")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "3ffe103b-39e9-42a9-9b92-3aa97dd467fe")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -71,7 +61,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "b2572a6f-1754-4219-b62a-d37c10daac79")
 	)
@@ -82,7 +72,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "1766612f-8265-4e8a-a71a-b54ddd226cfe")
 	)
@@ -133,7 +123,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "2d83ceed-a296-4506-a1fb-d953e5a40302")
 	)
@@ -144,7 +134,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "73286209-a6dc-41d6-b14f-75d04d854897")
 	)
@@ -175,6 +165,7 @@
 		(remove_unused_layers no)
 		(uuid "a82c143d-e06a-4705-a5f0-9d14e5b30ae7")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4.wrl"
 		(offset
 			(xyz 0 0 0)

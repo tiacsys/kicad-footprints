@@ -1,7 +1,7 @@
 (footprint "C_Axial_L22.0mm_D9.5mm_P27.50mm_Horizontal"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "C, Axial series, Axial, Horizontal, pin pitch=27.5mm, , length*diameter=22*9.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf")
 	(tags "C Axial series Axial Horizontal pin pitch 27.5mm  length 22mm diameter 9.5mm")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "1a3b5f02-d1c4-4391-9525-04905b3d5238")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -251,6 +241,7 @@
 		(remove_unused_layers no)
 		(uuid "b6c577f9-841d-4707-9563-6db1bed93bd7")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Axial_L22.0mm_D9.5mm_P27.50mm_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)

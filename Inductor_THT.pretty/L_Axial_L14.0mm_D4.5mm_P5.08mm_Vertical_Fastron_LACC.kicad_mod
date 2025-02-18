@@ -1,7 +1,7 @@
 (footprint "L_Axial_L14.0mm_D4.5mm_P5.08mm_Vertical_Fastron_LACC"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Axial series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=14*4.5mm^2, Fastron, LACC, http://www.fastrongroup.com/image-show/20/LACC.pdf?type=Complete-DataSheet&productType=series")
 	(tags "Inductor Axial series Axial Vertical pin pitch 5.08mm  length 14mm diameter 4.5mm Fastron LACC")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "e975ce28-789c-45d1-b137-6324d86ae001")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -81,7 +71,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "33cbb972-2d25-46f0-aa88-78f9d5562bf5")
 	)
@@ -142,7 +132,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "ecd6ab37-85eb-4a85-9ed7-a815c323d457")
 	)
@@ -173,6 +163,7 @@
 		(remove_unused_layers no)
 		(uuid "bb34402f-8eb0-4a1a-9f8b-7777c2ae1c68")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L14.0mm_D4.5mm_P5.08mm_Vertical_Fastron_LACC.wrl"
 		(offset
 			(xyz 0 0 0)

@@ -1,7 +1,7 @@
 (footprint "L_Axial_L12.8mm_D5.8mm_P20.32mm_Horizontal_Fastron_HBCC"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Axial series, Axial, Horizontal, pin pitch=20.32mm, , length*diameter=12.8*5.8mm^2, Fastron, HBCC, http://www.fastrongroup.com/image-show/18/HBCC.pdf?type=Complete-DataSheet&productType=series")
 	(tags "Inductor Axial series Axial Horizontal pin pitch 20.32mm  length 12.8mm diameter 5.8mm Fastron HBCC")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "bec93fbd-c50a-4d16-8eb4-c2c05c485408")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -251,6 +241,7 @@
 		(remove_unused_layers no)
 		(uuid "210cfea1-2217-4718-ad1d-12ca11bc997a")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L12.8mm_D5.8mm_P20.32mm_Horizontal_Fastron_HBCC.wrl"
 		(offset
 			(xyz 0 0 0)

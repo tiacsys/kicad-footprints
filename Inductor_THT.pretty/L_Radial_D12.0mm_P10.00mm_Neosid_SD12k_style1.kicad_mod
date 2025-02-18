@@ -1,7 +1,7 @@
 (footprint "L_Radial_D12.0mm_P10.00mm_Neosid_SD12k_style1"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Radial series, Radial, pin pitch=10.00mm, , diameter=12.0mm, Neosid, SD12k, style1, http://www.neosid.de/produktblaetter/neosid_Festinduktivitaet_Sd12k.pdf")
 	(tags "Inductor Radial series Radial pin pitch 10.00mm  diameter 12.0mm Neosid SD12k style1")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "0229b0d1-a0a2-403c-bc43-c5475837567d")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -93,7 +83,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "7e7c3819-c416-45a5-95c6-900f057e36af")
 	)
@@ -104,7 +94,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "eef0d43e-fa8e-4550-8093-9d14da3ed19b")
 	)
@@ -135,6 +125,7 @@
 		(remove_unused_layers no)
 		(uuid "ed1294fb-9937-4922-898c-213f900de566")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D12.0mm_P10.00mm_Neosid_SD12k_style1.wrl"
 		(offset
 			(xyz 0 0 0)

@@ -1,7 +1,7 @@
 (footprint "L_Toroid_Horizontal_D24.1mm_P23.10mm_Bourns_2200"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "L_Toroid, Horizontal series, Radial, pin pitch=23.10mm, , diameter=24.1mm, Bourns, 2200, http://www.bourns.com/docs/Product-Datasheets/2100_series.pdf?sfvrsn=3")
 	(tags "L_Toroid Horizontal series Radial pin pitch 23.10mm  diameter 24.1mm Bourns 2200")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "5e82a85f-2214-48ec-9629-b28d8adde84e")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -93,7 +83,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "96a532e4-e2c8-45e7-af6e-4e4554b662de")
 	)
@@ -274,7 +264,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "5f2a90e6-67c1-4f74-b756-6e9bf6bdb6c1")
 	)
@@ -285,7 +275,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "4b47c288-0b34-4e9c-a738-814f6db2265f")
 	)
@@ -316,6 +306,7 @@
 		(remove_unused_layers no)
 		(uuid "d4de0a43-a0f8-463a-b1e3-4917f4afe948")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D24.1mm_P23.10mm_Bourns_2200.wrl"
 		(offset
 			(xyz 0 0 0)

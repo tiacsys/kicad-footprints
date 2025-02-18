@@ -1,7 +1,7 @@
 (footprint "L_Toroid_Horizontal_D16.8mm_P14.70mm_Vishay_TJ3_BigPads"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "L_Toroid, Horizontal series, Radial, pin pitch=14.70mm, , diameter=16.8mm, Vishay, TJ3, BigPads, http://www.vishay.com/docs/34079/tj.pdf")
 	(tags "L_Toroid Horizontal series Radial pin pitch 14.70mm  diameter 16.8mm Vishay TJ3 BigPads")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "fba69e87-8088-4112-b962-c0f1b2bb418a")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -93,7 +83,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "684ad999-bb37-454d-9397-c1c73482d46b")
 	)
@@ -274,7 +264,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "03968885-241e-4d20-85e9-f0301fe8a78d")
 	)
@@ -285,7 +275,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "e9ee9a8f-f17e-4938-922a-cd0d5885185f")
 	)
@@ -316,6 +306,7 @@
 		(remove_unused_layers no)
 		(uuid "2b8baf32-739d-47ff-90e4-4bc18fcd634d")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D16.8mm_P14.70mm_Vishay_TJ3_BigPads.wrl"
 		(offset
 			(xyz 0 0 0)

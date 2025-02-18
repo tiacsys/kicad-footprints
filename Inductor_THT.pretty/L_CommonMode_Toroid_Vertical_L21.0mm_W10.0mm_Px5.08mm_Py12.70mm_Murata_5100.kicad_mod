@@ -1,7 +1,7 @@
 (footprint "L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_Murata_5100"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "L_CommonMode_Toroid, Vertical series, Radial, pin pitch=5.08*12.70mm^2, , length*width=21*10mm^2, muRATA, 5100, http://www.murata-ps.com/data/magnetics/kmp_5100.pdf")
 	(tags "L_CommonMode_Toroid Vertical series Radial pin pitch 5.08*12.70mm^2  length 21mm width 10mm muRATA 5100")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "3a517597-ac2c-452e-8c5d-a632dadf616f")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -367,6 +357,7 @@
 		(remove_unused_layers no)
 		(uuid "c6fa8770-21e2-4ee4-b438-f6e5aee7b8af")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_Murata_5100.wrl"
 		(offset
 			(xyz 0 0 0)

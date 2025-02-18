@@ -1,7 +1,7 @@
 (footprint "L_Radial_D12.0mm_P5.00mm_Fastron_11P"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Radial series, Radial, pin pitch=5.00mm, , diameter=12.0mm, Fastron, 11P, http://cdn-reichelt.de/documents/datenblatt/B400/DS_11P.pdf")
 	(tags "Inductor Radial series Radial pin pitch 5.00mm  diameter 12.0mm Fastron 11P")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "e5eddb25-ded9-4678-947d-cdd7637b8f5e")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -71,7 +61,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "623f36a7-94df-4083-9fd1-ba44160fa381")
 	)
@@ -82,7 +72,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "8bd8eeec-c8bf-41cb-a665-a816f9e11680")
 	)
@@ -93,7 +83,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "04c6595c-d5df-46eb-8d7e-e968bab3ebc8")
 	)
@@ -124,6 +114,7 @@
 		(remove_unused_layers no)
 		(uuid "92db83f7-41d2-41eb-a964-46279e04aeaf")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D12.0mm_P5.00mm_Fastron_11P.wrl"
 		(offset
 			(xyz 0 0 0)

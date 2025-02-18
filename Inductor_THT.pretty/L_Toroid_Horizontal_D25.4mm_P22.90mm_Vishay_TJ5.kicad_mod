@@ -1,7 +1,7 @@
 (footprint "L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "L_Toroid, Horizontal series, Radial, pin pitch=22.90mm, , diameter=25.4mm, Vishay, TJ5, http://www.vishay.com/docs/34079/tj.pdf")
 	(tags "L_Toroid Horizontal series Radial pin pitch 22.90mm  diameter 25.4mm Vishay TJ5")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "5feb5cd6-d852-49f3-b35a-b8c1fcf0d9cc")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -93,7 +83,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "26319362-0c9f-47cb-a708-14196b5001cc")
 	)
@@ -274,7 +264,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "d05f998b-885b-4d41-b7b9-3bf76ec68def")
 	)
@@ -285,7 +275,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "b5b858ae-67df-4107-9357-9a322e243192")
 	)
@@ -316,6 +306,7 @@
 		(remove_unused_layers no)
 		(uuid "8d302e6d-d011-4da6-97a3-4f5afac33d24")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5.wrl"
 		(offset
 			(xyz 0 0 0)

@@ -1,7 +1,7 @@
 (footprint "L_Axial_L9.5mm_D4.0mm_P12.70mm_Horizontal_Fastron_SMCC"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Axial series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9.5*4mm^2, Fastron, SMCC, http://cdn-reichelt.de/documents/datenblatt/B400/DS_SMCC_NEU.pdf, http://cdn-reichelt.de/documents/datenblatt/B400/LEADEDINDUCTORS.pdf")
 	(tags "Inductor Axial series Axial Horizontal pin pitch 12.7mm  length 9.5mm diameter 4mm Fastron SMCC")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "a8cb6254-4b15-4aa6-aed5-b8bfdcca1423")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -251,6 +241,7 @@
 		(remove_unused_layers no)
 		(uuid "740b6c6f-1082-41b3-bf6f-7e5309810eb0")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L9.5mm_D4.0mm_P12.70mm_Horizontal_Fastron_SMCC.wrl"
 		(offset
 			(xyz 0 0 0)

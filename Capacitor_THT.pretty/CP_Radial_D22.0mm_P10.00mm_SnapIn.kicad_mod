@@ -1,7 +1,7 @@
 (footprint "CP_Radial_D22.0mm_P10.00mm_SnapIn"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "CP, Radial series, Radial, pin pitch=10.00mm, , diameter=22mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf")
 	(tags "CP Radial series Radial pin pitch 10.00mm  diameter 22mm Electrolytic Capacitor")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "5ca844ff-ae79-430c-a273-9d95d02351e7")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -4001,7 +3991,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "fc247879-6a80-4830-83c8-d3628934c01a")
 	)
@@ -4012,7 +4002,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "b834af5c-a906-4cf9-951b-5cab804efb89")
 	)
@@ -4043,7 +4033,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "eaa4c748-f8a3-4b0c-ac19-f63ae41aa9d3")
 	)
@@ -4074,6 +4064,7 @@
 		(remove_unused_layers no)
 		(uuid "4a96c687-e4c1-436b-b4f2-3055bad34805")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D22.0mm_P10.00mm_SnapIn.wrl"
 		(offset
 			(xyz 0 0 0)

@@ -1,7 +1,7 @@
 (footprint "L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "L_Toroid, Vertical series, Radial, pin pitch=12.70mm, , length*width=33.02*17.78mm^2, Pulse, KM-5, http://datasheet.octopart.com/PE-92112KNL-Pulse-datasheet-17853305.pdf")
 	(tags "L_Toroid Vertical series Radial pin pitch 12.70mm  length 33.02mm width 17.78mm Pulse KM-5")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "c72e5f8f-8d89-4df4-9a76-00e23df0d5e5")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -351,6 +341,7 @@
 		(remove_unused_layers no)
 		(uuid "7f609a29-ccb8-4050-95de-006a21af2c17")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5.wrl"
 		(offset
 			(xyz 0 0 0)

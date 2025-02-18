@@ -1,7 +1,7 @@
 (footprint "L_Axial_L23.4mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-203"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Axial series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=23.37*12.7mm^2, Vishay, IHA-203, http://www.vishay.com/docs/34014/iha.pdf")
 	(tags "Inductor Axial series Axial Vertical pin pitch 7.62mm  length 23.37mm diameter 12.7mm Vishay IHA-203")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "dd5030cd-2779-4f40-b80b-0e816054faaa")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -132,7 +122,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "ff3dcb18-9b8d-407e-927a-848b80a722be")
 	)
@@ -163,6 +153,7 @@
 		(remove_unused_layers no)
 		(uuid "f3f7b001-bcdb-48d4-8acc-b72d6c07a662")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L23.4mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-203.wrl"
 		(offset
 			(xyz 0 0 0)

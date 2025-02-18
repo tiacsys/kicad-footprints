@@ -1,7 +1,7 @@
 (footprint "L_Radial_D29.8mm_P29.30mm_Murata_1400series"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Radial series, Radial, pin pitch=29.30mm, , diameter=29.8mm, muRATA, 1400series, http://www.murata-ps.com/data/magnetics/kmp_1400.pdf")
 	(tags "Inductor Radial series Radial pin pitch 29.30mm  diameter 29.8mm muRATA 1400series")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "cef1499e-1ad4-46c4-9d6c-13282393014c")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -93,7 +83,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "6c8b1d2d-e284-4060-9337-d1fd9e18381d")
 	)
@@ -144,7 +134,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "cf7be95e-843d-4a60-aee6-49e79c5cb02f")
 	)
@@ -155,7 +145,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "4cf69d24-52ac-4604-a23c-b5e64b6a880c")
 	)
@@ -186,6 +176,7 @@
 		(remove_unused_layers no)
 		(uuid "aa709520-9a3e-4fa1-aae7-776a8a2cc51c")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D29.8mm_P29.30mm_Murata_1400series.wrl"
 		(offset
 			(xyz 0 0 0)

@@ -1,7 +1,7 @@
 (footprint "CP_Radial_Tantal_D7.0mm_P2.50mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "CP, Radial_Tantal series, Radial, pin pitch=2.50mm, , diameter=7.0mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf")
 	(tags "CP Radial_Tantal series Radial pin pitch 2.50mm  diameter 7.0mm Tantal Electrolytic Capacitor")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "3185a76e-4162-4336-a856-9c9d5790037b")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -91,7 +81,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "eb8ae833-0ee6-485a-803a-846b0b232bb7")
 	)
@@ -102,7 +92,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "7ba52212-b20f-43d4-88b3-0c1e76db5825")
 	)
@@ -133,7 +123,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "616f88c9-1ccb-4205-8ffe-48be05dd8cd5")
 	)
@@ -164,6 +154,7 @@
 		(remove_unused_layers no)
 		(uuid "20e06802-984a-4e75-82e3-7a2861099c44")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_Tantal_D7.0mm_P2.50mm.wrl"
 		(offset
 			(xyz 0 0 0)

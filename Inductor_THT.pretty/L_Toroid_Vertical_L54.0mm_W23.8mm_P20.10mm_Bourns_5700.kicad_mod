@@ -1,7 +1,7 @@
 (footprint "L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "L_Toroid, Vertical series, Radial, pin pitch=20.10mm, , length*width=54*23.8mm^2, Bourns, 5700, http://www.bourns.com/docs/Product-Datasheets/5700_series.pdf")
 	(tags "L_Toroid Vertical series Radial pin pitch 20.10mm  length 54mm width 23.8mm Bourns 5700")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "08ec2728-9756-47d8-aa8d-703fa7755792")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -331,6 +321,7 @@
 		(remove_unused_layers no)
 		(uuid "6bc5d917-3ee2-4b58-999b-3932666ae93d")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700.wrl"
 		(offset
 			(xyz 0 0 0)

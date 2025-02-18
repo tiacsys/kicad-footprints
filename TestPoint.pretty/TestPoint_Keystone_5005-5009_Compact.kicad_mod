@@ -1,7 +1,7 @@
 (footprint "TestPoint_Keystone_5005-5009_Compact"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Keystone THM Compact Test Point 5005-5009, http://www.keyelco.com/product-pdf.cfm?p=1314")
 	(tags "Through Hole Mount Test Points")
@@ -23,19 +23,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "14304c29-940c-4362-968f-6a1926b51ff7")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -74,7 +61,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "7b49eb00-41d8-4db9-91aa-16446daf29a3")
 	)
@@ -85,7 +72,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "177928f5-2ec1-4c47-9661-065cc973beac")
 	)
@@ -96,7 +83,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "fa2674b8-bfc7-4860-9c5e-092e12163213")
 	)
@@ -107,7 +94,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "afc066ab-48d7-4baa-bbe1-9519e5c43d7b")
 	)
@@ -130,6 +117,7 @@
 		(remove_unused_layers no)
 		(uuid "e4389ed5-7692-46dd-bfbc-30a15ec6f232")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5005-5009_Compact.wrl"
 		(offset
 			(xyz 0 0 0)

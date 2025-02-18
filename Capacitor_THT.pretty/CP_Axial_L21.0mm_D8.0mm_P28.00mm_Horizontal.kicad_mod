@@ -1,7 +1,7 @@
 (footprint "CP_Axial_L21.0mm_D8.0mm_P28.00mm_Horizontal"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "CP, Axial series, Axial, Horizontal, pin pitch=28mm, , length*diameter=21*8mm^2, Electrolytic Capacitor")
 	(tags "CP Axial series Axial Horizontal pin pitch 28mm  length 21mm diameter 8mm Electrolytic Capacitor")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "778124f2-0c8d-402a-81dd-fea180891e20")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -411,6 +401,7 @@
 		(remove_unused_layers no)
 		(uuid "a113dd92-923b-4682-a785-1d9617e4af4b")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Axial_L21.0mm_D8.0mm_P28.00mm_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)

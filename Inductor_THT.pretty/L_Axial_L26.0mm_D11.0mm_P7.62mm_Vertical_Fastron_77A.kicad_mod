@@ -1,7 +1,7 @@
 (footprint "L_Axial_L26.0mm_D11.0mm_P7.62mm_Vertical_Fastron_77A"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Axial series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=26*11mm^2, Fastron, 77A, http://cdn-reichelt.de/documents/datenblatt/B400/DS_77A.pdf")
 	(tags "Inductor Axial series Axial Vertical pin pitch 7.62mm  length 26mm diameter 11mm Fastron 77A")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "5250ef1e-ab80-44c9-bf0c-4355c823f3ee")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -81,7 +71,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "b7c96a4e-37ea-4943-9371-4ccfe25c518d")
 	)
@@ -142,7 +132,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "a4e170c5-6691-45d2-9e09-c6e38345f6bb")
 	)
@@ -173,6 +163,7 @@
 		(remove_unused_layers no)
 		(uuid "8ca7f3cb-bfac-4a5d-894f-45482ac3d267")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L26.0mm_D11.0mm_P7.62mm_Vertical_Fastron_77A.wrl"
 		(offset
 			(xyz 0 0 0)

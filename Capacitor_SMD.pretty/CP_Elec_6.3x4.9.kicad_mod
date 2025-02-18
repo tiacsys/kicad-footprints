@@ -1,7 +1,7 @@
 (footprint "CP_Elec_6.3x4.9"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "SMD capacitor, aluminum electrolytic, Panasonic C5, 6.3x4.9mm")
 	(tags "capacitor electrolytic")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "955d60b2-c2d9-49c8-ac66-3f0145ade4d0")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -391,7 +381,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "21e6143b-7f48-4702-8ad5-b1e43f4c5eed")
 	)
@@ -409,17 +399,18 @@
 	(pad "1" smd roundrect
 		(at -2.8 0)
 		(size 3.5 1.6)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15625)
 		(uuid "b4469daa-f2e1-426a-ad59-b21f9604d46d")
 	)
 	(pad "2" smd roundrect
 		(at 2.8 0)
 		(size 3.5 1.6)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15625)
 		(uuid "d821807e-2f38-4d38-9c6e-43bb40bd6b82")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_6.3x4.9.wrl"
 		(offset
 			(xyz 0 0 0)

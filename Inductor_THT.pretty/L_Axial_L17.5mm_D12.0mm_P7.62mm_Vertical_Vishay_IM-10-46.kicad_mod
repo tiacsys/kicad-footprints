@@ -1,7 +1,7 @@
 (footprint "L_Axial_L17.5mm_D12.0mm_P7.62mm_Vertical_Vishay_IM-10-46"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Axial series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=17.5*12mm^2, Vishay, IM-10-46, http://www.vishay.com/docs/34030/im10.pdf")
 	(tags "Inductor Axial series Axial Vertical pin pitch 7.62mm  length 17.5mm diameter 12mm Vishay IM-10-46")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "5501ae04-63b2-4e28-80db-da663ff9ecf1")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -81,7 +71,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "9dc65ed4-7cfd-408b-a5b4-145864e8dfb2")
 	)
@@ -142,7 +132,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "ea31c799-7167-4f03-a4b7-b2b2405138ac")
 	)
@@ -173,6 +163,7 @@
 		(remove_unused_layers no)
 		(uuid "251e3120-2da2-4106-9a4a-a4e982fa85d9")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L17.5mm_D12.0mm_P7.62mm_Vertical_Vishay_IM-10-46.wrl"
 		(offset
 			(xyz 0 0 0)

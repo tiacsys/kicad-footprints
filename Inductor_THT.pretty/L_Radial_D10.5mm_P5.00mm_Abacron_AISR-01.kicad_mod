@@ -1,7 +1,7 @@
 (footprint "L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Radial series, Radial, pin pitch=5.00mm, , diameter=10.5mm, Abacron, AISR-01, http://www.abracon.com/Magnetics/radial/AISR-01.pdf")
 	(tags "Inductor Radial series Radial pin pitch 5.00mm  diameter 10.5mm Abacron AISR-01")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "3d530ae9-aef4-4cbe-ab56-cc7c7241bab3")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -71,7 +61,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "66728d48-50d1-4b46-9a93-14737ecfc9e5")
 	)
@@ -82,7 +72,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "95dc15d1-f7c9-418d-9e1f-9e69e5a9d011")
 	)
@@ -93,7 +83,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "85b62277-8b1b-4633-8898-ff32cb1319f4")
 	)
@@ -124,6 +114,7 @@
 		(remove_unused_layers no)
 		(uuid "d247c398-46d2-4c16-8e27-eefe21bed7bd")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01.wrl"
 		(offset
 			(xyz 0 0 0)

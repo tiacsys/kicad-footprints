@@ -1,7 +1,7 @@
 (footprint "TestPoint_Keystone_5010-5014_Multipurpose"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Keystone THM Multipurpose Test Point 5010-5014, http://www.keyelco.com/product-pdf.cfm?p=1319")
 	(tags "Through Hole Mount Test Points")
@@ -23,19 +23,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "7960db4c-1561-4144-95d3-5232d59de318")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -74,7 +61,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "0dc5978d-1a79-4697-97c4-824417171432")
 	)
@@ -85,7 +72,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "23858ca3-dfcc-4ed2-9996-876d984ea239")
 	)
@@ -96,7 +83,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "612b5690-251c-43fc-9ffa-26f809d6a5fe")
 	)
@@ -107,7 +94,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "edac2806-8a86-48c1-bf63-d7b4fdb9dbaf")
 	)
@@ -130,6 +117,7 @@
 		(remove_unused_layers no)
 		(uuid "75f84b98-1c1a-457f-9f46-cc72f40a1c20")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5010-5014_Multipurpose.wrl"
 		(offset
 			(xyz 0 0 0)

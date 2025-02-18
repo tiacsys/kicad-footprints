@@ -1,7 +1,7 @@
 (footprint "CP_Axial_L46.0mm_D20.0mm_P52.00mm_Horizontal"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "CP, Axial series, Axial, Horizontal, pin pitch=52mm, , length*diameter=46*20mm^2, Electrolytic Capacitor")
 	(tags "CP Axial series Axial Horizontal pin pitch 52mm  length 46mm diameter 20mm Electrolytic Capacitor")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "d5e546f6-2e42-44b3-8212-0846183fcae0")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -411,6 +401,7 @@
 		(remove_unused_layers no)
 		(uuid "bc56aeb7-a8e1-4538-9f7f-365f7430d9a4")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Axial_L46.0mm_D20.0mm_P52.00mm_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)

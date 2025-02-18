@@ -1,7 +1,7 @@
 (footprint "L_Axial_L20.3mm_D12.7mm_P25.40mm_Horizontal_Vishay_IHA-201"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Axial series, Axial, Horizontal, pin pitch=25.4mm, , length*diameter=20.32*12.7mm^2, Vishay, IHA-201, http://www.vishay.com/docs/34014/iha.pdf")
 	(tags "Inductor Axial series Axial Horizontal pin pitch 25.4mm  length 20.32mm diameter 12.7mm Vishay IHA-201")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "8da64360-64e4-4c39-833f-007b2e776c72")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -251,6 +241,7 @@
 		(remove_unused_layers no)
 		(uuid "26122c60-d3d1-4c12-952b-3f04971f0d67")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L20.3mm_D12.7mm_P25.40mm_Horizontal_Vishay_IHA-201.wrl"
 		(offset
 			(xyz 0 0 0)

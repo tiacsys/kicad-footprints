@@ -1,7 +1,7 @@
 (footprint "LED_Cree-PLCC4_2x2mm_CW"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "2.0mm x 2.0mm PLCC4 LED, https://assets.cree-led.com/a/ds/h/HB-CLMVC-FKA.pdf")
 	(tags "LED Cree PLCC-4 2020 CLMVB-FKA CLMVC-FKA")
@@ -23,19 +23,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "7662ec87-41b9-439f-8f65-d358454940b1")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -214,7 +201,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "bf02933a-1503-4915-8327-db5d28ee350a")
 	)
@@ -232,27 +219,28 @@
 	(pad "1" smd rect
 		(at -0.75 -0.55)
 		(size 1 0.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "05f5443a-c120-442f-a856-5eaf95d393cf")
 	)
 	(pad "2" smd rect
 		(at 0.75 -0.55)
 		(size 1 0.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "4c52fcc9-7ab5-4683-ae53-e1394bb45b74")
 	)
 	(pad "3" smd rect
 		(at 0.75 0.55)
 		(size 1 0.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "9ef4708d-91cf-47d6-aecd-f8ef0dbf9ccc")
 	)
 	(pad "4" smd rect
 		(at -0.75 0.55)
 		(size 1 0.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "0d3775f2-e310-4372-bb60-9f61ea01258f")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-PLCC4_2x2mm_CW.wrl"
 		(offset
 			(xyz 0 0 0)

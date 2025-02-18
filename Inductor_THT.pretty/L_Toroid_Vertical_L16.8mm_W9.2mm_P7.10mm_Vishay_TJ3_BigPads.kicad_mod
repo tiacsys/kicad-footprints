@@ -1,7 +1,7 @@
 (footprint "L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3_BigPads"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "L_Toroid, Vertical series, Radial, pin pitch=7.10mm, , length*width=16.8*9.2mm^2, Vishay, TJ3, BigPads, http://www.vishay.com/docs/34079/tj.pdf")
 	(tags "L_Toroid Vertical series Radial pin pitch 7.10mm  length 16.8mm width 9.2mm Vishay TJ3 BigPads")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "3c9b4009-8cf4-4945-b6f9-fd0e065552c2")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -331,6 +321,7 @@
 		(remove_unused_layers no)
 		(uuid "c593fe22-de1f-4ed2-a519-b6aba51cba09")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3_BigPads.wrl"
 		(offset
 			(xyz 0 0 0)

@@ -1,7 +1,7 @@
 (footprint "CP_Radial_D14.0mm_P5.00mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "CP, Radial series, Radial, pin pitch=5.00mm, , diameter=14mm, Electrolytic Capacitor")
 	(tags "CP Radial series Radial pin pitch 5.00mm  diameter 14mm Electrolytic Capacitor")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "1bf103a6-2268-479c-9c50-1e089c25c3a9")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -2591,7 +2581,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "2249e9a2-2ed4-4849-bfd8-a5b0d60d790c")
 	)
@@ -2602,7 +2592,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "d413a4ce-91b4-49d7-a82d-6f93a740339d")
 	)
@@ -2633,7 +2623,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "c32626d1-ecc0-4698-a10b-fe8d443be8f6")
 	)
@@ -2664,6 +2654,7 @@
 		(remove_unused_layers no)
 		(uuid "8da715a5-2387-4e43-b746-67c14dd1090b")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D14.0mm_P5.00mm.wrl"
 		(offset
 			(xyz 0 0 0)

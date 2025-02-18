@@ -1,7 +1,7 @@
 (footprint "L_Toroid_Vertical_L35.1mm_W21.1mm_P18.50mm_Vishay_TJ6"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "L_Toroid, Vertical series, Radial, pin pitch=18.50mm, , length*width=35.1*21.1mm^2, Vishay, TJ6, http://www.vishay.com/docs/34079/tj.pdf")
 	(tags "L_Toroid Vertical series Radial pin pitch 18.50mm  length 35.1mm width 21.1mm Vishay TJ6")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "b7054f31-e11c-4ac2-ae27-2603d964637f")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -331,6 +321,7 @@
 		(remove_unused_layers no)
 		(uuid "0bddb4c5-880c-4db9-8865-eda2d28d01c2")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L35.1mm_W21.1mm_P18.50mm_Vishay_TJ6.wrl"
 		(offset
 			(xyz 0 0 0)

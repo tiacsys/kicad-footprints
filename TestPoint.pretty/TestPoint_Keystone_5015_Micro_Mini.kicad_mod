@@ -1,7 +1,7 @@
 (footprint "TestPoint_Keystone_5015_Micro_Mini"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Keystone SMT Micro Mini Test Point 5015, http://www.keyelco.com/product-pdf.cfm?p=1353")
 	(tags "Test Point")
@@ -23,19 +23,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "b11db312-52ce-4afb-82b2-f1959491eeea")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -74,7 +61,7 @@
 			(width 0.12)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "079f16a0-5f80-4903-96a1-4a016fb37cfa")
 	)
@@ -125,7 +112,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "3b14518a-6273-4ae3-ae18-901c2b7dea1b")
 	)
@@ -143,10 +130,11 @@
 	(pad "1" smd roundrect
 		(at 0 0)
 		(size 3.4 1.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.1388888889)
 		(uuid "6d1725ac-a682-467a-b920-d0030bba137f")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5015_Micro_Mini.wrl"
 		(offset
 			(xyz 0 0 0)

@@ -1,7 +1,7 @@
 (footprint "C_Rect_L33.0mm_W13.0mm_P27.50mm_MKS4"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "C, Rect series, Radial, pin pitch=27.50mm, , length*width=33*13mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf")
 	(tags "C Rect series Radial pin pitch 27.50mm  length 33mm width 13mm Capacitor")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "1347f18f-8e97-48da-b6bb-ec2f0caee40c")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -211,6 +201,7 @@
 		(remove_unused_layers no)
 		(uuid "39b60add-d729-4177-a703-afbcbfe1c5a9")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L33.0mm_W13.0mm_P27.50mm_MKS4.wrl"
 		(offset
 			(xyz 0 0 0)

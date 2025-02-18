@@ -1,7 +1,7 @@
 (footprint "L_Wuerth_MAPI-2010"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Wuerth Elektronik, Wuerth_MAPI-2010, 2.0mmx1.6mm")
 	(tags "inductor Wuerth smd")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "7aa538c2-b6d5-49a3-b834-b846374c0cad")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -178,15 +168,16 @@
 	(pad "1" smd rect
 		(at -0.725 0)
 		(size 0.85 1.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "8adf95f4-4b92-4fd7-b8e5-36fbda2847ff")
 	)
 	(pad "2" smd rect
 		(at 0.725 0)
 		(size 0.85 1.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "45277b33-0c0a-4f26-a594-4104cd63d6f6")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_MAPI-2010.wrl"
 		(offset
 			(xyz 0 0 0)

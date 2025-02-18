@@ -1,7 +1,7 @@
 (footprint "L_Axial_L24.0mm_D7.5mm_P7.62mm_Vertical_Fastron_MESC"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Inductor, Axial series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=24*7.5mm^2, Fastron, MESC, http://cdn-reichelt.de/documents/datenblatt/B400/DS_MESC.pdf")
 	(tags "Inductor Axial series Axial Vertical pin pitch 7.62mm  length 24mm diameter 7.5mm Fastron MESC")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "d134019e-8168-4939-b4da-bf82e1d8c491")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -81,7 +71,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "fe16ff89-e896-44b6-9fbd-f4c61b414d09")
 	)
@@ -142,7 +132,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "5f08ab47-6d23-4423-9385-497cf58a3996")
 	)
@@ -173,6 +163,7 @@
 		(remove_unused_layers no)
 		(uuid "5702abed-5551-4211-b656-d66a597c2e71")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L24.0mm_D7.5mm_P7.62mm_Vertical_Fastron_MESC.wrl"
 		(offset
 			(xyz 0 0 0)
