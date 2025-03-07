@@ -102,7 +102,6 @@
 			(xy -3.775 -5.335)
 			(xy -4.015 -5.665)
 			(xy -3.535 -5.665)
-			(xy -3.775 -5.335)
 		)
 		(stroke
 			(width 0.12)
@@ -121,40 +120,14 @@
 		(fill no)
 		(layer "Cmts.User")
 	)
-	(fp_line
+	(fp_rect
 		(start -4.75 -5.75)
-		(end -4.75 5.75)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -4.75 5.75)
 		(end 4.75 5.75)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 4.75 -5.75)
-		(end -4.75 -5.75)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 4.75 5.75)
-		(end 4.75 -5.75)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_line

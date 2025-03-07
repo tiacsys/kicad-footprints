@@ -66,7 +66,6 @@
 			(xy -2.7 -5.005)
 			(xy -2.94 -5.335)
 			(xy -2.46 -5.335)
-			(xy -2.7 -5.005)
 		)
 		(stroke
 			(width 0.12)
@@ -75,40 +74,14 @@
 		(fill yes)
 		(layer "F.SilkS")
 	)
-	(fp_line
+	(fp_rect
 		(start -3.7 -5.2)
-		(end -3.7 5.2)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -3.7 5.2)
 		(end 3.7 5.2)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 3.7 -5.2)
-		(end -3.7 -5.2)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 3.7 5.2)
-		(end 3.7 -5.2)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_line
