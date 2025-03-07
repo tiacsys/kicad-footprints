@@ -145,105 +145,29 @@
 			)
 		)
 	)
-	(pad "" smd custom
-		(at -0.825 -0.825)
-		(size 1.394578 1.394578)
+	(pad "" smd roundrect
+		(at -0.975 -0.975)
+		(size 1.63 1.63)
 		(layers "F.Paste")
-		(options
-			(clearance outline)
-			(anchor circle)
-		)
-		(primitives
-			(gr_poly
-				(pts
-					(xy -0.578834 -0.382572)
-					(xy -0.382572 -0.578834)
-					(xy 0.382572 -0.578834)
-					(xy 0.578834 -0.382572)
-					(xy 0.578834 0.382572)
-					(xy 0.382572 0.578834)
-					(xy -0.382572 0.578834)
-					(xy -0.578834 0.382572)
-				)
-				(width 0.473819)
-				(fill yes)
-			)
-		)
+		(roundrect_rratio 0.153374)
 	)
-	(pad "" smd custom
-		(at -0.825 0.825)
-		(size 1.394578 1.394578)
+	(pad "" smd roundrect
+		(at -0.975 0.975)
+		(size 1.63 1.63)
 		(layers "F.Paste")
-		(options
-			(clearance outline)
-			(anchor circle)
-		)
-		(primitives
-			(gr_poly
-				(pts
-					(xy -0.578834 -0.382572)
-					(xy -0.382572 -0.578834)
-					(xy 0.382572 -0.578834)
-					(xy 0.578834 -0.382572)
-					(xy 0.578834 0.382572)
-					(xy 0.382572 0.578834)
-					(xy -0.382572 0.578834)
-					(xy -0.578834 0.382572)
-				)
-				(width 0.473819)
-				(fill yes)
-			)
-		)
+		(roundrect_rratio 0.153374)
 	)
-	(pad "" smd custom
-		(at 0.825 -0.825)
-		(size 1.394578 1.394578)
+	(pad "" smd roundrect
+		(at 0.975 -0.975)
+		(size 1.63 1.63)
 		(layers "F.Paste")
-		(options
-			(clearance outline)
-			(anchor circle)
-		)
-		(primitives
-			(gr_poly
-				(pts
-					(xy -0.578834 -0.382572)
-					(xy -0.382572 -0.578834)
-					(xy 0.382572 -0.578834)
-					(xy 0.578834 -0.382572)
-					(xy 0.578834 0.382572)
-					(xy 0.382572 0.578834)
-					(xy -0.382572 0.578834)
-					(xy -0.578834 0.382572)
-				)
-				(width 0.473819)
-				(fill yes)
-			)
-		)
+		(roundrect_rratio 0.153374)
 	)
-	(pad "" smd custom
-		(at 0.825 0.825)
-		(size 1.394578 1.394578)
+	(pad "" smd roundrect
+		(at 0.975 0.975)
+		(size 1.63 1.63)
 		(layers "F.Paste")
-		(options
-			(clearance outline)
-			(anchor circle)
-		)
-		(primitives
-			(gr_poly
-				(pts
-					(xy -0.578834 -0.382572)
-					(xy -0.382572 -0.578834)
-					(xy 0.382572 -0.578834)
-					(xy 0.578834 -0.382572)
-					(xy 0.578834 0.382572)
-					(xy 0.382572 0.578834)
-					(xy -0.382572 0.578834)
-					(xy -0.578834 0.382572)
-				)
-				(width 0.473819)
-				(fill yes)
-			)
-		)
+		(roundrect_rratio 0.153374)
 	)
 	(pad "1" smd roundrect
 		(at -2.95 -2.25)
