@@ -92,8 +92,14 @@
 		)
 	)
 	(pad "" smd roundrect
-		(at 0 0)
-		(size 1.29 3.39)
+		(at 0 -1.05)
+		(size 1.29 1.69)
+		(layers "F.Paste")
+		(roundrect_rratio 0.193798)
+	)
+	(pad "" smd roundrect
+		(at 0 1.05)
+		(size 1.29 1.69)
 		(layers "F.Paste")
 		(roundrect_rratio 0.193798)
 	)
