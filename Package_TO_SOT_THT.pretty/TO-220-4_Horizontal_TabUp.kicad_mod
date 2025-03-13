@@ -1,5 +1,5 @@
 (footprint "TO-220-4_Horizontal_TabUp"
-	(version 20240108)
+	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "TO-220-4, Horizontal, RM 2.54mm")
@@ -347,7 +347,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -394,6 +394,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 	)
+	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-4_Horizontal_TabUp.wrl"
 		(offset
 			(xyz 0 0 0)

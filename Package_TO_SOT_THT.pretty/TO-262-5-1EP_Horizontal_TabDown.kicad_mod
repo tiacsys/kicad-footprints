@@ -1,5 +1,5 @@
 (footprint "TO-262-5-1EP_Horizontal_TabDown"
-	(version 20240108)
+	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "TO-262-5, Horizontal, RM 1.7mm, IIPAK, I2PAK, see http://pdf.datasheetcatalog.com/datasheet/irf/iris4011.pdf")
@@ -298,8 +298,9 @@
 	(pad "6" smd rect
 		(at 3.4 -10.983333)
 		(size 10 8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
+	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-262-5-1EP_Horizontal_TabDown.wrl"
 		(offset
 			(xyz 0 0 0)

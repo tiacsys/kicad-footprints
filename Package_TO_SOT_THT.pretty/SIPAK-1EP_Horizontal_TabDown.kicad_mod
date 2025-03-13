@@ -1,5 +1,5 @@
 (footprint "SIPAK-1EP_Horizontal_TabDown"
-	(version 20240108)
+	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "SIPAK, Horizontal, RM 2.286mm")
@@ -266,8 +266,9 @@
 	(pad "4" smd rect
 		(at 2.286 -6.073333)
 		(size 5.5 6.2)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
+	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/SIPAK-1EP_Horizontal_TabDown.wrl"
 		(offset
 			(xyz 0 0 0)
