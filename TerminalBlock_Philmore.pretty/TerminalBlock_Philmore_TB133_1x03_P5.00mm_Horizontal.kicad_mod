@@ -1,5 +1,5 @@
 (footprint "TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal"
-	(version 20240108)
+	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Terminal Block Philmore , 3 pins, pitch 5mm, size 15x10.2mm, drill diameter 1.2mm, pad diameter 2.4mm, http://www.philmore-datak.com/mc/Page%20197.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Philmore")
@@ -135,7 +135,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 	)
 	(fp_circle
@@ -145,7 +145,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 	)
 	(fp_poly
@@ -153,13 +153,12 @@
 			(xy 0 5.52)
 			(xy 0.44 6.13)
 			(xy -0.44 6.13)
-			(xy 0 5.52)
 		)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 	)
 	(fp_line
@@ -322,7 +321,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_circle
@@ -332,7 +331,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_circle
@@ -342,7 +341,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -377,6 +376,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 	)
+	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/TerminalBlock_Philmore.3dshapes/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)
