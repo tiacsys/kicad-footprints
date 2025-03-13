@@ -1,5 +1,5 @@
 (footprint "SW_DIP_SPSTx02_Slide_Copal_CVS-02xB_W5.9mm_P1mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "SMD 2x-dip-switch SPST Copal_CVS-02xB, Slide, row spacing 5.9 mm (232 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/cvs.pdf)")
@@ -59,7 +59,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_line
@@ -132,7 +132,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -142,7 +142,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -152,7 +152,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -162,7 +162,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -188,51 +188,52 @@
 	(pad "1" smd roundrect
 		(at -2.95 -0.5)
 		(size 1.2 0.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "2" smd roundrect
 		(at -2.95 0.5)
 		(size 1.2 0.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "3" smd roundrect
 		(at 2.95 0.5)
 		(size 1.2 0.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "4" smd roundrect
 		(at 2.95 -0.5)
 		(size 1.2 0.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "5" smd roundrect
 		(at -2.15 -1.5)
 		(size 0.7 0.7)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "5" smd roundrect
 		(at -2.15 1.5)
 		(size 0.7 0.7)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "5" smd roundrect
 		(at 2.15 -1.5)
 		(size 0.7 0.7)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "5" smd roundrect
 		(at 2.15 1.5)
 		(size 0.7 0.7)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
+	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx02_Slide_Copal_CVS-02xB_W5.9mm_P1mm.wrl"
 		(offset
 			(xyz 0 0 0)

@@ -1,5 +1,5 @@
 (footprint "SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin"
-	(version 20240108)
+	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "SMD 3x-dip-switch SPST , Slide, row spacing 6.73 mm (264 mils), body size 6.7x9.18mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile, JPin")
@@ -167,7 +167,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -177,7 +177,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -187,7 +187,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -197,7 +197,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -207,7 +207,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -217,7 +217,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -227,7 +227,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_line
@@ -309,7 +309,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -319,7 +319,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -329,7 +329,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -339,7 +339,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -349,7 +349,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -359,7 +359,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -385,39 +385,40 @@
 	(pad "1" smd roundrect
 		(at -3.365 -2.54)
 		(size 2.16 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "2" smd roundrect
 		(at -3.365 0)
 		(size 2.16 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "3" smd roundrect
 		(at -3.365 2.54)
 		(size 2.16 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "4" smd roundrect
 		(at 3.365 2.54)
 		(size 2.16 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "5" smd roundrect
 		(at 3.365 0)
 		(size 2.16 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "6" smd roundrect
 		(at 3.365 -2.54)
 		(size 2.16 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
+	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin.wrl"
 		(offset
 			(xyz 0 0 0)

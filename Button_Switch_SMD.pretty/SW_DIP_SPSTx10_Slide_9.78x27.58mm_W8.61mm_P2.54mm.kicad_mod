@@ -1,5 +1,5 @@
 (footprint "SW_DIP_SPSTx10_Slide_9.78x27.58mm_W8.61mm_P2.54mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "SMD 10x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x27.58mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD")
@@ -356,7 +356,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -366,7 +366,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -376,7 +376,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -386,7 +386,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -396,7 +396,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -406,7 +406,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -416,7 +416,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -426,7 +426,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -436,7 +436,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -446,7 +446,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -456,7 +456,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -466,7 +466,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -476,7 +476,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -486,7 +486,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -496,7 +496,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -506,7 +506,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -516,7 +516,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -526,7 +526,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -536,7 +536,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -546,7 +546,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 	)
 	(fp_rect
@@ -556,7 +556,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_line
@@ -701,7 +701,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -711,7 +711,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -721,7 +721,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -731,7 +731,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -741,7 +741,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -751,7 +751,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -761,7 +761,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -771,7 +771,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -781,7 +781,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -791,7 +791,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -801,7 +801,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -811,7 +811,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -821,7 +821,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -831,7 +831,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -841,7 +841,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -851,7 +851,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -861,7 +861,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -871,7 +871,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -881,7 +881,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Fab")
 	)
 	(fp_rect
@@ -891,7 +891,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -917,123 +917,124 @@
 	(pad "1" smd roundrect
 		(at -4.305 -11.43)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "2" smd roundrect
 		(at -4.305 -8.89)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "3" smd roundrect
 		(at -4.305 -6.35)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "4" smd roundrect
 		(at -4.305 -3.81)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "5" smd roundrect
 		(at -4.305 -1.27)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "6" smd roundrect
 		(at -4.305 1.27)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "7" smd roundrect
 		(at -4.305 3.81)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "8" smd roundrect
 		(at -4.305 6.35)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "9" smd roundrect
 		(at -4.305 8.89)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "10" smd roundrect
 		(at -4.305 11.43)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "11" smd roundrect
 		(at 4.305 11.43)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "12" smd roundrect
 		(at 4.305 8.89)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "13" smd roundrect
 		(at 4.305 6.35)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "14" smd roundrect
 		(at 4.305 3.81)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "15" smd roundrect
 		(at 4.305 1.27)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "16" smd roundrect
 		(at 4.305 -1.27)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "17" smd roundrect
 		(at 4.305 -3.81)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "18" smd roundrect
 		(at 4.305 -6.35)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "19" smd roundrect
 		(at 4.305 -8.89)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
 	(pad "20" smd roundrect
 		(at 4.305 -11.43)
 		(size 2.44 1.12)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
+	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx10_Slide_9.78x27.58mm_W8.61mm_P2.54mm.wrl"
 		(offset
 			(xyz 0 0 0)
