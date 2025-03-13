@@ -1,5 +1,5 @@
 (footprint "Altech_AK100_1x23_P5.00mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Altech AK100 serie terminal block (Script generated with StandardBox.py) (https://www.altechcorp.com/PDFS/PCBMETRC.PDF)")
@@ -115,49 +115,19 @@
 		)
 		(layer "F.CrtYd")
 	)
-	(fp_line
-		(start -2.5 -4)
-		(end -1.5 -5)
+	(fp_poly
+		(pts
+			(xy -2.5 -4)
+			(xy -2.5 4)
+			(xy 112.5 4)
+			(xy 112.5 -5)
+			(xy -1.5 -5)
+		)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -2.5 4)
-		(end -2.5 -4)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -1.5 -5)
-		(end 112.5 -5)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 112.5 -5)
-		(end 112.5 4)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 112.5 4)
-		(end -2.5 4)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -331,6 +301,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 	)
+	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/TerminalBlock_Altech.3dshapes/Altech_AK100_1x23_P5.00mm.wrl"
 		(offset
 			(xyz 0 0 0)
