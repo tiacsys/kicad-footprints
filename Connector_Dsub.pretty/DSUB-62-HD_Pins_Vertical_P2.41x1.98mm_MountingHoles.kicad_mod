@@ -1,5 +1,5 @@
 (footprint "DSUB-62-HD_Pins_Vertical_P2.41x1.98mm_MountingHoles"
-	(version 20240108)
+	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "62-pin D-Sub connector, straight/vertical, THT-mount, pins (male), pitch 2.41x1.98mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
@@ -850,6 +850,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 	)
+	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-62-HD_Pins_Vertical_P2.41x1.98mm_MountingHoles.wrl"
 		(offset
 			(xyz 0 0 0)
