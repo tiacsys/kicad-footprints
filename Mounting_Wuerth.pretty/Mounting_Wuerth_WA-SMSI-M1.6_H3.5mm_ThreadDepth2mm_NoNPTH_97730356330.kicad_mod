@@ -1,5 +1,5 @@
 (footprint "Mounting_Wuerth_WA-SMSI-M1.6_H3.5mm_ThreadDepth2mm_NoNPTH_97730356330"
-	(version 20240108)
+	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Mounting Hardware, inside blind hole M1.6, height 3.5, Wuerth electronics 97730356330 (https://katalog.we-online.com/em/datasheet/97730356330.pdf), generated with kicad-footprint-generator")
@@ -32,7 +32,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_circle
@@ -42,7 +42,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -504,6 +504,7 @@
 		(size 4 4)
 		(layers "F.Cu" "F.Mask")
 	)
+	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M1.6_H3.5mm_ThreadDepth2mm_NoNPTH_97730356330.wrl"
 		(offset
 			(xyz 0 0 0)
