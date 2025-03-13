@@ -1,5 +1,5 @@
 (footprint "WLCSP-4_0.89x0.89mm_Layout2x2_P0.5mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "X1-WLB0909-4, 0.89x0.89mm, 4 Ball, 2x2 Layout, 0.5mm Pitch, https://www.diodes.com/assets/Datasheets/AP22913.pdf")
@@ -66,13 +66,12 @@
 			(xy -0.6275 -0.6275)
 			(xy -1.1275 -0.6275)
 			(xy -0.6275 -1.1275)
-			(xy -0.6275 -0.6275)
 		)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 	)
 	(fp_line
@@ -170,26 +169,27 @@
 		(at -0.25 -0.25)
 		(size 0.235 0.235)
 		(property pad_prop_bga)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(pad "A2" smd circle
 		(at 0.25 -0.25)
 		(size 0.235 0.235)
 		(property pad_prop_bga)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(pad "B1" smd circle
 		(at -0.25 0.25)
 		(size 0.235 0.235)
 		(property pad_prop_bga)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(pad "B2" smd circle
 		(at 0.25 0.25)
 		(size 0.235 0.235)
 		(property pad_prop_bga)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
+	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-4_0.89x0.89mm_Layout2x2_P0.5mm.wrl"
 		(offset
 			(xyz 0 0 0)
