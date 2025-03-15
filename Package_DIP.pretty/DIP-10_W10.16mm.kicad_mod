@@ -1,5 +1,5 @@
 (footprint "DIP-10_W10.16mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "10-lead though-hole mounted DIP package, row spacing 10.16mm (400 mils)")
@@ -87,7 +87,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_line
@@ -216,6 +216,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 	)
+	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-10_W10.16mm.wrl"
 		(offset
 			(xyz 0 0 0)

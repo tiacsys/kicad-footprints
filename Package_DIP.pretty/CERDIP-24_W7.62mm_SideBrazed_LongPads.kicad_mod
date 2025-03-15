@@ -1,5 +1,5 @@
 (footprint "CERDIP-24_W7.62mm_SideBrazed_LongPads"
-	(version 20240108)
+	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "24-lead through-hole mounted CERDIP, JEDEC MS-015-AG package, row spacing 7.62mm (300 mils), SideBrazed, LongPads, https://www.jedec.org/system/files/docs/Ms-015a.pdf")
@@ -87,7 +87,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_line
@@ -314,6 +314,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 	)
+	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/CERDIP-24_W7.62mm_SideBrazed_LongPads.wrl"
 		(offset
 			(xyz 0 0 0)
