@@ -170,35 +170,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start -2 0.042893)
-		(end -1.5 0.75)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
 		(start -2.25 -2.75)
 		(end -2.25 -2.25)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -0.25 -2.75)
-		(end -0.25 -2.25)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 1.75 -2.75)
-		(end 1.75 -2.25)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -215,17 +188,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start -0.25 -2.25)
-		(end 0.25 -2.25)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 1.75 -2.25)
-		(end 2.25 -2.25)
+		(start -2 0.042893)
+		(end -1.5 0.75)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -242,24 +206,6 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 0.25 -2.75)
-		(end -0.25 -2.75)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 2.25 -2.75)
-		(end 1.75 -2.75)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
 		(start -1.75 -2.25)
 		(end -1.75 -2.75)
 		(stroke
@@ -269,8 +215,62 @@
 		(layer "F.Fab")
 	)
 	(fp_line
+		(start -0.25 -2.75)
+		(end -0.25 -2.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+	)
+	(fp_line
+		(start -0.25 -2.25)
+		(end 0.25 -2.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+	)
+	(fp_line
+		(start 0.25 -2.75)
+		(end -0.25 -2.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+	)
+	(fp_line
 		(start 0.25 -2.25)
 		(end 0.25 -2.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+	)
+	(fp_line
+		(start 1.75 -2.75)
+		(end 1.75 -2.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+	)
+	(fp_line
+		(start 1.75 -2.25)
+		(end 2.25 -2.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+	)
+	(fp_line
+		(start 2.25 -2.75)
+		(end 1.75 -2.75)
 		(stroke
 			(width 0.1)
 			(type solid)

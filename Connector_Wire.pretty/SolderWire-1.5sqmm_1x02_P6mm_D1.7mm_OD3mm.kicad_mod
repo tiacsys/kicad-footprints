@@ -35,26 +35,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 3.75 -2.08)
-		(end 3.75 2.08)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
 		(start -2.25 2.08)
 		(end 2.25 2.08)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 3.75 2.08)
-		(end 8.25 2.08)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -71,8 +53,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 8.25 -2.08)
-		(end 3.75 -2.08)
+		(start 2.25 2.08)
+		(end 2.25 -2.08)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -80,8 +62,26 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 2.25 2.08)
-		(end 2.25 -2.08)
+		(start 3.75 -2.08)
+		(end 3.75 2.08)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3.75 2.08)
+		(end 8.25 2.08)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 8.25 -2.08)
+		(end 3.75 -2.08)
 		(stroke
 			(width 0.05)
 			(type solid)
