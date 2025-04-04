@@ -2,8 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "SMD Crystal SERIES SMD0603/4 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-4.pdf, hand-soldering, 6.0x3.5mm package, generated with kicad-footprint-generator make_crystal.py")
-	(tags "SMD SMT crystal hand-soldering")
+	(descr "SMD0603/4, Crystal, 6.0x3.5mm package, SMD, hand-soldering, generated with kicad-footprint-generator make_crystal.py, http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-4.pdf")
 	(property "Reference" "REF**"
 		(at 0 -3.55 0)
 		(layer "F.SilkS")

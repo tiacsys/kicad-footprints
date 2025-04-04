@@ -2,8 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Miniature Crystal Clock Oscillator Abracon ASV series, http://www.abracon.com/Oscillators/ASV.pdf, hand-soldering, 7.0x5.1mm package, generated with kicad-footprint-generator make_crystal.py")
-	(tags "SMD SMT crystal oscillator hand-soldering")
+	(descr "Abracon ASV, Miniature Crystal Clock Oscillator, 7.0x5.1mm package, SMD, hand-soldering, generated with kicad-footprint-generator make_crystal.py, http://www.abracon.com/Oscillators/ASV.pdf")
 	(property "Reference" "REF**"
 		(at 0 -4.95 0)
 		(layer "F.SilkS")

@@ -2,8 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "mems programmable oscillator https://www.sitime.com/datasheet/SiT8008 page 10, 2.5x2.0mm package, generated with kicad-footprint-generator make_crystal.py")
-	(tags "SMD SMT oscillator mems programmable")
+	(descr "SiTime SiT8008B, MEMS programmable oscillator, 2.5x2.0mm package, SMD, generated with kicad-footprint-generator make_crystal.py, https://www.sitime.com/datasheet/SiT8008 page 10")
 	(property "Reference" "REF**"
 		(at 0 -2.2 0)
 		(layer "F.SilkS")

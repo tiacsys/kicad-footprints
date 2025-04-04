@@ -2,8 +2,8 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "SMD Resomator/Filter Murata TPSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 7.9x3.8mm package, generated with kicad-footprint-generator make_crystal.py")
-	(tags "SMD SMT ceramic resonator filter filter")
+	(descr "Murata TPSKA, Resonator/Filter, 7.9x3.8mm package, SMD, generated with kicad-footprint-generator make_crystal.py, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf")
+	(tags "ceramic")
 	(property "Reference" "REF**"
 		(at 0 -3.35 0)
 		(layer "F.SilkS")

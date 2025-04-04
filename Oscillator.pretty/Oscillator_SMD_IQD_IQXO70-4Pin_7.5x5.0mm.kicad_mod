@@ -2,8 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "IQD Crystal Clock Oscillator IQXO-70, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, 7.5x5.0mm package, generated with kicad-footprint-generator make_crystal.py")
-	(tags "SMD SMT crystal oscillator")
+	(descr "IQD IQXO-70, Crystal Clock Oscillator, 7.5x5.0mm package, SMD, generated with kicad-footprint-generator make_crystal.py, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf")
 	(property "Reference" "REF**"
 		(at 0 -4.05 0)
 		(layer "F.SilkS")

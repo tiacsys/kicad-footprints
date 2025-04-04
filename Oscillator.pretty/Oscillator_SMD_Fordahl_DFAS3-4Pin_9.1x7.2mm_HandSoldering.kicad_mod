@@ -2,8 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Miniature Crystal Clock Oscillator TXCO Fordahl DFA S3-KS/LS/US, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, hand-soldering, 9.1x7.2mm package, generated with kicad-footprint-generator make_crystal.py")
-	(tags "SMD SMT crystal oscillator hand-soldering")
+	(descr "Fordahl DFA S3-KS/LS/US, Miniature Crystal Clock Oscillator TXCO, 9.1x7.2mm package, SMD, hand-soldering, generated with kicad-footprint-generator make_crystal.py, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf")
 	(property "Reference" "REF**"
 		(at 0 -6.35 0)
 		(layer "F.SilkS")

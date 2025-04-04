@@ -2,8 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Miniature Crystal Clock Oscillator TXC 7C series, http://www.txccorp.com/download/products/osc/7C_o.pdf, hand-soldering, 5.0x3.2mm package, generated with kicad-footprint-generator make_crystal.py")
-	(tags "SMD SMT crystal oscillator hand-soldering")
+	(descr "TXC 7C, Miniature Crystal Clock Oscillator, 5.0x3.2mm package, SMD, hand-soldering, generated with kicad-footprint-generator make_crystal.py, http://www.txccorp.com/download/products/osc/7C_o.pdf")
 	(property "Reference" "REF**"
 		(at 0 -3.25 0)
 		(layer "F.SilkS")

@@ -2,8 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Ultraminiature Crystal Clock Oscillator TXCO Fordahl DFA S15-OV/UOV, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, 5.0x3.2mm package, generated with kicad-footprint-generator make_crystal.py")
-	(tags "SMD SMT crystal oscillator")
+	(descr "Fordahl DFA S15-OV/UOV, Ultraminiature Crystal Clock Oscillator TXCO, 5.0x3.2mm package, SMD, generated with kicad-footprint-generator make_crystal.py, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf")
 	(property "Reference" "REF**"
 		(at 0 -2.95 0)
 		(layer "F.SilkS")
