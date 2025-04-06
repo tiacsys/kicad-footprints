@@ -61,81 +61,19 @@
 		)
 		(layer "F.SilkS")
 	)
-	(fp_line
+	(fp_rect
 		(start -5.33 -2.79)
-		(end -5.33 12.95)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -5.33 12.95)
 		(end 25.65 12.95)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 25.65 -2.79)
-		(end -5.33 -2.79)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 25.65 12.95)
-		(end 25.65 -2.79)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -5.08 -2.54)
-		(end -5.08 12.7)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -5.08 0)
-		(end -5.08 10.16)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
 	)
 	(fp_line
 		(start -5.08 0)
 		(end -3.556 10.16)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -5.08 10.16)
-		(end 25.4 10.16)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -5.08 12.7)
-		(end 25.4 12.7)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -223,40 +161,24 @@
 		)
 		(layer "F.Fab")
 	)
-	(fp_line
-		(start 25.4 -2.54)
-		(end -5.08 -2.54)
+	(fp_rect
+		(start -5.08 -2.54)
+		(end 25.4 12.7)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.Fab")
 	)
-	(fp_line
-		(start 25.4 0)
-		(end -5.08 0)
+	(fp_rect
+		(start -5.08 0)
+		(end 25.4 10.16)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 25.4 10.16)
-		(end 25.4 0)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 25.4 12.7)
-		(end 25.4 -2.54)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -269,7 +191,7 @@
 			)
 		)
 	)
-	(pad "1" thru_hole rect
+	(pad "1" thru_hole circle
 		(at 0 0)
 		(size 3 3)
 		(drill 1.5)

@@ -61,81 +61,19 @@
 		)
 		(layer "F.SilkS")
 	)
-	(fp_line
+	(fp_rect
 		(start -5.97 -2.8)
-		(end -5.97 18.03)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -5.97 18.03)
 		(end 28.83 18.03)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 28.83 -2.8)
-		(end -5.97 -2.8)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 28.83 18.03)
-		(end 28.83 -2.8)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -5.715 -2.54)
-		(end -5.715 17.78)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -5.715 0)
-		(end -5.715 15.24)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
 	)
 	(fp_line
 		(start -5.715 0)
 		(end -4.0005 15.24)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -5.715 15.24)
-		(end 28.575 15.24)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -5.715 17.78)
-		(end 28.575 17.78)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -223,40 +161,24 @@
 		)
 		(layer "F.Fab")
 	)
-	(fp_line
-		(start 28.575 -2.54)
-		(end -5.715 -2.54)
+	(fp_rect
+		(start -5.715 -2.54)
+		(end 28.575 17.78)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.Fab")
 	)
-	(fp_line
-		(start 28.575 0)
-		(end -5.715 0)
+	(fp_rect
+		(start -5.715 0)
+		(end 28.575 15.24)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 28.575 15.24)
-		(end 28.575 0)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 28.575 17.78)
-		(end 28.575 -2.54)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -269,7 +191,7 @@
 			)
 		)
 	)
-	(pad "1" thru_hole rect
+	(pad "1" thru_hole circle
 		(at 0 0)
 		(size 3 3)
 		(drill 1.5)

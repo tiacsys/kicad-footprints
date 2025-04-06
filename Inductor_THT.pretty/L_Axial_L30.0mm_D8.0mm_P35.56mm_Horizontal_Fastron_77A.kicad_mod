@@ -35,42 +35,6 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 2.66 -4.12)
-		(end 2.66 4.12)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start 2.66 4.12)
-		(end 32.9 4.12)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start 32.9 -4.12)
-		(end 2.66 -4.12)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start 32.9 4.12)
-		(end 32.9 -4.12)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
 		(start 33.92 0)
 		(end 32.9 0)
 		(stroke
@@ -79,81 +43,29 @@
 		)
 		(layer "F.SilkS")
 	)
-	(fp_line
-		(start -1.65 -4.25)
-		(end -1.65 4.25)
+	(fp_rect
+		(start 2.66 -4.12)
+		(end 32.9 4.12)
 		(stroke
-			(width 0.05)
+			(width 0.12)
 			(type solid)
 		)
-		(layer "F.CrtYd")
+		(fill no)
+		(layer "F.SilkS")
 	)
-	(fp_line
-		(start -1.65 4.25)
+	(fp_rect
+		(start -1.65 -4.25)
 		(end 37.21 4.25)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 37.21 -4.25)
-		(end -1.65 -4.25)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 37.21 4.25)
-		(end 37.21 -4.25)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_line
 		(start 0 0)
 		(end 2.78 0)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 2.78 -4)
-		(end 2.78 4)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 2.78 4)
-		(end 32.78 4)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 32.78 -4)
-		(end 2.78 -4)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 32.78 4)
-		(end 32.78 -4)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -167,6 +79,16 @@
 			(width 0.1)
 			(type solid)
 		)
+		(layer "F.Fab")
+	)
+	(fp_rect
+		(start 2.78 -4)
+		(end 32.78 4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"

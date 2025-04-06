@@ -45,40 +45,14 @@
 		(fill no)
 		(layer "F.SilkS")
 	)
-	(fp_line
+	(fp_rect
 		(start -5.06 -14.2)
-		(end -5.06 14.2)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -5.06 14.2)
 		(end 23.35 14.2)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 23.35 -14.2)
-		(end -5.06 -14.2)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 23.35 14.2)
-		(end 23.35 -14.2)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_circle

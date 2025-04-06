@@ -35,24 +35,6 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 2.42 -4.885)
-		(end 2.42 4.885)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start 2.42 4.885)
-		(end 10.28 4.885)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
 		(start 3.563 -4.885)
 		(end 3.563 4.885)
 		(stroke
@@ -80,24 +62,6 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 10.28 -4.885)
-		(end 2.42 -4.885)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start 10.28 4.885)
-		(end 10.28 -4.885)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
 		(start 11.06 0)
 		(end 10.28 0)
 		(stroke
@@ -106,63 +70,29 @@
 		)
 		(layer "F.SilkS")
 	)
-	(fp_line
-		(start -1.65 -5.02)
-		(end -1.65 5.02)
+	(fp_rect
+		(start 2.42 -4.885)
+		(end 10.28 4.885)
 		(stroke
-			(width 0.05)
+			(width 0.12)
 			(type solid)
 		)
-		(layer "F.CrtYd")
+		(fill no)
+		(layer "F.SilkS")
 	)
-	(fp_line
-		(start -1.65 5.02)
+	(fp_rect
+		(start -1.65 -5.02)
 		(end 14.35 5.02)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 14.35 -5.02)
-		(end -1.65 -5.02)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 14.35 5.02)
-		(end 14.35 -5.02)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_line
 		(start 0 0)
 		(end 2.54 0)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 2.54 -4.765)
-		(end 2.54 4.765)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 2.54 4.765)
-		(end 10.16 4.765)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -197,30 +127,22 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 10.16 -4.765)
-		(end 2.54 -4.765)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 10.16 4.765)
-		(end 10.16 -4.765)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
 		(start 12.7 0)
 		(end 10.16 0)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
+		(layer "F.Fab")
+	)
+	(fp_rect
+		(start 2.54 -4.765)
+		(end 10.16 4.765)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "K"
@@ -253,12 +175,13 @@
 			)
 		)
 	)
-	(pad "1" thru_hole rect
+	(pad "1" thru_hole roundrect
 		(at 0 0)
 		(size 2.8 2.8)
 		(drill 1.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(roundrect_rratio 0.089286)
 	)
 	(pad "2" thru_hole circle
 		(at 12.7 0)

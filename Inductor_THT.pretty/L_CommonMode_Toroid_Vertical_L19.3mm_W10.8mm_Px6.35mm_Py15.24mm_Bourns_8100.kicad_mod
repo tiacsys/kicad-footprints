@@ -61,81 +61,19 @@
 		)
 		(layer "F.SilkS")
 	)
-	(fp_line
+	(fp_rect
 		(start -2.29 -2.48)
-		(end -2.29 8.83)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -2.29 8.83)
 		(end 17.53 8.83)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 17.53 -2.48)
-		(end -2.29 -2.48)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 17.53 8.83)
-		(end 17.53 -2.48)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -2.032 -2.2225)
-		(end -2.032 8.5725)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -2.032 0)
-		(end -2.032 6.35)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
 	)
 	(fp_line
 		(start -2.032 0)
 		(end -1.0668 6.35)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -2.032 6.35)
-		(end 17.272 6.35)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -2.032 8.5725)
-		(end 17.272 8.5725)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -223,40 +161,24 @@
 		)
 		(layer "F.Fab")
 	)
-	(fp_line
-		(start 17.272 -2.2225)
-		(end -2.032 -2.2225)
+	(fp_rect
+		(start -2.032 -2.2225)
+		(end 17.272 8.5725)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.Fab")
 	)
-	(fp_line
-		(start 17.272 0)
-		(end -2.032 0)
+	(fp_rect
+		(start -2.032 0)
+		(end 17.272 6.35)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 17.272 6.35)
-		(end 17.272 0)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 17.272 8.5725)
-		(end 17.272 -2.2225)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -269,7 +191,7 @@
 			)
 		)
 	)
-	(pad "1" thru_hole rect
+	(pad "1" thru_hole circle
 		(at 0 0)
 		(size 3 3)
 		(drill 1.5)

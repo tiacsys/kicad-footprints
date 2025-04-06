@@ -79,63 +79,19 @@
 		)
 		(layer "F.SilkS")
 	)
-	(fp_line
+	(fp_rect
 		(start -8.65 -1.46)
-		(end -8.65 8.55)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -8.65 8.55)
 		(end 8.65 8.55)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 8.65 -1.46)
-		(end -8.65 -1.46)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 8.65 8.55)
-		(end 8.65 -1.46)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -8.4 -1.05)
-		(end -8.4 8.15)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
 	)
 	(fp_line
 		(start -8.4 -1.05)
 		(end -7.56 8.15)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -8.4 8.15)
-		(end 8.4 8.15)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -223,22 +179,14 @@
 		)
 		(layer "F.Fab")
 	)
-	(fp_line
-		(start 8.4 -1.05)
-		(end -8.4 -1.05)
+	(fp_rect
+		(start -8.4 -1.05)
+		(end 8.4 8.15)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 8.4 8.15)
-		(end 8.4 -1.05)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
