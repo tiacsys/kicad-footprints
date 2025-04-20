@@ -66,8 +66,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -1.1936 0.001028)
-		(end 6.339888 -0.953546)
+		(start -1.1936 0)
+		(end 6.339984 -0.953903)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -75,8 +75,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 0.292061 -5.545761)
-		(end 7.293585 -2.605811)
+		(start 0.292661 -5.5468)
+		(end 7.293887 -2.606113)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -84,8 +84,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 0.293089 5.547542)
-		(end 6.340065 0.954206)
+		(start 0.292661 5.5468)
+		(end 6.339984 0.953903)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -93,8 +93,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 4.352013 -9.606654)
-		(end 8.945629 -3.559891)
+		(start 4.3532 -9.607339)
+		(end 8.946097 -3.560016)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -102,8 +102,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 4.353793 9.607682)
-		(end 7.294068 2.606294)
+		(start 4.3532 9.607339)
+		(end 7.293887 2.606113)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -111,8 +111,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 9.898458 -11.0936)
-		(end 10.853381 -3.560156)
+		(start 9.9 -11.0936)
+		(end 10.853903 -3.560016)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -120,8 +120,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 9.900514 11.0936)
-		(end 8.946289 3.560068)
+		(start 9.9 11.0936)
+		(end 8.946097 3.560016)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -129,8 +129,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 15.445316 -9.608196)
-		(end 12.50569 -2.606535)
+		(start 15.4468 -9.607339)
+		(end 12.506113 -2.606113)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -138,8 +138,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 15.447097 9.607168)
-		(end 10.854041 3.559979)
+		(start 15.4468 9.607339)
+		(end 10.853903 3.560016)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -147,8 +147,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 19.506397 -5.548432)
-		(end 13.459847 -0.954536)
+		(start 19.507339 -5.5468)
+		(end 13.460016 -0.953903)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -156,17 +156,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 19.507425 5.546652)
-		(end 12.506173 2.606052)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 20.9936 -0.002056)
-		(end 13.4602 0.953216)
+		(start 19.507339 5.5468)
+		(end 12.506113 2.606113)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -175,7 +166,16 @@
 	)
 	(fp_line
 		(start 20.9936 0)
-		(end 13.460024 0.953876)
+		(end 13.460016 0.953903)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+	)
+	(fp_line
+		(start 20.9936 0)
+		(end 13.460016 0.953903)
 		(stroke
 			(width 0.1)
 			(type solid)
