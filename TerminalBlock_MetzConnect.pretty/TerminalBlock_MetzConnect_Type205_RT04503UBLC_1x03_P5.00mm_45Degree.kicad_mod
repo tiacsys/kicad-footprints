@@ -233,8 +233,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_arc
-		(start -1.799932 -4.400268)
-		(mid 0.000138 -5.800108)
+		(start -1.8 -4.4)
+		(mid 0 -5.8)
 		(end 1.8 -4.4)
 		(stroke
 			(width 0.12)
@@ -244,8 +244,8 @@
 	)
 	(fp_arc
 		(start 1.8 -4.4)
-		(mid 0.000138 -2.999892)
-		(end -1.799932 -4.399732)
+		(mid 0 -3)
+		(end -1.8 -4.4)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -253,8 +253,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_arc
-		(start 3.200068 -4.400268)
-		(mid 5.000138 -5.800108)
+		(start 3.2 -4.4)
+		(mid 5 -5.8)
 		(end 6.8 -4.4)
 		(stroke
 			(width 0.12)
@@ -264,8 +264,8 @@
 	)
 	(fp_arc
 		(start 6.8 -4.4)
-		(mid 5.000138 -2.999892)
-		(end 3.200068 -4.399732)
+		(mid 5 -3)
+		(end 3.2 -4.4)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -273,8 +273,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_arc
-		(start 8.200068 -4.400268)
-		(mid 10.000138 -5.800108)
+		(start 8.2 -4.4)
+		(mid 10 -5.8)
 		(end 11.8 -4.4)
 		(stroke
 			(width 0.12)
@@ -284,8 +284,8 @@
 	)
 	(fp_arc
 		(start 11.8 -4.4)
-		(mid 10.000138 -2.999892)
-		(end 8.200068 -4.399732)
+		(mid 10 -3)
+		(end 8.2 -4.4)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -513,8 +513,8 @@
 		(layer "F.Fab")
 	)
 	(fp_arc
-		(start -1.799932 -4.400268)
-		(mid 0.000138 -5.800108)
+		(start -1.8 -4.4)
+		(mid 0 -5.8)
 		(end 1.8 -4.4)
 		(stroke
 			(width 0.1)
@@ -524,8 +524,8 @@
 	)
 	(fp_arc
 		(start 1.8 -4.4)
-		(mid -0.000831 -3.000646)
-		(end -1.800409 -4.40161)
+		(mid 0 -3)
+		(end -1.8 -4.4)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -533,8 +533,8 @@
 		(layer "F.Fab")
 	)
 	(fp_arc
-		(start 3.200068 -4.400268)
-		(mid 5.000138 -5.800108)
+		(start 3.2 -4.4)
+		(mid 5 -5.8)
 		(end 6.8 -4.4)
 		(stroke
 			(width 0.1)
@@ -544,8 +544,8 @@
 	)
 	(fp_arc
 		(start 6.8 -4.4)
-		(mid 4.999169 -3.000646)
-		(end 3.199591 -4.40161)
+		(mid 5 -3)
+		(end 3.2 -4.4)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -553,8 +553,8 @@
 		(layer "F.Fab")
 	)
 	(fp_arc
-		(start 8.200068 -4.400268)
-		(mid 10.000138 -5.800108)
+		(start 8.2 -4.4)
+		(mid 10 -5.8)
 		(end 11.8 -4.4)
 		(stroke
 			(width 0.1)
@@ -564,8 +564,8 @@
 	)
 	(fp_arc
 		(start 11.8 -4.4)
-		(mid 9.999169 -3.000646)
-		(end 8.199591 -4.40161)
+		(mid 10 -3)
+		(end 8.2 -4.4)
 		(stroke
 			(width 0.1)
 			(type solid)
