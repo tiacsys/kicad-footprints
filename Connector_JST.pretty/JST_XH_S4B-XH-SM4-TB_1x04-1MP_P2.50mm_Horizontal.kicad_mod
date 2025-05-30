@@ -80,8 +80,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -8.35 -6)
-		(end -8.35 6)
+		(start -8.35 1.09)
+		(end -7.2 1.09)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -90,6 +90,123 @@
 	)
 	(fp_line
 		(start -8.35 6)
+		(end -8.35 1.09)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -7.2 -2.2)
+		(end -4.9 -2.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -7.2 1.09)
+		(end -7.2 -2.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -5.54 5.8)
+		(end -5.54 6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -5.54 6)
+		(end -8.35 6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -4.9 -6)
+		(end 4.9 -6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -4.9 -2.2)
+		(end -4.9 -6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 4.9 -6)
+		(end 4.9 -2.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 4.9 -2.2)
+		(end 7.2 -2.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 5.54 5.8)
+		(end -5.54 5.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 5.54 6)
+		(end 5.54 5.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 7.2 -2.2)
+		(end 7.2 1.09)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 7.2 1.09)
+		(end 8.35 1.09)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 8.35 1.09)
 		(end 8.35 6)
 		(stroke
 			(width 0.05)
@@ -98,17 +215,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 8.35 -6)
-		(end -8.35 -6)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
 		(start 8.35 6)
-		(end 8.35 -6)
+		(end 5.54 6)
 		(stroke
 			(width 0.05)
 			(type solid)

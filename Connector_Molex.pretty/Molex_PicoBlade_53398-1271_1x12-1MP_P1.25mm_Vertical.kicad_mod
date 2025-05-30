@@ -5,7 +5,7 @@
 	(descr "Molex PicoBlade series connector, 53398-1271 (http://www.molex.com/pdm_docs/sd/533980271_sd.pdf), generated with kicad-footprint-generator")
 	(tags "connector Molex PicoBlade vertical")
 	(property "Reference" "REF**"
-		(at 0 -3.11 0)
+		(at 0 -3.1 0)
 		(layer "F.SilkS")
 		(effects
 			(font
@@ -80,8 +80,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -10.98 -2.41)
-		(end -10.98 3.5)
+		(start -10.98 -0.5)
+		(end -10.38 -0.5)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -90,6 +90,159 @@
 	)
 	(fp_line
 		(start -10.98 3.5)
+		(end -10.98 -0.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -10.38 -0.7)
+		(end -8.88 -0.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -10.38 -0.5)
+		(end -10.38 -0.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -8.88 -1.6)
+		(end -7.78 -1.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -8.88 -0.7)
+		(end -8.88 -1.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -7.87 3.1)
+		(end -7.87 3.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -7.87 3.5)
+		(end -10.98 3.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -7.78 -2.4)
+		(end 7.78 -2.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -7.78 -1.6)
+		(end -7.78 -2.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 7.78 -2.4)
+		(end 7.78 -1.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 7.78 -1.6)
+		(end 8.88 -1.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 7.87 3.1)
+		(end -7.87 3.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 7.87 3.5)
+		(end 7.87 3.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 8.88 -1.6)
+		(end 8.88 -0.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 8.88 -0.7)
+		(end 10.38 -0.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 10.38 -0.7)
+		(end 10.38 -0.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 10.38 -0.5)
+		(end 10.98 -0.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 10.98 -0.5)
 		(end 10.98 3.5)
 		(stroke
 			(width 0.05)
@@ -98,17 +251,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 10.98 -2.41)
-		(end -10.98 -2.41)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
 		(start 10.98 3.5)
-		(end 10.98 -2.41)
+		(end 7.87 3.5)
 		(stroke
 			(width 0.05)
 			(type solid)

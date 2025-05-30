@@ -80,8 +80,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -10.85 -6)
-		(end -10.85 6)
+		(start -10.85 1.09)
+		(end -9.7 1.09)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -90,6 +90,123 @@
 	)
 	(fp_line
 		(start -10.85 6)
+		(end -10.85 1.09)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -9.7 -2.2)
+		(end -7.4 -2.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -9.7 1.09)
+		(end -9.7 -2.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -8.04 5.8)
+		(end -8.04 6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -8.04 6)
+		(end -10.85 6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -7.4 -6)
+		(end 7.4 -6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -7.4 -2.2)
+		(end -7.4 -6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 7.4 -6)
+		(end 7.4 -2.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 7.4 -2.2)
+		(end 9.7 -2.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 8.04 5.8)
+		(end -8.04 5.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 8.04 6)
+		(end 8.04 5.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 9.7 -2.2)
+		(end 9.7 1.09)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 9.7 1.09)
+		(end 10.85 1.09)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 10.85 1.09)
 		(end 10.85 6)
 		(stroke
 			(width 0.05)
@@ -98,17 +215,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 10.85 -6)
-		(end -10.85 -6)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
 		(start 10.85 6)
-		(end 10.85 -6)
+		(end 8.04 6)
 		(stroke
 			(width 0.05)
 			(type solid)
