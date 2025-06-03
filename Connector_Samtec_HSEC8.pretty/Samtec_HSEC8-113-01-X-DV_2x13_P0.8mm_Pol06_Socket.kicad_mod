@@ -142,14 +142,14 @@
 		)
 		(layer "F.SilkS")
 	)
-	(fp_arc
-		(start -6.15 3.4)
-		(mid -6.65 3.4)
+	(fp_circle
+		(center -6.4 3.4)
 		(end -6.15 3.4)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.SilkS")
 	)
 	(fp_line
