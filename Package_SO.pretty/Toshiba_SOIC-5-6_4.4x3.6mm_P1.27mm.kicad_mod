@@ -1,8 +1,8 @@
-(footprint "Toshiba_SOIC-6_4.4x3.6mm_P1.27mm"
+(footprint "Toshiba_SOIC-5-6_4.4x3.6mm_P1.27mm"
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Toshiba  SOIC, 6 Pin (https://toshiba.semicon-storage.com/eu/semiconductor/design-development/package/detail.5pin%20MFSOP6.html), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+	(descr "Toshiba  SOIC, 5 Pin (https://toshiba.semicon-storage.com/eu/semiconductor/design-development/package/detail.5pin%20MFSOP6.html), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 	(tags "Toshiba SOIC SO Toshiba_11-4C2 Toshiba_MFSOP-5-6")
 	(property "Reference" "REF**"
 		(at 0 -2.75 0)
@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "Toshiba_SOIC-6_4.4x3.6mm_P1.27mm"
+	(property "Value" "Toshiba_SOIC-5-6_4.4x3.6mm_P1.27mm"
 		(at 0 2.75 0)
 		(layer "F.Fab")
 		(effects
@@ -243,12 +243,6 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
-	(pad "2" smd roundrect
-		(at -3.15 0)
-		(size 1.2 0.8)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.25)
-	)
 	(pad "3" smd roundrect
 		(at -3.15 1.27)
 		(size 1.2 0.8)
@@ -274,7 +268,7 @@
 		(roundrect_rratio 0.25)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/Toshiba_SOIC-6_4.4x3.6mm_P1.27mm.step"
+	(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/Toshiba_SOIC-5-6_4.4x3.6mm_P1.27mm.step"
 		(offset
 			(xyz 0 0 0)
 		)
