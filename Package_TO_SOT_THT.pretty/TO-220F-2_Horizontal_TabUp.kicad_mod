@@ -595,8 +595,8 @@
 		(layer "F.Fab")
 	)
 	(fp_rect
-		(start -0.3 3.23)
-		(end 0.3 0)
+		(start -0.3 0)
+		(end 0.3 3.23)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -605,8 +605,8 @@
 		(layer "F.Fab")
 	)
 	(fp_rect
-		(start 4.78 3.23)
-		(end 5.38 0)
+		(start 4.78 0)
+		(end 5.38 3.23)
 		(stroke
 			(width 0.1)
 			(type solid)

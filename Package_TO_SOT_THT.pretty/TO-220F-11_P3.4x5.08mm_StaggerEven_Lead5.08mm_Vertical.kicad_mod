@@ -27,15 +27,6 @@
 	(attr through_hole)
 	(fp_line
 		(start -1.62 -4.61)
-		(end -1.62 0.11)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start -1.62 -4.61)
 		(end 18.62 -4.61)
 		(stroke
 			(width 0.12)
@@ -54,7 +45,7 @@
 	)
 	(fp_line
 		(start -1.62 0.11)
-		(end -1.16 0.11)
+		(end -1.62 -4.61)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -62,8 +53,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 1.16 0.11)
-		(end 2.245 0.11)
+		(start -1.16 0.11)
+		(end -1.62 0.11)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -89,8 +80,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 4.555 0.11)
-		(end 5.645 0.11)
+		(start 2.245 0.11)
+		(end 1.16 0.11)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -116,8 +107,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 6.65 -4.61)
-		(end 6.65 -1.2)
+		(start 5.645 0.11)
+		(end 4.555 0.11)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -125,8 +116,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 7.955 0.11)
-		(end 9.045 0.11)
+		(start 6.65 -4.61)
+		(end 6.65 -1.2)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -152,8 +143,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 10.35 -4.61)
-		(end 10.35 -1.2)
+		(start 9.045 0.11)
+		(end 7.955 0.11)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -161,8 +152,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 11.355 0.11)
-		(end 12.445 0.11)
+		(start 10.35 -4.61)
+		(end 10.35 -1.2)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -188,8 +179,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 14.755 0.11)
-		(end 15.845 0.11)
+		(start 12.445 0.11)
+		(end 11.355 0.11)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -215,8 +206,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 18.155 0.11)
-		(end 18.62 0.11)
+		(start 15.845 0.11)
+		(end 14.755 0.11)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -226,6 +217,15 @@
 	(fp_line
 		(start 18.62 -4.61)
 		(end 18.62 0.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 18.62 0.11)
+		(end 18.155 0.11)
 		(stroke
 			(width 0.12)
 			(type solid)

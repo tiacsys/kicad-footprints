@@ -27,15 +27,6 @@
 	(attr through_hole)
 	(fp_line
 		(start -8.12 -0.31)
-		(end -8.12 7.93)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start -8.12 -0.31)
 		(end -1.712 -0.31)
 		(stroke
 			(width 0.12)
@@ -45,7 +36,16 @@
 	)
 	(fp_line
 		(start -8.12 7.93)
-		(end -1.712 7.93)
+		(end -8.12 -0.31)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start -1.712 7.93)
+		(end -8.12 7.93)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -62,7 +62,7 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 1.712 7.93)
+		(start 8.12 -0.31)
 		(end 8.12 7.93)
 		(stroke
 			(width 0.12)
@@ -71,8 +71,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 8.12 -0.31)
-		(end 8.12 7.93)
+		(start 8.12 7.93)
+		(end 1.712 7.93)
 		(stroke
 			(width 0.12)
 			(type solid)
