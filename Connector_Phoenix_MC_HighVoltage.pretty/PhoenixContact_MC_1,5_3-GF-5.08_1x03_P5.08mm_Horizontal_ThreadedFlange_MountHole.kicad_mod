@@ -302,6 +302,18 @@
 			)
 		)
 	)
+	(pad "" np_thru_hole circle
+		(at -4.5 0.9)
+		(size 2.4 2.4)
+		(drill 2.4)
+		(layers "*.Cu" "*.Mask")
+	)
+	(pad "" np_thru_hole circle
+		(at 14.66 0.9)
+		(size 2.4 2.4)
+		(drill 2.4)
+		(layers "*.Cu" "*.Mask")
+	)
 	(pad "1" thru_hole roundrect
 		(at 0 0)
 		(size 1.8 3.6)
@@ -323,18 +335,6 @@
 		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-	)
-	(pad "\"\"" np_thru_hole circle
-		(at -4.5 0.9)
-		(size 2.4 2.4)
-		(drill 2.4)
-		(layers "*.Cu" "*.Mask")
-	)
-	(pad "\"\"" np_thru_hole circle
-		(at 14.66 0.9)
-		(size 2.4 2.4)
-		(drill 2.4)
-		(layers "*.Cu" "*.Mask")
 	)
 	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Connector_Phoenix_MC_HighVoltage.3dshapes/PhoenixContact_MC_1,5_3-GF-5.08_1x03_P5.08mm_Horizontal_ThreadedFlange_MountHole.step"
