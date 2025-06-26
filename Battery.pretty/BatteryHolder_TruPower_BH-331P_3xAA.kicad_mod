@@ -2,10 +2,10 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Battery holder, TruPower BH-331P, battery type 3xAA (Script generated with StandardBox.py) (https://static.rapidonline.com/pdf/18-2967_v1.pdf)")
+	(descr "Battery holder, TruPower BH-331P, battery type 3xAA, https://static.rapidonline.com/pdf/18-2967_v1.pdf, generated with kicad-footprint-generator StandardBox_generator.py")
 	(tags "horizontal triple")
 	(property "Reference" "REF**"
-		(at -0.6 -10.69 0)
+		(at 26.7 -10.6 0)
 		(layer "F.SilkS")
 		(effects
 			(font
@@ -15,7 +15,7 @@
 		)
 	)
 	(property "Value" "BatteryHolder_TruPower_BH-331P_3xAA"
-		(at 26.7 40.9 0)
+		(at 26.7 40.6 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -26,8 +26,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -2.86 -9.71)
-		(end -2.86 39.71)
+		(start -2.91 -9.76)
+		(end 56.31 -9.76)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -2.86 -9.71)
-		(end 56.26 -9.71)
+		(start -2.91 39.76)
+		(end -2.91 -9.76)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,8 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -2.86 39.71)
-		(end 56.26 39.71)
+		(start 56.31 -9.76)
+		(end 56.31 39.76)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -53,48 +53,22 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 56.26 -9.71)
-		(end 56.26 39.71)
+		(start 56.31 39.76)
+		(end -2.91 39.76)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
 		(layer "F.SilkS")
 	)
-	(fp_line
-		(start -3.06 -9.91)
-		(end -3.06 39.91)
+	(fp_rect
+		(start -3.05 -9.9)
+		(end 56.45 39.9)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -3.06 39.91)
-		(end 56.46 39.91)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 56.46 -9.91)
-		(end -3.06 -9.91)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 56.46 39.91)
-		(end 56.46 -9.91)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_rect
@@ -139,12 +113,13 @@
 		(drill 4)
 		(layers "*.Cu" "*.Mask")
 	)
-	(pad "1" thru_hole rect
+	(pad "1" thru_hole roundrect
 		(at 0 0)
 		(size 3 3)
 		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(roundrect_rratio 0.083333)
 	)
 	(pad "2" thru_hole circle
 		(at 0 12.8)

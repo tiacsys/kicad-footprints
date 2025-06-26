@@ -2,10 +2,10 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Inductor, TDK, SLF12555, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_power_slf12555_en.pdf)")
+	(descr "Inductor, TDK, SLF12555, 12.5mmx12.5mm, https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_power_slf12555_en.pdf, generated with kicad-footprint-generator StandardBox_generator.py")
 	(tags "Inductor SLF12555")
 	(property "Reference" "REF**"
-		(at -4.1 -7.34 0)
+		(at 0 -7.2 0)
 		(layer "F.SilkS")
 		(effects
 			(font
@@ -15,7 +15,7 @@
 		)
 	)
 	(property "Value" "L_TDK_SLF12555"
-		(at 0 7.5 0)
+		(at 0 7.2 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -26,33 +26,6 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -6.6 -6.6)
-		(end -3.6 -6.6)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start -6.6 -3.6)
-		(end -6.6 -6.6)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start -6.36 -6.36)
-		(end -6.36 -1.85)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
 		(start -6.36 -6.36)
 		(end 6.36 -6.36)
 		(stroke
@@ -62,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -6.36 1.85)
-		(end -6.36 6.36)
+		(start -6.36 -1.86)
+		(end -6.36 -6.36)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -72,7 +45,7 @@
 	)
 	(fp_line
 		(start -6.36 6.36)
-		(end 6.36 6.36)
+		(end -6.36 1.86)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -81,7 +54,7 @@
 	)
 	(fp_line
 		(start 6.36 -6.36)
-		(end 6.36 -1.85)
+		(end 6.36 -1.86)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -89,7 +62,7 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 6.36 1.85)
+		(start 6.36 1.86)
 		(end 6.36 6.36)
 		(stroke
 			(width 0.12)
@@ -98,8 +71,30 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -7.11 -6.51)
-		(end -7.11 6.51)
+		(start 6.36 6.36)
+		(end -6.36 6.36)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_poly
+		(pts
+			(xy -7.11 0)
+			(xy -7.72 0.44)
+			(xy -7.72 -0.44)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start -7.1 -1.85)
+		(end -6.5 -1.85)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -107,8 +102,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -7.11 6.51)
-		(end 7.11 6.51)
+		(start -7.1 1.85)
+		(end -7.1 -1.85)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -116,8 +111,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 7.11 -6.51)
-		(end -7.11 -6.51)
+		(start -6.5 -6.5)
+		(end 6.5 -6.5)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -125,8 +120,80 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 7.11 6.51)
-		(end 7.11 -6.51)
+		(start -6.5 -1.85)
+		(end -6.5 -6.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -6.5 1.85)
+		(end -7.1 1.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -6.5 6.5)
+		(end -6.5 1.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 6.5 -6.5)
+		(end 6.5 -1.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 6.5 -1.85)
+		(end 7.1 -1.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 6.5 1.85)
+		(end 6.5 6.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 6.5 6.5)
+		(end -6.5 6.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 7.1 -1.85)
+		(end 7.1 1.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 7.1 1.85)
+		(end 6.5 1.85)
 		(stroke
 			(width 0.05)
 			(type solid)

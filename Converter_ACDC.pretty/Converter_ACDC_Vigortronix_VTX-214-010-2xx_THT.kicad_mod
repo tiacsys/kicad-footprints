@@ -2,10 +2,10 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Miniature ACDC converter, Vigortronix, VTX-214-010-2xx, 10W, input 90-265VAC, output 3.3-48V, body size 30x45.5x24mm (Script generated with StandardBox.py) (https://www.vigortronix.com/wp-content/uploads/2024/03/VTX-214-010-2xx-10W-Mini-AC-DC-Converter-Range-D0066.pdf)")
+	(descr "Miniature ACDC converter, Vigortronix, VTX-214-010-2xx, 10W, input 90-265VAC, output 3.3-48V, body size 30x45.5x24mm, https://www.vigortronix.com/wp-content/uploads/2024/03/VTX-214-010-2xx-10W-Mini-AC-DC-Converter-Range-D0066.pdf, generated with kicad-footprint-generator StandardBox_generator.py")
 	(tags "switching regulator filter")
 	(property "Reference" "REF**"
-		(at -7.3 -4.79 0)
+		(at 6 -4.7 0)
 		(layer "F.SilkS")
 		(effects
 			(font
@@ -15,7 +15,7 @@
 		)
 	)
 	(property "Value" "Converter_ACDC_Vigortronix_VTX-214-010-2xx_THT"
-		(at 6 44 0)
+		(at 6 43.7 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -26,8 +26,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -9.8 -4.05)
-		(end -6.8 -4.05)
+		(start -9.61 -3.86)
+		(end -0.36 -3.86)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -9.8 -1.05)
-		(end -9.8 -4.05)
+		(start -9.61 42.86)
+		(end -9.61 -3.86)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,8 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -9.56 -3.81)
-		(end -9.56 42.81)
+		(start 0.36 -3.86)
+		(end 21.61 -3.86)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -53,8 +53,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -9.56 -3.81)
-		(end 21.56 -3.81)
+		(start 21.61 -3.86)
+		(end 21.61 42.86)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -62,57 +62,35 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -9.56 42.81)
-		(end 21.56 42.81)
+		(start 21.61 42.86)
+		(end -9.61 42.86)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
 		(layer "F.SilkS")
 	)
-	(fp_line
-		(start 21.56 -3.81)
-		(end 21.56 42.81)
+	(fp_poly
+		(pts
+			(xy 0 -3.86)
+			(xy -0.44 -4.47)
+			(xy 0.44 -4.47)
+		)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
+		(fill yes)
 		(layer "F.SilkS")
 	)
-	(fp_line
-		(start -9.76 -4.01)
-		(end -9.76 43.01)
+	(fp_rect
+		(start -9.75 -4)
+		(end 21.75 43)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -9.76 43.01)
-		(end 21.76 43.01)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 21.76 -4.01)
-		(end -9.76 -4.01)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 21.76 43.01)
-		(end 21.76 -4.01)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_poly
@@ -140,12 +118,13 @@
 			)
 		)
 	)
-	(pad "1" thru_hole rect
+	(pad "1" thru_hole roundrect
 		(at 0 0)
 		(size 3 3)
 		(drill 1.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(roundrect_rratio 0.083333)
 	)
 	(pad "2" thru_hole circle
 		(at 12 0)

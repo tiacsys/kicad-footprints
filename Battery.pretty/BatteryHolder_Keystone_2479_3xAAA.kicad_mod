@@ -2,10 +2,10 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Battery holder, Keystone 2479, battery type 3xAAA (Script generated with StandardBox.py) (http://www.keyelco.com/product-pdf.cfm?p=1041)")
+	(descr "Battery holder, Keystone 2479, battery type 3xAAA, http://www.keyelco.com/product-pdf.cfm?p=1041, generated with kicad-footprint-generator StandardBox_generator.py")
 	(tags "horizontal triple")
 	(property "Reference" "REF**"
-		(at -0.64 -8.04 0)
+		(at 23.66 -7.95 0)
 		(layer "F.SilkS")
 		(effects
 			(font
@@ -15,7 +15,7 @@
 		)
 	)
 	(property "Value" "BatteryHolder_Keystone_2479_3xAAA"
-		(at 23.66 32.25 0)
+		(at 23.66 31.95 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -26,8 +26,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -2.9 -7.06)
-		(end -2.9 31.06)
+		(start -2.95 -7.11)
+		(end 50.27 -7.11)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -2.9 -7.06)
-		(end 50.22 -7.06)
+		(start -2.95 31.11)
+		(end -2.95 -7.11)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,8 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -2.9 31.06)
-		(end 50.22 31.06)
+		(start 50.27 -7.11)
+		(end 50.27 31.11)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -53,48 +53,22 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 50.22 -7.06)
-		(end 50.22 31.06)
+		(start 50.27 31.11)
+		(end -2.95 31.11)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
 		(layer "F.SilkS")
 	)
-	(fp_line
-		(start -3.1 -7.26)
-		(end -3.1 31.26)
+	(fp_rect
+		(start -3.09 -7.25)
+		(end 50.41 31.25)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -3.1 31.26)
-		(end 50.42 31.26)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 50.42 -7.26)
-		(end -3.1 -7.26)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 50.42 31.26)
-		(end 50.42 -7.26)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_rect
@@ -139,12 +113,13 @@
 		(drill 3.45)
 		(layers "*.Cu" "*.Mask")
 	)
-	(pad "1" thru_hole rect
+	(pad "1" thru_hole roundrect
 		(at 0 0)
 		(size 3 3)
 		(drill 1.1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(roundrect_rratio 0.083333)
 	)
 	(pad "2" thru_hole circle
 		(at 0 12.7)

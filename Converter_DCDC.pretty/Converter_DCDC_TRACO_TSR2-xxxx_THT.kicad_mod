@@ -2,10 +2,10 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "DCDC-Converter, TRACO, TSR2-xxxx, 2A, Rev. January 20. 2025 (Script generated with StandardBox.py) (https://www.tracopower.com/products/tsr2.pdf)")
+	(descr "DCDC-Converter, TRACO, TSR2-xxxx, 2A, Rev. January 20. 2025, https://www.tracopower.com/products/tsr2.pdf, generated with kicad-footprint-generator StandardBox_generator.py")
 	(tags "DCDC-Converter SWITCHING-REGULATOR STEP-DOWN TRACO TSR2 2.54MM THT SIP-3 2A")
 	(property "Reference" "REF**"
-		(at -2.19 -5.96 0)
+		(at -0.14 -5.87 0)
 		(layer "F.SilkS")
 		(effects
 			(font
@@ -15,7 +15,7 @@
 		)
 	)
 	(property "Value" "Converter_DCDC_TRACO_TSR2-xxxx_THT"
-		(at -0.14 11.33 0)
+		(at -0.14 11.03 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -26,8 +26,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -4.69 -5.22)
-		(end -2.19 -5.22)
+		(start -4.5 -5.03)
+		(end 4.22 -5.03)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -4.69 -2.72)
-		(end -4.69 -5.22)
+		(start -4.5 -0.36)
+		(end -4.5 -5.03)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,8 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -4.45 -4.98)
-		(end -4.45 10.14)
+		(start -4.5 10.19)
+		(end -4.5 0.36)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -53,8 +53,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -4.45 -4.98)
-		(end 4.17 -4.98)
+		(start 4.22 -5.03)
+		(end 4.22 10.19)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -62,57 +62,35 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -4.45 10.14)
-		(end 4.17 10.14)
+		(start 4.22 10.19)
+		(end -4.5 10.19)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
 		(layer "F.SilkS")
 	)
-	(fp_line
-		(start 4.17 -4.98)
-		(end 4.17 10.14)
+	(fp_poly
+		(pts
+			(xy -4.5 0)
+			(xy -4.97 0.34)
+			(xy -4.97 -0.34)
+		)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
+		(fill yes)
 		(layer "F.SilkS")
 	)
-	(fp_line
-		(start -4.65 -5.18)
-		(end -4.65 10.34)
+	(fp_rect
+		(start -4.64 -5.17)
+		(end 4.36 10.33)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -4.65 10.34)
-		(end 4.37 10.34)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 4.37 -5.18)
-		(end -4.65 -5.18)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 4.37 10.34)
-		(end 4.37 -5.18)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_poly
@@ -140,12 +118,13 @@
 			)
 		)
 	)
-	(pad "1" thru_hole rect
+	(pad "1" thru_hole roundrect
 		(at 0 0)
 		(size 1.7 1.7)
 		(drill 1.1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(roundrect_rratio 0.147059)
 	)
 	(pad "2" thru_hole circle
 		(at 0 2.54)

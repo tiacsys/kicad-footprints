@@ -2,10 +2,10 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Battery holder, MPD BH-18650, battery type 1x18650 (Script generated with StandardBox.py) (https://www.batteryholders.com/uploads/parts/BH-18650-PC/datasheets/BH-18650-PC-datasheet.pdf)")
+	(descr "Battery holder, MPD BH-18650, battery type 1x18650, https://www.batteryholders.com/uploads/parts/BH-18650-PC/datasheets/BH-18650-PC-datasheet.pdf, generated with kicad-footprint-generator StandardBox_generator.py")
 	(tags "horizontal single")
 	(property "Reference" "REF**"
-		(at -0.7 -11.99 0)
+		(at 36.45 -11.9 0)
 		(layer "F.SilkS")
 		(effects
 			(font
@@ -15,7 +15,7 @@
 		)
 	)
 	(property "Value" "BatteryHolder_MPD_BH-18650-PC"
-		(at 36.45 12.2 0)
+		(at 36.45 11.9 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -26,8 +26,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -2.96 -11.01)
-		(end -2.96 11.01)
+		(start -3.01 -11.06)
+		(end 75.91 -11.06)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -2.96 -11.01)
-		(end 75.86 -11.01)
+		(start -3.01 11.06)
+		(end -3.01 -11.06)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,8 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -2.96 11.01)
-		(end 75.86 11.01)
+		(start 75.91 -11.06)
+		(end 75.91 11.06)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -53,48 +53,22 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 75.86 -11.01)
-		(end 75.86 11.01)
+		(start 75.91 11.06)
+		(end -3.01 11.06)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
 		(layer "F.SilkS")
 	)
-	(fp_line
-		(start -3.16 -11.21)
-		(end -3.16 11.21)
+	(fp_rect
+		(start -3.15 -11.2)
+		(end 76.05 11.2)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -3.16 11.21)
-		(end 76.06 11.21)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 76.06 -11.21)
-		(end -3.16 -11.21)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 76.06 11.21)
-		(end 76.06 -11.21)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_rect
@@ -149,12 +123,13 @@
 		(drill 3.2)
 		(layers "*.Cu" "*.Mask")
 	)
-	(pad "1" thru_hole rect
+	(pad "1" thru_hole roundrect
 		(at 0 0)
 		(size 3 3)
 		(drill 1.57)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(roundrect_rratio 0.083333)
 	)
 	(pad "2" thru_hole circle
 		(at 72.9 0)
