@@ -1,9 +1,9 @@
-(footprint "SW_SPST_EVQP2"
+(footprint "SW_SPST_EVQP2_ShortPushTravel_H2.5mm"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000C374.pdf")
+	(descr "Tactile switch, 4.7 x 3.5 mm, short push travel, H2.5mm, https://industry.panasonic.com/ac/cdn/e/control/switch/light-touch/catalog/sw_lt_eng_4735s.pdf")
 	(tags "SMD SMT SPST EVQP2")
 	(property "Reference" "REF**"
 		(at 0 -2.75 0)
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "SW_SPST_EVQP2"
+	(property "Value" "SW_SPST_EVQP2_ShortPushTravel_H2.5mm"
 		(at 0 3 0)
 		(layer "F.Fab")
 		(uuid "13ff5c58-98c2-46e5-9468-dcee67a0b09d")
@@ -175,6 +175,66 @@
 		(uuid "88fc5210-b801-450a-a3f3-75389bfa3b5a")
 	)
 	(fp_line
+		(start -1.3 -0.8)
+		(end -1.3 0.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "9359f82f-2c1b-4802-b501-d8b0fa185327")
+	)
+	(fp_line
+		(start -1.3 0.8)
+		(end -0.6 0.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "1eaef125-b063-4c25-a2f1-8e7e2b4ba24e")
+	)
+	(fp_line
+		(start -0.6 -0.8)
+		(end -1.3 -0.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "5f0cfbc8-e025-4a6c-80c4-6dc8e5101454")
+	)
+	(fp_line
+		(start 0.6 0.8)
+		(end 1.3 0.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "bef66e27-9e43-4cc6-93b6-0156f1827784")
+	)
+	(fp_line
+		(start 1.3 -0.8)
+		(end 0.6 -0.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "38d2cb1d-4987-4100-93fe-96bbf322082c")
+	)
+	(fp_line
+		(start 1.3 0.8)
+		(end 1.3 -0.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "4e0171de-c660-4560-b951-d512950acfb9")
+	)
+	(fp_line
 		(start 2.35 -1.75)
 		(end 2.35 1.75)
 		(stroke
@@ -194,16 +254,27 @@
 		(layer "F.Fab")
 		(uuid "d519f23a-e953-478d-9f51-7e6111cd3168")
 	)
-	(fp_circle
-		(center 0 0)
-		(end 0.9 0)
+	(fp_arc
+		(start -0.6 -0.8)
+		(mid 0 -1)
+		(end 0.6 -0.8)
 		(stroke
 			(width 0.1)
-			(type solid)
+			(type default)
 		)
-		(fill no)
 		(layer "F.Fab")
-		(uuid "0147d792-116e-4e9b-993d-a1a728ef9113")
+		(uuid "cf0288db-b433-4fc7-8cdb-d6bf1199fc64")
+	)
+	(fp_arc
+		(start 0.6 0.8)
+		(mid 0 1)
+		(end -0.6 0.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "bbfa718d-b445-48b7-a10f-b3bb393226c7")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
@@ -216,32 +287,36 @@
 			)
 		)
 	)
-	(pad "1" smd rect
+	(pad "1" smd roundrect
 		(at -2.575 -0.85)
 		(size 1.45 1)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
 		(uuid "d258e614-d523-450c-8067-e58be580919e")
 	)
-	(pad "1" smd rect
+	(pad "1" smd roundrect
 		(at 2.575 -0.85)
 		(size 1.45 1)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
 		(uuid "01aa30c4-03b5-45ba-a4e5-2e1037cffd79")
 	)
-	(pad "2" smd rect
+	(pad "2" smd roundrect
 		(at -2.575 0.85)
 		(size 1.45 1)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
 		(uuid "d47649d4-73e2-4777-8210-338b7e26715c")
 	)
-	(pad "2" smd rect
+	(pad "2" smd roundrect
 		(at 2.575 0.85)
 		(size 1.45 1)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
 		(uuid "c95a1383-0e88-4271-b49e-3f27cf461033")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_EVQP2.step"
+	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_EVQP2_ShortPushTravel_H2.5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)
