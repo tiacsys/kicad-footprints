@@ -3,10 +3,10 @@
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Inductor, Coilcraft, 1008HQ_2520Metric_LowProfile, 2.92x2.79x1.27mm, (https://www.coilcraft.com/getmedia/d309e334-bba7-474c-baad-e9acd748f87a/1008hq.pdf), generated with kicad-footprint-generator gen_inductor.py")
-	(tags "Inductor hq")
-	(property "Value" "L_Coilcraft_1008HQ_2520Metric_LowProfile"
-		(at 0 2.395 0)
-		(layer "F.Fab")
+	(tags "hq")
+	(property "Reference" "REF**"
+		(at 0 -2.35 0)
+		(layer "F.SilkS")
 		(effects
 			(font
 				(size 1 1)
@@ -14,9 +14,9 @@
 			)
 		)
 	)
-	(property "Reference" "REF**"
-		(at 0 -2.395 0)
-		(layer "F.SilkS")
+	(property "Value" "L_Coilcraft_1008HQ_2520Metric_LowProfile"
+		(at 0 2.35 0)
+		(layer "F.Fab")
 		(effects
 			(font
 				(size 1 1)
@@ -26,8 +26,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -1.72 -1.655)
-		(end -1.505 -1.655)
+		(start -1.57 -1.53)
+		(end 1.57 -1.53)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,17 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -1.72 1.655)
-		(end 1.72 1.655)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start -0.785 -1.655)
-		(end 1.72 -1.655)
+		(start 1.57 1.53)
+		(end -1.57 1.53)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -54,9 +45,9 @@
 	)
 	(fp_poly
 		(pts
-			(xy -1.145 -1.655)
-			(xy -1.385 -1.985)
-			(xy -0.905 -1.985)
+			(xy -1.915 0)
+			(xy -2.245 0.24)
+			(xy -2.245 -0.24)
 		)
 		(stroke
 			(width 0.12)
@@ -66,8 +57,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -1.91 -1.65)
-		(end -1.91 1.65)
+		(start -1.91 -1.52)
+		(end -1.71 -1.52)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -75,8 +66,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -1.91 1.65)
-		(end 1.91 1.65)
+		(start -1.91 1.52)
+		(end -1.91 -1.52)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -84,8 +75,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 1.91 -1.65)
-		(end -1.91 -1.65)
+		(start -1.71 -1.65)
+		(end 1.71 -1.65)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -93,8 +84,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 1.91 1.65)
-		(end 1.91 -1.65)
+		(start -1.71 -1.52)
+		(end -1.71 -1.65)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -102,57 +93,99 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -1.46 -0.6975)
-		(end -0.7625 -1.395)
+		(start -1.71 1.52)
+		(end -1.91 1.52)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -1.71 1.65)
+		(end -1.71 1.52)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 1.71 -1.65)
+		(end 1.71 -1.52)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 1.71 -1.52)
+		(end 1.91 -1.52)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 1.71 1.52)
+		(end 1.71 1.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 1.71 1.65)
+		(end -1.71 1.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 1.91 -1.52)
+		(end 1.91 1.52)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 1.91 1.52)
+		(end 1.71 1.52)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -1.168 0.6975)
+		(end -1.168 -0.6975)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(layer "F.Fab")
 	)
-	(fp_line
-		(start -1.46 1.395)
-		(end -1.46 -0.6975)
+	(fp_poly
+		(pts
+			(xy -1.46 -0.6975)
+			(xy -1.46 1.395)
+			(xy 1.46 1.395)
+			(xy 1.46 -1.395)
+			(xy -0.7625 -1.395)
+		)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -1.145 1.116)
-		(end -1.145 -1.116)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -0.7625 -1.395)
-		(end 1.46 -1.395)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 1.46 -1.395)
-		(end 1.46 1.395)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 1.46 1.395)
-		(end -1.46 1.395)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -160,8 +193,8 @@
 		(layer "F.Fab")
 		(effects
 			(font
-				(size 0.5 0.5)
-				(thickness 0.075)
+				(size 0.73 0.73)
+				(thickness 0.11)
 			)
 		)
 	)

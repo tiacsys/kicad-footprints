@@ -3,10 +3,10 @@
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Inductor, Chilisin, BMRG00101030, 11.6x10.1x3.0mm, (https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf), generated with kicad-footprint-generator gen_inductor.py")
-	(tags "Inductor bmrx mchi")
-	(property "Value" "L_Chilisin_BMRG00101030"
-		(at 0 6.05 0)
-		(layer "F.Fab")
+	(tags "bmrx mchi")
+	(property "Reference" "REF**"
+		(at 0 -6 0)
+		(layer "F.SilkS")
 		(effects
 			(font
 				(size 1 1)
@@ -14,9 +14,9 @@
 			)
 		)
 	)
-	(property "Reference" "REF**"
-		(at 0 -6.05 0)
-		(layer "F.SilkS")
+	(property "Value" "L_Chilisin_BMRG00101030"
+		(at 0 6 0)
+		(layer "F.Fab")
 		(effects
 			(font
 				(size 1 1)
@@ -26,8 +26,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -6.06 -5.31)
-		(end -6.06 -2.26)
+		(start -5.91 -5.16)
+		(end 5.91 -5.16)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -6.06 -5.31)
-		(end 6.06 -5.31)
+		(start -5.91 -2.26)
+		(end -5.91 -5.16)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,8 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -6.06 5.31)
-		(end -6.06 2.26)
+		(start -5.91 5.16)
+		(end -5.91 2.26)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -53,8 +53,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -6.06 5.31)
-		(end 6.06 5.31)
+		(start 5.91 -5.16)
+		(end 5.91 -2.26)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -62,8 +62,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 6.06 -5.31)
-		(end 6.06 -2.26)
+		(start 5.91 2.26)
+		(end 5.91 5.16)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -71,8 +71,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 6.06 5.31)
-		(end 6.06 2.26)
+		(start 5.91 5.16)
+		(end -5.91 5.16)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -80,8 +80,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -6.75 -5.3)
-		(end -6.75 5.3)
+		(start -6.75 -2.25)
+		(end -6.05 -2.25)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -89,8 +89,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -6.75 5.3)
-		(end 6.75 5.3)
+		(start -6.75 2.25)
+		(end -6.75 -2.25)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -98,8 +98,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 6.75 -5.3)
-		(end -6.75 -5.3)
+		(start -6.05 -5.3)
+		(end 6.05 -5.3)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -107,8 +107,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 6.75 5.3)
-		(end 6.75 -5.3)
+		(start -6.05 -2.25)
+		(end -6.05 -5.3)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -116,39 +116,85 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
+		(start -6.05 2.25)
+		(end -6.75 2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -6.05 5.3)
+		(end -6.05 2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 6.05 -5.3)
+		(end 6.05 -2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 6.05 -2.25)
+		(end 6.75 -2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 6.05 2.25)
+		(end 6.05 5.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 6.05 5.3)
+		(end -6.05 5.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 6.75 -2.25)
+		(end 6.75 2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 6.75 2.25)
+		(end 6.05 2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_rect
 		(start -5.8 -5.05)
-		(end -5.8 5.05)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -5.8 5.05)
 		(end 5.8 5.05)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 5.8 -5.05)
-		(end -5.8 -5.05)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 5.8 5.05)
-		(end 5.8 -5.05)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"

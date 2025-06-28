@@ -3,10 +3,10 @@
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Inductor, TechFuse, SL0530, 5.7x5.2x3.0mm, ( http://www.sealand-pptc.com/product_view.php?r=77), generated with kicad-footprint-generator gen_inductor.py")
-	(tags "Inductor high-current power shielded")
-	(property "Value" "L_TechFuse_SL0530"
-		(at 0 3.6 0)
-		(layer "F.Fab")
+	(tags "high-current power shielded")
+	(property "Reference" "REF**"
+		(at 0 -3.55 0)
+		(layer "F.SilkS")
 		(effects
 			(font
 				(size 1 1)
@@ -14,9 +14,9 @@
 			)
 		)
 	)
-	(property "Reference" "REF**"
-		(at 0 -3.6 0)
-		(layer "F.SilkS")
+	(property "Value" "L_TechFuse_SL0530"
+		(at 0 3.55 0)
+		(layer "F.Fab")
 		(effects
 			(font
 				(size 1 1)
@@ -26,8 +26,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -3.11 -2.86)
-		(end -3.11 -1.51)
+		(start -2.96 -2.71)
+		(end 2.96 -2.71)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -3.11 -2.86)
-		(end 3.11 -2.86)
+		(start -2.96 2.71)
+		(end -2.96 -2.71)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,8 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -3.11 2.86)
-		(end -3.11 1.51)
+		(start 2.96 -2.71)
+		(end 2.96 2.71)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -53,102 +53,32 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -3.11 2.86)
-		(end 3.11 2.86)
+		(start 2.96 2.71)
+		(end -2.96 2.71)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
 		(layer "F.SilkS")
 	)
-	(fp_line
-		(start 3.11 -2.86)
-		(end 3.11 -1.51)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start 3.11 2.86)
-		(end 3.11 1.51)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
+	(fp_rect
 		(start -3.1 -2.85)
-		(end -3.1 2.85)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -3.1 2.85)
 		(end 3.1 2.85)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
-	(fp_line
-		(start 3.1 -2.85)
-		(end -3.1 -2.85)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 3.1 2.85)
-		(end 3.1 -2.85)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
+	(fp_rect
 		(start -2.85 -2.6)
-		(end -2.85 2.6)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -2.85 2.6)
 		(end 2.85 2.6)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 2.85 -2.6)
-		(end -2.85 -2.6)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 2.85 2.6)
-		(end 2.85 -2.6)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -156,8 +86,8 @@
 		(layer "F.Fab")
 		(effects
 			(font
-				(size 0.533333 0.533333)
-				(thickness 0.08)
+				(size 1 1)
+				(thickness 0.15)
 			)
 		)
 	)

@@ -3,10 +3,10 @@
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Inductor, Walsin, WLFM201209x, 2.0x1.25x0.9mm, (http://www.passivecomponent.com/wp-content/uploads/inductor/WLFM_C_series.pdf), generated with kicad-footprint-generator gen_inductor.py")
-	(tags "Inductor ferrite multilayer power")
-	(property "Value" "L_Walsin_WLFM201209x"
-		(at 0 1.625 0)
-		(layer "F.Fab")
+	(tags "ferrite multilayer power")
+	(property "Reference" "REF**"
+		(at 0 -1.58 0)
+		(layer "F.SilkS")
 		(effects
 			(font
 				(size 1 1)
@@ -14,9 +14,9 @@
 			)
 		)
 	)
-	(property "Reference" "REF**"
-		(at 0 -1.625 0)
-		(layer "F.SilkS")
+	(property "Value" "L_Walsin_WLFM201209x"
+		(at 0 1.58 0)
+		(layer "F.Fab")
 		(effects
 			(font
 				(size 1 1)
@@ -26,8 +26,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -1.26 -0.885)
-		(end -1.26 -0.735)
+		(start -1.11 -0.735)
+		(end 1.11 -0.735)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -1.26 -0.885)
-		(end 1.26 -0.885)
+		(start 1.11 0.735)
+		(end -1.11 0.735)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,44 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -1.26 0.885)
-		(end -1.26 0.735)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start -1.26 0.885)
-		(end 1.26 0.885)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start 1.26 -0.885)
-		(end 1.26 -0.735)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start 1.26 0.885)
-		(end 1.26 0.735)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start -2 -0.88)
-		(end -2 0.88)
+		(start -2 -0.73)
+		(end -1.25 -0.73)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -89,8 +53,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -2 0.88)
-		(end 2 0.88)
+		(start -2 0.73)
+		(end -2 -0.73)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -98,8 +62,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 2 -0.88)
-		(end -2 -0.88)
+		(start -1.25 -0.88)
+		(end 1.25 -0.88)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -107,8 +71,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 2 0.88)
-		(end 2 -0.88)
+		(start -1.25 -0.73)
+		(end -1.25 -0.88)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -116,39 +80,85 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
+		(start -1.25 0.73)
+		(end -2 0.73)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -1.25 0.88)
+		(end -1.25 0.73)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 1.25 -0.88)
+		(end 1.25 -0.73)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 1.25 -0.73)
+		(end 2 -0.73)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 1.25 0.73)
+		(end 1.25 0.88)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 1.25 0.88)
+		(end -1.25 0.88)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 2 -0.73)
+		(end 2 0.73)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 2 0.73)
+		(end 1.25 0.73)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_rect
 		(start -1 -0.625)
-		(end -1 0.625)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -1 0.625)
 		(end 1 0.625)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 1 -0.625)
-		(end -1 -0.625)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 1 0.625)
-		(end 1 -0.625)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -157,7 +167,7 @@
 		(effects
 			(font
 				(size 0.5 0.5)
-				(thickness 0.075)
+				(thickness 0.08)
 			)
 		)
 	)

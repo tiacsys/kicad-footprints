@@ -3,10 +3,10 @@
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Inductor, Wuerth, MAPI-4030, 4.1x4.1x3.1mm, (https://www.we-online.com/en/components/products/WE-MAPI?kicad), generated with kicad-footprint-generator gen_inductor.py")
-	(tags "Inductor Würth -SMT")
-	(property "Value" "L_Wuerth_MAPI-4030"
-		(at 0 3.05 0)
-		(layer "F.Fab")
+	(tags "Würth -SMT")
+	(property "Reference" "REF**"
+		(at 0 -3 0)
+		(layer "F.SilkS")
 		(effects
 			(font
 				(size 1 1)
@@ -14,9 +14,9 @@
 			)
 		)
 	)
-	(property "Reference" "REF**"
-		(at 0 -3.05 0)
-		(layer "F.SilkS")
+	(property "Value" "L_Wuerth_MAPI-4030"
+		(at 0 3 0)
+		(layer "F.Fab")
 		(effects
 			(font
 				(size 1 1)
@@ -26,8 +26,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -2.31 -2.31)
-		(end -2.31 -2.11)
+		(start -2.16 -2.16)
+		(end 2.16 -2.16)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -2.31 -2.31)
-		(end 2.31 -2.31)
+		(start -2.16 2.16)
+		(end -2.16 -2.16)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,8 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -2.31 2.31)
-		(end -2.31 2.11)
+		(start 2.16 -2.16)
+		(end 2.16 2.16)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -53,102 +53,32 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -2.31 2.31)
-		(end 2.31 2.31)
+		(start 2.16 2.16)
+		(end -2.16 2.16)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
 		(layer "F.SilkS")
 	)
-	(fp_line
-		(start 2.31 -2.31)
-		(end 2.31 -2.11)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start 2.31 2.31)
-		(end 2.31 2.11)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
+	(fp_rect
 		(start -2.3 -2.3)
-		(end -2.3 2.3)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -2.3 2.3)
 		(end 2.3 2.3)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
-	(fp_line
-		(start 2.3 -2.3)
-		(end -2.3 -2.3)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 2.3 2.3)
-		(end 2.3 -2.3)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
+	(fp_rect
 		(start -2.05 -2.05)
-		(end -2.05 2.05)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -2.05 2.05)
 		(end 2.05 2.05)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 2.05 -2.05)
-		(end -2.05 -2.05)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 2.05 2.05)
-		(end 2.05 -2.05)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -156,8 +86,8 @@
 		(layer "F.Fab")
 		(effects
 			(font
-				(size 0.5 0.5)
-				(thickness 0.075)
+				(size 1 1)
+				(thickness 0.15)
 			)
 		)
 	)
