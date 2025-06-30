@@ -140,15 +140,6 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start -6.4 2.45)
-		(end 6.4 2.45)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
 		(start -3 2.45)
 		(end -2.5 1.45)
 		(stroke
@@ -160,6 +151,15 @@
 	(fp_line
 		(start -2.5 1.45)
 		(end -2 2.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+	)
+	(fp_line
+		(start 6.4 2.45)
+		(end -6.4 2.45)
 		(stroke
 			(width 0.1)
 			(type solid)
