@@ -2,10 +2,10 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "XP_POWER  IHxxxxSH, SIP, (https://www.xppower.com/pdfs/SF_IH.pdf), generated with kicad-footprint-generator")
-	(tags "XP_POWER  IHxxxxSH SIP DCDC-Converter")
+	(descr "DCDC-Converter, XP Power, IH series, 2W, ≥3000V isolation, SIP-7, https://www.xppower.com/portals/0/pdfs/SF_IH.pdf, generated with kicad-footprint-generator StandardBox_generator.py")
+	(tags "THT")
 	(property "Reference" "REF**"
-		(at -2.31 -3.49 0)
+		(at -2.56 -3.74 0)
 		(layer "F.SilkS")
 		(effects
 			(font
@@ -15,7 +15,7 @@
 		)
 	)
 	(property "Value" "Converter_DCDC_XP_POWER-IHxxxxSH_THT"
-		(at -2.31 17.91 0)
+		(at -2.56 18.66 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -26,8 +26,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -6.28 -2.7)
-		(end -6.28 -1.45)
+		(start -6.98 -2.9)
+		(end 1.86 -2.9)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -5.98 -2.4)
-		(end -5.98 16.82)
+		(start -6.98 -0.296)
+		(end -6.98 -2.9)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,8 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -5.98 16.82)
-		(end 1.36 16.82)
+		(start -6.98 17.82)
+		(end -6.98 0.296)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -53,8 +53,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -5.03 -2.7)
-		(end -6.28 -2.7)
+		(start 1.86 -2.9)
+		(end 1.86 17.82)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -62,115 +62,54 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 1.36 -2.4)
-		(end -5.98 -2.4)
+		(start 1.86 17.82)
+		(end -6.98 17.82)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
 		(layer "F.SilkS")
 	)
-	(fp_line
-		(start 1.36 16.82)
-		(end 1.36 -2.4)
+	(fp_poly
+		(pts
+			(xy -6.98 0)
+			(xy -7.45 0.34)
+			(xy -7.45 -0.34)
+		)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
+		(fill yes)
 		(layer "F.SilkS")
 	)
-	(fp_line
-		(start -6.37 -2.79)
-		(end -6.37 17.21)
+	(fp_rect
+		(start -7.12 -3.04)
+		(end 2 17.96)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
-	(fp_line
-		(start -6.37 17.21)
-		(end 1.75 17.21)
-		(stroke
-			(width 0.05)
-			(type solid)
+	(fp_poly
+		(pts
+			(xy -6.37 -1.29)
+			(xy -6.37 17.21)
+			(xy 1.25 17.21)
+			(xy 1.25 -2.29)
+			(xy -5.37 -2.29)
 		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 1.75 -2.79)
-		(end -6.37 -2.79)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 1.75 17.21)
-		(end 1.75 -2.79)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -6.28 -2.7)
-		(end -6.28 -1.45)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -5.87 -2.29)
-		(end -5.87 16.71)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -5.87 16.71)
-		(end 1.25 16.71)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -5.03 -2.7)
-		(end -6.28 -2.7)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 1.25 -2.29)
-		(end -5.87 -2.29)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 1.25 16.71)
-		(end 1.25 -2.29)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
-		(at -2.31 1.5 0)
+		(at -2.56 7.46 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -179,12 +118,13 @@
 			)
 		)
 	)
-	(pad "1" thru_hole rect
+	(pad "1" thru_hole roundrect
 		(at 0 0)
 		(size 1.85 1.85)
 		(drill 0.85)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(roundrect_rratio 0.135135)
 	)
 	(pad "2" thru_hole circle
 		(at 0 2.54)

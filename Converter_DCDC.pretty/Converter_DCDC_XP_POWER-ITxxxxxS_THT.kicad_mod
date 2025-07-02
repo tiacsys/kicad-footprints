@@ -2,10 +2,10 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "XP_POWER  ITxxxxxS, SIP, (https://www.xppower.com/pdfs/SF_ITX.pdf https://www.xppower.com/pdfs/SF_ITQ.pdf), generated with kicad-footprint-generator")
-	(tags "XP_POWER  ITxxxxxS SIP DCDC-Converter")
+	(descr "DCDC-Converter, XP Power, IT series, 3W, 1500V isolation, SIP-9, https://www.xppower.com/portals/0/pdfs/SF_IT.pdf, generated with kicad-footprint-generator StandardBox_generator.py")
+	(tags "THT")
 	(property "Reference" "REF**"
-		(at -1.4 -3.24 0)
+		(at -1.7 -3.76 0)
 		(layer "F.SilkS")
 		(effects
 			(font
@@ -15,7 +15,7 @@
 		)
 	)
 	(property "Value" "Converter_DCDC_XP_POWER-ITxxxxxS_THT"
-		(at -1.4 21.02 0)
+		(at -1.7 26.15 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -26,8 +26,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -6.41 -2.445)
-		(end -6.41 -1.195)
+		(start -7.41 -2.91)
+		(end 4.01 -2.91)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -6.11 -2.145)
-		(end -6.11 19.925)
+		(start -7.41 -0.296)
+		(end -7.41 -2.91)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,8 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -6.11 19.925)
-		(end 3.31 19.925)
+		(start -7.41 25.31)
+		(end -7.41 0.296)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -53,8 +53,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -5.16 -2.445)
-		(end -6.41 -2.445)
+		(start 4.01 -2.91)
+		(end 4.01 25.31)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -62,115 +62,54 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 3.31 -2.145)
-		(end -6.11 -2.145)
+		(start 4.01 25.31)
+		(end -7.41 25.31)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
 		(layer "F.SilkS")
 	)
-	(fp_line
-		(start 3.31 19.925)
-		(end 3.31 -2.145)
+	(fp_poly
+		(pts
+			(xy -7.41 0)
+			(xy -7.88 0.34)
+			(xy -7.88 -0.34)
+		)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
+		(fill yes)
 		(layer "F.SilkS")
 	)
-	(fp_line
-		(start -6.5 -2.54)
-		(end -6.5 20.32)
+	(fp_rect
+		(start -7.55 -3.05)
+		(end 4.15 25.45)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
-	(fp_line
-		(start -6.5 20.32)
-		(end 3.7 20.32)
-		(stroke
-			(width 0.05)
-			(type solid)
+	(fp_poly
+		(pts
+			(xy -6.3 -0.8)
+			(xy -6.3 24.2)
+			(xy 2.9 24.2)
+			(xy 2.9 -1.8)
+			(xy -5.3 -1.8)
 		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 3.7 -2.54)
-		(end -6.5 -2.54)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 3.7 20.32)
-		(end 3.7 -2.54)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -6.41 -2.445)
-		(end -6.41 -1.195)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -6 -2.035)
-		(end -6 19.815)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -6 19.815)
-		(end 3.2 19.815)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -5.16 -2.445)
-		(end -6.41 -2.445)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 3.2 -2.035)
-		(end -6 -2.035)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 3.2 19.815)
-		(end 3.2 -2.035)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
-		(at -1.4 1.5 0)
+		(at -1.7 11.2 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -179,12 +118,13 @@
 			)
 		)
 	)
-	(pad "1" thru_hole rect
+	(pad "1" thru_hole roundrect
 		(at 0 0)
 		(size 1.85 1.85)
 		(drill 0.85)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(roundrect_rratio 0.135135)
 	)
 	(pad "2" thru_hole circle
 		(at 0 2.54)
@@ -195,13 +135,6 @@
 	)
 	(pad "3" thru_hole circle
 		(at 0 5.08)
-		(size 1.85 1.85)
-		(drill 0.85)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-	)
-	(pad "5" thru_hole circle
-		(at 0 10.16)
 		(size 1.85 1.85)
 		(drill 0.85)
 		(layers "*.Cu" "*.Mask")
@@ -223,6 +156,13 @@
 	)
 	(pad "8" thru_hole circle
 		(at 0 17.78)
+		(size 1.85 1.85)
+		(drill 0.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+	)
+	(pad "9" thru_hole circle
+		(at 0 20.32)
 		(size 1.85 1.85)
 		(drill 0.85)
 		(layers "*.Cu" "*.Mask")
