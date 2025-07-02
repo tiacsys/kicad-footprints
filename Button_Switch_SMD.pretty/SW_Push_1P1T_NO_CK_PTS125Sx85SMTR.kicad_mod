@@ -1,9 +1,9 @@
-(footprint "SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR"
+(footprint "SW_Push_1P1T_NO_CK_PTS125Sx85SMTR"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "Tactile switch, 12x12 mm, H4.3 mm, round actuator, with pegs, gullwing terminals, https://www.ckswitches.com/media/1462/pts125.pdf")
+	(descr "Tactile switch, 12x12 mm, H8.5 mm, round actuator, gullwing terminals, https://www.ckswitches.com/media/1462/pts125.pdf")
 	(tags "button tactile switch SPST 1P1T C&K")
 	(property "Reference" "REF**"
 		(at 0 -7.3 0)
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR"
+	(property "Value" "SW_Push_1P1T_NO_CK_PTS125Sx85SMTR"
 		(at 0 7.1 0)
 		(layer "F.Fab")
 		(uuid "df3a63d0-8225-4a9b-8457-95a2a1882b2c")
@@ -296,7 +296,7 @@
 	)
 	(fp_circle
 		(center 0 0)
-		(end 3.5 0)
+		(end 3.6 0)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -315,20 +315,6 @@
 				(thickness 0.15)
 			)
 		)
-	)
-	(pad "" np_thru_hole circle
-		(at 0 -4.5)
-		(size 2 2)
-		(drill 2)
-		(layers "*.Cu" "*.Mask")
-		(uuid "0cfc5fbd-12c3-491b-a65e-6e5f86587aba")
-	)
-	(pad "" np_thru_hole circle
-		(at 0 4.5)
-		(size 2 2)
-		(drill 2)
-		(layers "*.Cu" "*.Mask")
-		(uuid "c998faca-e225-4bff-af79-72884abf9ba3")
 	)
 	(pad "1" smd roundrect
 		(at -7.15 -2.5)
@@ -359,7 +345,7 @@
 		(uuid "9bc513d3-7b7f-4333-9abf-c0f49b7e450b")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR.step"
+	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_NO_CK_PTS125Sx85SMTR.step"
 		(offset
 			(xyz 0 0 0)
 		)
