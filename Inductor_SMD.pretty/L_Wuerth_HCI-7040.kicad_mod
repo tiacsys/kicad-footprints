@@ -2,10 +2,10 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Inductor, Wuerth Elektronik, Wuerth_HCI-7040, 6.9mmx6.9mm")
-	(tags "inductor wurth hci smd")
+	(descr "Inductor, Wuerth, HCI-7040, 6.9x6.9x3.8mm, (https://www.we-online.com/components/products/datasheet/744311022.pdf), generated with kicad-footprint-generator gen_inductor.py")
+	(tags "flat-wire shielded Würth SMT")
 	(property "Reference" "REF**"
-		(at 0 -4.45 0)
+		(at 0 -4.4 0)
 		(layer "F.SilkS")
 		(effects
 			(font
@@ -15,7 +15,7 @@
 		)
 	)
 	(property "Value" "L_Wuerth_HCI-7040"
-		(at 0 4.95 0)
+		(at 0 4.4 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -26,8 +26,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -3.55 -3.55)
-		(end 3.55 -3.55)
+		(start -3.56 -3.56)
+		(end 3.56 -3.56)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -3.55 -1.5)
-		(end -3.55 -3.55)
+		(start -3.56 -1.36)
+		(end -3.56 -3.56)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,8 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -3.55 1.5)
-		(end -3.55 3.55)
+		(start -3.56 3.56)
+		(end -3.56 1.36)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -53,8 +53,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -3.55 3.55)
-		(end 3.55 3.55)
+		(start 3.56 -3.56)
+		(end 3.56 -1.36)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -62,8 +62,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 3.55 -3.55)
-		(end 3.55 -1.5)
+		(start 3.56 1.36)
+		(end 3.56 3.56)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -71,8 +71,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 3.55 3.55)
-		(end 3.55 1.5)
+		(start 3.56 3.56)
+		(end -3.56 3.56)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -80,8 +80,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -4.2 -3.75)
-		(end -4.2 3.75)
+		(start -4.15 -1.35)
+		(end -3.7 -1.35)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -89,8 +89,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -4.2 3.75)
-		(end 4.2 3.75)
+		(start -4.15 1.35)
+		(end -4.15 -1.35)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -98,8 +98,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 4.2 -3.75)
-		(end -4.2 -3.75)
+		(start -3.7 -3.7)
+		(end 3.7 -3.7)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -107,8 +107,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 4.2 3.75)
-		(end 4.2 -3.75)
+		(start -3.7 -1.35)
+		(end -3.7 -3.7)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -116,50 +116,108 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
+		(start -3.7 1.35)
+		(end -4.15 1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -3.7 3.7)
+		(end -3.7 1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3.7 -3.7)
+		(end 3.7 -1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3.7 -1.35)
+		(end 4.15 -1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3.7 1.35)
+		(end 3.7 3.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3.7 3.7)
+		(end -3.7 3.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 4.15 -1.35)
+		(end 4.15 1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 4.15 1.35)
+		(end 3.7 1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_rect
 		(start -3.45 -3.45)
-		(end -3.45 3.45)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -3.45 3.45)
 		(end 3.45 3.45)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.Fab")
 	)
-	(fp_line
-		(start 3.45 -3.45)
-		(end -3.45 -3.45)
-		(stroke
-			(width 0.1)
-			(type solid)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
 		)
-		(layer "F.Fab")
 	)
-	(fp_line
-		(start 3.45 3.45)
-		(end 3.45 -3.45)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(pad "1" smd rect
+	(pad "1" smd roundrect
 		(at -2.55 0)
 		(size 2.7 2.2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.113636)
 	)
-	(pad "2" smd rect
+	(pad "2" smd roundrect
 		(at 2.55 0)
 		(size 2.7 2.2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.113636)
 	)
 	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_HCI-7040.step"
