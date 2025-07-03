@@ -3,7 +3,7 @@
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Artix-7 BGA, NSMD pad definition Appendix A, 19x19mm, 484 Ball, 22x22 Layout, 0.8mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=279")
-	(tags "BGA 484 0.8 R S 4 8 4")
+	(tags "BGA 484 0.8 RS484")
 	(solder_mask_margin 0.05)
 	(property "Reference" "REF**"
 		(at 0 -10.5 0)

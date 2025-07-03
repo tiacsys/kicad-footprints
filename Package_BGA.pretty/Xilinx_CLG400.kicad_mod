@@ -3,7 +3,7 @@
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Zynq-7000 BGA, NSMD pad definition Appendix A, 17x17mm, 400 Ball, 20x20 Layout, 0.8mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.xilinx.com/support/documentation/user_guides/ug865-Zynq-7000-Pkg-Pinout.pdf#page=78")
-	(tags "BGA 400 0.8 C L G 4 0 0   C L 4 0 0")
+	(tags "BGA 400 0.8 CLG400 CL400")
 	(solder_mask_margin 0.05)
 	(property "Reference" "REF**"
 		(at 0 -9.5 0)
