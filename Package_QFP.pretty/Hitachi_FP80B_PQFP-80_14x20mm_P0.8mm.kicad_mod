@@ -1,8 +1,8 @@
-(footprint "Hitachi_PQFP-80_14x20mm_P0.8mm"
+(footprint "Hitachi_FP80B_PQFP-80_14x20mm_P0.8mm"
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Hitachi  PQFP, 80 Pin (Hitachi FP-80B, 2.70mm body thickness, https://www.icbase.com/pdf/HTH/HTH14270106.pdf#page=9, https://bitsavers.trailing-edge.com/components/hitachi/_dataBooks/1994_M24T026_Hitachi_LCD_Controller_Driver_LSI_Data_Book.pdf#page=28), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+	(descr "Hitachi FP80B PQFP, 80 Pin (Hitachi FP-80B, 2.70mm body thickness, https://www.icbase.com/pdf/HTH/HTH14270106.pdf#page=9, https://bitsavers.trailing-edge.com/components/hitachi/_dataBooks/1994_M24T026_Hitachi_LCD_Controller_Driver_LSI_Data_Book.pdf#page=28), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 	(tags "Hitachi PQFP QFP Hitachi_FP-80B")
 	(property "Reference" "REF**"
 		(at 0 -13.9 0)
@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "Hitachi_PQFP-80_14x20mm_P0.8mm"
+	(property "Value" "Hitachi_FP80B_PQFP-80_14x20mm_P0.8mm"
 		(at 0 13.9 0)
 		(layer "F.Fab")
 		(effects
@@ -826,7 +826,7 @@
 		(roundrect_rratio 0.25)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_QFP.3dshapes/Hitachi_PQFP-80_14x20mm_P0.8mm.step"
+	(model "${KICAD9_3DMODEL_DIR}/Package_QFP.3dshapes/Hitachi_FP80B_PQFP-80_14x20mm_P0.8mm.step"
 		(offset
 			(xyz 0 0 0)
 		)
