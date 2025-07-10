@@ -218,49 +218,19 @@
 		)
 		(layer "F.CrtYd")
 	)
-	(fp_line
-		(start -3.76 -5.4125)
-		(end -2.76 -6.4125)
+	(fp_poly
+		(pts
+			(xy -3.76 -5.4125)
+			(xy -3.76 6.4125)
+			(xy 3.76 6.4125)
+			(xy 3.76 -6.4125)
+			(xy -2.76 -6.4125)
+		)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -3.76 6.4125)
-		(end -3.76 -5.4125)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -2.76 -6.4125)
-		(end 3.76 -6.4125)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 3.76 -6.4125)
-		(end 3.76 6.4125)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 3.76 6.4125)
-		(end -3.76 6.4125)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
