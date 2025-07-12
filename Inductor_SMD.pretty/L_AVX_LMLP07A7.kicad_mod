@@ -2,8 +2,8 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Inductor, AVX Kyocera, LMLP Series, style D, 6.6mmx7.3mm, 3.0mm height., https://datasheets.avx.com/LMLPD.pdf, generated with kicad-footprint-generator StandardBox_generator.py")
-	(tags "Inductor LMLP")
+	(descr "Inductor, AVX, LMLP07A7, LMLP series, Style D, 7.3x6.6x3.0mm, (https://datasheets.avx.com/LMLPD.pdf), generated with kicad-footprint-generator gen_inductor.py")
+	(tags "AVX-Kyocera power shielded low-profile")
 	(property "Reference" "REF**"
 		(at 0 -4.25 0)
 		(layer "F.SilkS")
