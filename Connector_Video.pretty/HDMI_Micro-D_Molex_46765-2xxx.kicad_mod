@@ -1,4 +1,4 @@
-(footprint "HDMI_Micro-D_Molex_46765-2x0x"
+(footprint "HDMI_Micro-D_Molex_46765-2xxx"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "HDMI_Micro-D_Molex_46765-2x0x"
+	(property "Value" "HDMI_Micro-D_Molex_46765-2xxx"
 		(at 0 3.6 0)
 		(layer "F.Fab")
 		(uuid "237ec258-afa3-4b72-bbea-f78a84c9b2e8")
@@ -551,7 +551,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_Video.3dshapes/HDMI_Micro-D_Molex_46765-2x0x.step"
+	(model "${KICAD9_3DMODEL_DIR}/Connector_Video.3dshapes/HDMI_Micro-D_Molex_46765-2xxx.step"
 		(offset
 			(xyz 0 0 0)
 		)
