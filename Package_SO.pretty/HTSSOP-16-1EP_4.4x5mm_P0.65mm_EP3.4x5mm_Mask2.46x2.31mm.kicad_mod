@@ -3,7 +3,7 @@
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "HTSSOP, 16 Pin (Texas Instruments PWP0016C, based on JEDEC MO-153 variation ABT, 1.00mm body thickness, https://www.ti.com/lit/ml/pptd023ac/pptd023ac.pdf, https://www.ti.com/lit/ds/symlink/drv8833.pdf#page=27, https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py")
-	(tags "HTSSOP SO Texas_PowerPAD-TSSOP")
+	(tags "HTSSOP SO Texas_PWP0016C Texas_PowerPAD-TSSOP")
 	(property "Reference" "REF**"
 		(at 0 -3.45 0)
 		(layer "F.SilkS")
