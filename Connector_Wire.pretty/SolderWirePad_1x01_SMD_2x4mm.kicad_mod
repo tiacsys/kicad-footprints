@@ -1,12 +1,12 @@
-(footprint "SolderWirePad_1x01_SMD_1x2mm"
+(footprint "SolderWirePad_1x01_SMD_2x4mm"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "Wire Pad, Square, SMD Pad,  1mm x 2mm")
-	(tags "MeasurementPoint Square SMDPad 1mmx2mm ")
+	(descr "Wire Pad, Square, SMD Pad,  2mm x 4mm")
+	(tags "MeasurementPoint Square SMDPad 2mmx4mm ")
 	(property "Reference" "REF**"
-		(at 0 -2 0)
+		(at 0 -2.8 0)
 		(layer "F.SilkS")
 		(uuid "c513d75c-f6ed-495d-806e-bd1e447b8baa")
 		(effects
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "SolderWirePad_1x01_SMD_1x2mm"
+	(property "Value" "SolderWirePad_1x01_SMD_2x4mm"
 		(at 0 2.54 0)
 		(layer "F.Fab")
 		(uuid "d5554df8-8ad7-42a8-b421-37915f92965e")
@@ -29,10 +29,9 @@
 	)
 	(property "Datasheet" ""
 		(at 0 0 0)
-		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "c5c066e1-939f-4fc9-933f-79a71a832a4b")
+		(uuid "872e5f8b-e7f1-4690-8192-e46e7d73f65c")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -42,10 +41,9 @@
 	)
 	(property "Description" ""
 		(at 0 0 0)
-		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "378f3f11-31b9-47cb-a4a7-434f9ee72319")
+		(uuid "59756438-0ccf-4062-94a7-3454a6ea0926")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -55,26 +53,26 @@
 	)
 	(attr exclude_from_pos_files exclude_from_bom)
 	(fp_rect
-		(start -0.75 -1.25)
-		(end 0.75 1.25)
+		(start -1.25 -2.25)
+		(end 1.25 2.25)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "31e914ea-7514-4b02-8555-8793094f25da")
+		(uuid "363e1ee8-47db-4be6-ae6c-db3bb7b5d1b8")
 	)
 	(fp_rect
-		(start -0.65 -1.15)
-		(end 0.65 1.15)
+		(start -1.15 -2.15)
+		(end 1.15 2.15)
 		(stroke
 			(width 0.1)
-			(type solid)
+			(type default)
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "b6514c8b-23d6-447b-808d-d295c54a21a9")
+		(uuid "abb8f1ed-0efc-40ab-b16d-44e053753c99")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
@@ -89,7 +87,7 @@
 	)
 	(pad "1" smd roundrect
 		(at 0 0)
-		(size 1 2)
+		(size 2 4)
 		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
 		(uuid "9b1c97f7-ae17-44f3-9424-a07cf2ecd34d")
