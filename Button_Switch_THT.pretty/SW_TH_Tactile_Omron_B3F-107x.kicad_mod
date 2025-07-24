@@ -1,10 +1,10 @@
-(footprint "SW_TH_Tactile_Omron_B3F-10xx"
+(footprint "SW_TH_Tactile_Omron_B3F-107x"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "SW_TH_Tactile_Omron_B3F-10xx_https://www.omron.com/ecb/products/pdf/en-b3f.pdf")
-	(tags "Omron B3F-10xx")
+	(descr "Tactile switch, 6x6 mm, H9.5 mm, 6.5 mm pitch, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf")
+	(tags "Omron B3F-10xx SPST 1P1T")
 	(property "Reference" "REF**"
 		(at 3.25 -2.05 0)
 		(layer "F.SilkS")
@@ -16,8 +16,8 @@
 			)
 		)
 	)
-	(property "Value" "SW_TH_Tactile_Omron_B3F-10xx"
-		(at 3.2 6.5 0)
+	(property "Value" "SW_TH_Tactile_Omron_B3F-107x"
+		(at 3.25 6.5 0)
 		(layer "F.Fab")
 		(uuid "c2c74f85-e85e-4734-be3d-fa070000a192")
 		(effects
@@ -55,8 +55,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start 0.13 3.4)
-		(end 0.13 1.2)
+		(start 0.13 3.35)
+		(end 0.13 1.15)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -65,18 +65,8 @@
 		(uuid "27fe9b6a-c6bf-49f0-b603-ec6c5d9b1ab9")
 	)
 	(fp_line
-		(start 0.6 5.37)
-		(end 5.8 5.37)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "3f002d41-05e4-431a-97a7-7949d16040de")
-	)
-	(fp_line
-		(start 1.2 -0.87)
-		(end 5.6 -0.87)
+		(start 0.75 -0.87)
+		(end 5.75 -0.87)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -85,8 +75,18 @@
 		(uuid "f5e907b5-7390-4bf7-af24-f64dca48a7f8")
 	)
 	(fp_line
-		(start 6.37 1.2)
-		(end 6.37 3.4)
+		(start 0.75 5.37)
+		(end 5.75 5.37)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3f002d41-05e4-431a-97a7-7949d16040de")
+	)
+	(fp_line
+		(start 6.37 1.15)
+		(end 6.37 3.35)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -96,7 +96,7 @@
 	)
 	(fp_circle
 		(center 3.25 2.25)
-		(end 4.25 3.25)
+		(end 5 2.25)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -196,12 +196,13 @@
 			)
 		)
 	)
-	(pad "1" thru_hole rect
+	(pad "1" thru_hole circle
 		(at 0 0)
 		(size 1.7 1.7)
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
 		(uuid "ee1616be-3af4-4d1d-96b5-541d19557273")
 	)
 	(pad "1" thru_hole circle
@@ -229,7 +230,7 @@
 		(uuid "65a424f4-9f68-4376-86e4-1cb03f2e6524")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_TH_Tactile_Omron_B3F-10xx.step"
+	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_TH_Tactile_Omron_B3F-107x.step"
 		(offset
 			(xyz 0 0 0)
 		)
