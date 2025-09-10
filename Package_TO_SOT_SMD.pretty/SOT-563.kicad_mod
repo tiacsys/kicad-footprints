@@ -26,8 +26,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start 0 -0.935)
-		(end -0.6 -0.935)
+		(start -0.425568 -0.935)
+		(end 0.71 -0.935)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,26 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 0 -0.935)
-		(end 0.6 -0.935)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start 0 0.935)
-		(end -0.6 0.935)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start 0 0.935)
-		(end 0.6 0.935)
+		(start 0.71 0.935)
+		(end -0.71 0.935)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -63,9 +45,9 @@
 	)
 	(fp_poly
 		(pts
-			(xy -1.31 -0.5)
-			(xy -1.64 -0.26)
-			(xy -1.64 -0.74)
+			(xy -0.72 -0.94)
+			(xy -0.86 -1.13)
+			(xy -0.58 -1.13)
 		)
 		(stroke
 			(width 0.12)
@@ -198,12 +180,12 @@
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at 0 0 90)
 		(layer "F.Fab")
 		(effects
 			(font
-				(size 0.3 0.3)
-				(thickness 0.04)
+				(size 0.4 0.4)
+				(thickness 0.06)
 			)
 		)
 	)

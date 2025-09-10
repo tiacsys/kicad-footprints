@@ -26,8 +26,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start 0 -4.96)
-		(end -2.2 -4.96)
+		(start -2.31 -4.96)
+		(end 2.31 -4.96)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 0 -4.96)
-		(end 2.2 -4.96)
+		(start -2.31 -4.9175)
+		(end -2.31 -4.96)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,8 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 0 4.96)
-		(end -2.2 4.96)
+		(start -2.31 4.96)
+		(end -2.31 4.9175)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -53,8 +53,89 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 0 4.96)
-		(end 2.2 4.96)
+		(start 2.31 -4.96)
+		(end 2.31 -4.9175)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 2.31 -3.0825)
+		(end 2.31 -2.9175)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 2.31 -2.0825)
+		(end 2.31 -1.9175)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 2.31 -1.0825)
+		(end 2.31 -0.9175)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 2.31 -0.0825)
+		(end 2.31 0.0825)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 2.31 0.9175)
+		(end 2.31 1.0825)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 2.31 1.9175)
+		(end 2.31 2.0825)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 2.31 2.9175)
+		(end 2.31 3.0825)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 2.31 4.9175)
+		(end 2.31 4.96)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 2.31 4.96)
+		(end -2.31 4.96)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -63,9 +144,9 @@
 	)
 	(fp_poly
 		(pts
-			(xy -2.75 -4.9175)
-			(xy -2.99 -5.2475)
-			(xy -2.51 -5.2475)
+			(xy -2.85 -4.92)
+			(xy -3.09 -5.25)
+			(xy -2.61 -5.25)
 		)
 		(stroke
 			(width 0.12)

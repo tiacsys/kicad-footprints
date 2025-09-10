@@ -1,9 +1,9 @@
-(footprint "HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm"
+(footprint "HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.83x1.89mm"
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "HVSSOP, 10 Pin (https://www.ti.com/lit/ds/symlink/bq24090.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
-	(tags "HVSSOP SO")
+	(tags "HVSSOP SO JEDEC-MO-187_BA-T Texas_DGQ0010D")
 	(property "Reference" "REF**"
 		(at 0 -2.45 0)
 		(layer "F.SilkS")
@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm"
+	(property "Value" "HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.83x1.89mm"
 		(at 0 2.45 0)
 		(layer "F.Fab")
 		(effects
@@ -26,8 +26,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start 0 -1.61)
-		(end -1.5 -1.61)
+		(start -1.61 -1.61)
+		(end 1.61 -1.61)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 0 -1.61)
-		(end 1.5 -1.61)
+		(start -1.61 -1.41)
+		(end -1.61 -1.61)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,8 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 0 1.61)
-		(end -1.5 1.61)
+		(start -1.61 1.61)
+		(end -1.61 1.41)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -53,8 +53,26 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 0 1.61)
-		(end 1.5 1.61)
+		(start 1.61 -1.61)
+		(end 1.61 -1.41)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 1.61 1.41)
+		(end 1.61 1.61)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 1.61 1.61)
+		(end -1.61 1.61)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -63,9 +81,9 @@
 	)
 	(fp_poly
 		(pts
-			(xy -2.1875 -1.41)
-			(xy -2.4275 -1.74)
-			(xy -1.9475 -1.74)
+			(xy -2.16 -1.41)
+			(xy -2.4 -1.74)
+			(xy -1.92 -1.74)
 		)
 		(stroke
 			(width 0.12)
@@ -208,26 +226,26 @@
 		)
 	)
 	(pad "" smd roundrect
-		(at -0.39 -0.47)
-		(size 0.63 0.76)
+		(at -0.46 -0.47)
+		(size 0.74 0.76)
 		(layers "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "" smd roundrect
-		(at -0.39 0.47)
-		(size 0.63 0.76)
+		(at -0.46 0.47)
+		(size 0.74 0.76)
 		(layers "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "" smd roundrect
-		(at 0.39 -0.47)
-		(size 0.63 0.76)
+		(at 0.46 -0.47)
+		(size 0.74 0.76)
 		(layers "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "" smd roundrect
-		(at 0.39 0.47)
-		(size 0.63 0.76)
+		(at 0.46 0.47)
+		(size 0.74 0.76)
 		(layers "F.Paste")
 		(roundrect_rratio 0.25)
 	)
@@ -293,13 +311,13 @@
 	)
 	(pad "11" smd rect
 		(at 0 0)
-		(size 1.57 1.88)
+		(size 1.83 1.89)
 		(property pad_prop_heatsink)
 		(layers "F.Cu" "F.Mask")
 		(zone_connect 2)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm.step"
+	(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.83x1.89mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

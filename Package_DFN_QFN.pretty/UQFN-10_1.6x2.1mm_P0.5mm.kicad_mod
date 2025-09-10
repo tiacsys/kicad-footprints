@@ -26,8 +26,17 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -1.13 -0.635)
-		(end -1.13 -0.93)
+		(start -0.91 -1.16)
+		(end -0.885 -1.16)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start -0.91 -1.07)
+		(end -0.91 -1.16)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,6 +53,24 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
+		(start -0.885 1.16)
+		(end -0.91 1.16)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 0.885 -1.16)
+		(end 0.91 -1.16)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
 		(start 0.91 -1.16)
 		(end 0.91 -0.635)
 		(stroke
@@ -53,8 +80,17 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
+		(start 0.91 0.635)
+		(end 0.91 1.16)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
 		(start 0.91 1.16)
-		(end 0.91 0.635)
+		(end 0.885 1.16)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -63,9 +99,9 @@
 	)
 	(fp_poly
 		(pts
-			(xy -1.13 -1.17)
-			(xy -1.37 -1.5)
-			(xy -0.89 -1.5)
+			(xy -1.05 -0.64)
+			(xy -1.19 -0.83)
+			(xy -0.91 -0.83)
 		)
 		(stroke
 			(width 0.12)
