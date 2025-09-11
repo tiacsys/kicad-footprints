@@ -1,9 +1,9 @@
-(footprint "TerminalBlock_Degson_DG246-3.81-03P"
+(footprint "Degson_DG246-3.81-03P"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "DEGSON ELECTRONICS DG246 terminal block, https://www.degson.com/index.php?a=downloadFile&id=1090277")
+	(descr "DEGSON ELECTRONICS DG246 terminal block 2x3, https://www.degson.com/index.php?a=downloadFile&id=1090277")
 	(tags "connector terminal block")
 	(property "Reference" "REF**"
 		(at 4.9 -3.86 0)
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "TerminalBlock_Degson_DG246-3.81-03P"
+	(property "Value" "Degson_DG246-3.81-03P"
 		(at 4.5 10.4 0)
 		(layer "F.Fab")
 		(uuid "7f8bb9a6-05f6-478b-9cb3-71792540eb27")
@@ -167,7 +167,7 @@
 		(uuid "c6acb5d3-7701-448f-a795-3949de669c58")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}//TerminalBlock.3dshapes/TerminalBlock_Degson_DG246-3.81-03P.step"
+	(model "${KICAD9_3DMODEL_DIR}//TerminalBlock_Degson.3dshapes/Degson_DG246-3.81-03P.step"
 		(offset
 			(xyz 0 0 0)
 		)
