@@ -2,7 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "LFCSP, 6 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_6_3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
+	(descr "LFCSP, 6 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-6/cp_6_3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 	(tags "LFCSP NoLead")
 	(property "Reference" "REF**"
 		(at 0 -1.95 0)
@@ -26,8 +26,35 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -0.699252 -1.11)
+		(start -1.11 1.11)
+		(end -1.11 1.06)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start -0.925042 -1.11)
 		(end 1.11 -1.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 1.11 -1.11)
+		(end 1.11 -1.06)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 1.11 1.06)
+		(end 1.11 1.11)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -45,9 +72,9 @@
 	)
 	(fp_poly
 		(pts
-			(xy -0.99 -1.12)
-			(xy -1.13 -1.31)
-			(xy -0.85 -1.31)
+			(xy -1.26 -1.06)
+			(xy -1.4 -1.25)
+			(xy -1.12 -1.25)
 		)
 		(stroke
 			(width 0.12)
@@ -57,8 +84,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -1.33 -1.1)
-		(end -1.25 -1.1)
+		(start -1.63 -1.05)
+		(end -1.25 -1.05)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -66,8 +93,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -1.33 1.1)
-		(end -1.33 -1.1)
+		(start -1.63 1.05)
+		(end -1.63 -1.05)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -84,7 +111,7 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -1.25 -1.1)
+		(start -1.25 -1.05)
 		(end -1.25 -1.25)
 		(stroke
 			(width 0.05)
@@ -93,8 +120,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -1.25 1.1)
-		(end -1.33 1.1)
+		(start -1.25 1.05)
+		(end -1.63 1.05)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -103,7 +130,7 @@
 	)
 	(fp_line
 		(start -1.25 1.25)
-		(end -1.25 1.1)
+		(end -1.25 1.05)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -112,7 +139,7 @@
 	)
 	(fp_line
 		(start 1.25 -1.25)
-		(end 1.25 -1.1)
+		(end 1.25 -1.05)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -120,8 +147,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 1.25 -1.1)
-		(end 1.33 -1.1)
+		(start 1.25 -1.05)
+		(end 1.63 -1.05)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -129,7 +156,7 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 1.25 1.1)
+		(start 1.25 1.05)
 		(end 1.25 1.25)
 		(stroke
 			(width 0.05)
@@ -147,8 +174,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 1.33 -1.1)
-		(end 1.33 1.1)
+		(start 1.63 -1.05)
+		(end 1.63 1.05)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -156,8 +183,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 1.33 1.1)
-		(end 1.25 1.1)
+		(start 1.63 1.05)
+		(end 1.25 1.05)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -214,38 +241,38 @@
 		(roundrect_rratio 0.25)
 	)
 	(pad "1" smd roundrect
-		(at -0.8875 -0.65)
-		(size 0.375 0.4)
+		(at -1.0375 -0.65)
+		(size 0.675 0.3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "2" smd roundrect
-		(at -0.8875 0)
-		(size 0.375 0.4)
+		(at -1.0375 0)
+		(size 0.675 0.3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "3" smd roundrect
-		(at -0.8875 0.65)
-		(size 0.375 0.4)
+		(at -1.0375 0.65)
+		(size 0.675 0.3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "4" smd roundrect
-		(at 0.8875 0.65)
-		(size 0.375 0.4)
+		(at 1.0375 0.65)
+		(size 0.675 0.3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "5" smd roundrect
-		(at 0.8875 0)
-		(size 0.375 0.4)
+		(at 1.0375 0)
+		(size 0.675 0.3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "6" smd roundrect
-		(at 0.8875 -0.65)
-		(size 0.375 0.4)
+		(at 1.0375 -0.65)
+		(size 0.675 0.3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
