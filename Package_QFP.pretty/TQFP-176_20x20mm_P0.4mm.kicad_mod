@@ -1,9 +1,9 @@
-(footprint "VQFP-176_20x20mm_P0.4mm"
+(footprint "TQFP-176_20x20mm_P0.4mm"
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "VQFP, 176 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py")
-	(tags "VQFP QFP")
+	(descr "TQFP, 176 Pin (JEDEC MS-026 variation AFC, 1.00mm body thickness, https://www.jedec.org/document_search?search_api_views_fulltext=MS-026), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+	(tags "TQFP QFP Microsemi_VQ176")
 	(property "Reference" "REF**"
 		(at 0 -12.35 0)
 		(layer "F.SilkS")
@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "VQFP-176_20x20mm_P0.4mm"
+	(property "Value" "TQFP-176_20x20mm_P0.4mm"
 		(at 0 12.35 0)
 		(layer "F.Fab")
 		(effects
@@ -1372,7 +1372,7 @@
 		(roundrect_rratio 0.25)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_QFP.3dshapes/VQFP-176_20x20mm_P0.4mm.step"
+	(model "${KICAD9_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-176_20x20mm_P0.4mm.step"
 		(offset
 			(xyz 0 0 0)
 		)
