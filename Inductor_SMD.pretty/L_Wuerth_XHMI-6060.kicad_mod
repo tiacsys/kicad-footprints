@@ -1,11 +1,11 @@
-(footprint "L_Wuerth_WE-XHMI-6060"
+(footprint "L_Wuerth_XHMI-6060"
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Inductor, Wuerth, WE-XHMI 6060, 6.45mmx6.65mm, https://www.we-online.com/components/products/datasheet/74439346068.pdf, generated with kicad-footprint-generator StandardBox_generator.py")
-	(tags "Inductor Wuerth WE-XHMI 6060")
+	(descr "Inductor, Wuerth, XHMI-6060, 6.65x6.45x5.8mm, (https://www.we-online.com/components/products/datasheet/74439346068.pdf), generated with kicad-footprint-generator gen_inductor.py")
+	(tags "Würth -SMT")
 	(property "Reference" "REF**"
-		(at 0 -4.28 0)
+		(at 0 -4.18 0)
 		(layer "F.SilkS")
 		(effects
 			(font
@@ -14,8 +14,8 @@
 			)
 		)
 	)
-	(property "Value" "L_Wuerth_WE-XHMI-6060"
-		(at 0 4.28 0)
+	(property "Value" "L_Wuerth_XHMI-6060"
+		(at 0 4.18 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -26,8 +26,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -3.335 -3.435)
-		(end -2.296 -3.435)
+		(start -3.435 -3.335)
+		(end 3.435 -3.335)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -3.335 3.435)
-		(end -3.335 -3.435)
+		(start -3.435 3.335)
+		(end -3.435 -3.335)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,8 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -1.704 -3.435)
-		(end 3.335 -3.435)
+		(start 3.435 -3.335)
+		(end 3.435 3.335)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -53,39 +53,17 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 3.335 -3.435)
-		(end 3.335 3.435)
+		(start 3.435 3.335)
+		(end -3.435 3.335)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start 3.335 3.435)
-		(end -3.335 3.435)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_poly
-		(pts
-			(xy -2 -3.435)
-			(xy -2.34 -3.905)
-			(xy -1.66 -3.905)
-		)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(fill yes)
 		(layer "F.SilkS")
 	)
 	(fp_rect
-		(start -3.48 -3.58)
-		(end 3.48 3.58)
+		(start -3.58 -3.48)
+		(end 3.58 3.48)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -93,14 +71,9 @@
 		(fill no)
 		(layer "F.CrtYd")
 	)
-	(fp_poly
-		(pts
-			(xy -3.225 -2.325)
-			(xy -3.225 3.325)
-			(xy 3.225 3.325)
-			(xy 3.225 -3.325)
-			(xy -2.225 -3.325)
-		)
+	(fp_rect
+		(start -3.325 -3.225)
+		(end 3.325 3.225)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -131,7 +104,7 @@
 		(roundrect_rratio 0.172414)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_WE-XHMI-6060.step"
+	(model "${KICAD9_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_XHMI-6060.step"
 		(offset
 			(xyz 0 0 0)
 		)

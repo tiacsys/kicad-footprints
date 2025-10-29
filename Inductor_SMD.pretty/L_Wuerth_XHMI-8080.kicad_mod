@@ -1,11 +1,11 @@
-(footprint "L_Wuerth_WE-XHMI-8080"
+(footprint "L_Wuerth_XHMI-8080"
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Inductor, Wuerth, WE-XHMI 8080, 8.3mmx8.8mm, https://katalog.we-online.de/pbs/datasheet/74439358068.pdf, generated with kicad-footprint-generator StandardBox_generator.py")
-	(tags "Inductor Wuerth WE-XHMI 8080")
+	(descr "Inductor, Wuerth, XHMI-8080, 8.8x8.3x7.8mm, (https://www.we-online.com/components/products/datasheet/74439358068.pdf), generated with kicad-footprint-generator gen_inductor.py")
+	(tags "Würth -SMT")
 	(property "Reference" "REF**"
-		(at 0 -5.35 0)
+		(at 0 -5.1 0)
 		(layer "F.SilkS")
 		(effects
 			(font
@@ -14,8 +14,8 @@
 			)
 		)
 	)
-	(property "Value" "L_Wuerth_WE-XHMI-8080"
-		(at 0 5.35 0)
+	(property "Value" "L_Wuerth_XHMI-8080"
+		(at 0 5.1 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -26,8 +26,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -4.26 -4.51)
-		(end -2.796 -4.51)
+		(start -4.51 -4.26)
+		(end 4.51 -4.26)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -4.26 4.51)
-		(end -4.26 -4.51)
+		(start -4.51 4.26)
+		(end -4.51 -4.26)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -44,8 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -2.204 -4.51)
-		(end 4.26 -4.51)
+		(start 4.51 -4.26)
+		(end 4.51 4.26)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -53,39 +53,17 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 4.26 -4.51)
-		(end 4.26 4.51)
+		(start 4.51 4.26)
+		(end -4.51 4.26)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start 4.26 4.51)
-		(end -4.26 4.51)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_poly
-		(pts
-			(xy -2.5 -4.51)
-			(xy -2.84 -4.98)
-			(xy -2.16 -4.98)
-		)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(fill yes)
 		(layer "F.SilkS")
 	)
 	(fp_rect
-		(start -4.4 -4.65)
-		(end 4.4 4.65)
+		(start -4.65 -4.4)
+		(end 4.65 4.4)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -93,14 +71,9 @@
 		(fill no)
 		(layer "F.CrtYd")
 	)
-	(fp_poly
-		(pts
-			(xy -4.15 -3.4)
-			(xy -4.15 4.4)
-			(xy 4.15 4.4)
-			(xy 4.15 -4.4)
-			(xy -3.15 -4.4)
-		)
+	(fp_rect
+		(start -4.4 -4.15)
+		(end 4.4 4.15)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -131,7 +104,7 @@
 		(roundrect_rratio 0.15625)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_WE-XHMI-8080.step"
+	(model "${KICAD9_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_XHMI-8080.step"
 		(offset
 			(xyz 0 0 0)
 		)
