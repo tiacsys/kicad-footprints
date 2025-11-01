@@ -2,8 +2,8 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "LQFP, 144 Pin (https://www.infineon.com/dgdl/Infineon-XMC4500-DS-v01_05-EN.pdf?fileId=5546d46254e133b40154e1b56cbe0123), generated with kicad-footprint-generator ipc_gullwing_generator.py")
-	(tags "LQFP QFP Infineon-PG-LQFP-144-24 Infineon-PG-LQFP-144-26")
+	(descr "LQFP, 144 Pin (JEDEC MS-026 variation BFB, 1.40mm body thickness, custom Exposed Pad from Infineon, https://www.infineon.com/dgdl/Infineon-XMC4500-DS-v01_05-EN.pdf#page=107, https://www.jedec.org/document_search?search_api_views_fulltext=MS-026), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+	(tags "LQFP QFP Infineon_PG-LQFP-144-24 Infineon_PG-LQFP-144-26")
 	(property "Reference" "REF**"
 		(at 0 -12.35 0)
 		(layer "F.SilkS")
