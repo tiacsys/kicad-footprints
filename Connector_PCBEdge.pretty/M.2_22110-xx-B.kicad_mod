@@ -258,24 +258,6 @@
 		(layer "B.CrtYd")
 	)
 	(fp_line
-		(start -11.05 -0.1)
-		(end -11.05 4.1)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -11.05 4.1)
-		(end 11.05 4.1)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
 		(start -3 -106)
 		(end 3 -106)
 		(stroke
@@ -284,22 +266,14 @@
 		)
 		(layer "F.CrtYd")
 	)
-	(fp_line
-		(start 11.05 -0.1)
-		(end -11.05 -0.1)
+	(fp_rect
+		(start -11.05 -0.1)
+		(end 11.05 4.1)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 11.05 4.1)
-		(end 11.05 -0.1)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_arc

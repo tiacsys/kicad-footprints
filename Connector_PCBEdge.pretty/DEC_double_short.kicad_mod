@@ -196,40 +196,14 @@
 		)
 		(layer "Edge.Cuts")
 	)
-	(fp_line
+	(fp_rect
 		(start 0 -18.42)
-		(end 131.74 -18.42)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 0 0)
-		(end 0 -18.42)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 131.74 -18.42)
 		(end 131.74 0)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 131.74 0)
-		(end 0 0)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_text user "BV1"
