@@ -2,7 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "surface-mounted straight socket strip, 1x38, 1.27mm pitch, single row, style 1 (pin 1 left) (https://gct.co/pdfjs/web/viewer.html?file=/Files/Drawings/BD075.pdf&t=1511594726925), script generated")
+	(descr "surface-mounted straight socket strip, 1x38, 1.27mm pitch, single row, style 1 (pin 1 left) (https://gct.co/files/drawings/bd075.pdf), script generated")
 	(tags "Surface mounted socket strip SMD 1x38 1.27mm single row style1 pin1 left")
 	(property "Reference" "REF**"
 		(at 0 -25.805 0)
@@ -413,8 +413,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -2.75 -24.85)
-		(end 2.75 -24.85)
+		(start -2.75 -24.8)
+		(end 2.75 -24.8)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -422,8 +422,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -2.75 24.85)
-		(end -2.75 -24.85)
+		(start -2.75 24.8)
+		(end -2.75 -24.8)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -431,8 +431,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 2.75 -24.85)
-		(end 2.75 24.85)
+		(start 2.75 -24.8)
+		(end 2.75 24.8)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -440,8 +440,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 2.75 24.85)
-		(end -2.75 24.85)
+		(start 2.75 24.8)
+		(end -2.75 24.8)
 		(stroke
 			(width 0.05)
 			(type solid)

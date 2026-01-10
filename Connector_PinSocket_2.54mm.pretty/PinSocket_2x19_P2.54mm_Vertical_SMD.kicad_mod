@@ -2,7 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "surface-mounted straight socket strip, 2x19, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated")
+	(descr "surface-mounted straight socket strip, 2x19, 2.54mm pitch, double rows (from Kicad 4.0.7), script generated")
 	(tags "Surface mounted socket strip SMD 2x19 2.54mm double row")
 	(property "Reference" "REF**"
 		(at 0 -25.63 0)
@@ -413,8 +413,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -4.55 -24.65)
-		(end 4.5 -24.65)
+		(start -4.5 -24.65)
+		(end 4.55 -24.65)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -422,8 +422,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -4.55 24.65)
-		(end -4.55 -24.65)
+		(start -4.5 24.6)
+		(end -4.5 -24.65)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -431,8 +431,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 4.5 -24.65)
-		(end 4.5 24.65)
+		(start 4.55 -24.65)
+		(end 4.55 24.6)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -440,8 +440,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 4.5 24.65)
-		(end -4.55 24.65)
+		(start 4.55 24.6)
+		(end -4.5 24.6)
 		(stroke
 			(width 0.05)
 			(type solid)

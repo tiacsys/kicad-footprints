@@ -2,7 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Through hole straight socket strip, 2x25, 1.27mm pitch, double cols (from Kicad 4.0.7), script generated")
+	(descr "Through hole straight socket strip, 2x25, 1.27mm pitch, double rows (from Kicad 4.0.7), script generated")
 	(tags "Through hole socket strip THT 2x25 1.27mm double row")
 	(property "Reference" "REF**"
 		(at -0.635 -2.135 0)
@@ -116,8 +116,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -2.67 -1.15)
-		(end 1.38 -1.15)
+		(start -2.66 -1.14)
+		(end 1.39 -1.14)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -125,8 +125,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -2.67 31.6)
-		(end -2.67 -1.15)
+		(start -2.66 31.61)
+		(end -2.66 -1.14)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -134,8 +134,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 1.38 -1.15)
-		(end 1.38 31.6)
+		(start 1.39 -1.14)
+		(end 1.39 31.61)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -143,8 +143,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 1.38 31.6)
-		(end -2.67 31.6)
+		(start 1.39 31.61)
+		(end -2.66 31.61)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -153,7 +153,7 @@
 	)
 	(fp_line
 		(start -2.16 -0.635)
-		(end 0.1275 -0.635)
+		(end 0.128 -0.635)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -170,8 +170,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 0.1275 -0.635)
-		(end 0.89 0.1275)
+		(start 0.128 -0.635)
+		(end 0.89 0.127)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -179,7 +179,7 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 0.89 0.1275)
+		(start 0.89 0.127)
 		(end 0.89 31.115)
 		(stroke
 			(width 0.1)

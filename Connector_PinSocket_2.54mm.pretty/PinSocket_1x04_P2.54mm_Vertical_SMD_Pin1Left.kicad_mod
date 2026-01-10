@@ -116,7 +116,7 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -3.1 5.7)
+		(start -3.1 5.65)
 		(end -3.1 -5.7)
 		(stroke
 			(width 0.05)
@@ -126,7 +126,7 @@
 	)
 	(fp_line
 		(start 3.1 -5.7)
-		(end 3.1 5.7)
+		(end 3.1 5.65)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -134,8 +134,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 3.1 5.7)
-		(end -3.1 5.7)
+		(start 3.1 5.65)
+		(end -3.1 5.65)
 		(stroke
 			(width 0.05)
 			(type solid)

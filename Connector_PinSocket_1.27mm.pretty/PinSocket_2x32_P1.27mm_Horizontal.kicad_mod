@@ -2,7 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Through hole angled socket strip, 2x32, 1.27mm pitch, 4.4mm socket length, double cols (https://gct.co/pdfjs/web/viewer.html?file=/Files/Drawings/BD091.pdf&t=1511594177220), script generated")
+	(descr "Through hole angled socket strip, 2x32, 1.27mm pitch, 4.4mm socket length, double rows (https://gct.co/pdfjs/web/viewer.html?file=/Files/Drawings/BD091.pdf&t=1511594177220), script generated")
 	(tags "Through hole angled socket strip THT 2x32 1.27mm double row")
 	(property "Reference" "REF**"
 		(at -2.5925 -2.135 0)
@@ -449,8 +449,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -6.35 -1.15)
-		(end -6.35 40.55)
+		(start -6.3 -1.15)
+		(end -6.3 40.5)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -458,8 +458,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -6.35 40.55)
-		(end 1.15 40.55)
+		(start -6.3 40.5)
+		(end 1.15 40.5)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -468,7 +468,7 @@
 	)
 	(fp_line
 		(start 1.15 -1.15)
-		(end -6.35 -1.15)
+		(end -6.3 -1.15)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -476,7 +476,7 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 1.15 40.55)
+		(start 1.15 40.5)
 		(end 1.15 -1.15)
 		(stroke
 			(width 0.05)
