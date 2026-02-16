@@ -1,5 +1,5 @@
 (footprint "Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Alliance TFBGA-36, NSMD, 6.0x8.0mm, 36 Ball, 6x8 Layout, 0.75mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1008_Mar_2023V1.2.pdf#page=13")
@@ -26,6 +26,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -3.11 4.11)
 		(end -3.11 -3.11)
@@ -357,7 +358,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -1,5 +1,5 @@
 (footprint "Samtec_UMPT-10-XX.X-X-V-S-W_1x10-1MP_P2.0mm_Terminal_WeldTab"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -13.76 -3.145563)
 		(end -12.995563 -3.91)
@@ -307,7 +308,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_Samtec_MicroPower.3dshapes/Samtec_UMPT-10-XX.X-X-V-S-W_1x10-1MP_P2.0mm_Terminal_WeldTab.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_Samtec_MicroPower.3dshapes/Samtec_UMPT-10-XX.X-X-V-S-W_1x10-1MP_P2.0mm_Terminal_WeldTab.step"
 		(offset
 			(xyz 0 0 0)
 		)

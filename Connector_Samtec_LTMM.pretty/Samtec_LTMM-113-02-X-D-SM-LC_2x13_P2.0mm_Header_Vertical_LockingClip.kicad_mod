@@ -1,5 +1,5 @@
 (footprint "Samtec_LTMM-113-02-X-D-SM-LC_2x13_P2.0mm_Header_Vertical_LockingClip"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Samtec LTMM Shrouded Terminal Strip, 2.00 mm Pitch, Double Row, Surface Mount, Locking Clips (source: https://suddendocs.samtec.com/prints/ltmm-1xx-xx-xx-d-xx-xx-footprint.pdf#page=3)")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -14.3015 -3.635)
 		(end -13.1925 -3.635)
@@ -763,7 +764,7 @@
 		(roundrect_rratio 0.245098)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_Samtec_LTMM.3dshapes/Samtec_LTMM-113-02-X-D-SM-LC_2x13_P2.0mm_Header_Vertical_LockingClip.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_Samtec_LTMM.3dshapes/Samtec_LTMM-113-02-X-D-SM-LC_2x13_P2.0mm_Header_Vertical_LockingClip.step"
 		(offset
 			(xyz 0 0 0)
 		)

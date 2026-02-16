@@ -1,5 +1,5 @@
 (footprint "Molex_Pico-Clasp_202396-0407_1x04-1MP_P1.00mm_Horizontal"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Molex Pico-Clasp series connector, 202396-0407 (http://www.molex.com/pdm_docs/sd/2023960207_sd.pdf), generated with kicad-footprint-generator")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -3.11 -1.985)
 		(end -2.06 -1.985)
@@ -342,7 +343,7 @@
 		(roundrect_rratio 0.208333)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Pico-Clasp_202396-0407_1x04-1MP_P1.00mm_Horizontal.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Pico-Clasp_202396-0407_1x04-1MP_P1.00mm_Horizontal.step"
 		(offset
 			(xyz 0 0 0)
 		)

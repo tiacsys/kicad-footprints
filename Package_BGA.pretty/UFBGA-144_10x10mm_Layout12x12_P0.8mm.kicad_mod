@@ -1,5 +1,5 @@
 (footprint "UFBGA-144_10x10mm_Layout12x12_P0.8mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "UFBGA-144, 10.0x10.0mm, 144 Ball, 12x12 Layout, 0.8mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, http://www.st.com/resource/en/datasheet/stm32f446ze.pdf#page=189")
@@ -27,6 +27,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -5.11 5.11)
 		(end -5.11 -4.11)
@@ -1006,7 +1007,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/UFBGA-144_10x10mm_Layout12x12_P0.8mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/UFBGA-144_10x10mm_Layout12x12_P0.8mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

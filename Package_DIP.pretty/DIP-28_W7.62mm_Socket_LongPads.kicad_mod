@@ -1,5 +1,5 @@
 (footprint "DIP-28_W7.62mm_Socket_LongPads"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "28-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start 1.56 -1.33)
 		(end 1.56 34.35)
@@ -362,8 +363,13 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 	)
+	(point
+		(at 3.81 16.51)
+		(size 1.27)
+		(layer "F.Fab")
+	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-28_W7.62mm_Socket.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-28_W7.62mm_Socket.step"
 		(offset
 			(xyz 0 0 0)
 		)

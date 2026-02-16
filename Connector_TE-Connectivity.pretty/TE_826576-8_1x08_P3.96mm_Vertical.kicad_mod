@@ -1,5 +1,5 @@
 (footprint "TE_826576-8_1x08_P3.96mm_Vertical"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "TE, 826576-8, 8 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.8 -3.31)
 		(end -1.8 3.31)
@@ -256,7 +257,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_826576-8_1x08_P3.96mm_Vertical.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_826576-8_1x08_P3.96mm_Vertical.step"
 		(offset
 			(xyz 0 0 0)
 		)

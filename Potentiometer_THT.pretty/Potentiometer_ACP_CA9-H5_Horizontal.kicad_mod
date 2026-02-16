@@ -1,5 +1,5 @@
 (footprint "Potentiometer_ACP_CA9-H5_Horizontal"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Potentiometer, horizontal, ACP CA9-H5, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -0.11 -2.51)
 		(end 4.91 -2.51)
@@ -195,7 +196,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_ACP_CA9-H5_Horizontal.step"
+	(model "${KICAD10_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_ACP_CA9-H5_Horizontal.step"
 		(offset
 			(xyz 0 0 0)
 		)

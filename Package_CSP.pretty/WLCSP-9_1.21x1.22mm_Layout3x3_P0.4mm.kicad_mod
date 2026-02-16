@@ -1,5 +1,5 @@
 (footprint "WLCSP-9_1.21x1.22mm_Layout3x3_P0.4mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "WLCSP-9, 1.21x1.22mm, 9 Ball, 3x3 Layout, 0.4mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/wlcspcb/cb_9_3.pdf")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -0.76 0.76)
 		(end -0.76 -0.435)
@@ -194,7 +195,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-9_1.21x1.22mm_Layout3x3_P0.4mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-9_1.21x1.22mm_Layout3x3_P0.4mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

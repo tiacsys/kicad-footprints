@@ -1,5 +1,5 @@
 (footprint "ST_TFBGA-225_13x13mm_Layout15x15_P0.8mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "ST TFBGA-225, 13.0x13.0mm, 225 Ball, 15x15 Layout, 0.8mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.st.com/resource/en/datasheet/stm32h7b3ri.pdf")
@@ -27,6 +27,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -6.61 6.61)
 		(end -6.61 -5.61)
@@ -1492,7 +1493,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/ST_TFBGA-225_13x13mm_Layout15x15_P0.8mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/ST_TFBGA-225_13x13mm_Layout15x15_P0.8mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

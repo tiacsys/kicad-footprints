@@ -1,5 +1,5 @@
 (footprint "TerminalBlock_MetzConnect_Type055_RT01504HDWU_1x04_P5.00mm_Horizontal"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "terminal block Metz Connect Type055_RT01504HDWU, 4 pins, pitch 5mm, size 20x8mm, drill diameter 1.3mm, pad diameter 2.5mm, https://www.metz-connect.com/externalfiles/310551/863212.PDF, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MetzConnect")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -2.62 -4.12)
 		(end 17.62 -4.12)
@@ -326,7 +327,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type055_RT01504HDWU_1x04_P5.00mm_Horizontal.step"
+	(model "${KICAD10_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type055_RT01504HDWU_1x04_P5.00mm_Horizontal.step"
 		(offset
 			(xyz 0 0 0)
 		)

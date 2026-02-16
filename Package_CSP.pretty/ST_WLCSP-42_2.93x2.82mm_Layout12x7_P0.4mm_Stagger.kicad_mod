@@ -1,5 +1,5 @@
 (footprint "ST_WLCSP-42_2.93x2.82mm_Layout12x7_P0.4mm_Stagger"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "ST WLCSP-42, ST Die ID 489, 2.93x2.82mm, 42 Ball, X-staggered 12x7 Layout, 0.4mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.st.com/resource/en/datasheet/stm32u073rc.pdf")
@@ -27,6 +27,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.575 1.52)
 		(end -1.575 -0.815)
@@ -394,7 +395,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-42_2.93x2.82mm_Layout12x7_P0.4mm_Stagger.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-42_2.93x2.82mm_Layout12x7_P0.4mm_Stagger.step"
 		(offset
 			(xyz 0 0 0)
 		)

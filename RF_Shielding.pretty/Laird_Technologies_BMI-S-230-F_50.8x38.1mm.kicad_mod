@@ -1,5 +1,5 @@
 (footprint "Laird_Technologies_BMI-S-230-F_50.8x38.1mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Laird Technologies BMI-S-230-F Shielding Cabinet Two Piece SMD 50.8x38.1mm, https://media.digikey.com/pdf/Data%20Sheets/Laird%20Technologies/BMI-S-230-F_Dwg.pdf")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -25.51 -15.84)
 		(end -25.51 -14.16)
@@ -498,7 +499,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/RF_Shielding.3dshapes/Laird_Technologies_BMI-S-230-F_50.8x38.1mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/RF_Shielding.3dshapes/Laird_Technologies_BMI-S-230-F_50.8x38.1mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

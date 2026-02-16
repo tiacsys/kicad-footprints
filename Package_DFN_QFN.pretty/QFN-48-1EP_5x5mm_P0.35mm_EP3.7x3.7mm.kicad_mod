@@ -1,5 +1,5 @@
 (footprint "QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "QFN, 48 Pin (https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf#page=47), generated with kicad-footprint-generator ipc_noLead_generator.py")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -2.157403 -2.635)
 		(end -1.935 -2.635)
@@ -629,7 +630,7 @@
 		(zone_connect 2)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

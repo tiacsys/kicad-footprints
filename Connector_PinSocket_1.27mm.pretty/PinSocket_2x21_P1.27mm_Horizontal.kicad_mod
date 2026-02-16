@@ -1,5 +1,5 @@
 (footprint "PinSocket_2x21_P1.27mm_Horizontal"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Through hole angled socket strip, 2x21, 1.27mm pitch, 4.4mm socket length, double rows (https://gct.co/pdfjs/web/viewer.html?file=/Files/Drawings/BD091.pdf&t=1511594177220), script generated")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -5.88 -0.695)
 		(end -5.88 26.095)
@@ -1302,7 +1303,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_1.27mm.3dshapes/PinSocket_2x21_P1.27mm_Horizontal.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_1.27mm.3dshapes/PinSocket_2x21_P1.27mm_Horizontal.step"
 		(offset
 			(xyz 0 0 0)
 		)

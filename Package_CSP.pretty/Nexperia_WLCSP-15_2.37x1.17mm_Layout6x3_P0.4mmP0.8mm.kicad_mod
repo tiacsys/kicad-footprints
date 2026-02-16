@@ -1,5 +1,5 @@
 (footprint "Nexperia_WLCSP-15_2.37x1.17mm_Layout6x3_P0.4mmP0.8mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Nexperia wafer level chip-size package; 15 bumps (6-3-6), 2.37x1.17mm, 15 Ball, 6x3 Layout, 0.4mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://assets.nexperia.com/documents/data-sheet/PCMFXUSB3S_SER.pdf")
@@ -26,6 +26,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.385 0.785)
 		(end -1.385 -0.4475)
@@ -231,7 +232,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_CSP.3dshapes/Nexperia_WLCSP-15_2.37x1.17mm_Layout6x3_P0.4mmP0.8mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_CSP.3dshapes/Nexperia_WLCSP-15_2.37x1.17mm_Layout6x3_P0.4mmP0.8mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

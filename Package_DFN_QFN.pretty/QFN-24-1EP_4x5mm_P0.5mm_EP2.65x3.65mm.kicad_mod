@@ -1,5 +1,5 @@
 (footprint "QFN-24-1EP_4x5mm_P0.5mm_EP2.65x3.65mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "QFN, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_24_05-08-1696.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -2.11 -2.61)
 		(end -1.385 -2.61)
@@ -503,7 +504,7 @@
 		(zone_connect 2)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-24-1EP_4x5mm_P0.5mm_EP2.65x3.65mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-24-1EP_4x5mm_P0.5mm_EP2.65x3.65mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

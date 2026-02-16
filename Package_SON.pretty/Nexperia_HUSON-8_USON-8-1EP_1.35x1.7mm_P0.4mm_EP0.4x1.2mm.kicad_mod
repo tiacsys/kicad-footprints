@@ -1,5 +1,5 @@
 (footprint "Nexperia_HUSON-8_USON-8-1EP_1.35x1.7mm_P0.4mm_EP0.4x1.2mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Nexperia HUSON-8 USON, 8 Pin (https://assets.nexperia.com/documents/data-sheet/IP4251_52_53_54-TTL.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -0.431884 -0.96)
 		(end 0.785 -0.96)
@@ -251,7 +252,7 @@
 		(zone_connect 2)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_SON.3dshapes/Nexperia_HUSON-8_USON-8-1EP_1.35x1.7mm_P0.4mm_EP0.4x1.2mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_SON.3dshapes/Nexperia_HUSON-8_USON-8-1EP_1.35x1.7mm_P0.4mm_EP0.4x1.2mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

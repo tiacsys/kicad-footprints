@@ -1,5 +1,5 @@
 (footprint "Lattice_caBGA-756_27x27mm_Layout32x32_P0.8mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Lattice caBGA-756, ECP5 FPGAs, 27.0x27.0mm, 756 Ball, 32x32 Layout, 0.8mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, http://www.latticesemi.com/view_document?document_id=213")
@@ -26,6 +26,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -13.61 13.61)
 		(end -13.61 -12.61)
@@ -4677,7 +4678,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/Lattice_caBGA-756_27x27mm_Layout32x32_P0.8mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/Lattice_caBGA-756_27x27mm_Layout32x32_P0.8mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -1,5 +1,5 @@
 (footprint "UFBGA-100_7x7mm_Layout12x12_P0.5mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "UFBGA-100, 7.0x7.0mm, 100 Ball, 12x12 Layout, 0.5mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, http://www.st.com/resource/en/datasheet/stm32f103tb.pdf#page=93")
@@ -27,6 +27,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -3.61 3.61)
 		(end -3.61 -2.61)
@@ -742,7 +743,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/UFBGA-100_7x7mm_Layout12x12_P0.5mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/UFBGA-100_7x7mm_Layout12x12_P0.5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

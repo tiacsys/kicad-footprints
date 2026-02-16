@@ -1,5 +1,5 @@
 (footprint "Samtec_MECF-50-0_-NP-L-DV_2x50_P1.27mm_Edge"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Highspeed card edge connector for PCB's with 50 contacts (not polarized)")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr exclude_from_pos_files exclude_from_bom)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -32.73 -5.11)
 		(end 32.73 -5.11)

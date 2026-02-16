@@ -1,5 +1,5 @@
 (footprint "ST_WLCSP-81_Die421"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "WLCSP-81, 3.693x3.815mm, 81 Ball, 9x9 Layout, 0.4mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, http://www.st.com/resource/en/datasheet/stm32f446ze.pdf#page=192")
@@ -27,6 +27,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.9725 2.0175)
 		(end -1.9725 -1.08625)
@@ -628,7 +629,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-81_Die421.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-81_Die421.step"
 		(offset
 			(xyz 0 0 0)
 		)

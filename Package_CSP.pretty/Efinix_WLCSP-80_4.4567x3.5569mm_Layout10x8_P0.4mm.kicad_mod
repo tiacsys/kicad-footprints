@@ -1,5 +1,5 @@
 (footprint "Efinix_WLCSP-80_4.4567x3.5569mm_Layout10x8_P0.4mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "WLCSP-80, NSMD pad definition Page 54, 4.4567x3.5569mm, 80 Ball, 10x8 Layout, 0.4mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.efinixinc.com/docs/trion-packaging-ug-v4.9.pdf")
@@ -26,6 +26,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -2.33835 1.88845)
 		(end -2.33835 -0.999225)
@@ -621,7 +622,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_CSP.3dshapes/Efinix_WLCSP-80_4.4567x3.5569mm_Layout10x8_P0.4mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_CSP.3dshapes/Efinix_WLCSP-80_4.4567x3.5569mm_Layout10x8_P0.4mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

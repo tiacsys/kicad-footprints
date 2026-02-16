@@ -1,5 +1,5 @@
 (footprint "Potentiometer_Piher_PT-15-V15_Vertical"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Potentiometer, vertical, Piher PT-15-V15, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_arc
 		(start 14.98 -3.6)
 		(mid -0.11 -5)
@@ -97,7 +98,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Piher_PT-15-V15_Vertical.step"
+	(model "${KICAD10_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Piher_PT-15-V15_Vertical.step"
 		(offset
 			(xyz 0 0 0)
 		)

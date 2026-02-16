@@ -1,5 +1,5 @@
 (footprint "VQFN-32-1EP_4x4mm_P0.4mm_EP2.8x2.8mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "VQFN, 32 Pin (https://www.ti.com/lit/ds/symlink/tps25750.pdf#page=78), generated with kicad-footprint-generator ipc_noLead_generator.py")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -2.11 -2.11)
 		(end -1.76 -2.11)
@@ -539,7 +540,7 @@
 		(zone_connect 2)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-32-1EP_4x4mm_P0.4mm_EP2.8x2.8mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-32-1EP_4x4mm_P0.4mm_EP2.8x2.8mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

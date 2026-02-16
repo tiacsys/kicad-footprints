@@ -1,5 +1,5 @@
 (footprint "SolderWire-0.15sqmm_1x03_P4mm_D0.5mm_OD1.5mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Soldered wire connection, for 3 times 0.15 mm² wires, basic insulation, conductor diameter 0.5mm, outer diameter 1.5mm, size source Multi-Contact FLEXI-E 0.15 (https://www.staubli.com/content/dam/ecs/catalogs-brochures/TM/CAB-Main-11014119-en.pdf#page=9), bend radius 3 times outer diameter, generated with kicad-footprint-generator")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr exclude_from_pos_files exclude_from_bom)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_rect
 		(start -1.5 -1.35)
 		(end 1.5 1.35)
@@ -118,7 +119,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.15sqmm_1x03_P4mm_D0.5mm_OD1.5mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.15sqmm_1x03_P4mm_D0.5mm_OD1.5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

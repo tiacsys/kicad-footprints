@@ -1,5 +1,5 @@
 (footprint "Xilinx_FTG256"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Artix-7 BGA, NSMD pad definition Appendix A, 17x17mm, 256 Ball, 16x16 Layout, 1mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=269")
@@ -26,6 +26,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -8.61 8.61)
 		(end -8.61 -7.61)
@@ -1677,7 +1678,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_FTG256.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_FTG256.step"
 		(offset
 			(xyz 0 0 0)
 		)

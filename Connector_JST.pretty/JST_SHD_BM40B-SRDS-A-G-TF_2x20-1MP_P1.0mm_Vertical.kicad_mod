@@ -1,5 +1,5 @@
 (footprint "JST_SHD_BM40B-SRDS-A-G-TF_2x20-1MP_P1.0mm_Vertical"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "JST SHD series connector, 1.0 mm Pitch, 40 Circuits, Header, Vertical, With a Boss (source: https://www.jst.com/wp-content/uploads/2021/01/eSHD-new.pdf)")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -11.26 -2.61)
 		(end -10.06 -2.61)
@@ -481,7 +482,7 @@
 		(roundrect_rratio 0.25)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SHD_BM40B-SRDS-A-G-TF_2x20-1MP_P1.0mm_Vertical.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SHD_BM40B-SRDS-A-G-TF_2x20-1MP_P1.0mm_Vertical.step"
 		(offset
 			(xyz 0 0 0)
 		)

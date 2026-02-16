@@ -1,5 +1,5 @@
 (footprint "Laird_Technologies_BMI-S-201-F_13.66x12.70mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Laird Technologies BMI-S-201-F Shielding Cabinet Two Piece SMD 13.66x12.70mm, http://cdn.lairdtech.com/home/brandworld/files/Board%20Level%20Shields%20Catalog%20Download.pdf")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -6.46 -3.84)
 		(end -6.46 -2.16)
@@ -218,7 +219,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/RF_Shielding.3dshapes/Laird_Technologies_BMI-S-201-F_13.66x12.70mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/RF_Shielding.3dshapes/Laird_Technologies_BMI-S-201-F_13.66x12.70mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

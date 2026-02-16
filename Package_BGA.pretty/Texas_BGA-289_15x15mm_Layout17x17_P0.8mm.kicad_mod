@@ -1,5 +1,5 @@
 (footprint "Texas_BGA-289_15x15mm_Layout17x17_P0.8mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Texas Instruments BGA-289, 0.4mm pad, 15x15mm, 289 Ball, 17x17 Layout, 0.8mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.ti.com/lit/ml/mpbg777/mpbg777.pdf")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -7.61 7.61)
 		(end -7.61 -6.61)
@@ -1874,7 +1875,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_BGA-289_15x15mm_Layout17x17_P0.8mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_BGA-289_15x15mm_Layout17x17_P0.8mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

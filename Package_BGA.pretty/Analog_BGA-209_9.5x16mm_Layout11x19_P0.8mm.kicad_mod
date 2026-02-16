@@ -1,5 +1,5 @@
 (footprint "Analog_BGA-209_9.5x16mm_Layout11x19_P0.8mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Analog BGA-209 (Reference LTC DWG#05-08-1561 Rev B), 9.5x16.0mm, 209 Ball, 11x19 Layout, 0.8mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-bga/05081561_bga209.pdf")
@@ -26,6 +26,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -4.86 8.11)
 		(end -4.86 -7.11)
@@ -1395,7 +1396,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/Analog_BGA-209_9.5x16mm_Layout11x19_P0.8mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/Analog_BGA-209_9.5x16mm_Layout11x19_P0.8mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

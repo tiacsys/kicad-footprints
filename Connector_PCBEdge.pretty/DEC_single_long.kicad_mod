@@ -1,5 +1,5 @@
 (footprint "DEC_single_long"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "DEC card edge connectors, http://www.bitsavers.org/pdf/dec/handbooks/Digital_Logic_Handbook_1975-76.pdf page 10 (24) (bottom view), http://www.bitsavers.org/pdf/dec/pdp8/pdp8e/PDP-8E_Engineering_Drawings_Dec72.pdf page 70 (bottom view)")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr exclude_from_pos_files exclude_from_bom)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start 2.54 -0.3)
 		(end 59.436 -0.3)

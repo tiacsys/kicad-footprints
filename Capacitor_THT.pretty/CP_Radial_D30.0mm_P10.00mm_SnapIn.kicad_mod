@@ -1,5 +1,5 @@
 (footprint "CP_Radial_D30.0mm_P10.00mm_SnapIn"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "CP, Radial series, Radial, pin pitch=10.00mm, diameter=30mm, height=50mm, Electrolytic Capacitor, http://www.vishay.com/docs/28342/058059pll-si.pdf")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -11.179131 -8.475)
 		(end -8.179131 -8.475)
@@ -4527,7 +4528,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D30.0mm_P10.00mm_SnapIn.step"
+	(model "${KICAD10_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D30.0mm_P10.00mm_SnapIn.step"
 		(offset
 			(xyz 0 0 0)
 		)

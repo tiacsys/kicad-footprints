@@ -1,5 +1,5 @@
 (footprint "IDC-Header_2x10_P2.54mm_Vertical_SMD"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "SMD IDC box header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://www.tme.eu/Document/4baa0e952ce73e37bc68cf730b541507/T821M114A1S100CEU-B.pdf")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -4.585 -16.62)
 		(end 4.585 -16.62)
@@ -435,7 +436,7 @@
 		(roundrect_rratio 0.245098)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x10_P2.54mm_Vertical_SMD.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x10_P2.54mm_Vertical_SMD.step"
 		(offset
 			(xyz 0 0 0)
 		)

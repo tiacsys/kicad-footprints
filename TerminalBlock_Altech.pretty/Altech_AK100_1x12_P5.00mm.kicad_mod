@@ -1,5 +1,5 @@
 (footprint "Altech_AK100_1x12_P5.00mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Terminal block Altech AK100, 12 pins, pitch 5mm, size 60x9mm, drill diameter 1.3mm, pad diameter 3mm, https://www.altechcorp.com/PDFS/PCBMETRC.PDF#page=3, generated with kicad-footprint-generator TerminalBlock_Altech")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -2.62 -5.12)
 		(end 57.62 -5.12)
@@ -828,7 +829,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/TerminalBlock_Altech.3dshapes/Altech_AK100_1x12_P5.00mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/TerminalBlock_Altech.3dshapes/Altech_AK100_1x12_P5.00mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

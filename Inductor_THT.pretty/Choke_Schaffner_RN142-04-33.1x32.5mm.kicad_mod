@@ -1,5 +1,5 @@
 (footprint "Choke_Schaffner_RN142-04-33.1x32.5mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Current-compensated Chokes, Schaffner, RN142-04, 33.1mmx32.5mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -2.05 -1.44)
 		(end -2.05 1.56)
@@ -331,7 +332,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Inductor_THT.3dshapes/Choke_Schaffner_RN142-04-33.1x32.5mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Inductor_THT.3dshapes/Choke_Schaffner_RN142-04-33.1x32.5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

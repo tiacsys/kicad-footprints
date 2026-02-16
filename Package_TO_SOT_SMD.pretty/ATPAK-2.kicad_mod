@@ -1,5 +1,5 @@
 (footprint "ATPAK-2"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "ATPAK SMD package, http://www.onsemi.com/pub/Collateral/ENA2192-D.PDF")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -3.85 -3.45)
 		(end -3.85 -3.35)
@@ -233,7 +234,7 @@
 		(roundrect_rratio 0.166667)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/ATPAK-2.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/ATPAK-2.step"
 		(offset
 			(xyz 0 0 0)
 		)

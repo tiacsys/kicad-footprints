@@ -1,5 +1,5 @@
 (footprint "Xilinx_CSGA324"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Spartan-7 BGA, NSMD pad definition Appendix A, 15x15mm, 324 Ball, 18x18 Layout, 0.8mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=263")
@@ -26,6 +26,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -7.61 7.61)
 		(end -7.61 -6.61)
@@ -2085,7 +2086,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_CSGA324.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_CSGA324.step"
 		(offset
 			(xyz 0 0 0)
 		)

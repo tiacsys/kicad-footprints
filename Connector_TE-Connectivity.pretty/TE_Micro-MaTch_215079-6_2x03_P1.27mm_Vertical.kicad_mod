@@ -1,5 +1,5 @@
 (footprint "TE_Micro-MaTch_215079-6_2x03_P1.27mm_Vertical"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "TE-Connectivity Micro-MaTch female-on-board top-entry thru-hole 6 pin connector, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F215079%7FY1%7Fpdf%7FEnglish%7FENG_CD_215079_Y1.pdf%7F215079-4")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -2.83 -0.5)
 		(end -1.83 0)
@@ -319,7 +320,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_Micro-MaTch_215079-6_2x03_P1.27mm_Vertical.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_Micro-MaTch_215079-6_2x03_P1.27mm_Vertical.step"
 		(offset
 			(xyz 0 0 0)
 		)

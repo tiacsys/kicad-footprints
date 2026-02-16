@@ -1,5 +1,5 @@
 (footprint "D_DO-41_SOD81_P2.54mm_Vertical_CathodeUp"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=5.2*2.7mm^2, https://www.diodes.com/assets/Package-Files/DO-41-Plastic.pdf")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_arc
 		(start 1.284483 -1.22)
 		(mid 4.290635 0)
@@ -74,8 +75,8 @@
 			)
 		)
 	)
-	(fp_text user "${REFERENCE}"
-		(at 1.27 -2.750635 0)
+	(fp_text user "K"
+		(at -2.1 0 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -84,8 +85,8 @@
 			)
 		)
 	)
-	(fp_text user "K"
-		(at -2.1 0 0)
+	(fp_text user "${REFERENCE}"
+		(at 1.27 -2.750635 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -110,7 +111,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P2.54mm_Vertical_CathodeUp.step"
+	(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P2.54mm_Vertical_CathodeUp.step"
 		(offset
 			(xyz 0 0 0)
 		)

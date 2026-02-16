@@ -1,5 +1,5 @@
 (footprint "Texas_DSBGA-8_0.705x1.468mm_Layout2x4_P0.4mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Texas Instruments, DSBGA, area grid, NSMD, YBJ0008 pad definition, 0.705x1.468mm, 8 Ball, 2x4 Layout, 0.4mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.ti.com/lit/gpn/ina234")
@@ -26,6 +26,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -0.56 0.96)
 		(end -0.56 -0.735)
@@ -189,7 +190,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-8_0.705x1.468mm_Layout2x4_P0.4mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-8_0.705x1.468mm_Layout2x4_P0.4mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -1,5 +1,5 @@
 (footprint "D_DO-41_SOD81_P7.62mm_Horizontal"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=5.2*2.7mm^2, https://www.diodes.com/assets/Package-Files/DO-41-Plastic.pdf")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start 1.09 -1.47)
 		(end 6.53 -1.47)
@@ -181,8 +182,8 @@
 			)
 		)
 	)
-	(fp_text user "${REFERENCE}"
-		(at 4.2 0 0)
+	(fp_text user "K"
+		(at 0 -2.1 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -191,8 +192,8 @@
 			)
 		)
 	)
-	(fp_text user "K"
-		(at 0 -2.1 0)
+	(fp_text user "${REFERENCE}"
+		(at 4.2 0 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -217,7 +218,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P7.62mm_Horizontal.step"
+	(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P7.62mm_Horizontal.step"
 		(offset
 			(xyz 0 0 0)
 		)

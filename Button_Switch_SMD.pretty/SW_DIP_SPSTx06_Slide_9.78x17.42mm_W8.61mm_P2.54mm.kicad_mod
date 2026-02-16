@@ -1,5 +1,5 @@
 (footprint "SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "SMD 6x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x17.42mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -5.19 -9.01)
 		(end -5.19 -7.627)
@@ -590,8 +591,8 @@
 		(fill no)
 		(layer "F.Fab")
 	)
-	(fp_text user "${REFERENCE}"
-		(at 3.46 0 90)
+	(fp_text user "on"
+		(at 1.3075 -7.8475 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -600,8 +601,8 @@
 			)
 		)
 	)
-	(fp_text user "on"
-		(at 1.3075 -7.8475 0)
+	(fp_text user "${REFERENCE}"
+		(at 3.46 0 90)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -682,8 +683,13 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.223214)
 	)
+	(point
+		(at 4.305 6.35)
+		(size 1.27)
+		(layer "F.Fab")
+	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -1,5 +1,5 @@
 (footprint "SW_DIP_SPSTx06_Slide_Omron_A6H-6101_W6.15mm_P1.27mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "SMD 6x-dip-switch SPST Omron_A6H-6101, Slide, row spacing 6.15 mm (242 mils), body size  (see https://www.omron.com/ecb/products/pdf/en-a6h.pdf)")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -3.7 -3.855)
 		(end -2.31 -3.855)
@@ -317,8 +318,8 @@
 		(fill no)
 		(layer "F.Fab")
 	)
-	(fp_text user "${REFERENCE}"
-		(at 1.925 0 90)
+	(fp_text user "on"
+		(at 0.3875 -3.935 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -327,8 +328,8 @@
 			)
 		)
 	)
-	(fp_text user "on"
-		(at 0.3875 -3.935 0)
+	(fp_text user "${REFERENCE}"
+		(at 1.925 0 90)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -409,8 +410,13 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
+	(point
+		(at 3.075 3.175)
+		(size 0.635)
+		(layer "F.Fab")
+	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx06_Slide_Omron_A6H-6101_W6.15mm_P1.27mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx06_Slide_Omron_A6H-6101_W6.15mm_P1.27mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

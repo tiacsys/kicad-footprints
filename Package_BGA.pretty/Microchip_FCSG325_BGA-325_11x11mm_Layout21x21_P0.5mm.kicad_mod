@@ -1,5 +1,5 @@
 (footprint "Microchip_FCSG325_BGA-325_11x11mm_Layout21x21_P0.5mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "FCSG325, 11.0x11.0mm, 325 Ball, 21x21 Layout, 0.5mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://ww1.microchip.com/downloads/aemDocuments/documents/FPGA/ProductDocuments/UserGuides/microchip_polarfire_soc_fpga_packaging_and_pin_descriptions_user_guide_vb.pdf")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -5.61 5.61)
 		(end -5.61 -4.61)
@@ -2090,7 +2091,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/Microchip_FCSG325_BGA-325_11x11mm_Layout21x21_P0.5mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/Microchip_FCSG325_BGA-325_11x11mm_Layout21x21_P0.5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

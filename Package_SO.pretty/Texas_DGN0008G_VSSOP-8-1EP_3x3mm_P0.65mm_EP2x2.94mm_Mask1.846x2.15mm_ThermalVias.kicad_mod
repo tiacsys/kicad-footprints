@@ -1,5 +1,5 @@
 (footprint "Texas_DGN0008G_VSSOP-8-1EP_3x3mm_P0.65mm_EP2x2.94mm_Mask1.846x2.15mm_ThermalVias"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Texas DGN0008G VSSOP, 8 Pin (https://www.ti.com/lit/ds/symlink/tpa711.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.61 -1.61)
 		(end -1.26 -1.61)
@@ -383,7 +384,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/Texas_DGN0008G_VSSOP-8-1EP_3x3mm_P0.65mm_EP2x2.94mm_Mask1.846x2.15mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/Texas_DGN0008G_VSSOP-8-1EP_3x3mm_P0.65mm_EP2x2.94mm_Mask1.846x2.15mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

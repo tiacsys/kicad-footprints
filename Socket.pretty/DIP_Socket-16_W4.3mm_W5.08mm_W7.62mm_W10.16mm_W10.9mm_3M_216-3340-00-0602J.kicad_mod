@@ -1,5 +1,5 @@
 (footprint "DIP_Socket-16_W4.3mm_W5.08mm_W7.62mm_W10.16mm_W10.9mm_3M_216-3340-00-0602J"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "3M 16-pin zero insertion force socket, through-hole, row spacing 7.62 mm (300 mils), http://multimedia.3m.com/mws/media/494546O/3mtm-dip-sockets-100-2-54-mm-ts0365.pdf")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -4.95 1.27)
 		(end -4.95 -1.27)
@@ -456,7 +457,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Socket.3dshapes/DIP_Socket-16_W4.3mm_W5.08mm_W7.62mm_W10.16mm_W10.9mm_3M_216-3340-00-0602J.step"
+	(model "${KICAD10_3DMODEL_DIR}/Socket.3dshapes/DIP_Socket-16_W4.3mm_W5.08mm_W7.62mm_W10.16mm_W10.9mm_3M_216-3340-00-0602J.step"
 		(offset
 			(xyz 0 0 0)
 		)

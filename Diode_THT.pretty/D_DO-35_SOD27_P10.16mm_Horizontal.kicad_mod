@@ -1,5 +1,5 @@
 (footprint "D_DO-35_SOD27_P10.16mm_Horizontal"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start 1.04 0)
 		(end 2.96 0)
@@ -155,16 +156,6 @@
 			)
 		)
 	)
-	(fp_text user "${REFERENCE}"
-		(at 5.38 0 0)
-		(layer "F.Fab")
-		(effects
-			(font
-				(size 0.8 0.8)
-				(thickness 0.12)
-			)
-		)
-	)
 	(fp_text user "K"
 		(at 0 -1.8 0)
 		(layer "F.Fab")
@@ -172,6 +163,16 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 5.38 0 0)
+		(layer "F.Fab")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
 			)
 		)
 	)
@@ -191,7 +192,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P10.16mm_Horizontal.step"
+	(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P10.16mm_Horizontal.step"
 		(offset
 			(xyz 0 0 0)
 		)

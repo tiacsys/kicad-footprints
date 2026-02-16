@@ -1,5 +1,5 @@
 (footprint "BGA-624_21x21mm_Layout25x25_P0.8mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "BGA-624, 21.0x21.0mm, 624 Ball, 25x25 Layout, 0.8mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.nxp.com/docs/en/package-information/SOT1529-1.pdf")
@@ -26,6 +26,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -10.61 10.61)
 		(end -10.61 -9.61)
@@ -3885,7 +3886,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-624_21x21mm_Layout25x25_P0.8mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-624_21x21mm_Layout25x25_P0.8mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -1,5 +1,5 @@
 (footprint "SW_DIP_SPSTx10_Slide_6.7x26.96mm_W7.62mm_P2.54mm_LowProfile"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "10x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x26.96mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start 0.16 -2.35)
 		(end 0.16 -1.04)
@@ -894,8 +895,8 @@
 		(fill no)
 		(layer "F.Fab")
 	)
-	(fp_text user "${REFERENCE}"
-		(at 6.39 11.43 90)
+	(fp_text user "on"
+		(at 4.485 -1.3425 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -904,8 +905,8 @@
 			)
 		)
 	)
-	(fp_text user "on"
-		(at 4.485 -1.3425 0)
+	(fp_text user "${REFERENCE}"
+		(at 6.39 11.43 90)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -1055,8 +1056,13 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 	)
+	(point
+		(at 3.81 11.43)
+		(size 1.27)
+		(layer "F.Fab")
+	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_DIP_SPSTx10_Slide_6.7x26.96mm_W7.62mm_P2.54mm_LowProfile.step"
+	(model "${KICAD10_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_DIP_SPSTx10_Slide_6.7x26.96mm_W7.62mm_P2.54mm_LowProfile.step"
 		(offset
 			(xyz 0 0 0)
 		)

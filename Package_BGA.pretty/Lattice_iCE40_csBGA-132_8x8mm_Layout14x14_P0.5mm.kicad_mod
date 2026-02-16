@@ -1,5 +1,5 @@
 (footprint "Lattice_iCE40_csBGA-132_8x8mm_Layout14x14_P0.5mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Lattice csBGA-132, Option 2, iCE40 FPGAs, 8.0x8.0mm, 132 Ball, 14x14 Layout, 0.5mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, http://www.latticesemi.com/view_document?document_id=213")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -4.11 4.11)
 		(end -4.11 -3.11)
@@ -932,7 +933,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/Lattice_iCE40_csBGA-132_8x8mm_Layout14x14_P0.5mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/Lattice_iCE40_csBGA-132_8x8mm_Layout14x14_P0.5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

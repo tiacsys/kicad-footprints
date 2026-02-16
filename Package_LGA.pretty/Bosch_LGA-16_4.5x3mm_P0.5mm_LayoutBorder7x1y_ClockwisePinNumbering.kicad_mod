@@ -1,5 +1,5 @@
 (footprint "Bosch_LGA-16_4.5x3mm_P0.5mm_LayoutBorder7x1y_ClockwisePinNumbering"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Bosch  LGA, 16 Pin (https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi088-ds001.pdf#page=55), generated with kicad-footprint-generator ipc_noLead_generator.py")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -2.36 -1.61)
 		(end -1.885 -1.61)
@@ -447,7 +448,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-16_4.5x3mm_P0.5mm_LayoutBorder7x1y_ClockwisePinNumbering.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-16_4.5x3mm_P0.5mm_LayoutBorder7x1y_ClockwisePinNumbering.step"
 		(offset
 			(xyz 0 0 0)
 		)

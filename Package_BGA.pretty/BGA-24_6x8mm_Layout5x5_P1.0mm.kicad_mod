@@ -1,5 +1,5 @@
 (footprint "BGA-24_6x8mm_Layout5x5_P1.0mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "BGA-24, 6x8mm, 24 Ball, 5x5 Layout, 1.0mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.issi.com/WW/pdf/66-67WVO32M8DALL-BLL.pdf#page=32")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -3.11 4.11)
 		(end -3.11 -3.11)
@@ -284,7 +285,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-24_6x8mm_Layout5x5_P1.0mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-24_6x8mm_Layout5x5_P1.0mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

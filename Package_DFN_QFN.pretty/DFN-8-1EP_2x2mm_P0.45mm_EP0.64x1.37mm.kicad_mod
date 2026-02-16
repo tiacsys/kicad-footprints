@@ -1,5 +1,5 @@
 (footprint "DFN-8-1EP_2x2mm_P0.45mm_EP0.64x1.37mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "DFN, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-dfn/dfn_8_05-08-1719.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.11 1.11)
 		(end -1.11 1.06)
@@ -284,7 +285,7 @@
 		(zone_connect 2)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_2x2mm_P0.45mm_EP0.64x1.37mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_2x2mm_P0.45mm_EP0.64x1.37mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

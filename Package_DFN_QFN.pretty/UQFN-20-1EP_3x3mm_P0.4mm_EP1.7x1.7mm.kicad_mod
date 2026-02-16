@@ -1,5 +1,5 @@
 (footprint "UQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "UQFN, 20 Pin (https://www.kinet-ic.com/uploads/web/KTD2058,%20KTD2059,%20KTD2060,%20KTD2061/KTD2061-58-59-60-04e.pdf#page=25), generated with kicad-footprint-generator ipc_noLead_generator.py")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.61 -1.61)
 		(end -1.16 -1.61)
@@ -467,7 +468,7 @@
 		(zone_connect 2)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

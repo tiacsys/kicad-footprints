@@ -1,5 +1,5 @@
 (footprint "Converter_DCDC_TRACO_TSR0.6-48xxWI_TSR0.6-48xxxWI_THT"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "DCDC-Converter, TRACO, TSR0.6-48xxWI, TSR0.6-48xxxWI, 0.6A, Rev. October 29. 2024, https://www.tracopower.com/products/tsr0.6wi.pdf, generated with kicad-footprint-generator StandardBox_generator.py")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -6.21 -4.03)
 		(end 3.61 -4.03)
@@ -141,7 +142,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TSR0.6-48xxWI_TSR0.6-48xxxWI_THT.step"
+	(model "${KICAD10_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TSR0.6-48xxWI_TSR0.6-48xxxWI_THT.step"
 		(offset
 			(xyz 0 0 0)
 		)

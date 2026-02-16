@@ -1,5 +1,5 @@
 (footprint "Amphenol_F32R-1A7x1-11047_1x47-1MP_P0.5mm_Horizontal"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Amphenol F32R/J FPC connector, 47 bottom-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32r-f32j.pdf")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -15.51 0.64)
 		(end -15.06 0.64)
@@ -558,7 +559,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Amphenol_F32R-1A7x1-11047_1x47-1MP_P0.5mm_Horizontal.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Amphenol_F32R-1A7x1-11047_1x47-1MP_P0.5mm_Horizontal.step"
 		(offset
 			(xyz 0 0 0)
 		)

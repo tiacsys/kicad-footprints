@@ -1,5 +1,5 @@
 (footprint "BGA-529_19x19mm_Layout23x23_P0.8mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "BGA-529, NSMD, 19.0x19.0mm, 529 Ball, 23x23 Layout, 0.8mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.efinixinc.com/docs/titanium-packaging-ug-v5.2.pdf")
@@ -26,6 +26,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -9.61 9.61)
 		(end -9.61 -8.61)
@@ -3315,7 +3316,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-529_19x19mm_Layout23x23_P0.8mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-529_19x19mm_Layout23x23_P0.8mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

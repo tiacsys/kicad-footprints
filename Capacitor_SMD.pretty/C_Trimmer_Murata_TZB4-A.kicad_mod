@@ -1,5 +1,5 @@
 (footprint "C_Trimmer_Murata_TZB4-A"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -2.45 -2.2)
 		(end -2.45 -1.7)
@@ -300,7 +301,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_Trimmer_Murata_TZB4-A.step"
+	(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_Trimmer_Murata_TZB4-A.step"
 		(offset
 			(xyz 0 0 0)
 		)

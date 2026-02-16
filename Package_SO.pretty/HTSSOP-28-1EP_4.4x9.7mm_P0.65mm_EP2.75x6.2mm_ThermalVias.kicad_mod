@@ -1,5 +1,5 @@
 (footprint "HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.75x6.2mm_ThermalVias"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "HTSSOP, 28 Pin (https://www.trinamic.com/fileadmin/assets/Support/AppNotes/AN005x-IC_Package_PCB_Footprint_Guidelines_HTSSOP28_rev1.00.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -2.31 -4.96)
 		(end 2.31 -4.96)
@@ -490,7 +491,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.75x6.2mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.75x6.2mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -1,5 +1,5 @@
 (footprint "IDC-Header_2x15-1MP_P2.54mm_Latch6.5mm_Vertical"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Through hole IDC header, 2x15, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -4.63 -0.5)
 		(end -4.63 0.5)
@@ -631,7 +632,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x15-1MP_P2.54mm_Latch6.5mm_Vertical.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x15-1MP_P2.54mm_Latch6.5mm_Vertical.step"
 		(offset
 			(xyz 0 0 0)
 		)

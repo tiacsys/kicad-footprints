@@ -1,5 +1,5 @@
 (footprint "SW_DIP_SPSTx11_Piano_CTS_Series194-11MSTN_W7.62mm_P2.54mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "11x-dip-switch SPST CTS_Series194-11MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -2.34 -0.82)
 		(end -1.14 -0.82)
@@ -805,8 +806,13 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 	)
+	(point
+		(at 3.81 12.7)
+		(size 1.27)
+		(layer "F.Fab")
+	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_DIP_SPSTx11_Piano_CTS_Series194-11MSTN_W7.62mm_P2.54mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_DIP_SPSTx11_Piano_CTS_Series194-11MSTN_W7.62mm_P2.54mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

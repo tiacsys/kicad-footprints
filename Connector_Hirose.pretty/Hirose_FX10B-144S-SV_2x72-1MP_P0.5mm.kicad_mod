@@ -1,5 +1,5 @@
 (footprint "Hirose_FX10B-144S-SV_2x72-1MP_P0.5mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "0.5 mm pitch, stacking height 4 mm to 13 mm, 144 contacts, receptacle, vertical (source: https://www.hirose.com/de/product/document?clcode=&productname=&series=FX10&documenttype=Catalog&lang=de&documentid=D31650_en)")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -21.66 -2.995563)
 		(end -20.895563 -3.76)
@@ -1093,7 +1094,7 @@
 		(roundrect_rratio 0.15625)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_FX10B-144S-SV_2x72-1MP_P0.5mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_FX10B-144S-SV_2x72-1MP_P0.5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

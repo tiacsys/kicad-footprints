@@ -1,5 +1,5 @@
 (footprint "PinSocket_2x11_P2.54mm_Vertical_SMD"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "surface-mounted straight socket strip, 2x11, 2.54mm pitch, double rows (from Kicad 4.0.7), script generated")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -2.6 -14.03)
 		(end -2.6 -13.46)
@@ -1064,7 +1065,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x11_P2.54mm_Vertical_SMD.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x11_P2.54mm_Vertical_SMD.step"
 		(offset
 			(xyz 0 0 0)
 		)

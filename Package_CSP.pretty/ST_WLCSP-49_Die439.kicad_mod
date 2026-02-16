@@ -1,5 +1,5 @@
 (footprint "ST_WLCSP-49_Die439"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "WLCSP-49, 3.417x3.151mm, 49 Ball, 7x7 Layout, 0.4mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, http://www.st.com/resource/en/datasheet/stm32f301r8.pdf#page=117")
@@ -27,6 +27,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.8185 1.6855)
 		(end -1.8185 -0.89775)
@@ -436,7 +437,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-49_Die439.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-49_Die439.step"
 		(offset
 			(xyz 0 0 0)
 		)

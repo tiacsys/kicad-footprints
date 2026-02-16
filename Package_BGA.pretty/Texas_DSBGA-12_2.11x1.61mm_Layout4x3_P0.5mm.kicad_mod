@@ -1,5 +1,5 @@
 (footprint "Texas_DSBGA-12_2.11x1.61mm_Layout4x3_P0.5mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Texas Instruments, YZG (R-XBGA-N12) package, 0.275 .. 0.475mm body thickness, NSMD, 2.11x1.61mm, 12 Ball, 4x3 Layout, 0.5mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.ti.com/lit/ds/symlink/tsc2007.pdf#page=34, https://www.ti.com/lit/ml/mxbg028d/mxbg028d.pdf")
@@ -26,6 +26,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.165 0.915)
 		(end -1.165 -0.5125)
@@ -213,7 +214,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-12_2.11x1.61mm_Layout4x3_P0.5mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-12_2.11x1.61mm_Layout4x3_P0.5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

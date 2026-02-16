@@ -1,5 +1,5 @@
 (footprint "Nexperia_HUSON-12_USON-12-1EP_1.35x2.5mm_P0.4mm_EP0.4x2mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Nexperia HUSON-12 USON, 12 Pin (https://assets.nexperia.com/documents/data-sheet/IP4251_52_53_54-TTL.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -0.431884 -1.36)
 		(end 0.785 -1.36)
@@ -275,7 +276,7 @@
 		(zone_connect 2)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_SON.3dshapes/Nexperia_HUSON-12_USON-12-1EP_1.35x2.5mm_P0.4mm_EP0.4x2mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_SON.3dshapes/Nexperia_HUSON-12_USON-12-1EP_1.35x2.5mm_P0.4mm_EP0.4x2mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

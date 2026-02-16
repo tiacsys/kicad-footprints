@@ -1,5 +1,5 @@
 (footprint "CP_Elec_6.3x5.4_Nichicon"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "SMD capacitor, aluminum electrolytic, Nichicon, 6.3x5.4mm")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -4.4375 -1.8475)
 		(end -3.65 -1.8475)
@@ -346,7 +347,7 @@
 		(roundrect_rratio 0.15625)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_6.3x5.4_Nichicon.step"
+	(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_6.3x5.4_Nichicon.step"
 		(offset
 			(xyz 0 0 0)
 		)

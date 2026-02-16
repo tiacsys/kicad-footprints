@@ -1,5 +1,5 @@
 (footprint "Macronix_WLCSP-12_2.02x2.09mm_Layout4x4_P0.5mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "WLCSP-12, 2.02x2.09mm, 12 Ball, 4x4 Layout, 0.5mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.macronix.com/Lists/Datasheet/Attachments/8909/MX25U3232F,%201.8V,%2032Mb,%20v1.2.pdf#page=93")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.12 1.155)
 		(end -1.12 -0.65)
@@ -212,7 +213,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_CSP.3dshapes/Macronix_WLCSP-12_2.02x2.09mm_Layout4x4_P0.5mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_CSP.3dshapes/Macronix_WLCSP-12_2.02x2.09mm_Layout4x4_P0.5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

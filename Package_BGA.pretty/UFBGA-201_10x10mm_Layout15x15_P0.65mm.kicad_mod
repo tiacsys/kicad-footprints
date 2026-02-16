@@ -1,5 +1,5 @@
 (footprint "UFBGA-201_10x10mm_Layout15x15_P0.65mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "UFBGA-201, 10.0x10.0mm, 201 Ball, 15x15 Layout, 0.65mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, http://www.st.com/resource/en/datasheet/stm32f207vg.pdf#page=166")
@@ -27,6 +27,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -5.11 5.11)
 		(end -5.11 -4.11)
@@ -1348,7 +1349,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/UFBGA-201_10x10mm_Layout15x15_P0.65mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/UFBGA-201_10x10mm_Layout15x15_P0.65mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

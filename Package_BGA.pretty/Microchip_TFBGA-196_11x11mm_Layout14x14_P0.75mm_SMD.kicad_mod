@@ -1,5 +1,5 @@
 (footprint "Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "TFBGA-196, 11.0x11.0mm, 196 Ball, 14x14 Layout, 0.75mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, http://ww1.microchip.com/downloads/en/DeviceDoc/SAMA5D2-Series-Data-Sheet-DS60001476C.pdf#page=2956")
@@ -27,6 +27,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -5.61 5.61)
 		(end -5.61 -4.61)
@@ -1318,7 +1319,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD.step"
 		(offset
 			(xyz 0 0 0)
 		)

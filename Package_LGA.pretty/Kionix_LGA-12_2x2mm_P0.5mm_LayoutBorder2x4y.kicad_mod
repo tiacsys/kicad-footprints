@@ -1,5 +1,5 @@
 (footprint "Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Kionix  LGA, 12 Pin (https://www.digikey.com/Site/Global/Layouts/DownloadPdf.ashx?pdfUrl=3557DE8B1578472CBA17FB72BE0052DC#page=4), generated with kicad-footprint-generator ipc_noLead_generator.py")
@@ -26,6 +26,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -0.83 -1.135)
 		(end -0.635 -1.135)
@@ -183,7 +184,7 @@
 		(roundrect_rratio 0.25)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_LGA.3dshapes/Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_LGA.3dshapes/Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -1,5 +1,5 @@
 (footprint "ST_WLCSP-90_4.2x3.95mm_Layout18x10_P0.4mm_Stagger"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "ST WLCSP-90, ST die ID 482, 4.2x3.95mm, 90 Ball, X-staggered 18x10 Layout, 0.4mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.st.com/resource/en/datasheet/stm32u575og.pdf#page=306")
@@ -27,6 +27,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -2.21 2.085)
 		(end -2.21 -1.0975)
@@ -682,7 +683,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-90_4.2x3.95mm_Layout18x10_P0.4mm_Stagger.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-90_4.2x3.95mm_Layout18x10_P0.4mm_Stagger.step"
 		(offset
 			(xyz 0 0 0)
 		)

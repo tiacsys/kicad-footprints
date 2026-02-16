@@ -1,5 +1,5 @@
 (footprint "L_Toroid_Vertical_L46.0mm_W19.1mm_P21.80mm_Bourns_5700"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "L_Toroid, Vertical series, Radial, pin pitch=21.80mm, length*width=46*19.1mm^2, Bourns, 5700, http://www.bourns.com/docs/Product-Datasheets/5700_series.pdf")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -23.12 1.23)
 		(end -1.751 1.23)
@@ -214,7 +215,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L46.0mm_W19.1mm_P21.80mm_Bourns_5700.step"
+	(model "${KICAD10_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L46.0mm_W19.1mm_P21.80mm_Bourns_5700.step"
 		(offset
 			(xyz 0 0 0)
 		)

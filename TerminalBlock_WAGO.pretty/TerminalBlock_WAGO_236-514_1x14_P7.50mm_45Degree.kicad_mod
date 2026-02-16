@@ -1,5 +1,5 @@
 (footprint "TerminalBlock_WAGO_236-514_1x14_P7.50mm_45Degree"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Terminal Block WAGO 236-514, 45Degree (cable under 45degree), 14 pins, pitch 7.5mm, size 107x14mm, drill diameter 1.15mm, pad diameter 3mm, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_WAGO")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -3.62 -5.12)
 		(end 103.92 -5.12)
@@ -3354,7 +3355,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/TerminalBlock_WAGO.3dshapes/TerminalBlock_WAGO_236-514_1x14_P7.50mm_45Degree.step"
+	(model "${KICAD10_3DMODEL_DIR}/TerminalBlock_WAGO.3dshapes/TerminalBlock_WAGO_236-514_1x14_P7.50mm_45Degree.step"
 		(offset
 			(xyz 0 0 0)
 		)

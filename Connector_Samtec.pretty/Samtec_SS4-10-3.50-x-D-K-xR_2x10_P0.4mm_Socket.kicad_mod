@@ -1,5 +1,5 @@
 (footprint "Samtec_SS4-10-3.50-x-D-K-xR_2x10_P0.4mm_Socket"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Micro Blade & Beam Ultra Fine Pitch Socket, 0.40 mm pitch, 02x10 ways, 3.50 lead style (source: https://suddendocs.samtec.com/prints/ss4-xx-x.xx-x-d-x-xx-tr-footprint.pdf)")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -4.09 -0.61)
 		(end -3.34 -0.61)
@@ -445,7 +446,7 @@
 		(roundrect_rratio 0.25)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_SS4-10-3.50-x-D-K-xR_2x10_P0.4mm_Socket.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_SS4-10-3.50-x-D-K-xR_2x10_P0.4mm_Socket.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -1,5 +1,5 @@
 (footprint "Samtec_FSI-115-XX-X-D_2x15_P1.0mm_Socket"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Samtec FSI One-Piece Interface, 1.00 mm Pitch, Double Row (source: https://suddendocs.samtec.com/prints/fsi-1xx-xx-xxx-d-x-xx-xx-footprint.pdf)")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -7.99 -4.6185)
 		(end -7.565 -4.6185)
@@ -361,7 +362,7 @@
 		(roundrect_rratio 0.25)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_Samtec_FSI.3dshapes/Samtec_FSI-115-XX-X-D_2x15_P1.0mm_Socket.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_Samtec_FSI.3dshapes/Samtec_FSI-115-XX-X-D_2x15_P1.0mm_Socket.step"
 		(offset
 			(xyz 0 0 0)
 		)

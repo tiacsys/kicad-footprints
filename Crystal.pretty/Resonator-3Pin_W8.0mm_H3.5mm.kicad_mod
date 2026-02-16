@@ -1,5 +1,5 @@
 (footprint "Resonator-3Pin_W8.0mm_H3.5mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Ceramic Resonator/Filter, length 3.5mm, width 8.0mm, 3 pins")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start 0.25 -1.86)
 		(end 4.75 -1.86)
@@ -171,7 +172,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Crystal.3dshapes/Resonator-3Pin_W8.0mm_H3.5mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Resonator-3Pin_W8.0mm_H3.5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

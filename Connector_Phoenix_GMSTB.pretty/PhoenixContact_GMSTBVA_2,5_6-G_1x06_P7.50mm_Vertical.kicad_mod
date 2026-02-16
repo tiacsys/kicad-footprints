@@ -1,5 +1,5 @@
 (footprint "PhoenixContact_GMSTBVA_2,5_6-G_1x06_P7.50mm_Vertical"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Generic Phoenix Contact connector footprint for: GMSTBVA_2,5/6-G; number of pins: 06; pin pitch: 7.50mm; Vertical || order number: 1766709 12A 630V")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -3.86 -4.1)
 		(end -1.11 -4.1)

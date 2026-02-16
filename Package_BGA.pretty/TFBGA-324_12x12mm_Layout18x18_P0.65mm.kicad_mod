@@ -1,5 +1,5 @@
 (footprint "TFBGA-324_12x12mm_Layout18x18_P0.65mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "TFBGA-324, NSMD, 12.0x12.0mm, 324 Ball, 18x18 Layout, 0.65mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.efinixinc.com/docs/trion-packaging-ug-v4.9.pdf")
@@ -26,6 +26,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -6.11 6.11)
 		(end -6.11 -5.11)
@@ -2085,7 +2086,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/TFBGA-324_12x12mm_Layout18x18_P0.65mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/TFBGA-324_12x12mm_Layout18x18_P0.65mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -1,5 +1,5 @@
 (footprint "L_Wuerth_HCI-5040"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Inductor, Wuerth, HCI-5040, 5.5x5.3x4.0mm, (https://www.we-online.com/components/products/datasheet/744316022.pdf), generated with kicad-footprint-generator gen_inductor.py")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -2.86 -2.76)
 		(end 2.86 -2.76)
@@ -220,7 +221,7 @@
 		(roundrect_rratio 0.15625)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_HCI-5040.step"
+	(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_HCI-5040.step"
 		(offset
 			(xyz 0 0 0)
 		)

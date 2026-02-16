@@ -1,5 +1,5 @@
 (footprint "R_Axial_Shunt_L47.6mm_W9.5mm_PS34.93mm_P50.80mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Resistor, Axial_Shunt series, Box, pin pitch=50.8mm, 10W, length*width*height=47.6*9.5*9.5mm^3, shunt pin pitch = 34.93mm, http://www.vishay.com/docs/30217/cpsl.pdf")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start 1.48 -4.87)
 		(end 49.32 -4.87)
@@ -156,7 +157,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_Shunt_L47.6mm_W9.5mm_PS34.93mm_P50.80mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_Shunt_L47.6mm_W9.5mm_PS34.93mm_P50.80mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

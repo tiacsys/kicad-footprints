@@ -1,5 +1,5 @@
 (footprint "Samtec_ERM8-010-XX.X-DV_2x10_P0.8mm_Terminal"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "0.80 mm Edge Rate Rugged High Speed Terminal (source: https://suddendocs.samtec.com/prints/erm8-xxx-xx.x-dv-xxxx-footprint.pdf)")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -7.11 -1.245563)
 		(end -5.445563 -2.91)
@@ -313,7 +314,7 @@
 		(roundrect_rratio 0.25)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_Samtec_EdgeRate.3dshapes/Samtec_ERM8-010-XX.X-DV_2x10_P0.8mm_Terminal.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_Samtec_EdgeRate.3dshapes/Samtec_ERM8-010-XX.X-DV_2x10_P0.8mm_Terminal.step"
 		(offset
 			(xyz 0 0 0)
 		)

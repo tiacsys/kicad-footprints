@@ -1,5 +1,5 @@
 (footprint "Samtec_UMPS-02-XX.X-X-V-S-W_1x02-1MP_P2.0mm_Socket_WeldTab"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -3.935 -0.41)
 		(end -3.935 -0.59)
@@ -304,7 +305,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_Samtec_MicroPower.3dshapes/Samtec_UMPS-02-XX.X-X-V-S-W_1x02-1MP_P2.0mm_Socket_WeldTab.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_Samtec_MicroPower.3dshapes/Samtec_UMPS-02-XX.X-X-V-S-W_1x02-1MP_P2.0mm_Socket_WeldTab.step"
 		(offset
 			(xyz 0 0 0)
 		)

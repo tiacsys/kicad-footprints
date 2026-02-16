@@ -1,5 +1,5 @@
 (footprint "Choke_Schaffner_RN212-04-12.5x18.0mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Current-compensated Chokes, Schaffner, RN212-04, 12.5mmx18.0mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.75 -2)
 		(end -1.75 1)
@@ -191,7 +192,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Inductor_THT.3dshapes/Choke_Schaffner_RN212-04-12.5x18.0mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Inductor_THT.3dshapes/Choke_Schaffner_RN212-04-12.5x18.0mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

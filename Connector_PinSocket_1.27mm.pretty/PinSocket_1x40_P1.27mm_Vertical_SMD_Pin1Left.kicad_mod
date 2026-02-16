@@ -1,5 +1,5 @@
 (footprint "PinSocket_1x40_P1.27mm_Vertical_SMD_Pin1Left"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "surface-mounted straight socket strip, 1x40, 1.27mm pitch, single row, style 1 (pin 1 left) (https://gct.co/files/drawings/bd075.pdf), script generated")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -2.19 -25.35)
 		(end -0.96 -25.35)
@@ -1802,7 +1803,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_1.27mm.3dshapes/PinSocket_1x40_P1.27mm_Vertical_SMD_Pin1Left.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_1.27mm.3dshapes/PinSocket_1x40_P1.27mm_Vertical_SMD_Pin1Left.step"
 		(offset
 			(xyz 0 0 0)
 		)

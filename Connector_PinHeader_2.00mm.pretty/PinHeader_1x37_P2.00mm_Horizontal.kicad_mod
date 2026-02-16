@@ -1,5 +1,5 @@
 (footprint "PinHeader_1x37_P2.00mm_Horizontal"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Through hole angled pin header, 1x37, 2.00mm pitch, 4.2mm pin length, single row")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1 -1)
 		(end 0 -1)
@@ -4348,7 +4349,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.00mm.3dshapes/PinHeader_1x37_P2.00mm_Horizontal.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.00mm.3dshapes/PinHeader_1x37_P2.00mm_Horizontal.step"
 		(offset
 			(xyz 0 0 0)
 		)

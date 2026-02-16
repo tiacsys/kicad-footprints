@@ -1,5 +1,5 @@
 (footprint "PLCC-44_16.6x16.6mm_P1.27mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "PLCC, 44 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_plcc_jLead_generator.py")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -8.4031 -7.227882)
 		(end -8.4031 -6.91)
@@ -678,7 +679,7 @@
 		(roundrect_rratio 0.25)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-44_16.6x16.6mm_P1.27mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-44_16.6x16.6mm_P1.27mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

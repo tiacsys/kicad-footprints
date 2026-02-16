@@ -1,5 +1,5 @@
 (footprint "UQFN-12-1EP_2x2mm_P0.4mm_EP1.1x1.1mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "UQFN, 12 Pin (https://www.wch-ic.com/download/file?id=396, https://www.wch-ic.com/downloads/CH32V006DS0_PDF.html, https://www.wch-ic.com/downloads/PACKAGE_PDF.html), generated with kicad-footprint-generator ipc_noLead_generator.py")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.11 1.11)
 		(end -1.11 0.76)
@@ -392,7 +393,7 @@
 		(zone_connect 2)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-12-1EP_2x2mm_P0.4mm_EP1.1x1.1mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-12-1EP_2x2mm_P0.4mm_EP1.1x1.1mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

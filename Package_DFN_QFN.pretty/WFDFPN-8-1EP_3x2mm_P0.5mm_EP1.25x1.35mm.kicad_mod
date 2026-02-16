@@ -1,5 +1,5 @@
 (footprint "WFDFPN-8-1EP_3x2mm_P0.5mm_EP1.25x1.35mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "WFDFPN, 8 Pin (https://www.st.com/resource/en/datasheet/m95512-r.pdf#page=34), generated with kicad-footprint-generator ipc_noLead_generator.py")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.185568 -1.135)
 		(end 1.61 -1.135)
@@ -251,7 +252,7 @@
 		(zone_connect 2)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WFDFPN-8-1EP_3x2mm_P0.5mm_EP1.25x1.35mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WFDFPN-8-1EP_3x2mm_P0.5mm_EP1.25x1.35mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

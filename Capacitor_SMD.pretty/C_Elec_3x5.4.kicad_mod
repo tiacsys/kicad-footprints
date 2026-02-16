@@ -1,5 +1,5 @@
 (footprint "C_Elec_3x5.4"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "SMD capacitor, aluminum electrolytic nonpolar, 3.0x5.4mm")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.620563 -1.01)
 		(end -0.870563 -1.76)
@@ -274,7 +275,7 @@
 		(roundrect_rratio 0.166667)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_Elec_3x5.4.step"
+	(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_Elec_3x5.4.step"
 		(offset
 			(xyz 0 0 0)
 		)

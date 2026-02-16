@@ -1,5 +1,5 @@
 (footprint "Infineon_LFBGA-292_17x17mm_Layout20x20_P0.8mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Infineon LFBGA-292, 0.35mm pad, 17.0x17.0mm, 292 Ball, 20x20 Layout, 0.8mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.infineon.com/cms/en/product/packages/PG-LFBGA/PG-LFBGA-292-11/")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -8.61 8.61)
 		(end -8.61 -7.61)
@@ -1892,7 +1893,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/Infineon_LFBGA-292_17x17mm_Layout20x20_P0.8mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_BGA.3dshapes/Infineon_LFBGA-292_17x17mm_Layout20x20_P0.8mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

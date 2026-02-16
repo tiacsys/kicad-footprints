@@ -1,5 +1,5 @@
 (footprint "Hirose_FH26-37S-0.3SHW_2Rows-37Pins-1MP_P0.60mm_Horizontal"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Hirose 0.30mm Pitch FFC/FPC, FH26-37S-0.3SHW, 37 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -2.622132 -5.55)
 		(end -2.41 -5.4)
@@ -691,7 +692,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Hirose_FH26-37S-0.3SHW_2Rows-37Pins-1MP_P0.60mm_Horizontal.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Hirose_FH26-37S-0.3SHW_2Rows-37Pins-1MP_P0.60mm_Horizontal.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -1,5 +1,5 @@
 (footprint "SMDIP-22_W11.48mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "22-lead surface-mounted (SMD) DIP package, row spacing 11.48mm (451 mils)")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -3.235 -14.03)
 		(end -3.235 14.03)
@@ -277,8 +278,13 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.140449)
 	)
+	(point
+		(at 5.74 12.7)
+		(size 1.27)
+		(layer "F.Fab")
+	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/SMDIP-22_W11.48mm.step"
+	(model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/SMDIP-22_W11.48mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

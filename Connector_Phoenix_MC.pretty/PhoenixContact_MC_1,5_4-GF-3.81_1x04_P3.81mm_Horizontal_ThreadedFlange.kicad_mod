@@ -1,5 +1,5 @@
 (footprint "PhoenixContact_MC_1,5_4-GF-3.81_1x04_P3.81mm_Horizontal_ThreadedFlange"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "Generic Phoenix Contact connector footprint for: MC_1,5/4-GF-3.81; number of pins: 04; pin pitch: 3.81mm; Angled; threaded flange || order number: 1827884 8A 160V")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -7.21 -1.31)
 		(end -7.21 8.11)

@@ -1,5 +1,5 @@
 (footprint "Converter_ACDC_Hi-Link_HLK-2Mxx"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "ACDC-Converter, 2W, Hi-Link, HLK-2Mxx, THT, https://h.hlktech.com/download/ACDC%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%972W%E7%B3%BB%E5%88%97/1/%E6%B5%B7%E5%87%8C%E7%A7%912W%E7%B3%BB%E5%88%97%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%97%E8%AF%B4%E6%98%8E%E4%B9%A6V2.6.pdf, generated with kicad-footprint-generator StandardBox_generator.py")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -4.11 -9.11)
 		(end 28.61 -9.11)
@@ -148,7 +149,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_Hi-Link_HLK-2Mxx.step"
+	(model "${KICAD10_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_Hi-Link_HLK-2Mxx.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -1,5 +1,5 @@
 (footprint "Samtec_HSEC8-180-03-X-DV_2x80_P0.8mm_Pol32_Socket"
-	(version 20241229)
+	(version 20260206)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)")
@@ -25,6 +25,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -36.01 -4.005)
 		(end -33.79 -4.005)
@@ -1277,7 +1278,7 @@
 		(roundrect_rratio 0.25)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_Samtec_HSEC8.3dshapes/Samtec_HSEC8-180-03-X-DV_2x80_P0.8mm_Pol32_Socket.step"
+	(model "${KICAD10_3DMODEL_DIR}/Connector_Samtec_HSEC8.3dshapes/Samtec_HSEC8-180-03-X-DV_2x80_P0.8mm_Pol32_Socket.step"
 		(offset
 			(xyz 0 0 0)
 		)
