@@ -545,6 +545,11 @@
 		(size 1.846667 3.48)
 		(layers "B.Cu" "B.Mask" "B.Paste")
 	)
+	(point
+		(at 0 1.99)
+		(size 2)
+		(layer "F.Fab")
+	)
 	(embedded_fonts no)
 	(model "${KICAD10_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-15_Pins_EdgeMount_P2.77mm.step"
 		(offset

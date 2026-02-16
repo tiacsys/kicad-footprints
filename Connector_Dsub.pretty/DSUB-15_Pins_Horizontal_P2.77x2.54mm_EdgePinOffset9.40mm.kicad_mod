@@ -810,6 +810,11 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 	)
+	(point
+		(at 9.695 11.94)
+		(size 2)
+		(layer "F.Fab")
+	)
 	(embedded_fonts no)
 	(model "${KICAD10_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-15_Pins_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm.step"
 		(offset

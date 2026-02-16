@@ -573,6 +573,11 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 	)
+	(point
+		(at 8.625 1.98)
+		(size 2)
+		(layer "F.Fab")
+	)
 	(embedded_fonts no)
 	(model "${KICAD10_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-26-HD_Pins_Vertical_P2.29x1.98mm_MountingHoles.step"
 		(offset
