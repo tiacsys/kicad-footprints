@@ -8,7 +8,7 @@
 	(property "Reference" "REF**"
 		(at -5.2 0 90)
 		(layer "F.SilkS")
-		(uuid "dedaf6a8-95eb-45b6-95d1-4b7f7fc5edc0")
+		(uuid "f1952ed9-a748-4c66-ad59-61f682a5e5dc")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 	(property "Value" "SMA_Amphenol_901-143_Horizontal"
 		(at 0 5 0)
 		(layer "F.Fab")
-		(uuid "1cdf1a9c-3d39-4c7c-b673-453103ca4a89")
+		(uuid "f5d9c101-2ffa-4929-9a23-52db9877b3bc")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "e8cfe294-db94-42c5-b09c-625081c57f6e")
+		(uuid "6ae6621b-9af4-4802-b04e-dac6966453bd")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "2383977e-f7ac-4df4-b20f-f361606762fc")
+		(uuid "c770d8e3-e063-4d8c-992a-bbb2fff09a7a")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -116,13 +116,33 @@
 		(uuid "651a735f-b1a6-421a-b15c-e73b03248481")
 	)
 	(fp_line
+		(start 0 -4.5)
+		(end -0.4 -4.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "1b6c0b71-59b0-4964-8d4d-e399eafabc42")
+	)
+	(fp_line
+		(start 0 -4.5)
+		(end 0.4 -4.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "8af4924e-7116-483e-a458-07c9e5f58007")
+	)
+	(fp_line
 		(start 4.3 -4.5)
 		(end -4.3 -4.5)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "Edge.Cuts")
+		(layer "Dwgs.User")
 		(uuid "f78bf029-e907-4428-b53a-981cd964b9ec")
 	)
 	(fp_line
@@ -344,6 +364,18 @@
 		)
 		(layer "F.Fab")
 		(uuid "24038d72-9abe-4b1f-ac4a-2e93acb3de5b")
+	)
+	(fp_text user "PCB edge"
+		(at 0 -5.5 0)
+		(unlocked yes)
+		(layer "Cmts.User")
+		(uuid "6c1dc035-e6e1-4eee-bdc0-bf9b9a0f5099")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
